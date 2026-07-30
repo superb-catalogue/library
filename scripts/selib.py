@@ -6,6 +6,7 @@ live) is ever opened for writing.
 """
 import hashlib
 import re
+import urllib.parse
 import xml.etree.ElementTree as ET
 
 OPF_NS = {"opf": "http://www.idpf.org/2007/opf", "dc": "http://purl.org/dc/elements/1.1/"}
@@ -39,37 +40,48 @@ def text_of(el):
 # someone is lying about a licence — a forger can write a flawless CC0
 # dedication into a copyrighted book, and no phrase list, regex or Unicode
 # normalisation would ever catch that, because the words on the page are
-# exactly the words a genuine dedication would use. Two earlier attempts at
-# this check tried to make prose carry that weight anyway (a substring
-# test, then a longer one), and both were defeated by writing a slightly
-# different sentence.
+# exactly the words a genuine dedication would use. Three earlier attempts
+# at this check tried to make text carry that weight anyway — a substring
+# test for a phrase, then a longer phrase list, then a substring test for a
+# URI — and every one was defeated the same way: something else that
+# happened to contain the matched string.
 #
-# So this checks something a sentence can't fake as cheaply: whether the
-# book's own rights metadata cites one of the licence URIs this library
-# has agreed to accept. A URI is a structural, machine-readable claim
-# rather than prose that happens to be about a licence, and a new licence
-# has to be added to the allow-list on purpose, by a person, rather than
-# pattern-matched into acceptance by accident.
+# So this checks something a substring test can't fake as cheaply: it
+# parses every URL found in the book's own rights metadata as a URL —
+# scheme, host and path as whole values — and requires the host and path
+# to equal, exactly, an entry on this allow-list. A URL that merely
+# CONTAINS an accepted URI as a path segment inside a different host
+# (https://evil.example.com/creativecommons.org/publicdomain/zero/1.0/)
+# does not match, because its host is not creativecommons.org — the
+# comparison is structural, not textual containment.
 #
-# What this still does and does not prove: it confirms the book SAYS it
-# carries a licence this library allows, and that the metadata is there to
-# say it. It does not and cannot confirm the claim is true. That is
-# verified once, against the book's own public page, when the book is
-# chosen for the shelf — the same rule this library already applies to
-# every other provenance citation (books/HOW-THE-FIRST-BOOK-WENT.md) — not
-# by re-deriving it from the file every time the gate runs. A book from a
-# source this library doesn't already trust needs that page-level check
-# before it is added; this gate was never a substitute for it and isn't
-# built to be one.
+# What this still does and does not prove: it confirms the book's own
+# metadata cites a licence URI this library has agreed to accept, and
+# that the file is intact. It does NOT confirm the underlying copyright
+# claim is true, and no per-book check against Standard Ebooks' own site
+# happens here or anywhere else in this repository today — see README.md's
+# "Adding a book" section for what is and is not actually verified for the
+# books on this shelf.
 ACCEPTED_LICENCE_URIS = (
-    "creativecommons.org/publicdomain/zero/1.0",
+    "https://creativecommons.org/publicdomain/zero/1.0/",
 )
+
+# Other Creative Commons licences, named here only so a URL citing one of
+# them is recognised as "a licence claim" rather than an ordinary link —
+# see disallowed_licence_uris_in below. This list does not need to be
+# exhaustive of every licence that exists; it only needs to catch the
+# specific family (creativecommons.org/licenses/...) that a book claiming
+# CC0 might also, contradictorily, cite.
+_KNOWN_CC_LICENCE_HOST = "creativecommons.org"
+_KNOWN_CC_LICENCE_PATH_PREFIX = "/licenses/"
 
 # Phrases that read as restrictive to a human. These are advisory only —
 # they never decide whether a book passes the gate, precisely because a
-# phrase list is exactly the mechanism that failed twice already. Surface
-# them for a person to look at if a book's rights text contains one
-# alongside an accepted licence URI; do not act on them automatically.
+# phrase list is exactly the mechanism that failed twice already. Every
+# caller of the gate surfaces these to a person (stdout at minimum, the
+# provenance record at best) rather than acting on them; a phrase found
+# here beside an accepted licence URI is worth a look, not an automatic
+# rejection or an automatic pass.
 ADVISORY_RESTRICTIVE_PHRASES = (
     "all rights reserved",
     "reserves all rights",
@@ -90,36 +102,108 @@ ADVISORY_RESTRICTIVE_PHRASES = (
     "requires a license from",
 )
 
+_URL_RE = re.compile(r"https?://[^\s<>\"'\)\]]+")
+
+
+def _urls_in(text):
+    if not text:
+        return []
+    return _URL_RE.findall(clean_text(text))
+
+
+def _normalize_path(path):
+    if path != "/" and path.endswith("/"):
+        path = path[:-1]
+    return path
+
+
+def _host_and_path(url):
+    """Parse `url` as a URL and return (host, normalised path), or
+    (None, None) if it can't be parsed as one, has a scheme other than
+    http/https, or its host is percent-encoded (rejected rather than
+    decoded and matched — an encoded host is not treated as equivalent to
+    its decoded form)."""
+    try:
+        parsed = urllib.parse.urlsplit(url)
+    except ValueError:
+        return None, None
+    if parsed.scheme not in ("http", "https"):
+        return None, None
+    if "%" in parsed.netloc:
+        return None, None
+    host = (parsed.hostname or "").lower()
+    if not host:
+        return None, None
+    return host, _normalize_path(parsed.path)
+
+
+_ACCEPTED_HOST_PATHS = tuple(_host_and_path(u) for u in ACCEPTED_LICENCE_URIS)
+
 
 def licence_uris_in(rights_text):
-    """Every accepted licence URI cited in one dc:rights element's text.
-    Whitespace is normalised first (clean_text) so a genuine URI that
-    happens to wrap across a line break in the source XML isn't missed —
-    a check that falsely rejects a real dedication is its own kind of
-    broken, not a safer version of a check that falsely accepts one."""
-    if not rights_text:
-        return []
-    t = clean_text(rights_text)
-    return [uri for uri in ACCEPTED_LICENCE_URIS if uri in t]
+    """The accepted licence URI(s) (drawn from ACCEPTED_LICENCE_URIS) that
+    this text cites — found by parsing every URL in the text and comparing
+    its host and path as whole values, never by testing whether the
+    allow-listed string appears as a substring anywhere. A hostile URL
+    that merely contains an accepted URI as a path segment inside another
+    host does not match, because its host is not the accepted one."""
+    matched = []
+    for candidate in _urls_in(rights_text):
+        host, path = _host_and_path(candidate)
+        if host is None:
+            continue
+        for accepted_uri, (accepted_host, accepted_path) in zip(ACCEPTED_LICENCE_URIS, _ACCEPTED_HOST_PATHS):
+            if host == accepted_host and path == accepted_path and accepted_uri not in matched:
+                matched.append(accepted_uri)
+    return matched
+
+
+def disallowed_licence_uris_in(rights_text):
+    """Any URL in this text that names a *different* Creative Commons
+    licence (creativecommons.org/licenses/...) — one this library does
+    not accept. A book naming an accepted licence and a disallowed one in
+    the same breath is not making one claim; it's making two, and the
+    gate treats that as a failure rather than picking the friendlier one."""
+    found = []
+    for candidate in _urls_in(rights_text):
+        host, path = _host_and_path(candidate)
+        if host != _KNOWN_CC_LICENCE_HOST:
+            continue
+        if not path.startswith(_KNOWN_CC_LICENCE_PATH_PREFIX):
+            continue
+        if any(host == ah and path == ap for ah, ap in _ACCEPTED_HOST_PATHS):
+            continue  # it's the accepted one, not a disallowed one
+        if candidate not in found:
+            found.append(candidate)
+    return found
 
 
 def is_genuine_public_domain_dedication(rights_texts):
     """`rights_texts` is every dc:rights element's text a book carries —
     a book can have more than one, and every one of them has to cite an
-    accepted licence URI, not just the last one read, so a restrictive
-    statement sitting beside a genuine one in the same metadata can't ride
-    along unexamined."""
+    accepted licence URI, with no disallowed licence URI also present, not
+    just the last element read — so a restrictive statement or a
+    contradictory licence claim sitting beside a genuine one in the same
+    metadata can't ride along unexamined."""
     if isinstance(rights_texts, str):
         rights_texts = [rights_texts]
     rights_texts = [t for t in (rights_texts or []) if t]
     if not rights_texts:
         return False
-    return all(licence_uris_in(t) for t in rights_texts)
+    for t in rights_texts:
+        if not licence_uris_in(t):
+            return False
+        if disallowed_licence_uris_in(t):
+            return False
+    return True
 
 
 def advisory_restrictive_phrases_in(rights_texts):
     """Phrases worth a human's eye — never used to decide the gate. See
-    the module-level note above ADVISORY_RESTRICTIVE_PHRASES."""
+    the module-level note above ADVISORY_RESTRICTIVE_PHRASES. Every caller
+    of the gate is expected to surface this list somewhere a person will
+    actually see it; a correctly-implemented function nobody calls is not
+    a safety net."""
     if isinstance(rights_texts, str):
         rights_texts = [rights_texts]
     found = []

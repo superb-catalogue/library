@@ -66,20 +66,28 @@ def read_one_epub(zip_path, entry_name, data):
 
 def gate(record):
     """The door gate: three checks, in seconds, nothing heavier. This
-    confirms a book SAYS it carries a licence this library allows and
-    that the file is intact — it does not and cannot confirm the claim is
-    true. That's verified once against the book's own public page when
-    the book is chosen for the shelf (see selib.py's note above
-    ACCEPTED_LICENCE_URIS), not re-derived from the file on every run.
-    Returns (passed, reason)."""
+    confirms a book's own metadata cites a licence URI this library
+    accepts and that the file is intact — it does not and cannot confirm
+    the underlying copyright claim is true (see selib.py's note above
+    ACCEPTED_LICENCE_URIS; README.md's "Adding a book" section says
+    plainly what is and is not actually checked for books on this shelf).
+
+    Returns (passed, reason, advisory) — `advisory` is whatever
+    selib.advisory_restrictive_phrases_in() found in the rights text, and
+    it is informational only: it never changes `passed`. Every caller
+    that reports a book's gate result is expected to surface it, so a
+    phrase that reads as restrictive beside an accepted licence URI
+    reaches someone rather than vanishing silently."""
     meta = record["meta"]
+    rights_list = meta.get("rights_list")
+    advisory = selib.advisory_restrictive_phrases_in(rights_list)
     if not selib.is_standardebooks_identifier(meta.get("identifier")):
-        return False, "identifier is not a resolvable Standard Ebooks page"
-    if not selib.is_genuine_public_domain_dedication(meta.get("rights_list")):
-        return False, "no accepted licence URI in every dc:rights element"
+        return False, "identifier is not a resolvable Standard Ebooks page", advisory
+    if not selib.is_genuine_public_domain_dedication(rights_list):
+        return False, "no accepted licence URI in every dc:rights element, or a disallowed one is also present", advisory
     if not record.get("chapters"):
-        return False, "reading order did not resolve to any chapters"
-    return True, "ok"
+        return False, "reading order did not resolve to any chapters", advisory
+    return True, "ok", advisory
 
 
 def build_book_and_provenance(record, sets):
@@ -198,6 +206,7 @@ def run_full_ingest(archives_dir):
     os.makedirs(BOOKS_DIR, exist_ok=True)
     index_rows = []
     gate_failures = []
+    advisory_flags = []
     rebuilds_noted = 0
 
     for ident, records in sorted(by_identifier.items()):
@@ -208,12 +217,15 @@ def run_full_ingest(archives_dir):
                 rebuilds_noted += 1
         sets = merge_sets(records)
 
-        passed, reason = gate(winner)
+        passed, reason, advisory = gate(winner)
         if not passed:
             gate_failures.append((ident, reason))
             continue
+        if advisory:
+            advisory_flags.append((ident, advisory))
 
         book, provenance, words = build_book_and_provenance(winner, sets)
+        provenance["terms"]["advisory_restrictive_phrases"] = advisory
         if superseded:
             distinct_shas = {r["sha256"] for r in records}
             if len(distinct_shas) > 1:
@@ -282,6 +294,14 @@ def run_full_ingest(archives_dir):
         print("gate failures (excluded from the shelf): %d" % len(gate_failures))
         for ident, reason in gate_failures:
             print("  %s -- %s" % (ident, reason))
+    if advisory_flags:
+        print(
+            "passed the gate but flagged a restrictive-reading phrase beside "
+            "an accepted licence URI (worth a human's eye, not auto-rejected): %d"
+            % len(advisory_flags)
+        )
+        for ident, advisory in advisory_flags:
+            print("  %s -- %s" % (ident, ", ".join(advisory)))
     print("elapsed: %.1fs for %d works (%.3fs/work average)" % (elapsed, unique_works, elapsed / max(unique_works, 1)))
     return index
 
@@ -344,14 +364,17 @@ def cmd_time_one(epub_path):
         print("elapsed: %.3fs" % elapsed)
         return 1
 
-    passed, reason = gate(rec)
+    passed, reason, advisory = gate(rec)
     if not passed:
         elapsed = time.time() - t0
         print("gate: False (%s)" % reason)
+        if advisory:
+            print("advisory (did not decide the gate, worth a look): %s" % ", ".join(advisory))
         print("elapsed: %.3fs" % elapsed)
         return 1
 
     book, provenance, words = build_book_and_provenance(rec, sets=merge_sets([rec]))
+    provenance["terms"]["advisory_restrictive_phrases"] = advisory
     slug = selib.slug_from_identifier(rec["meta"]["identifier"])
     book_dir = os.path.join(BOOKS_DIR, slug)
     os.makedirs(book_dir, exist_ok=True)
@@ -361,6 +384,8 @@ def cmd_time_one(epub_path):
         json.dump(provenance, f, ensure_ascii=False, indent=2)
     elapsed = time.time() - t0
     print("gate: %s (%s)" % (passed, reason))
+    if advisory:
+        print("advisory (passed anyway, worth a human's eye): %s" % ", ".join(advisory))
     print("wrote books/%s/{book.json,provenance.json} — %d chapters, %d words" % (slug, provenance["text"]["chapters"], words))
     print("elapsed: %.3fs" % elapsed)
     return 0

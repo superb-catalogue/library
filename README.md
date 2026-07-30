@@ -64,18 +64,25 @@ useful part.
 
 **What the automated check before a book is added does, and does not, prove.**
 `scripts/gate.py` and the same check inside `scripts/ingest.py` confirm two
-things fast: that the book's own metadata says it carries a licence this
-library accepts, and that the file itself is intact — its reading order
+things fast: that the book's own metadata cites a licence URI this library
+accepts, checked by parsing it as a URL rather than searching for the
+allow-listed text — and that the file itself is intact, its reading order
 resolves and its identifier points at a real page. That is all a check on a
 file's contents can ever confirm. It cannot tell whether the claim in the
 metadata is true — nothing that only reads the file can, since a copy with a
-forged licence statement would read exactly like a genuine one. **The claim
-itself is checked once, against the book's own public page, when the book is
-chosen** — that's rule 3 above, and it is the actual line of defence, not the
-automated check. A book from a source this library doesn't already trust
-needs that page checked by a person before it goes in; the fast check that
-runs on every add is a safety net for mistakes (the wrong file, a corrupted
-download, a stray edit), not a substitute for reading the source.
+forged licence statement would read exactly like a genuine one.
+
+**Here is what that actually means for the 614 books already on this shelf,
+plainly, rather than more than is true:** they came from Standard Ebooks,
+whose editions each carry a public-domain dedication in their own metadata.
+The check confirms that dedication is present in machine-readable form and
+that the file parses. **Nobody has independently re-verified each of the 614
+works' copyright status against an outside source.** Rule 3 above — "the
+terms were read, not assumed" — was applied when Standard Ebooks was chosen
+as a source and when a book's own metadata is read; it is not a separate,
+additional per-book check against Standard Ebooks' website that runs today.
+If a per-book check-at-source is wanted later, it is separate work, not
+something this repository already does.
 
 ## Licences
 
