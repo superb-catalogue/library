@@ -16,6 +16,9 @@ import os
 import sys
 import time
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import selib  # noqa: E402
+
 
 def check_book_folder(folder):
     reasons = []
@@ -39,16 +42,17 @@ def check_book_folder(folder):
     except Exception as exc:  # noqa: BLE001
         return ["provenance.json does not parse: %s" % exc]
 
-    # identifier and provenance are extractable
-    if not prov.get("identifier", "").startswith("https://standardebooks.org/ebooks/"):
-        reasons.append("provenance.identifier is not a standardebooks.org page")
+    # identifier and provenance are extractable, and resolve to a real page
+    if not selib.is_standardebooks_identifier(prov.get("identifier")):
+        reasons.append("provenance.identifier is not a resolvable standardebooks.org page")
     if not prov.get("terms", {}).get("read_at"):
         reasons.append("no citable public page in provenance.terms.read_at")
 
-    # the licence dedication is present in the book's own metadata
+    # the licence dedication is a genuine one, not a restrictive notice that
+    # happens to contain the words "public domain" or "CC0"
     stated = prov.get("terms", {}).get("as_stated_by_the_edition", "")
-    if "public domain" not in stated.lower() and "cc0" not in stated.lower():
-        reasons.append("no public-domain / CC0 dedication recorded in provenance")
+    if not selib.is_genuine_public_domain_dedication(stated):
+        reasons.append("no genuine public-domain / CC0 dedication recorded in provenance")
 
     # the file parses and its reading order resolves
     chapters = book.get("chapters", [])

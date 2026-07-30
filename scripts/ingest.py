@@ -40,10 +40,13 @@ def read_one_epub(zip_path, entry_name, data):
     opf_text = ez.read(opf_path).decode("utf-8")
     root = ET.fromstring(opf_text)
     meta = selib.parse_metadata(root)
-    if not meta["identifier"]:
-        raise ValueError("no dc:identifier in %s!%s" % (zip_path, entry_name))
-    if not meta["rights"] or "public domain" not in meta["rights"].lower():
-        raise ValueError("no public-domain / CC0 dedication in %s!%s" % (zip_path, entry_name))
+    if not selib.is_standardebooks_identifier(meta["identifier"]):
+        raise ValueError(
+            "identifier is not a resolvable Standard Ebooks page in %s!%s: %r"
+            % (zip_path, entry_name, meta["identifier"])
+        )
+    if not selib.is_genuine_public_domain_dedication(meta["rights"]):
+        raise ValueError("no genuine public-domain / CC0 dedication in %s!%s" % (zip_path, entry_name))
 
     spine = selib.parse_manifest_spine(root)
     chapters = selib.extract_chapters(ez, opf_dir, spine)
@@ -60,13 +63,13 @@ def read_one_epub(zip_path, entry_name, data):
 
 
 def gate(record):
-    """The door gate (T7 Job 4): three checks, in seconds, nothing heavier.
+    """The door gate: three checks, in seconds, nothing heavier.
     Returns (passed, reason)."""
     meta = record["meta"]
-    if not meta.get("identifier"):
-        return False, "no identifier"
-    if not meta.get("rights") or "public domain" not in meta["rights"].lower():
-        return False, "no public-domain dedication in metadata"
+    if not selib.is_standardebooks_identifier(meta.get("identifier")):
+        return False, "identifier is not a resolvable Standard Ebooks page"
+    if not selib.is_genuine_public_domain_dedication(meta.get("rights")):
+        return False, "no genuine public-domain / CC0 dedication in metadata"
     if not record.get("chapters"):
         return False, "reading order did not resolve to any chapters"
     return True, "ok"
@@ -313,11 +316,28 @@ def write_library_md(index):
 
 
 def cmd_time_one(epub_path):
+    """Add one book, and report a clean gate failure rather than a raw
+    traceback if the file can't be read at all — a gate that crashes has
+    not rejected anything, it has stopped. Returns 0 on success, 1 on a
+    reported gate failure."""
     t0 = time.time()
-    with open(epub_path, "rb") as f:
-        data = f.read()
-    rec = read_one_epub(epub_path, os.path.basename(epub_path), data)
+    try:
+        with open(epub_path, "rb") as f:
+            data = f.read()
+        rec = read_one_epub(epub_path, os.path.basename(epub_path), data)
+    except Exception as exc:  # noqa: BLE001 — any failure here is a gate rejection, not a crash
+        elapsed = time.time() - t0
+        print("gate: False (%s)" % exc)
+        print("elapsed: %.3fs" % elapsed)
+        return 1
+
     passed, reason = gate(rec)
+    if not passed:
+        elapsed = time.time() - t0
+        print("gate: False (%s)" % reason)
+        print("elapsed: %.3fs" % elapsed)
+        return 1
+
     book, provenance, words = build_book_and_provenance(rec, sets=merge_sets([rec]))
     slug = selib.slug_from_identifier(rec["meta"]["identifier"])
     book_dir = os.path.join(BOOKS_DIR, slug)
@@ -330,6 +350,7 @@ def cmd_time_one(epub_path):
     print("gate: %s (%s)" % (passed, reason))
     print("wrote books/%s/{book.json,provenance.json} — %d chapters, %d words" % (slug, provenance["text"]["chapters"], words))
     print("elapsed: %.3fs" % elapsed)
+    return 0
 
 
 def main():
@@ -339,11 +360,11 @@ def main():
     args = ap.parse_args()
 
     if args.time_one:
-        cmd_time_one(args.time_one)
-        return
+        return cmd_time_one(args.time_one)
 
     run_full_ingest(args.archives)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

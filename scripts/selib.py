@@ -34,6 +34,57 @@ def text_of(el):
     return "".join(el.itertext())
 
 
+# The door gate's licence check has to tell a real public-domain dedication
+# apart from a restrictive notice that happens to contain the words "public
+# domain" — a bare substring test can't, because a rights-reserved notice
+# can say "this book is not dedicated to the public domain" and
+# still contain the phrase it's being screened for. So this checks for the
+# actual dedication language Standard Ebooks uses (or the CC0 deed URL it
+# links to) as a genuine positive signal, and rejects outright if any
+# explicit restriction marker is present, regardless of what else is in the
+# text — a denial always overrides a matched phrase.
+_RESTRICTIVE_MARKERS = (
+    "all rights reserved",
+    "reserves all rights",
+    "copyright reserved",
+    "may not be reproduced",
+    "not be reproduced",
+    "without written permission",
+    "without permission",
+    "without a paid license",
+    "without a paid licence",
+    "strictly prohibited",
+    "reproduction is prohibited",
+    "no part of this",
+    "not dedicated to the public domain",
+    "not in the public domain",
+    "not be copied",
+)
+_DEDICATION_MARKERS = (
+    "creativecommons.org/publicdomain/zero",
+    "dedicate their contributions to the worldwide public domain",
+    "cc0 1.0 universal public domain dedication",
+)
+
+
+def is_genuine_public_domain_dedication(rights_text):
+    """True only for text that actually dedicates the work, not text that
+    merely mentions the phrase "public domain" somewhere."""
+    if not rights_text:
+        return False
+    t = rights_text.lower()
+    if any(marker in t for marker in _RESTRICTIVE_MARKERS):
+        return False
+    return any(marker in t for marker in _DEDICATION_MARKERS)
+
+
+def is_standardebooks_identifier(identifier):
+    """The identifier has to actually be a Standard Ebooks ebook page — not
+    merely present — so a citation someone can resolve for themselves is
+    something the gate checked for, not something it assumed."""
+    return bool(identifier) and identifier.startswith("https://standardebooks.org/ebooks/")
+
+
 def find_opf_path(ez):
     container = ez.read("META-INF/container.xml").decode("utf-8")
     m = re.search(r'full-path="([^"]+)"', container)
@@ -134,7 +185,7 @@ def block_of(el):
     what to do with, keeping the source's own epub:type rather than
     guessing from a title (books/HOW-THE-FIRST-BOOK-WENT.md, point 2) and
     keeping the letters-and-diary-entries structure a flat list of
-    paragraphs would throw away (T7 track file, Job 1)."""
+    paragraphs would throw away."""
     tag = strip_ns(el.tag)
     epub_type = el.get("{%s}type" % EPUB_NS)
 

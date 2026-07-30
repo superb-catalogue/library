@@ -79,7 +79,8 @@ turned up in. `CATEGORIES.md` says what the categories are and why.
 
 ## Status
 
-614 books, taken from Standard Ebooks' full catalogue as it stood in July
-2026, retypeset and de-duplicated by `scripts/ingest.py`. More arrive as
-Standard Ebooks publishes them and as Gutenberg titles are typeset by hand
-and added through the same path.
+614 books, taken from 32 of Standard Ebooks' subject and collection sets (not
+their whole catalogue, which runs to several times this size), de-duplicated
+and retypeset by `scripts/ingest.py`. More arrive as more of Standard Ebooks'
+collections are added, as Standard Ebooks publishes new editions, and as
+Gutenberg titles are typeset by hand and added through the same path.
