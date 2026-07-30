@@ -1,0 +1,2521 @@
+{
+  "title": "Poetry",
+  "author": "Thomas Gray",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": "Ode on a Distant Prospect of Eton College",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Ode on a Distant Prospect of Eton College"
+            },
+            {
+              "type": "epigraph",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Ανθρωπος· ἰκανὴ πρόφασις εἰς τὸ δυστνχεῖν."
+                },
+                {
+                  "type": "cite",
+                  "text": "Menander"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ye distant spires, ye antique towers, That crown the wat’ry glade, Where grateful Science still adores Her Henry’s holy Shade;1 And ye, that from the stately brow Of Windsor’s heights the expanse below Of grove, of lawn, of mead survey, Whose turf, whose shade, whose flowers among Wanders the hoary Thames along His silver-winding way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah happy hills, ah pleasing shade, Ah fields beloved in vain, Where once my careless childhood strayed, A stranger yet to pain! I feel the gales, that from ye blow, A momentary bliss bestow, As waving fresh their gladsome wing My weary soul they seem to soothe, And, redolent of joy and youth,2 To breathe a second spring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Say, Father Thames, for thou hast seen Full many a sprightly race Disporting on thy margent green The paths of pleasure trace, Who foremost now delight to cleave With pliant arm thy glassy wave? The captive linnet which enthrall? What idle progeny succeed To chase the rolling circle’s speed, Or urge the flying ball?"
+        },
+        {
+          "type": "paragraph",
+          "text": "While some on earnest business bent Their murmuring labours ply ’Gainst graver hours, that bring constraint To sweeten liberty; Some bold adventurers disdain The limits of their little reign, And unknown regions dare descry; Still as they run they look behind, They hear a voice in every wind, And snatch a fearful joy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gay hope is theirs by fancy fed, Less pleasing when possest; The tear forgot as soon as shed, The sunshine of the breast; Theirs buxom health of rosy hue, Wild wit, invention ever-new, And lively cheer of vigour born; The thoughtless day, the easy night, The spirits pure, the slumbers light, That fly th’ approach of morn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alas, regardless of their doom, The little victims play! No sense have they of ills to come, Nor care beyond to-day; Yet see how all around ’em wait The Ministers of human fate, And black Misfortune’s baleful train! Ah, show them where in ambush stand, To seize their prey, the murtherous band! Ah, tell them, they are men!"
+        },
+        {
+          "type": "paragraph",
+          "text": "These shall the fury Passions tear, The vultures of the mind, Disdainful Anger, pallid Fear, And Shame that skulks behind; Or pining Love shall waste their youth, Or Jealousy with rankling tooth, That inly gnaws the secret heart, And Envy wan, and faded Care, Grim-visaged comfortless Despair, And Sorrow’s piercing dart."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ambition this shall tempt to rise, Then whirl the wretch from high, To bitter Scorn a sacrifice, And grinning Infamy. The stings of Falsehood those shall try, And hard Unkindness’ altered eye, That mocks the tear it forced to flow; And keen Remorse with blood defiled, And moody Madness laughing wild3 Amid severest woe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo! in the vale of years beneath A grisly troop are seen, The painful family of Death, More hideous than their queen. This racks the joints, this fires the veins, That every labouring sinew strains, Those in the deeper vitals rage; Lo, Poverty, to fill the band, That numbs the soul with icy hand, And slow-consuming Age."
+        },
+        {
+          "type": "paragraph",
+          "text": "To each his sufferings; all are men, Condemned alike to groan, The tender for another’s pain, The unfeeling for his own. Yet ah! why should they know their fate? Since sorrow never comes too late, And happiness too swiftly flies. Thought would destroy their paradise. No more; where ignorance is bliss, ’Tis folly to be wise."
+        }
+      ]
+    },
+    {
+      "label": "Ode on the Death of a Favourite Cat",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Ode on the Death of a Favourite Cat"
+            },
+            {
+              "type": "subtitle",
+              "text": "Drowned in a Tub of Gold Fishes"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "’Twas on a lofty vase’s side, Where China’s gayest art had dyed The azure flowers, that blow; Demurest of the tabby kind, The pensive Selima, reclined, Gazed on the lake below."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her conscious tail her joy declared; The fair round face, the snowy beard, The velvet of her paws, Her coat, that with the tortoise vies, Her ears of jet, and emerald eyes, She saw; and purred applause."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still had she gazed; but ’midst the tide Two angel forms were seen to glide, The Genii of the stream; Their scaly armour’s Tyrian hue Through richest purple to the view Betrayed a golden gleam."
+        },
+        {
+          "type": "paragraph",
+          "text": "The hapless nymph with wonder saw; A whisker first and then a claw, With many an ardent wish, She stretched in vain to reach the prize. What female heart can gold despise? What Cat’s averse to fish?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Presumptuous maid! with looks intent Again she stretched, again she bent, Nor knew the gulf between. (Malignant Fate sat by, and smiled) The slippery verge her feet beguiled, She tumbled headlong in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eight times emerging from the flood She mewed to every wat’ry god, Some speedy aid to send. No Dolphin came, no Nereid stirred; Nor cruel Tom, nor Susan heard. A fav’rite has no friend!"
+        },
+        {
+          "type": "paragraph",
+          "text": "From hence, ye Beauties, undeceived, Know, one false step is ne’er retrieved, And be with caution bold. Not all that tempts your wand’ring eyes And heedless hearts is lawful prize; Nor all, that glisters, gold."
+        }
+      ]
+    },
+    {
+      "label": "Ode on the Spring",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lo! where the rosy-bosomed Hours, Fair Venus’ train, appear, Disclose the long-expecting flowers, And wake the purple year! The Attic warbler pours her throat, Responsive to the cuckoo’s note, The untaught harmony of spring; While, whispering pleasure as they fly, Cool Zephyrs thro’ the clear blue sky Their gathered fragrance fling."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where’er the oak’s thick branches stretch A broader browner shade, Where’er the rude and moss-grown beech O’er-canopies the glade,4 Beside some water’s rushy brink With me the Muse shall sit, and think (At ease reclined in rustic state) How vain the ardour of the crowd, How low, how little are the proud, How indigent the great!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Still is the toiling hand of Care; The panting herds repose; Yet hark, how through the peopled air The busy murmur glows! The insect youth are on the wing, Eager to taste the honied spring, And float amid the liquid noon;5 Some lightly o’er the current skim, Some show their gaily-gilded trim Quick-glancing to the sun.6"
+        },
+        {
+          "type": "paragraph",
+          "text": "To Contemplation’s sober eye7 Such is the race of Man; And they that creep, and they that fly, Shall end where they began. Alike the Busy and the Gay But flutter through life’s little day, In fortune’s varying colours drest; Brushed by the hand of rough Mischance, Or chilled by age, their airy dance They leave, in dust to rest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Methinks I hear in accents low The sportive kind reply: Poor moralist! and what art thou? A solitary fly! Thy joys no glittering female meets, No hive hast thou of hoarded sweets, No painted plumage to display; On hasty wings thy youth is flown Thy sun is set, thy spring is gone﻿— We frolic, while ’tis May."
+        }
+      ]
+    },
+    {
+      "label": "Elegy Written in a Country Churchyard",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The curfew tolls the knell of parting day,8 The lowing herd wind slowly o’er the lea, The ploughman homeward plods his weary way, And leaves the world to darkness and to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now fades the glimmering landscape on the sight, And all the air a solemn stillness holds, Save where the beetle wheels his droning flight, And drowsy tinklings lull the distant folds;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Save that from yonder ivy-mantled tower The moping owl does to the moon complain Of such as, wand’ring near her secret bower, Molest her ancient solitary reign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beneath those rugged elms, that yew-tree’s shade, Where heaves the turf in many a mould’ring heap, Each in his narrow cell for ever laid, The rude Forefathers of the hamlet sleep."
+        },
+        {
+          "type": "paragraph",
+          "text": "The breezy call of incense-breathing Morn, The swallow twitt’ring from the straw-built shed, The cock’s shrill clarion, or the echoing horn, No more shall rouse them from their lowly bed."
+        },
+        {
+          "type": "paragraph",
+          "text": "For them no more the blazing hearth shall burn, Or busy housewife ply her evening care; No children run to lisp their sire’s return, Or climb his knees the envied kiss to share."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oft did the harvest to their sickle yield, Their furrow oft the stubborn glebe has broke; How jocund did they drive their team afield! How bowed the woods beneath their sturdy stroke!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Let not Ambition mock their useful toil, Their homely joys, and destiny obscure; Nor Grandeur hear, with a disdainful smile, The short and simple annals of the poor."
+        },
+        {
+          "type": "paragraph",
+          "text": "The boast of heraldry, the pomp of power, And all that beauty, all that wealth e’er gave, Awaits alike th’ inevitable hour. The paths of glory lead but to the grave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nor you, ye Proud, impute to these the fault, If Mem’ry o’er their tomb no trophies raise, Where thro’ the long-drawn aisle and fretted vault The pealing anthem swells the note of praise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Can storied urn or animated bust Back to its mansion call the fleeting breath? Can Honour’s voice provoke the silent dust, Or Flatt’ry soothe the dull cold ear of Death?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Perhaps in this neglected spot is laid Some heart once pregnant with celestial fire; Hands, that the rod of empire might have swayed, Or waked to ecstasy the living lyre."
+        },
+        {
+          "type": "paragraph",
+          "text": "But Knowledge to their eyes her ample page Rich with the spoils of time did ne’er unroll; Chill Penury repressed their noble rage, And froze the genial current of the soul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Full many a gem, of purest ray serene, The dark unfathomed caves of ocean bear; Full many a flower is born to blush unseen, And waste its sweetness on the desert air."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some village-Hampden, that with dauntless breast The little tyrant of his fields withstood; Some mute inglorious Milton here may rest, Some Cromwell guiltless of his country’s blood."
+        },
+        {
+          "type": "paragraph",
+          "text": "Th’ applause of list’ning senates to command, The threats of pain and ruin to despise, To scatter plenty o’er a smiling land, And read their history in a nation’s eyes,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Their lot forbad; nor circumscribed alone Their growing virtues, but their crimes confined; Forbad to wade through slaughter to a throne, And shut the gates of mercy on mankind,"
+        },
+        {
+          "type": "paragraph",
+          "text": "The struggling pangs of conscious truth to hide. To quench the blushes of ingenuous shame, Or heap the shrine of Luxury and Pride With incense kindled at the Muse’s flame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Far from the madding crowd’s ignoble strife, Their sober wishes never learned to stray; Along the cool sequestered vale of life They kept the noiseless tenor of their way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet ev’n these bones from insult to protect Some frail memorial still erected nigh, With uncouth rhimes and shapeless sculpture decked, Implores the passing tribute of a sigh."
+        },
+        {
+          "type": "paragraph",
+          "text": "Their name, their years, spelt by th’ unlettered Muse, The place of fame and elegy supply; And many a holy text around she strews, That teach the rustic moralist to die."
+        },
+        {
+          "type": "paragraph",
+          "text": "For who, to dumb Forgetfulness a prey, This pleasing anxious being e’er resigned, Left the warm precincts of the cheerful day, Nor cast one longing ling’ring look behind?"
+        },
+        {
+          "type": "paragraph",
+          "text": "On some fond breast the parting soul relies, Some pious drops the closing eye requires; Ev’n from the tomb the voice of Nature cries, Ev’n in our ashes live their wonted fires.9"
+        },
+        {
+          "type": "paragraph",
+          "text": "For thee, who mindful of th’ unhonoured Dead Dost in these lines their artless tale relate; If chance, by lonely contemplation led, Some kindred spirit shall inquire thy fate,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Haply some hoary-headed swain may say, “Oft have we seen him at the peep of dawn Brushing with hasty steps the dews away To meet the sun upon the upland lawn."
+        },
+        {
+          "type": "paragraph",
+          "text": "There at the foot of yonder nodding beech, That wreathes its old fantastic roots so high, His listless length at noontide would he stretch, And pore upon the brook that babbles by."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hard by yon wood, now smiling as in scorn, Mutt’ring his wayward fancies he would rove, Now drooping, woeful wan, like one forlorn, Or crazed with care, or crossed in hopeless love."
+        },
+        {
+          "type": "paragraph",
+          "text": "One morn I missed him on the customed hill, Along the heath and near his fav’rite tree; Another came; nor yet beside the rill, Nor up the lawn, nor at the wood was he;"
+        },
+        {
+          "type": "paragraph",
+          "text": "The next with dirges due in sad array Slow thro’ the church-way path we saw him borne. Approach and read (for thou can’st read) the lay, Graved on the stone beneath yon aged thorn.”"
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Epitaph"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Here rests his head upon the lap of Earth A Youth to Fortune and to Fame unknown. Fair Science frowned not on his humble birth, And Melancholy marked him for her own,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Large was his bounty, and his soul sincere, Heav’n did a recompence as largely send; He gave to Misery all he had, a tear, He gained from Heav’n (’twas all he wished) a friend."
+            },
+            {
+              "type": "paragraph",
+              "text": "No farther seek his merits to disclose, Or draw his frailties from their dread abode, (There they alike in trembling hope repose,)10 The bosom of his Father and his God."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "A Long Story",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In Britain’s Isle, no matter where, An ancient pile of building stands; The Huntingdons and Hattons there Employed the power of Fairy hands"
+        },
+        {
+          "type": "paragraph",
+          "text": "To raise the ceiling’s fretted height, Each panel in achievements clothing, Rich windows that exclude the light, And passages, that lead to nothing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Full oft within the spacious walls, When he had fifty winters o’er him, My grave Lord-keeper led the brawls;11 The seal, and maces, danced before him."
+        },
+        {
+          "type": "paragraph",
+          "text": "His bushy beard, and shoe-strings green, His high-crowned hat, and satin-doublet, Moved the stout heart of England’s Queen, Tho’ Pope and Spaniard could not trouble it."
+        },
+        {
+          "type": "paragraph",
+          "text": "What, in the very first beginning! Shame of the versifying tribe! Your Hist’ry whither are you spinning? Can you do nothing but describe?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A house there is, (and that’s enough) From whence one fatal morning issues A brace of warriors, not in buff, But rustling in their silks and tissues."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first came cap-a-pie from France, Her conqu’ring destiny fulfilling, Whom meaner beauties eye askance, And vainly ape her art of killing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The other Amazon kind Heaven Had armed with spirit, wit, and satire; But Cobham had the polish given And tipped her arrows with good-nature."
+        },
+        {
+          "type": "paragraph",
+          "text": "To celebrate her eyes, her air﻿— Coarse panegyrics would but tease her. Melissa is her nom de guerre. Alas, who would not wish to please her!"
+        },
+        {
+          "type": "paragraph",
+          "text": "With bonnet blue and capucine, And aprons long they hid their armour, And veiled their weapons bright and keen In pity to the country farmer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fame, in the shape of Mr. Purt, (By this time all the parish know it) Had told that thereabouts there lurked A wicked imp they call a Poet,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who prowled the country far and near, Bewitched the children of the peasants, Dried up the cows, and lamed the deer, And sucked the eggs, and killed the pheasants."
+        },
+        {
+          "type": "paragraph",
+          "text": "My Lady heard their joint petition, Swore by her coronet and ermine, She’d issue out her high commission To rid the manor of such vermin."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Heroines undertook the task, Thro’ lanes unknown, o’er stiles they ventured, Rapped at the door, nor stayed to ask, But bounce into the parlour entered."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trembling family they daunt, They flirt, they sing, they laugh, they tattle, Rummage his Mother, pinch his Aunt, And up stairs in a whirlwind rattle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Each hole and cupboard they explore, Each creek and cranny of his chamber, Run hurry-skurry round the floor, And o’er the bed and tester clamber;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Into the drawers and china pry, Papers and books, a huge imbroglio! Under a tea-cup he might lie, Or creased, like dogs-ears, in a folio."
+        },
+        {
+          "type": "paragraph",
+          "text": "On the first marching of the troops, The Muses, hopeless of his pardon, Conveyed him underneath their hoops To a small closet in the garden."
+        },
+        {
+          "type": "paragraph",
+          "text": "So Rumor says. (Who will, believe.) But that they left the door a-jar, Where, safe and laughing in his sleeve, He heard the distant din of war."
+        },
+        {
+          "type": "paragraph",
+          "text": "Short was his joy. He little knew The power of Magic was no fable; Out of the window, whisk, they flew, But left a spell upon the table."
+        },
+        {
+          "type": "paragraph",
+          "text": "The words too eager to unriddle, The Poet felt a strange disorder; Transparent birdlime formed the middle, And chains invisible the border."
+        },
+        {
+          "type": "paragraph",
+          "text": "So cunning was the apparatus, The powerful pot-hooks did so move him, That, will he, nill he, to the great-house He went, as if the Devil drove him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet on his way (no sign of grace, For folks in fear are apt to pray) To Phoebus he preferred his case, And begged his aid that dreadful day."
+        },
+        {
+          "type": "paragraph",
+          "text": "The godhead would have backed his quarrel, But, with a blush on recollection, Owned that his quiver and his laurel ’Gainst four such eyes were no protection."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Court was sate, the Culprit there, Forth from their gloomy mansions creeping The lady Janes and Joans repair, And from the gallery stand peeping."
+        },
+        {
+          "type": "paragraph",
+          "text": "Such as in silence of the night Come (sweep) along some winding entry, (Styack has often seen the sight)12 Or at the chapel-door stand sentry;"
+        },
+        {
+          "type": "paragraph",
+          "text": "In peaked hoods and mantles tarnished, Sour visages, enough to scare ye, High Dames of honour once, that garnished The drawing-room of fierce Queen Mary!"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Peeress comes. The audience stare, And doff their hats with due submission; She curtsies, as she takes her chair, To all the people of condition."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Bard, with many an artful fib, Had in imagination fenced him, Disproved the arguments of Squib,13 And all that Groom could urge against him.14"
+        },
+        {
+          "type": "paragraph",
+          "text": "But soon his rhetoric forsook him, When he the solemn hall had seen; A sudden fit of ague shook him, He stood as mute as poor Macleane.15"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet something he was heard to mutter, “How in the park beneath an old tree, (Without design to hurt the butter, Or any malice to the poultry,)"
+        },
+        {
+          "type": "paragraph",
+          "text": "He once or twice had penned a sonnet; Yet hoped, that he might save his bacon; Numbers would give their oaths upon it, He ne’er was for a conjuror taken.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The ghostly Prudes with hagged face Already had condemned the sinner. My Lady rose, and with a grace﻿— She smiled, and bid him come to dinner."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Jesu-Maria! Madame Bridget, Why, what can the Viscountess mean?” (Cried the square hoods in woeful fidget) “The times are altered quite and clean!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Decorum’s turned to mere civility; Her air and all her manners show it. Commend me to her affability! Speak to a Commoner and Poet!”"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Here 500 Stanzas are lost.]"
+        },
+        {
+          "type": "paragraph",
+          "text": "And so God save our noble King, And guard us from long-winded lubbers, That to eternity would sing, And keep my Lady from her rubbers."
+        }
+      ]
+    },
+    {
+      "label": "Hymn to Adversity",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Hymn to Adversity"
+            },
+            {
+              "type": "epigraph",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "—Ζῆνα﻿ ﻿… Τὸν φρονεῖν Βροτοὺς ὁδώ﻿— σαντα, τῷ πάθει μαθὰν θέντα κυρίως ἔχειν."
+                },
+                {
+                  "type": "cite",
+                  "blocks": [
+                    {
+                      "type": "name.publication.play",
+                      "text": "Agamemnone"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Daughter of Jove, relentless Power, Thou Tamer of the human breast, Whose iron scourge and torturing hour The bad affright, afflict the best! Bound in thy adamantine chain The proud are taught to taste of pain, And purple tyrants vainly groan With pangs unfelt before, unpitied and alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "When first thy Sire to send on earth Virtue, his darling child, designed, To thee he gave the heavenly birth, And bad to form her infant mind. Stern rugged Nurse! thy rigid lore With patience many a year she bore; What sorrow was, thou bad’st her know, And from her own she learned to melt at others’ woe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scared at thy frown terrific, fly Self-pleasing Folly’s idle brood, Wild Laughter, Noise, and thoughtless Joy, And leave us leisure to be good. Light they disperse, and with them go The summer friend, the flattering foe; By vain Prosperity received, To her they vow their truth, and are again believed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wisdom in sable garb arrayed, Immersed in rapturous thought profound, And Melancholy, silent maid With leaden eye, that loves the ground, Still on thy solemn steps attend; Warm Charity, the general friend, With Justice to herself severe, And Pity, dropping soft the sadly-pleasing tear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, gently on thy suppliant’s head, Dread Goddess, lay thy chastening hand! Not in thy Gorgon terrors clad, Nor circled with the vengeful band (As by the impious thou art seen) With thundering voice, and threatening mien, With screaming Horror’s funeral cry, Despair, and fell Disease, and ghastly Poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thy form benign, oh Goddess, wear, Thy milder influence impart, Thy philosophic train be there To soften, not to wound my heart, The generous spark extinct revive, Teach me to love and to forgive, Exact my own defects to scan, What others are, to feel, and know myself a Man."
+        }
+      ]
+    },
+    {
+      "label": "The Bard",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "title",
+                  "text": "The Bard"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "A Pindaric Ode"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The following Ode is founded on a tradition current in Wales, that Edward the First, when he completed the conquest of that country, ordered all the bards that fell into his hands to be put to death."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "I. 1."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Ruin seize thee, ruthless King! Confusion on thy banners wait, Though fanned by Conquest’s crimson wing They mock the air with idle state.16 Helm, nor hauberk’s twisted mail,17 Nor even thy virtues, Tyrant, shall avail To save thy secret soul from nightly fears, From Cambria’s curse, from Cambria’s tears!”"
+            },
+            {
+              "type": "paragraph",
+              "text": "Such were the sounds, that o’er the crested pride18 Of the first Edward scattered wild dismay, As down the steep of Snowdon’s shaggy side19 He wound with toilsome march his long array. Stout Glo’ster stood aghast in speechless trance;20 “To arms!” cried Mortimer, and couched his quivering lance.21"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "I. 2."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "On a rock, whose haughty brow, Frowns o’er old Conway’s foaming flood, Robed in the sable garb of woe, With haggard eyes the Poet stood; (Loose his beard, and hoary hair22 Streamed, like a meteor, to the troubled air)23 And with a Master’s hand, and Prophet’s fire, Struck the deep sorrows of his lyre."
+            },
+            {
+              "type": "paragraph",
+              "text": "“Hark, how each giant-oak, and desert cave, Sighs to the torrent’s awful voice beneath! O’er thee, oh King! their hundred arms they wave, Revenge on thee in hoarser murmurs breathe; Vocal no more, since Cambria’s fatal day, To high-born Hoel’s harp, or soft Llewellyn’s lay."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "I. 3."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Cold is Cadwallo’s tongue, That hushed the stormy main; Brave Urien sleeps upon his craggy bed; Mountains, ye mourn in vain Modred, whose magic song Made huge Plinlimmon bow his cloud-topped head. On dreary Arvon’s shore they lie,24 Smeared with gore, and ghastly pale; Far, far aloof th’ affrighted ravens sail;"
+            },
+            {
+              "type": "paragraph",
+              "text": "The famished Eagle screams, and passes by.25 Dear lost companions of my tuneful art, Dear, as the light that visits these sad eyes,26 Dear, as the ruddy drops that warm my heart, Ye died amidst your dying country’s cries﻿— No more I weep. They do not sleep. On yonder cliffs, a grisly band, I see them sit, they linger yet, Avengers of their native land; With me in dreadful harmony they join, And weave with bloody hands the tissue of thy line.”27"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "II. 1."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Weave the warp, and weave the woof, The winding-sheet of Edward’s race. Give ample room, and verge enough The characters of hell to trace. Mark the year, and mark the night, When Severn shall re-echo with affright28 The shrieks of death, thro’ Berkley’s roofs that ring, Shrieks of an agonizing King! She-Wolf of France, with unrelenting fangs,29 That tear’st the bowels of thy mangled Mate, From thee be born, who o’er thy country hangs30 The scourge of Heaven. What Terrors round him wait! Amazement in his van, with Flight combined, And sorrow’s faded form, and solitude behind.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "II. 2."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Mighty Victor, mighty Lord! Low on his funeral couch he lies!31 No pitying heart, no eye, afford A tear to grace his obsequies. Is the sable Warrior fled?32 Thy son is gone. He rests among the Dead. The Swarm, that in thy noontide beam were born? Gone to salute the rising Morn. Fair laughs the Morn, and soft the Zephyr blows,33 While proudly riding o’er the azure realm In gallant trim the gilded Vessel goes; Youth on the prow, and Pleasure at the helm; Regardless of the sweeping Whirlwind’s sway, That, hushed in grim repose, expects his evening-prey.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "II. 3."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Fill high the sparkling bowl,34 The rich repast prepare, Reft of a crown, he yet may share the feast; Close by the regal chair Fell Thirst and Famine scowl A baleful smile upon their baffled Guest. Heard ye the din of battle bray,35 Lance to lance, and horse to horse? Long Years of havoc urge their destined course, And thro’ the kindred squadrons mow their way. Ye Towers of Julius, London’s lasting shame,36 With many a foul and midnight murther fed, Revere his Consort’s faith, his Father’s fame,3738 And spare the meek Usurper’s holy head.39 Above, below, the rose of snow,40 Twined with her blushing foe, we spread; The bristled Boar in infant-gore41 Wallows beneath the thorny shade. Now, Brothers, bending o’er th’ accursed loom Stamp we our vengeance deep, and ratify his doom.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "III. 1."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Edward, lo! to sudden fate (Weave we the woof. The thread is spun.) Half of thy heart we consecrate.42 (The web is wove. The work is done.)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Stay, oh stay! nor thus forlorn Leave me unblessed, unpitied, here to mourn; In yon bright track, that fires the western skies, They melt, they vanish from my eyes. But oh! what solemn scenes on Snowdon’s height Descending slow their glitt’ring skirts unroll? Visions of glory, spare my aching sight, Ye unborn Ages, crowd not on my soul! No more our long-lost Arthur we bewail.43 All hail, ye genuine Kings, Britannia’s Issue, hail!”44"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "III. 2."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Girt with many a Baron bold Sublime their starry fronts they rear; And gorgeous Dames, and Statesmen old In bearded majesty, appear. In the midst a Form divine! Her eye proclaims her of the Briton-Line; Her lion-port, her awe commanding face,45 Attempered sweet to virgin-grace. What strings symphonious tremble in the air, What strains of vocal transport round her play! Hear from the grave, great Taliessin, hear;46 They breathe a soul to animate thy clay. Bright Rapture calls, and soaring, as she sings, Waves in the eye of Heaven her many-coloured wings.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "III. 3."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“The verse adorn again Fierce War, and faithful Love,47 And Truth severe, by fairy Fiction drest. In buskined measures move48 Pale Grief, and pleasing Pain, With Horror, Tyrant of the throbbing breast. A Voice as of the Cherub-Choir,49 Gales from blooming Eden bear; And distant warblings lessen on my ear,50 That lost in long futurity expire. Fond impious Man, think’st thou, yon sanguine cloud, Raised by thy breath, has quenched the Orb of day? To-morrow he repairs the golden flood, And warms the nations with redoubled ray. Enough for me. With joy I see The different doom our Fates assign. Be thine Despair, and sceptred Care, To triumph, and to die, are mine.”"
+            },
+            {
+              "type": "paragraph",
+              "text": "He spoke, and headlong from the mountain’s height Deep in the roaring tide he plunged to endless night."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The Progress of Poesy",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "title",
+                  "text": "The Progress of Poesy"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "A Pindaric Ode"
+                }
+              ]
+            },
+            {
+              "type": "epigraph",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Φωνᾶντα συνετοῖσιν· ἐς Δὲ τὸ πᾶν ἑρμηνέων χατίζει."
+                },
+                {
+                  "type": "cite",
+                  "blocks": [
+                    {
+                      "type": "name.publication.poem",
+                      "text": "Olymp"
+                    },
+                    {
+                      "type": "roman",
+                      "text": "ii"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "I. 1."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Awake, Aeolian lyre, awake,51 And give to rapture all thy trembling strings. From Helicon’s harmonious springs A thousand rills their mazy progress take; The laughing flowers, that round them blow, Drink life and fragrance as they flow. Now the rich stream of music winds along, Deep, majestic, smooth, and strong, Through verdant vales, and Ceres’ golden reign; Now rolling down the steep amain, Headlong, impetuous, see it pour; The rocks and nodding groves rebellow to the roar."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "I. 2."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Oh! Sovereign of the willing soul,52 Parent of sweet and solemn-breathing airs, Enchanting shell! the sullen Cares And frantic Passions hear thy soft control. On Thracia’s hills the Lord of War Has curbed the fury of his car, And dropped his thirsty lance at thy command. Perching on the sceptred hand53 Of Jove, thy magic lulls the feathered king With ruffled plumes and flagging wing; Quenched in dark clouds of slumber lie The terror of his beak, and lightnings of his eye."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "I. 3."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Thee the voice, the dance, obey,54 Tempered to thy warbled lay. O’er Idalia’s velvet-green The rosy-crowned Loves are seen On Cytherea’s day With antic Sports, and blue-eyed Pleasures, Frisking light in frolic measures; Now pursuing, now retreating, Now in circling troops they meet; To brisk notes in cadence beating Glance their many-twinkling feet.55 Slow melting strains their Queen’s approach declare; Where’er she turns the Graces homage pay. With arms sublime, that float upon the air, In gliding state she wins her easy way; O’er her warm cheek, and rising bosom, move The bloom of young Desire, and purple light of Love.56"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "II. 1."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Man’s feeble race what ills await!57 Labour, and Penury, the racks of Pain, Disease, and Sorrow’s weeping train, And Death, sad refuge from the storms of Fate! The fond complaint, my Song, disprove, And justify the laws of Jove. Say, has he given in vain the heavenly Muse? Night, and all her sickly dews, Her spectres wan, and birds of boding cry, He gives to range the dreary sky; Till down the eastern cliffs afar58 Hyperion’s march they spy, and glittering shafts of war."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "II. 2."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In climes beyond the solar road,5960 Where shaggy forms o’er ice-built mountains roam, The Muse has broke the twilight gloom To cheer the shivering native’s dull abode. And oft, beneath the odorous shade Of Chile’s boundless forests laid, She deigns to hear the savage youth repeat, In loose numbers wildly sweet, Their feather-cinctured Chiefs, and dusky Loves. Her track, where’er the Goddess roves, Glory pursue, and generous Shame, The unconquerable Mind, and Freedom’s holy flame."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "II. 3."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Woods, that wave o’er Delphi’s steep,61 Isles, that crown the Aegean deep, Fields, that cool Ilissus laves, Or where Maeander’s amber waves In lingering labyrinths creep, How do your tuneful echoes languish, Mute, but to the voice of Anguish! Where each old poetic mountain Inspiration breathed around; Every shade and hallowed fountain Murmured deep a solemn sound; Till the sad Nine in Greece’s evil hour Left their Parnassus for the Latian plains. Alike they scorn the pomp of tyrant-Power, And coward Vice, that revels in her chains. When Latium had her lofty spirit lost, They sought, oh Albion! next thy sea-encircled coast."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "III. 1."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Far from the sun and summer-gale, In thy green lap was Nature’s Darling laid,62 What time, where lucid Avon strayed, To him the mighty Mother did unveil Her awful face. The dauntless Child Stretched forth his little arms, and smiled. This pencil take (she said) whose colours clear Richly paint the vernal year; Thine too these golden keys, immortal Boy! This can unlock the gates of Joy, Of Horror that, and thrilling Fears, Or ope the sacred source of sympathetic Tears."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "III. 2."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nor second He, that rode sublime63 Upon the seraph-wings of Ecstasy, The secrets of th’ Abyss to spy, He passed the flaming bounds of Place and Time;64 The living Throne, the sapphire-blaze,65 Where Angels tremble, while they gaze, He saw; but, blasted with excess of light, Closed his eyes in endless night.66 Behold, where Dryden’s less presumptuous car Wide o’er the fields of Glory bear Two Coursers of ethereal race,67 With necks in thunder clothed, and long-resounding pace.68"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "III. 3."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Hark, his hands the lyre explore! Bright-eyed Fancy hovering o’er Scatters from her pictured urn Thoughts, that breathe, and words, that burn.69 But ah! ’tis heard no more﻿—70 Oh! Lyre divine, what daring Spirit Wakes thee now? tho’ he inherit Nor the pride, nor ample pinion, That the Theban Eagle bear71 Sailing with supreme dominion Thro’ the azure deep of air; Yet oft before his infant eyes would run Such forms, as glitter in the Muse’s ray With orient hues, unborrowed of the Sun; Yet shall he mount, and keep his distant way Beyond the limits of a vulgar fate, Beneath the Good how far﻿—but far above the Great."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The Descent of Odin",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "title",
+                  "text": "The Descent of Odin"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "An Ode from the Norse Tongue"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In Bartholinus, de causis contemnendae mortis; Hafniae, 1689"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Uprose the King of Men with speed, And saddled strait his coal-black steed; Down the yawning steep he rode, That leads to Hela’s drear abode.72 Him the Dog of Darkness spied, His shaggy throat he opened wide, While from his jaws, with carnage filled, Foam and human gore distilled; Hoarse he bays with hideous din, Eyes that glow, and fangs that grin; And long pursues, with fruitless yell, The father of the powerful spell. Onward still his way he takes, (The groaning earth beneath him shakes,) Till full before his fearless eyes The portals nine of hell arise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Right against the eastern gate, By the moss-grown pile he sate; Where long of yore to sleep was laid The dust of the prophetic Maid. Facing to the northern clime, Thrice he traced the runic rhyme; Thrice pronounced, in accents dread, The thrilling verse that wakes the dead; Till from out the hollow ground Slowly breathed a sullen sound."
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prophetess"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "What call unknown, what charms presume To break the quiet of the tomb? Who thus afflicts my troubled sprite, And drags me from the realms of night? Long on these mould’ring bones have beat The winter’s snow, the summer’s heat, The drenching dews, and driving rain! Let me, let me sleep again. Who is he, with voice unblest, That calls me from the bed of rest?"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Odin"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A Traveller, to thee unknown, Is he that calls, a Warrior’s son. Thou the deeds of light shalt know; Tell me what is done below, For whom yon glitt’ring board is spread, Drest for whom yon golden bed."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prophetess"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Mantling in the goblet see The pure beverage of the bee, O’er it hangs the shield of gold; ’Tis the drink of Balder bold; Balder’s head to death is given. Pain can reach the sons of Heaven! Unwilling I my lips unclose; Leave me, leave me to repose."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Odin"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Once again my call obey. Prophetess, arise, and say, What dangers Odin’s child await, Who the Author of his fate."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prophetess"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In Hoder’s hand the Hero’s doom; His brother sends him to the tomb. Now my weary lips I close; Leave me, leave me to repose."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Odin"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Prophetess, my spell obey, Once again arise, and say, Who th’ Avenger of his guilt, By whom shall Hoder’s blood be spilt."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prophetess"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In the caverns of the west, By Odin’s fierce embrace comprest, A wond’rous Boy shall Rinda bear, Who ne’er shall comb his raven-hair, Nor wash his visage in the stream, Nor see the sun’s departing beam, Till he on Hoder’s corse shall smile Flaming on the fun’ral pile. Now my weary lips I close; Leave me, leave me to repose."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Odin"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Yet a while my call obey. Prophetess, awake, and say, What Virgins these, in speechless woe, That bend to earth their solemn brow, That their flaxen tresses tear, And snowy veils, that float in air. Tell me whence their sorrows rose; Then I leave thee to repose."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prophetess"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Ha! no Traveller art thou, King of Men, I know thee now; Mightiest of a mighty line﻿—"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Odin"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "No boding Maid of skill divine Art thou, nor Prophetess of good; But Mother of the giant-brood!"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Prophetess"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Hie thee hence, and boast at home, That never shall enquirer come To break my iron-sleep again; Till Lok has burst his tenfold chain.73 Never, till substantial Night Has reassumed her ancient right; Till wrapped in flames, in ruin hurled, Sinks the fabric of the world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The Fatal Sisters",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "title",
+                  "text": "The Fatal Sisters"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "An Ode from the Norse Tongue"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In The Orcades of Thormodus Torfseus; Hafniae, 1697, folio; and also in Bartholinus."
+            }
+          ]
+        },
+        {
+          "type": "preface",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Advertisement"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The author once had thoughts (in concert with a friend) of giving the history of English poetry. In the introduction to it he meant to have produced some specimens of the style that reigned in ancient times among the neighbouring nations, or those who had subdued the greater part of this Island, and were our progenitors; “The Fatal Sisters” and “The Descent of Odin” made a part of it. He has long since dropped his design, especially after he heard, that it was already in the hands of a person well qualified to do it justice, both by his taste, and his researches into antiquity.﻿—Gray, 1768."
+            }
+          ]
+        },
+        {
+          "type": "preface",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Preface"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In the eleventh century, Sigurd, Earl of the Orkney Islands, went with a fleet of ships and a considerable body of troops into Ireland, to the assistance of Sictryg with the silken beard, who was then making war on his father-in-law Brian, King of Dublin; the Earl and all his forces were cut to pieces, and Sictryg was in danger of a total defeat; but the enemy had a greater loss by the death of Brian their king, who fell in the action. On Christmas Day (the day of the battle), a native of Caithness in Scotland saw at a distance a number of persons on horseback riding full speed towards a hill, and seeming to enter into it. Curiosity led him to follow them, till looking through an opening in the rocks, he saw twelve gigantic figures resembling women; they were all employed about a loom; and as they wove, they sung the following dreadful song; which, when they had finished, they tore the web into twelve pieces, and (each taking her portion) galloped six to the north and as many to the south.﻿—Gray, 1768."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the storm begins to lower74 (Haste, the loom of Hell prepare,) Iron-sleet of arrowy shower75 Hurtles in the darkened air.76"
+        },
+        {
+          "type": "paragraph",
+          "text": "Glitt’ring lances are the loom, Where the dusky warp we strain, Weaving many a soldier’s doom, Orkney’s woe, and Randver’s bane."
+        },
+        {
+          "type": "paragraph",
+          "text": "See the grisly texture grow, (’Tis of human entrails made) And the weights, that play below, Each a gasping warrior’s head."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shafts for shuttles, dipt in gore, Shoot the trembling cords along. Sword, that once a monarch bore, Keep the tissue close and strong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mista black, terrific maid, Sangrida, and Hilda, see, Join the wayward work to aid; ’Tis the woof of victory."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ere the ruddy sun be set, Pikes must shiver, javelins sing, Blade with clattering buckler meet, Hauberk crash, and helmet ring."
+        },
+        {
+          "type": "paragraph",
+          "text": "(Weave the crimson web of war) Let us go, and let us fly, Where our friends the conflict share, Where they triumph, where they die."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the paths of fate we tread, Wading through th’ ensanguined field; Gondula, and Geira, spread O’er the youthful King your shield."
+        },
+        {
+          "type": "paragraph",
+          "text": "We the reins to slaughter give, Ours to kill, and ours to spare; Spite of danger he shall live. (Weave the crimson web of war.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "They, whom once the desert beach Pent within its bleak domain, Soon their ample sway shall stretch O’er the plenty of the plain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Low the dauntless Earl is laid, Gored with many a gaping wound; Fate demands a nobler head; Soon a King shall bite the ground."
+        },
+        {
+          "type": "paragraph",
+          "text": "Long his loss shall Eirin weep, Ne’er again his likeness see; Long her strains in sorrow steep, Strains of immortality!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Horror covers all the heath, Clouds of carnage blot the sun. Sisters, weave the web of death; Sisters, cease, the work is done."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hail the task, and hail the hands! Songs of joy and triumph sing Joy to the victorious bands; Triumph to the younger King."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortal, thou that hear’st the tale, Learn the tenor of our song. Scotland, thro’ each winding vale Far and wide the notes prolong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sisters, hence with spurs of speed; Each her thundering faulchion wield; Each bestride her sable steed. Hurry, hurry to the field."
+        }
+      ]
+    },
+    {
+      "label": "Ode for Music",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Ode for Music"
+            },
+            {
+              "type": "subtitle",
+              "text": "Performed at the Installation of the Chancellor of the University of Cambridge, 1769"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Air"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Hence, avaunt, (’tis holy ground) Comus, and his midnight crew, And Ignorance with looks profound, And dreaming Sloth of pallid hue, Mad Sedition’s cry profane, Servitude that hugs her chain, Nor in these consecrated bowers Let painted Flatt’ry hide her serpent train in flowers.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Chorus"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Nor Envy base, nor creeping Gain, Dare the Muse’s walk to stain, While bright-eyed Science watches round; Hence, away, ’tis holy ground!”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Recitative"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "From yonder realms of empyrean day Bursts on my ear th’ indignant lay; There sit the sainted Sage, the Bard divine, The few, whom Genius gave to shine Thro’ every unborn age, and undiscovered clime."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Accompanied"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Rapt in celestial transport they, Yet hither oft a glance from high They send of tender sympathy To bless the place, where on their opening soul First the genuine ardor stole. ’Twas Milton struck the deep-toned shell, And, as the choral warblings round him swell, Meek Newton’s self bends from his state sublime, And nods his hoary head, and listens to the rhyme."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Air"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Ye brown o’er-arching groves, That Contemplation loves, Where willowy Camus lingers with delight! Oft at the blush of dawn I trod your level lawn, Oft wooed the gleam of Cynthia silver-bright In cloisters dim, far from the haunts of Folly, With Freedom by my side, and soft-eyed Melancholy.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Recitative"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "But hark! the portals sound, and pacing forth, With solemn steps and slow, High potentates, and dames of royal birth, And mitred fathers in long order go; Great Edward, with the lilies on his brow From haughty Gallia torn, And sad Chatillon, on her bridal morn That wept her bleeding Love, and princely Clare, And Anjou’s Heroine, and the paler Rose, The rival of her crown and of her woes, And either Henry there, The murthered saint, and the majestic lord That broke the bonds of Rome."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Accompanied"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "(Their tears, their little triumphs o’er, Their human passions now no more, Save Charity, that glows beyond the tomb.) All that on Granta’s fruitful plain Rich streams of regal bounty poured, And bad these awful fanes and turrets rise, To hail their Fitzroy’s festal morning come; And thus they speak in soft accord The liquid language of the skies:﻿—"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Quartetto"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“What is grandeur, what is power? Heavier toil, superior pain. What the bright reward we gain? The grateful memory of the good. Sweet is the breath of vernal shower, The bee’s collected treasures sweet, Sweet music’s melting fall, but sweeter yet The still small voice of gratitude.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Recitative"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Foremost and leaning from her golden cloud The venerable Margaret see! “Welcome, my noble son, (she cries aloud) To this, thy kindred train, and me; Pleased in thy lineaments we trace A Tudor’s fire, a Beaufort’s grace.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Air"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Thy liberal heart, thy judging eye, The flower unheeded shall descry, And bid it round heaven’s altars shed The fragrance of its blushing head; Shall raise from earth the latent gem To glitter on the diadem.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Recitative"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Lo! Granta waits to lead her blooming band, Not obvious, not obtrusive, she No vulgar praise, no venal incense flings; Nor dares with courtly tongue refined Profane thy inborn royalty of mind; She reveres herself and thee. With modest pride to grace thy youthful brow, The laureate wreath, that Cecil wore, she brings, And to thy just, thy gentle hand Submits the fasces of her sway, While spirits blest above and men below Join with glad voice the loud symphonious lay.”"
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Grand Chorus"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Thro’ the wild waves as they roar, With watchful eye and dauntless mien, Thy steady course of honour keep, Nor fear the rocks, nor seek the shore; The Star of Brunswick smiles serene, And gilds the horrors of the deep.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Agrippina",
+      "types": [
+        "bodymatter",
+        "drama",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Agrippina"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Fragment of a Tragedy"
+            }
+          ]
+        },
+        {
+          "type": "dramatis-personae",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Dramatis Personae"
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Agrippina, the Empress-mother"
+                },
+                {
+                  "type": "item",
+                  "text": "Nero, the Emperor"
+                },
+                {
+                  "type": "item",
+                  "text": "Poppaea, believed to be in love with Otho"
+                },
+                {
+                  "type": "item",
+                  "text": "Otho, a young man of quality, in love with Poppaea"
+                },
+                {
+                  "type": "item",
+                  "text": "Seneca, the Emperor’s Preceptor"
+                },
+                {
+                  "type": "item",
+                  "text": "Anicetus, Captain of the Guards"
+                },
+                {
+                  "type": "item",
+                  "text": "Demetrius, the Cynic, friend to Seneca"
+                },
+                {
+                  "type": "item",
+                  "text": "Aceronia, Confidant to Agrippina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "preface",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "The Argument"
+            },
+            {
+              "type": "paragraph",
+              "text": "The drama opens with the indignation of Agrippina at receiving her son’s orders from Anicetus to remove from Baiae, and to have her guard taken from her. At this time Otho having conveyed Poppaea from the house of her husband Rufus Crispinus, brings her to Baiae, where he means to conceal her among the crowd; or, if his fraud is discovered, to have recourse to the Emperor’s authority; but, knowing the lawless temper of Nero, he determines not to have recourse to that expedient but on the utmost necessity. In the meantime he commits her to the care of Anicetus, whom he takes to be his friend, and in whose age he thinks he may safely confide. Nero is not yet come to Baiae; but Seneca, whom he sends before him, informs Agrippina of the accusation concerning Rubellius Plancus, and desires her to clear herself, which she does briefly, but demands to see her son, who, on his arrival, acquits her of all suspicion, and restores her to her honours."
+            },
+            {
+              "type": "paragraph",
+              "text": "In the mean while, Anicetus, to whose care Poppaea had been entrusted by Otho, contrives the following plot to ruin Agrippina; he betrays his trust to Otho, and brings Nero, as it were by chance, to the sight of the beautiful Poppaea. The Emperor is immediately struck with her charms, and she, by a feigned resistance, increases his passion; though, in reality, she is from the first dazzled with the prospect of empire, and forgets Otho. She therefore joins with Anicetus in his design of ruining Agrippina, soon perceiving that it will be for her interest. Otho hearing that the Emperor had seen Poppaea, is much enraged; but not knowing that this interview was obtained through the treachery of Anicetus, is readily persuaded by him to see Agrippina in secret, and acquaint her with his fears that her son Nero would marry Poppaea. Agrippina, to support her own power, and to wean the Emperor from the love of Poppaea, gives Otho encouragement, and promises to support him. Anicetus secretly introduces Nero to hear their discourse; who resolves immediately on his mother’s death, and, by Anicetus’s means, to destroy her by drowning. A solemn feast, in honour of their reconciliation, is to be made; after which she being to go by sea to Bauli, the ship is so contrived as to sink or crush her; she escapes by accident, and returns to Baiae."
+            },
+            {
+              "type": "paragraph",
+              "text": "In this interval Otho has an interview with Poppaea; and being duped a second time by Anicetus and her, determines to fly with her into Greece, by means of a vessel which is to be furnished by Anicetus; but he, pretending to remove Poppaea on board in the night, conveys her to Nero’s apartment; she there encourages and determines Nero to banish Otho, and finish the horrid deed he had attempted on his mother. Anicetus undertakes to execute his resolves; and, under pretence of a plot upon the Emperor’s life, is sent with a guard to murder Agrippina, who is still at Baiae in imminent fear, and irresolute how to conduct herself. The account of her death, and the Emperor’s horror and fruitless remorse, finishes the drama."
+            }
+          ]
+        },
+        {
+          "type": "chapter+scene",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "hgroup",
+                  "blocks": [
+                    {
+                      "type": "heading",
+                      "text": "Act I"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Scene I"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "Agrippina, Aceronia"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scene﻿—The Emperor’s villa at Baiae."
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Agrippina"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "’Tis well, begone! your errand is performed, Speaks as to Anicetus entering. The message needs no comment. Tell your master, His mother shall obey him. Say you saw her Yielding due reverence to his high command; Alone, unguarded and without a lictor, As fits the daughter of Germanicus. Say, she retired to Antium; there to tend Her household cares, a woman’s best employment. What if you add, how she turned pale and trembled; You think, you spied a tear stand in her eye, And would have dropped, but that her pride restrained it? (Go! you can paint it well) ’twill profit you, And please the stripling. Yet ’twould dash his joy To hear the spirit of Britannicus Yet walks on earth; at least there are who know Without a spell to raise, and bid it fire A thousand haughty hearts, unused to shake When a boy frowns, nor to be lured with smiles To taste of hollow kindness, or partake His hospitable board; they are aware Of the unpledged bowl, they love not aconite."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Aceronia"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "He’s gone; and much I hope these walls alone And the mute air are privy to your passion. Forgive your servant’s fears, who sees the danger Which fierce resentment cannot fail to raise In haughty youth, and irritated power."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Agrippina"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And dost thou talk to me, to me, of danger, Of haughty youth and irritated power, To her that gave it being, her that armed This painted Jove, and taught his novice hand To aim the forked bolt; while he stood trembling, Scared at the sound, and dazzled with its brightness? ’Tis like, thou hast forgot, when yet a stranger To adoration, to the grateful steam Of flattery’s incense, and obsequious vows From voluntary realms, a puny boy, Decked with no other lustre, than the blood Of Agrippina’s race, he lived unknown To fame, or fortune; haply eyed at distance Some edileship, ambitious of the power To judge of weights and measures; scarcely dared On Expectation’s strongest wing to soar High as the consulate, that empty shade Of long-forgotten liberty; when I Oped his young eye to bear the blaze of greatness; Showed him where empire towered, and bade him strike The noble quarry. Gods! then was the time To shrink from danger; fear might then have worn The mask of prudence; but a heart like mine, A heart that glows with the pure Julian fire, If bright Ambition from her craggy seat Display the radiant prize, will mount undaunted, Gain the rough heights, and grasp the dangerous honour."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Aceronia"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Through various life I have pursued your steps, Have seen your soul, and wondered at its daring; Hence rise my fears. Nor am I yet to learn How vast the debt of gratitude which Nero To such a mother owes; the world, you gave him, Suffices not to pay the obligation. I well remember too (for I was present) When in a secret and dead hour of night, Due sacrifice performed with barb’rous rites Of muttered charms, and solemn invocation, You bade the Magi call the dreadful powers, That read futurity, to know the fate Impending o’er your son; their answer was, If the son reign, the mother perishes. Perish (you cried) the mother! reign the son! He reigns, the rest is heaven’s; who oft has bad, Even when its will seemed wrote in lines of blood, Th’ unthought event disclose a whiter meaning. Think too how oft in weak and sickly minds The sweets of kindness lavishly indulged Rankle to gall; and benefits too great To be repaid, sit heavy on the soul, As unrequited wrongs. The willing homage Of prostrate Rome, the senate’s joint applause, The riches of the earth, the train of pleasures That wait on youth, and arbitrary sway; These were your gift, and with them you bestowed The very power he has to be ungrateful."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Agrippina"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thus ever grave and undisturbed reflection Pours its cool dictates in the madding ear Of rage, and thinks to quench the fire it feels not. Say’st thou I must be cautious, must be silent, And tremble at the phantom I have raised? Carry to him thy timid counsels. He Perchance may heed ’em. Tell him, too, that one, Who had such liberal power to give, may still With equal power resume that gift, and raise A tempest that shall shake her own creation To its original atoms﻿—tell me, say!﻿— This mighty emperor, this dreaded hero, Has he beheld the glittering front of war? Knows his soft ear the trumpet’s thrilling voice, And outcry of the battle? Have his limbs Sweat under iron harness? Is he not The silken son of dalliance, nursed in ease And pleasure’s flowery lap?﻿—Rubellius lives, And Sylla has his friends, though schooled by fear To bow the supple knee, and court the times With shows of fair obeisance; and a call, Like mine, might serve belike to wake pretensions Drowsier than theirs, who boast the genuine blood Of our imperial house."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Aceronia"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Did I not wish to check this dangerous passion, I might remind my mistress that her nod Can rouse eight hardy legions, wont to stem With stubborn nerves the tide, and face the rigour Of bleak Germania’s snows. Four, not less brave, That in Armenia quell the Parthian force Under the warlike Corbulo, by you Marked for their leader; these, by ties confirmed, Of old respect and gratitude, are yours. Surely the Masians too, and those of Egypt, Have not forgot your sire; the eye of Rome And the Praetorian camp have long revered, With customed awe, the daughter, sister, wife, And mother of their Caesars."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Agrippina"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ha! by Juno, It bears a noble semblance. On this base My great revenge shall rise; or say we sound The trump of Liberty; there will not want, Even in the servile senate, ears to own Her spirit-stirring voice; Soranus there, And Cassius, Vetus too, and Thrasea, Minds of the antique cast, rough, stubborn souls, That struggle with the yoke. How shall the spark Unquenchable, that glows within their breasts, Blaze into freedom, when the idle herd (Slaves from the womb, created but to stare, And bellow in the Circus) yet will start, And shake ’em at the name of Liberty, Stung by a senseless word, a vain tradition, As there were magic in it! Wrinkled beldams Teach it their grandchildren, as somewhat rare That anciently appeared, but when, extends Beyond their chronicle﻿—oh! ’tis a cause To arm the hand of childhood, and rebrace The slackened sinews of time-wearied age. Yes, we may meet, ingrateful boy, we may! Again the buried Genius of old Rome Shall from the dust uprear his reverend head, Roused by the shout of millions; there before His high tribunal thou and I appear. Let majesty sit on thy awful brow, And lighten from thy eye; around thee call The gilded swarm that wantons in the sunshine Of thy full favour; Seneca be there In gorgeous phrase of laboured eloquence To dress thy plea, and Burrhus strengthen it. With his plain soldier’s oath, and honest seeming. Against thee, Liberty and Agrippina; The world, the prize; and fair befall the victors. But soft! why do I waste the fruitless hours In threats unexecuted? Haste thee, fly These hated walls that seem to mock my shame, And cast me forth in duty to their lord. My thought aches at him; not the basilisk More deadly to the sight, than is to me The cool injurious eye of frozen kindness. I will not meet its poison. Let him feel Before he sees me. Yes, I will be gone, But not to Antium﻿—all shall be confessed, Whate’er the frivolous tongue of giddy fame Has spread among the crowd; things, that but whispered Have arched the hearer’s brow, and riveted His eyes in fearful ecstasy; no matter What; so’t be strange, and dreadful.﻿—Sorceries, Assassinations, poisonings﻿—the deeper My guilt, the blacker his ingratitude. And you, ye manes of Ambition’s victims, Enshrined Claudius, with the pitied ghosts Of the Syllani, doomed to early death, (Ye unavailing horrors, fruitless crimes!) If from the realms of night my voice ye hear, In lieu of penitence, and vain remorse, Accept my vengeance. Though by me ye bled, He was the cause. My love, my fears for him, Dried the soft springs of pity in my heart, And froze them up with deadly cruelty. Yet if your injured shades demand my fate, If murder cries for murder, blood for blood, Let me not fall alone; but crush his pride, And sink the traitor in his mother’s ruin."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Exeunt."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chapter+scene",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Act I"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scene II"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Otho, Poppaea"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Otho"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thus far we’re safe. Thanks to the rosy queen Of amorous thefts; and had her wanton son Lent us his wings, we could not have beguiled With more elusive speed the dazzled sight Of wakeful jealousy. Be gay securely; Dispel, my fair, with smiles, the tim’rous cloud That hangs on thy clear brow. So Helen looked, So her white neck reclined, so was she borne By the young Trojan to his gilded bark With fond reluctance, yielding modesty, And oft reverted eye, as if she knew not Whether she feared, or wished to be pursued."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The Alliance of Education and Government",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "title",
+                  "text": "The Alliance of Education and Government"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "A Fragment"
+                }
+              ]
+            },
+            {
+              "type": "epigraph",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "… πόταγ ̕ ὦ ̕γαθέ· τὰν γὰρ ἀοιδὰν Οὕτι πα εἰς Αΐδάν γε τὸν ἐκλελάθοντα φυλαξεῖς."
+                },
+                {
+                  "type": "cite",
+                  "blocks": [
+                    {
+                      "type": "name.publication.book",
+                      "text": "Id"
+                    },
+                    {
+                      "type": "roman",
+                      "text": "I"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Essay I."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "As sickly plants betray a niggard earth, Whose barren bosom starves her generous birth, Nor genial warmth, nor genial juice retains Their roots to feed, and fill their verdant veins; And as in climes, where Winter holds his reign, The soil, though fertile, will not teem in vain, Forbids her gems to swell, her shades to rise, Nor trusts her blossoms to the churlish skies, So draw mankind in vain the vital airs, Unformed, unfriended, by those kindly cares, That health and vigour to the soul impart, Spread the young thought, and warm the opening heart. So fond Instruction on the growing powers Of Nature idly lavishes her stores, If equal Justice with unclouded face Smile not indulgent on the rising race, And scatter with a free though frugal hand Light golden showers of plenty o’er the land. But Tyranny has fixed her empire there, To check their tender hopes with chilling fear, And blast the blooming promise of the year. This spacious animated scene survey From where the rolling orb, that gives the day, His sable sons with nearer course surrounds, To either pole, and life’s remotest bounds. How rude so e’er th’ exterior form we find, Howe’er Opinion tinge the varied mind, Alike to all the kind impartial Heaven The sparks of truth and happiness has given; With sense to feel, with memory to retain, They follow pleasure, and they fly from pain; Their judgment mends the plan their fancy draws, Th’ event presages, and explores the cause. The soft returns of gratitude they know, By fraud elude, by force repel the foe, While mutual wishes, mutual woes endear The social smile, and sympathetic tear. Say then, thro’ ages by what fate confined To different climes seem different souls assigned? Here measured laws and philosophic ease Fix and improve the polished arts of peace; There Industry and Gain their vigils keep, Command the winds, and tame th’ unwilling deep. Here Force and hardy deeds of blood prevail. There languid Pleasure sighs in every gale. Oft o’er the trembling nations from afar Has Scythia breathed the living cloud of war; And, where the deluge burst, with sweepy sway Their arms, their kings, their gods were rolled away. As oft have issued, host impelling host, The blue-eyed myriads from the Baltic coast. The prostrate South to the destroyer yields Her boasted titles and her golden fields. With grim delight the brood of Winter view A brighter day, and heavens of azure hue; Scent the new fragrance of the breathing rose, And quaff the pendent vintage as it grows. Proud of the yoke, and pliant to the rod, Why yet does Asia dread a monarch’s nod, While European freedom still withstands Th’ encroaching tide, that drowns her lessening lands, And sees far off with an indignant groan, Her native plains, and empires once her own. Can opener skies, and suns of fiercer flame O’erpower the fire that animates our frame; As lamps, that shed at eve a cheerful ray, Fade and expire beneath the eye of day? Need we the influence of the northern star To string our nerves and steel our hearts to war? And, where the face of nature laughs around, Must sick’ning virtue fly the tainted ground? Unmanly thought! what seasons can control, What fancied zone can circumscribe the Soul, Who, conscious of the source from whence she springs, By Reason’s light, on Resolution’s wings, Spite of her frail companion, dauntless goes O’er Libya’s deserts and through Zembla’s snows? She bids each slumb’ring energy awake, Another touch, another temper take, Suspends th’ inferior laws that rule our clay; The stubborn elements confess her sway, Their little wants, their low desires, refine, And raise the mortal to a height divine. Not but the human fabric from the birth Imbibes a flavour of its parent earth, As various tracts enforce a various toil, The manners speak the idiom of their soil. An iron-race the mountain-cliffs maintain, Foes to the gentler genius of the plain; For where unwearied sinews must be found With side-long plough to quell the flinty ground, To turn the torrent’s swift-descending flood, To brave the savage rushing from the wood, What wonder, if to patient valour trained They guard with spirit what by strength they gained? And while their rocky ramparts round they see, The rough abode of want and liberty, (As lawless force from confidence will grow) Insult the plenty of the vales below? What wonder in the sultry climes, that spread Where Nile redundant o’er his summer-bed From his broad bosom life and verdure flings And broods o’er Egypt with his wat’ry wings, If with adventurous oar and ready sail, The dusky people drive before the gale; Or on frail floats to distant cities ride, That rise and glitter o’er the ambient tide?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Epitaph on Mrs. Clarke",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lo! where this silent marble weeps, A Friend, a Wife, a Mother sleeps; A heart, within whose sacred cell The peaceful virtues loved to dwell. Affection warm, and faith sincere, And soft humanity were there. In agony, in death, resigned, She felt the wound she left behind, Her infant image here below Sits smiling on a father’s woe; Whom what awaits, while yet he strays Along the lonely vale of days? A pang, to secret sorrow dear, A sigh, an unavailing tear; Till time shall every grief remove, With life, with memory, and with love."
+        }
+      ]
+    },
+    {
+      "label": "Epitaph on Sir William Williams",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here, foremost in the dangerous paths of fame, Young Williams fought for England’s fair renown; His mind each Muse, each Grace adorned his frame, Nor envy dared to view him with a frown."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Aix, his voluntary sword he drew, There first in blood his infant honour sealed; From fortune, pleasure, science, love, he flew, And scorned repose when Britain took the field."
+        },
+        {
+          "type": "paragraph",
+          "text": "With eyes of flame, and cool undaunted breast Victor he stood on Belleisle’s rocky steeps﻿— Ah, gallant youth; this marble tells the rest, Where melancholy friendship bends, and weeps."
+        }
+      ]
+    },
+    {
+      "label": "Hymn to Ignorance",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Hymn to Ignorance"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Fragment"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Hail, horrors, hail! ye ever gloomy bowers, Ye gothic fanes, and antiquated towers, Where rushy Camus’ slowly-winding flood Perpetual draws his humid train of mud; Glad I revisit thy neglected reign, Oh take me to thy peaceful shade again. But chiefly thee, whose influence breathed from high Augments the native darkness of the sky; Ah, Ignorance! soft salutary power! Prostrate with filial reverence I adore. Thrice hath Hyperion rolled his annual race, Since weeping I forsook thy fond embrace. Oh say, successful dost thou still oppose Thy leaden aegis ’gainst our ancient foes? Still stretch, tenacious of thy right divine, The massy sceptre o’er thy slumbering line? And dews Lethean through the land dispense To steep in slumbers each benighted sense? If any spark of wit’s delusive ray Break out and flash a momentary day, With damp, cold touch forbid it to aspire, And huddle up in fogs the dang’rous fire. Oh say﻿—she hears me not, but, careless grown, Lethargic nods upon her ebon throne. Goddess! awake, arise! alas, my fears! Can powers immortal feel the force of years? Not thus of old, with ensigns wide unfurled, She rode triumphant o’er the vanquished world; Fierce nations owned her unresisted might, And all was Ignorance, and all was Night. Oh! sacred Age! Oh! Times for ever lost! (The Schoolman’s glory, and the Churchman’s boast.) For ever gone﻿—yet still to Fancy new, Her rapid wings the transient scene pursue, And bring the buried ages back to view. High on her car, behold the grandam ride Like old Sesostris with barbaric pride; … a team of harnessed monarchs bend"
+        }
+      ]
+    },
+    {
+      "label": "Lines Written at Burnham",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And, as they bow their hoary Tops, relate In murm’ring Sounds the dark Decrees of Fate; While Visions, as Poetic eyes avow, Cling to each Leaf and swarm on ev’ry Bough:"
+        }
+      ]
+    },
+    {
+      "label": "Ode on the Pleasure Arising from Vicissitude",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Ode on the Pleasure Arising from Vicissitude"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Fragment"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the golden Morn aloft Waves her dew-bespangled wing, With vermeil cheek and whisper soft She woos the tardy spring; Till April starts, and calls around The sleeping fragrance from the ground; And lightly o’er the living scene Scatters his freshest, tenderest green."
+        },
+        {
+          "type": "paragraph",
+          "text": "New-born flocks, in rustic dance, Frisking ply their feeble feet; Forgetful of their wintry trance, The birds his presence greet; But chief, the sky-lark warbles high His trembling thrilling ecstasy And, lessening from the dazzled sight, Melts into air and liquid light."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rise, my soul! on wings of fire, Rise the rapturous choir among; Hark! ’tis Nature strikes the lyre, And leads the general song. Yesterday the sullen year Saw the snowy whirlwind fly; Mute was the music of the air, The Herd stood drooping by; Their raptures now that wildly flow, No yesterday, nor morrow know; ’Tis man alone that joy descries With forward and reverted eyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smiles on past Misfortune’s brow Soft Reflection’s hand can trace; And o’er the cheek of Sorrow throw A melancholy grace; While Hope prolongs our happier hour, Or deepest shades, that dimly lower And blacken round our weary way, Gilds with a gleam of distant day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, where rosy Pleasure leads, See a kindred Grief pursue; Behind the steps that Misery treads, Approaching Comfort view; The hues of Bliss more brightly glow, Chastised by sabler tints of woe; And blended form, with artful strife, The strength and harmony of Life."
+        },
+        {
+          "type": "paragraph",
+          "text": "See the Wretch, that long has tost On the thorny bed of Pain, At length repair his vigour lost, And breathe and walk again; The meanest flowret of the vale, The simplest note that swells the gale, The common Sun, the air, the skies, To him are opening Paradise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Humble Quiet builds her cell, Near the source whence Pleasure flows; She eyes the clear crystalline well, And tastes it as it goes."
+        }
+      ]
+    },
+    {
+      "label": "Gray on Himself",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Gray on Himself"
+            },
+            {
+              "type": "subtitle",
+              "text": "Written in 1761, and Found in One of His Pocketbooks"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Too poor for a bribe, and too proud to importune; He had not the method of making a fortune; Could love, and could hate, so was thought somewhat odd; No very great wit, he believed in a God. A place or a pension he did not desire, But left church and state to Charles Townshend and Squire."
+        }
+      ]
+    },
+    {
+      "label": "Sonnet on the Death of Richard West",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In vain to me the smiling Mornings shine, And reddening Phoebus lifts his golden fire; The birds in vain their amorous descant join; Or cheerful fields resume their green attire; These ears, alas! for other notes repine, A different object do these eyes require; My lonely anguish melts no heart but mine; And in my breast the imperfect joys expire. Yet Morning smiles the busy race to cheer, And new-born pleasure brings to happier men; The fields to all their wonted tribute bear; To warm their little loves the birds complain; I fruitless mourn to him that cannot hear, And weep the more because I weep in vain."
+        },
+        {
+          "type": "footer",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "At Stoke, Aug., 1742."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Stanzas to Mr. Bentley",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In silent gaze the tuneful choir among, Half pleased, half blushing, let the Muse admire, While Bentley leads her sister-art along, And bids the pencil answer to the lyre."
+        },
+        {
+          "type": "paragraph",
+          "text": "See, in their course, each transitory thought Fixed by his touch a lasting essence take; Each dream, in fancy’s airy colouring wrought, To local symmetry and life awake!"
+        },
+        {
+          "type": "paragraph",
+          "text": "The tardy rhymes that used to linger on, To censure cold, and negligent of fame, In swifter measures animated run, And catch a lustre from his genuine flame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah! could they catch his strength, his easy grace, His quick creation, his unerring line; The energy of Pope they might efface, And Dryden’s harmony submit to mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "But not to one in this benighted age Is that diviner inspiration given, That burns in Shakespeare’s or in Milton’s page, The pomp and prodigality of heaven."
+        },
+        {
+          "type": "paragraph",
+          "text": "As, when conspiring in the diamond’s blaze, The meaner gems, that singly charm the sight, Together dart their intermingled rays, And dazzle with a luxury of light."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enough for me, if to some feeling breast My lines a secret sympathy﻿ ﻿… And as their pleasing influence﻿ ﻿… A sigh of soft reflection.﻿ ﻿…"
+        }
+      ]
+    },
+    {
+      "label": "The Candidate",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "The Candidate"
+            },
+            {
+              "type": "subtitle",
+              "text": "Or, The Cambridge Courtship"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When sly Jemmy Twitcher had smugged up his face, With a lick of court white-wash, and pious grimace, A wooing he went, where three sisters of old In harmless society guttle and scold. “Lord! sister,” says Physic to Law, “I declare, Such a sheep-biting look, such a pick-pocket air! Not I for the Indies!﻿—You know I’m no prude﻿— But his nose is a shame﻿—and his eyes are so lewd! Then he shambles and straddles so oddly﻿—I fear﻿— No﻿—at our time of life ’twould be silly, my dear.” “I don’t know,” says Law, “but methinks for his look, ’Tis just like the picture in Rochester’s book; Then his character, Phyzzy﻿—his morals﻿—his life﻿— When she died, I can’t tell﻿—but he once had a wife. They say he’s no Christian, loves drinking and whoring, And all the town rings of his swearing and roaring! And filching and lying, and Newgate-bird tricks;﻿— Not I﻿—for a coronet, chariot and six.” Divinity heard, between waking and dozing, Her sisters denying, and Jemmy proposing; From table she rose, and with bumper in hand, She stroked up her belly, and stroked down her band﻿— “What a pother is here about wenching and roaring! Why, David loved catches, and Solomon whoring; Did not Israel filch from the Egyptians of old Their jewels of silver and jewels of gold? The prophet of Bethel, we read, told a lie; He drinks﻿—so did Noah;﻿—he swears﻿—so do I; To reject him for such peccadillos, were odd; Besides, he repents﻿—for he talks about God﻿— To Jemmy:﻿— Never hang down your head, your poor penitent elf, Come buss me﻿—I’ll be Mrs. Twitcher myself. Damn ye both for a couple of Puritan bitches! He’s Christian enough that repents and that stitches.”"
+        }
+      ]
+    },
+    {
+      "label": "Impromptu",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Impromptu"
+            },
+            {
+              "type": "subtitle",
+              "text": "Suggested by a View, in 1766, of the Seat and Ruins of a Deceased Nobleman, at Kingsgate, Kent"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Old, and abandoned by each venal friend, Here Holland formed the pious resolution To smuggle a few years, and strive to mend A broken character and constitution."
+        },
+        {
+          "type": "paragraph",
+          "text": "On this congenial spot he fixed his choice; Earl Goodwin trembled for his neighbouring sand; Here sea-gulls scream, and cormorants rejoice, And mariners, though shipwrecked, dread to land."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here reign the blustering North and blighting East, No tree is heard to whisper, bird to sing; Yet Nature could not furnish out the feast, Art he invokes new horrors still to bring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here mouldering fanes and battlements arise, Turrets and arches nodding to their fall, Unpeopled monast’ries delude our eyes, And mimic desolation covers all."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Ah!” said the sighing peer, “had Bute been true, Nor Mungo’s, Rigby’s, Bradshaw’s friendship vain, Far better scenes than these had blest our view, And realised the beauties which we feign;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Purged by the sword, and purified by fire, Then had we seen proud London’s hated walls; Owls would have hooted in St. Peter’s choir, And foxes stunk and littered in St. Paul’s.”"
+        }
+      ]
+    },
+    {
+      "label": "Tophet",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Thus Etough looked; so grinned the brawling fiend, While frighted prelates bowed and called him friend; I saw them bow, and while they wished him dead, With servile simper nod the mitred head. Our mother-church, with half-averted sight, Blushed as she blessed her grisly proselyte; Hosannas rung through hell’s tremendous borders, And Satan’s self had thoughts of taking orders."
+        }
+      ]
+    },
+    {
+      "label": "Song",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Thyrsis, when we parted, swore Ere the spring he would return﻿— Ah! what means yon violet flower! And the buds that deck the thorn! ’Twas the lark that upward sprung! ’Twas the nightingale that sung!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Idle notes! untimely green! Why this unavailing haste? Western gales and skies serene Speak not always winter past. Cease, my doubts, my fears to move, Spare the honour of my love."
+        }
+      ]
+    },
+    {
+      "label": "Epitaph on Mrs. Mason",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tell them, though ’tis an awful thing to die, ’Twas e’en to thee, yet, the dread path once trod, Heaven lifts its everlasting portals high, And bids the pure in heart behold their God."
+        }
+      ]
+    },
+    {
+      "label": "Amatory Lines",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "With beauty, with pleasure surrounded, to languish﻿— To weep without knowing the cause of my anguish; To start from short slumbers, and wish for the morning﻿— To close my dull eyes when I see it returning; Sighs sudden and frequent, looks ever dejected﻿— Words that steal from my tongue, by no meaning connected! Ah! say, fellow-swains, how these symptoms befell me? They smile, but reply not﻿—Sure Delia will tell me!"
+        }
+      ]
+    },
+    {
+      "label": "Comic Lines",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Weddell attends your call, and Palgrave proud, Stonehewer the lewd, and Delaval the loud. For thee does Powell squeeze, and Marriot sputter, And Glynn cut phizzes, and Tom Neville stutter. Brown sees thee sitting on his nose’s tip, The Widow feels thee in her aching hip; For thee fat Nanny sighs, and handy Nelly, And Balguy with a bishop in his belly."
+        }
+      ]
+    },
+    {
+      "label": "Verses from Shakespeare",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Verses from Shakespeare"
+            },
+            {
+              "type": "subtitle",
+              "text": "To Mrs. Anne, Regular Servant to the Rev. Mr. Precentor of York"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A moment’s patience, gentle Mistress Anne; (But stint your clack for sweet St. Charitie) ’Tis Willy begs, once a right proper man, Though now a book, and interleaved you see."
+        },
+        {
+          "type": "paragraph",
+          "text": "Much have I borne from cankered critic’s spite, From fumbling baronets and poets small, Pert barristers, and parsons nothing bright, But what awaits me now is worst of all."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Tis true, our master’s temper natural Was fashioned fair in meek and dove-like guise; But may not honey’s self be turned to gall By residence, by marriage, and sore eyes?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If then he wreak on me his wicked will; Steal to his closet at the hour of prayer; And (when thou hear’st the organ piping shrill) Grease his best pen, and all he scribbles, tear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Better to bottom tarts and cheesecakes nice, Better the roast meat from the fire to save, Better be twisted into caps for spice, Than thus be patched and cobbled in one’s grave."
+        },
+        {
+          "type": "paragraph",
+          "text": "So York shall taste what Clouet never knew, So from our works sublimer fumes shall rise; While Nancy earns the praise to Shakespeare due, For glorious puddings and immortal pies."
+        }
+      ]
+    },
+    {
+      "label": "Epitaph on a Child",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here freed from pain, secure from misery, lies A Child, the darling of his parents’ eyes; A gentler lamb ne’er sported on the plain, A fairer flower will never bloom again! Few were the days allotted to his breath; Here let him sleep in peace his night of death."
+        }
+      ]
+    },
+    {
+      "label": "Satire on the Heads of Houses",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Satire on the Heads of Houses"
+            },
+            {
+              "type": "subtitle",
+              "text": "Or, Never a Barrel the Better Herring"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O Cambridge, attend To the Satire I’ve penned On the Heads of thy Houses, Thou Seat of the Muses!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Know the Master of Jesus Does hugely displease us; The Master of Maudlin In the same dirt is dawdling; The Master of Sidney Is of the same kidney; The Master of Trinity To him bears affinity; As the Master of Keys Is as like as two peas, So the Master of Queen’s Is as like as two beans; The Master of King’s Copies them in all things; The Master of Catherine Takes them all for his pattern; The Master of Clare Hits them all to a hair; The Master of Christ By the rest is enticed; But the Master of Emmanuel Follows them like a spaniel; The Master of Benet Is of the like tenet; The Master of Pembroke Has from them his system took; The Master of Peter’s Has all the same features; The Master of St. John’s Like the rest of the Dons."
+        },
+        {
+          "type": "paragraph",
+          "text": "As to Trinity Hall We say nothing at all."
+        }
+      ]
+    },
+    {
+      "label": "Impromptus",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Impromptu by Gray on Going Out of Raby Castle, After Dining with Harry Vane."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Here lives Harry Vane, Very good claret and fine champaign."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Epigrams on Dr. Keene, Bishop of Chester."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The Bishop of Chester, Though wiser than Nestor And fairer than Esther, If you scratch him will fester."
+            },
+            {
+              "type": "paragraph",
+              "text": "Here lies Edmund Keene Lord Bishop of Chester, He eat a fat goose, and could not digest her."
+            },
+            {
+              "type": "paragraph",
+              "text": "Here lies Mrs. Keene the she Bishop of Chester, She had a bad face which did sadly molest her."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Parody on an Epitaph."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Now clean, now hideous, mellow now, now gruff, She swept, she hissed, she ripened and grew rough, At Brougham, Pendragon, Appleby and Brough."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "A Couplet on Dining."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "When you rise from your dinner as light as before, ’Tis a sign you have eat just enough and no more."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Couplet About Birds."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "There pipes the woodlark, and the song-thrush there Scatters his loose notes in the waste of air."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Lines",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Lines"
+            },
+            {
+              "type": "subtitle",
+              "text": "On Dr. Robert Smith"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Do you ask why old Focus Silvanus defies, And leaves not a chestnut in being? ’Tis not that old Focus himself has got eyes, But because he has writ about seeing."
+        }
+      ]
+    },
+    {
+      "label": "Lines Spoken by the Ghost of John Dennis at the Devil Tavern",
+      "types": [
+        "bodymatter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From purling Streams & the Elysian Scene, From Groves, that smile with never-fading Green I reascend; in Atropos’ despight Restored to Celadon, & upper light: Ye gods, that sway the Regions under ground, Reveal to mortal View your realms profound; At his command admit the eye of Day; When Celadon commands, what God can disobey? Nor seeks he your Tartarean fires to know, The house of Torture, & th’ Abyss of Woe; But happy fields & Mansions free from Pain, Gay Meads, & springing flowers best please the gentle Swain: That little, naked, melancholy thing My Soul, when first she tryed her flight to wing; Began with speed new Regions to explore, And blunder’d thro’ a narrow Postern door; First most devoutly having said its Prayers, It tumbled down a thousand pair of Stairs, Thro’ Entries long, thro’ Cellars vast & deep, Where ghostly Rats their habitations keep, Where Spiders spread their Webs, & owlish Goblins sleep. After so many Chances had befell, It came into a mead of Asphodel: Betwixt the Confines of the light & dark It lies, of ’Lyzium the St. James’s Park: Here Spirit-Beaux flutter along the Mall, And Shadows in disguise scate o’er the Iced Canal: Here groves embower’d, & more sequester’d Shades, Frequented by the Ghosts of Ancient Maids, Are seen to rise: the melancholy Scene With gloomy haunts, & twilight walks between Conceals the wayward band: here spend their time Greensickness Girls, that died in youthful prime, Virgins forlorn, all drest in Willow-green-i With Queen Elizabeth and Nicolini. More to reveal, or many words to use Would tire alike your patience & my muse. Believe, that never was so faithful found Queen Proserpine to Pluto under ground, Or Cleopatra to her Mark-Antony As Orozmades to his Celadony. P.S. Lucrece for half a crown will show you fun, But Mrs. Oldfield is become a Nun. Nobles & Cits, Prince Pluto & his Spouse Flock to the Ghost of Covent-Garden house: Plays, which were hiss’d above, below revive; When dead applauded, that were damn’d alive: The People, as in life, still keep their Passions, But differ something from the world in Fashions. Queen Artemisia breakfasts on Bohea, And Alexander wears a Ramilie."
+        }
+      ]
+    }
+  ]
+}

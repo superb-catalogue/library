@@ -1,0 +1,47 @@
+{
+  "title": "Buddenbrooks",
+  "author": "Thomas Mann",
+  "identifier": "https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter",
+    "published": "2024-10-14T18:34:24Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/72961",
+    "https://www.gutenberg.org/ebooks/72962",
+    "https://archive.org/details/buddenbrooks0001mann",
+    "https://archive.org/details/buddenbrooks0002mann"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "83"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-best-novels-of-all-time-2026-epub.zip",
+    "epub_sha256": "e8fff4af13ffcd7bba332b06d282e167c449026ee2d8cd1fb613c1442b84d2a9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 108,
+    "words": 229888,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

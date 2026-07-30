@@ -1,0 +1,40 @@
+{
+  "title": "Liberalism",
+  "author": "L. T. Hobhouse",
+  "identifier": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+    "published": "2022-06-22T18:26:09Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/28278",
+    "https://archive.org/details/liberalism00hobh"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/l-t-hobhouse/liberalism",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "b70d284b6157882ae5282d0e133b71a341b8d3d1e87b248437213eb6c6696c54"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 47665,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

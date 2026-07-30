@@ -1,0 +1,67 @@
+{
+  "title": "Essays",
+  "author": "Errico Malatesta",
+  "identifier": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
+    "published": "2024-02-07T17:41:53Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/40365",
+    "https://catalog.hathitrust.org/Record/001746619",
+    "https://theanarchistlibrary.org/library/errico-malatesta-a-bit-of-theory",
+    "https://archive.org/details/freedom_1923.10_37.411",
+    "https://theanarchistlibrary.org/library/errico-malatesta-the-duties-of-the-present-hour",
+    "https://archive.org/details/liberty-uk-aug-1894",
+    "https://theanarchistlibrary.org/library/errico-malatesta-anarchy-and-violence",
+    "https://archive.org/details/liberty-uk-sept-1894",
+    "https://archive.org/details/liberty-uk-oct-1894",
+    "https://theanarchistlibrary.org/library/errico-malatesta-should-anarchists-be-admitted-to-the-coming-international-congress",
+    "https://archive.org/details/labour-leader_1896-07-11",
+    "https://theanarchistlibrary.org/library/errico-malatesta-anarchism-and-syndicalism",
+    "https://archive.org/details/freedom_1907.11_21.223",
+    "https://theanarchistlibrary.org/library/errico-malatesta-anarchists-and-the-situation",
+    "https://archive.org/details/freedom_1909.06_23.242",
+    "https://catalog.hathitrust.org/Record/100697009",
+    "https://archive.org/details/les-temps-noveaux_1911-02-18",
+    "https://theanarchistlibrary.org/library/errico-malatesta-the-general-strike-and-the-insurrection-in-italy",
+    "https://archive.org/details/mother-earth/Mother%20Earth%20v09n06%20%281914-08%29%20%28c2c%20Harvard%20DSR%29",
+    "https://theanarchistlibrary.org/library/errico-malatesta-anarchists-have-forgotten-their-principles",
+    "https://archive.org/details/freedom_1914.11_28.307",
+    "https://theanarchistlibrary.org/library/errico-malatesta-anti-militarism-was-it-properly-understood",
+    "https://archive.org/details/freedom_1914.12_28.308",
+    "https://theanarchistlibrary.org/library/errico-malatesta-italy-also",
+    "https://archive.org/details/mother-earth/Mother%20Earth%20v10n05%20%281915-07%29%20%28c2c%20Harvard%29",
+    "https://theanarchistlibrary.org/library/errico-malatesta-pro-government-anarchists",
+    "https://archive.org/details/freedom_1916.04_30.324",
+    "https://archive.org/details/sep-1921-liberator",
+    "https://archive.org/details/freedom-1921-08"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/errico-malatesta/essays/various-translators",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "5b25ee198bf2ebee2162c5e433e30adad14ad17023d397dfebffd0c7d132a778"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 15,
+    "words": 34570,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

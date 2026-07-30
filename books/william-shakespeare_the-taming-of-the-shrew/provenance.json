@@ -1,0 +1,44 @@
+{
+  "title": "The Taming of the Shrew",
+  "author": "William Shakespeare",
+  "identifier": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
+    "published": "2022-01-01T23:44:10Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "http://shakespeare.mit.edu/taming_shrew/full.html",
+    "https://catalog.hathitrust.org/Record/004135080"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-shakespeare/the-taming-of-the-shrew",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "2714e922b01561656b818f362be102a6b242c8aff0b70d260082e7ab22901d3d"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 6,
+    "words": 21177,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

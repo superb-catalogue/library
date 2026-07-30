@@ -1,0 +1,56 @@
+{
+  "title": "Alice’s Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "identifier": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/11",
+    "https://archive.org/details/adventuresalices00carrrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fiction"
+  ],
+  "category": "Children’s",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "18"
+    },
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "40"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "24"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
+    "epub_sha256": "ee036cd4da21ea84aa9f17cbdd75a476e1f69ee5f51136ef5469e85b008fe17d"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 26395,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Sir Gawain and the Green Knight",
+  "author": "Anonymous",
+  "identifier": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew",
+    "published": "2026-02-23T01:31:48Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://catalog.hathitrust.org/Record/000391131"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "6bb4b571cb972bebd02996532467677888b92c3e37a2deab8569c8012ad6b589"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 4,
+    "words": 21097,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

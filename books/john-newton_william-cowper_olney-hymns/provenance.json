@@ -1,0 +1,39 @@
+{
+  "title": "Olney Hymns",
+  "author": "John Newton, William Cowper",
+  "identifier": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns",
+    "published": "2026-04-21T17:47:50Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://en.wikisource.org/wiki/Olney_Hymns_%281840%29",
+    "https://archive.org/details/olneyhymnsinthre00cowpuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "f0eff422e3f819263afe71e07295f76208728849754cbcca289745b765fcab8a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 63867,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

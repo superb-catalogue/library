@@ -1,0 +1,46 @@
+{
+  "title": "The Survivors of the Chancellor",
+  "author": "Jules Verne",
+  "identifier": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer",
+    "published": "2021-10-04T15:02:35Z",
+    "modified": "2026-07-25T20:50:36Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1652",
+    "https://catalog.hathitrust.org/Record/100497179"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Voyages Extraordinaires",
+      "type": "series",
+      "position": "13"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-voyages-extraordinaires-epub.zip",
+    "epub_sha256": "ec79e5319d7ece18e455609e405996f34d3daa8d8f931af6940fc6a488fddcc1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 57,
+    "words": 52650,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

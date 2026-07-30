@@ -1,0 +1,45 @@
+{
+  "title": "Two Treatises of Government",
+  "author": "John Locke",
+  "identifier": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+    "published": "2025-01-02T16:48:33Z",
+    "modified": "2026-07-14T15:31:01Z"
+  },
+  "made_from": [
+    "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed",
+    "https://archive.org/details/twotreatisesgov00lockgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/john-locke/two-treatises-of-government",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "category": "Nonfiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "c60b2a0434784e2f0bacfb90425ccfdd7bc9261ac06af0e80a59646aa346bab4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 32,
+    "words": 101035,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

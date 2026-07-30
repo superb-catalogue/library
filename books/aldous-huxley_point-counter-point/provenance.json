@@ -1,0 +1,46 @@
+{
+  "title": "Point Counter Point",
+  "author": "Aldous Huxley",
+  "identifier": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+    "published": "2025-01-09T17:02:58Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20221257",
+    "https://archive.org/details/bwb_P8-CBC-731"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/aldous-huxley/point-counter-point",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Satire"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Modern Library’s 100 Best Novels",
+      "type": "set",
+      "position": "44"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-modern-librarys-100-best-novels-epub.zip",
+    "epub_sha256": "f122e0e31fed5d046717e7a7fb851bcf0d584924af8009f26c6f962e3b53c474"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 37,
+    "words": 172233,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

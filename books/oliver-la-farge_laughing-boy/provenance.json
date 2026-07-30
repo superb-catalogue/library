@@ -1,0 +1,44 @@
+{
+  "title": "Laughing Boy",
+  "author": "Oliver La Farge",
+  "identifier": "https://standardebooks.org/ebooks/oliver-la-farge/laughing-boy",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/oliver-la-farge/laughing-boy",
+    "published": "2025-01-01T09:01:00Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://archive.org/details/laughingboy0000unse_t9r1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/oliver-la-farge/laughing-boy",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Pulitzer Prize for Fiction Winners",
+      "type": "series",
+      "position": "12"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-pulitzer-prize-for-fiction-winners-epub.zip",
+    "epub_sha256": "18fc44b975749e4e216e9ab389dd7ac3c768dd789fc3a754b7b83737578ce3ad"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 21,
+    "words": 64120,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

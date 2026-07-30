@@ -1,0 +1,40 @@
+{
+  "title": "A Voice from the South",
+  "author": "Anna Julia Cooper",
+  "identifier": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+    "published": "2024-07-15T16:50:49Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/61741",
+    "https://archive.org/details/voicefromsouth00coop"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anna-julia-cooper/a-voice-from-the-south",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "54914e937c6fba20d7e018017e8a1916c50883549aad6eb7d8abfa39b0be0600"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 59416,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

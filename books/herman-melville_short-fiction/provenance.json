@@ -1,0 +1,49 @@
+{
+  "title": "Short Fiction",
+  "author": "Herman Melville",
+  "identifier": "https://standardebooks.org/ebooks/herman-melville/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/herman-melville/short-fiction",
+    "published": "2020-03-09T23:09:23Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/15859",
+    "https://www.gutenberg.org/ebooks/53861",
+    "https://www.gutenberg.org/ebooks/76513",
+    "https://archive.org/details/piazztales00melvrich",
+    "https://archive.org/details/appletree00melvrich",
+    "https://archive.org/details/billybuddotherpr0000herm"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/herman-melville/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "ea9c766922d2e55011a87f78e76f5d32b01436b818cbac97ca2e7e6d7a040bcf"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 18,
+    "words": 169737,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

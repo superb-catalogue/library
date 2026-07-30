@@ -1,0 +1,50 @@
+{
+  "title": "File No. 113",
+  "author": "Émile Gaboriau",
+  "identifier": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
+    "published": "2019-07-17T23:19:53Z",
+    "modified": "2026-07-18T18:20:00Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/3803",
+    "https://books.google.com/books?id=yio9AAAAYAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/emile-gaboriau/file-no-113/james-r-osgood-co",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Monsieur Lecoq",
+      "type": "series",
+      "position": "3"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "3ae0702b9599932829f1c38bf90fdfe3b93cb9adae7cbc92fa9310e5522383a9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 25,
+    "words": 145348,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

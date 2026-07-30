@@ -62,6 +62,28 @@ what gets automated is the thing that actually happens rather than a guess at it
 Until it is here, do those steps by hand and say what was awkward — that is the
 useful part.
 
+**What the automated check before a book is added does, and does not, prove.**
+`scripts/gate.py` and the same check inside `scripts/ingest.py` confirm two
+things fast: that the book's own metadata cites a licence URI this library
+accepts, checked by parsing it as a URL rather than searching for the
+allow-listed text — and that the file itself is intact, its reading order
+resolves and its identifier points at a real page. That is all a check on a
+file's contents can ever confirm. It cannot tell whether the claim in the
+metadata is true — nothing that only reads the file can, since a copy with a
+forged licence statement would read exactly like a genuine one.
+
+**Here is what that actually means for the 614 books already on this shelf,
+plainly, rather than more than is true:** they came from Standard Ebooks,
+whose editions each carry a public-domain dedication in their own metadata.
+The check confirms that dedication is present in machine-readable form and
+that the file parses. **Nobody has independently re-verified each of the 614
+works' copyright status against an outside source.** Rule 3 above — "the
+terms were read, not assumed" — was applied when Standard Ebooks was chosen
+as a source and when a book's own metadata is read; it is not a separate,
+additional per-book check against Standard Ebooks' website that runs today.
+If a per-book check-at-source is wanted later, it is separate work, not
+something this repository already does.
+
 ## Licences
 
 The books each carry their own, recorded per book.
@@ -71,6 +93,16 @@ This repository's own files — the scripts, the notes, this page — are MIT.
 The app is source-available: free to read, use, change and pass along, but not to
 sell. That is the app's licence and it does not reach the books here.
 
+## The shelf
+
+The whole thing, one row per book, is in [`LIBRARY.md`](LIBRARY.md) — sorted
+by category, with what each book is, who wrote it, and which other lists it
+turned up in. `CATEGORIES.md` says what the categories are and why.
+
 ## Status
 
-New, and mostly empty. The shape comes first, then the books.
+614 books, taken from 32 of Standard Ebooks' subject and collection sets (not
+their whole catalogue, which runs to several times this size), de-duplicated
+and retypeset by `scripts/ingest.py`. More arrive as more of Standard Ebooks'
+collections are added, as Standard Ebooks publishes new editions, and as
+Gutenberg titles are typeset by hand and added through the same path.

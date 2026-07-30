@@ -1,0 +1,41 @@
+{
+  "title": "Poetry",
+  "author": "Ameen Rihani",
+  "identifier": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+    "published": "2023-05-22T17:17:20Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://en.wikisource.org/wiki/Myrtle_and_Myrrh",
+    "https://en.wikisource.org/wiki/A_Chant_of_Mystics_and_Other_Poems",
+    "https://archive.org/details/myrtlemyrrhpoems00riha",
+    "https://archive.org/details/chantofmysticsot00riha"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ameen-rihani/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "9e78ffdb53bff460259e7104a6eed5f3083f73c5c1cc1ce98a13c5f8a10c867c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 79,
+    "words": 18523,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

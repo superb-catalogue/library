@@ -1,0 +1,60 @@
+{
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "identifier": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+    "published": "2018-07-18T22:49:37Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/768",
+    "https://archive.org/details/wutheringheights0000bron_x3t1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "13"
+    },
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "7"
+    },
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "20"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "17"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-best-novels-of-all-time-2026-epub.zip",
+    "epub_sha256": "b6bc76452536ce819ea76fcedbccb3d2e29e222bdbb00d09695c176ea0204361"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 34,
+    "words": 115870,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

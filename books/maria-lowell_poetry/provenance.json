@@ -1,0 +1,39 @@
+{
+  "title": "Poetry",
+  "author": "Maria Lowell",
+  "identifier": "https://standardebooks.org/ebooks/maria-lowell/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/maria-lowell/poetry",
+    "published": "2026-07-18T19:12:07Z",
+    "modified": "2026-07-18T19:12:10Z"
+  },
+  "made_from": [
+    "https://search.lib.virginia.edu/sources/uva_library/items/uva-lib:439721",
+    "https://archive.org/details/poemsofmarialowe00lowerich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/maria-lowell/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "34ed436a05592e4eb7181ae392e50819d58ba5643e2b4ab41eba31783db2320b"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 20,
+    "words": 4854,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

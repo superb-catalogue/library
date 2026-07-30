@@ -1,0 +1,50 @@
+{
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "identifier": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+    "published": "2019-08-26T21:08:27Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://catalog.hathitrust.org/Record/000634929"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/john-milton/paradise-lost",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Poetry",
+    "Spirituality"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "1"
+    },
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "232edd32acde476cc0c619adfc4977d43254014d7b39d9ce4f7d3359fd0365ca"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 82094,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

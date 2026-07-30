@@ -1,0 +1,69 @@
+{
+  "title": "The Woman in White",
+  "author": "Wilkie Collins",
+  "identifier": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white",
+    "published": "2017-09-18T22:59:38Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/583",
+    "https://archive.org/details/157028180.1846.emory.edu"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "90"
+    },
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "33"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "The Crime Writers’ Association Top 100 Crime Novels of All Time",
+      "type": "set",
+      "position": "28"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "25"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "23"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "02e99731684f83a213db34509f318c748ce5e35b9143e03df8759f1ab2e442fe"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 61,
+    "words": 244413,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

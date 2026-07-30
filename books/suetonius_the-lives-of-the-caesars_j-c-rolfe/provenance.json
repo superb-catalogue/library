@@ -1,0 +1,40 @@
+{
+  "title": "The Lives of the Caesars",
+  "author": "Suetonius",
+  "identifier": "https://standardebooks.org/ebooks/suetonius/the-lives-of-the-caesars/j-c-rolfe",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/suetonius/the-lives-of-the-caesars/j-c-rolfe",
+    "published": "2019-10-25T21:06:16Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/home.html",
+    "https://archive.org/details/L031SuetoniusTheLivesOfTheCaesarsI",
+    "https://archive.org/details/L038SuetoniusTheLivesOfTheCaesarsII"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/suetonius/the-lives-of-the-caesars/j-c-rolfe",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "ad3aecdc961e744f46d8eae3f193b1c33b7457e228d755252a644dc3c3a71bc3"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 8,
+    "words": 124287,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

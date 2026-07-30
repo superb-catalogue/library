@@ -1,0 +1,50 @@
+{
+  "title": "Poetry",
+  "author": "Georgia Douglas Johnson",
+  "identifier": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
+    "published": "2024-12-12T21:06:50Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-the-heart-of-a-woman-full-text-1918",
+    "https://catalog.hathitrust.org/Record/103153234",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-bronze-full-text-1922",
+    "https://catalog.hathitrust.org/Record/000781515",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poems-by-georgia-douglas-johnson-in-the-new-negro-1925",
+    "https://catalog.hathitrust.org/Record/000340210",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-an-autumn-love-cycle-full-text-1928",
+    "https://catalog.hathitrust.org/Record/102777177",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-poems-published-in-the-crisis-1910-1926",
+    "https://catalog.hathitrust.org/Record/000502434",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poems-published-in-the-messenger-magazine",
+    "https://catalog.hathitrust.org/Record/000056822",
+    "https://catalog.hathitrust.org/Record/000064962"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/georgia-douglas-johnson/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "c8c95efb39e476bf3bb21bc5eb244c5aac5d82265083be311ed1ff5aa8b97434"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 209,
+    "words": 12129,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

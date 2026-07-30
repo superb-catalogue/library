@@ -1,0 +1,61 @@
+{
+  "title": "The Return of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "identifier": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+    "published": "2018-07-27T21:25:04Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/108",
+    "https://www.google.com/books/edition/The_Return_of_Sherlock_Holmes/Le49AQAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Sherlock Holmes",
+      "type": "series",
+      "position": "6"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "The Crime Writers’ Association Top 100 Crime Novels of All Time",
+      "type": "set",
+      "position": "21"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "3"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "aeb31e85bcbe7dfbe86b2873614c7690e1d360c9cdb77a7c8ad78a3e5ee7231c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 112097,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

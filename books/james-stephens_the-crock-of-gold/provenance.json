@@ -1,0 +1,41 @@
+{
+  "title": "The Crock of Gold",
+  "author": "James Stephens",
+  "identifier": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+    "published": "2022-04-12T02:31:32Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1605",
+    "https://archive.org/details/b1109137"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-stephens/the-crock-of-gold",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Philosophy"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-philosophy-epub.zip",
+    "epub_sha256": "dac5d109a8ed27abf33a39215aceb0798ac7d0bff17617e90c6a3d9caededf0c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 24,
+    "words": 55653,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

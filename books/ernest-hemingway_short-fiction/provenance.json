@@ -1,0 +1,57 @@
+{
+  "title": "Short Fiction",
+  "author": "Ernest Hemingway",
+  "identifier": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+    "published": "2022-01-01T22:44:27Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.google.com/books/edition/_/xo-73MR3ETkC",
+    "https://www.gutenberg.org/ebooks/59603",
+    "https://archive.org/details/in.ernet.dli.2015.499337",
+    "https://en.wikisource.org/wiki/In_Our_Time",
+    "https://www.google.com/books/edition/In_Our_Time/HgctAAAAIAAJ",
+    "https://www.fadedpage.com/showbook.php?pid=20210135",
+    "https://archive.org/details/torrentsofspring00hemi",
+    "https://www.fadedpage.com/showbook.php?pid=20160117",
+    "https://archive.org/details/in.ernet.dli.2015.182855"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ernest-hemingway/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "50"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "7b53b11364aa6ff1327792388b0c4c52c0eaeade4e5da31389db967da2d14f99"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 49,
+    "words": 102232,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

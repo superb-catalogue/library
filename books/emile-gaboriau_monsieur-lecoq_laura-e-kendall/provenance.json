@@ -1,0 +1,52 @@
+{
+  "title": "Monsieur Lecoq",
+  "author": "Émile Gaboriau",
+  "identifier": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+    "published": "2019-07-23T18:43:00Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/4071",
+    "https://www.gutenberg.org/ebooks/4002",
+    "https://books.google.com/books?id=d176NoAvTocC",
+    "https://books.google.com/books?id=LqYPAAAAYAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Monsieur Lecoq",
+      "type": "series",
+      "position": "5"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "72ed4cc0a78ddd542e48b6d4daca1f0a1859adb66800a11922f299fb45f65197"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 83,
+    "words": 248837,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

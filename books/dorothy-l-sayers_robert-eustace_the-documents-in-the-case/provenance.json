@@ -1,0 +1,45 @@
+{
+  "title": "The Documents in the Case",
+  "author": "Dorothy L. Sayers, Robert Eustace",
+  "identifier": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+    "published": "2026-03-12T20:11:15Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/77601",
+    "https://archive.org/details/bwb_O6-BMX-852"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/dorothy-l-sayers_robert-eustace/the-documents-in-the-case",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "382a09fe94cbe623b8c8184924ab6048bd76eefa1f9bd926933789e210d0131e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 55,
+    "words": 76737,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

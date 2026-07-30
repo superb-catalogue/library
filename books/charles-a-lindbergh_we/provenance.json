@@ -1,0 +1,40 @@
+{
+  "title": "“We”",
+  "author": "Charles A. Lindbergh",
+  "identifier": "https://standardebooks.org/ebooks/charles-a-lindbergh/we",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-a-lindbergh/we",
+    "published": "2026-01-17T20:15:48Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/73142",
+    "https://archive.org/details/bwb_Y0-CGU-336"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-a-lindbergh/we",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Autobiography",
+  "genres": [
+    "Autobiography",
+    "Nonfiction"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "e1960e8d622e0fb6391bd49bcd46602e289f0ca0dfda177ff81a661fb792218c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 35693,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

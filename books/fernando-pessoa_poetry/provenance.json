@@ -1,0 +1,46 @@
+{
+  "title": "Poetry",
+  "author": "Fernando Pessoa",
+  "identifier": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+    "published": "2024-01-24T18:08:48Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/19978",
+    "https://archive.org/details/sonnets00pess",
+    "https://www.gutenberg.org/ebooks/66039",
+    "https://www.gutenberg.org/ebooks/66040",
+    "https://permalinkbnd.bnportugal.gov.pt/records/item/91830-english-poems",
+    "http://arquivopessoa.net/textos/1750",
+    "https://archive.org/details/p1athenaeum1920lond",
+    "http://arquivopessoa.net/textos/1761",
+    "https://hemerotecadigital.cm-lisboa.pt/OBRAS/CONTEMPORANEA/1923/N9/N9_item1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/fernando-pessoa/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "a9e17ded5673cde8632414d1e568560bd29bf087640950b58d5c19f663e36d62"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 4,
+    "words": 10416,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

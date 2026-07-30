@@ -1,0 +1,50 @@
+{
+  "title": "Craig Kennedy Stories",
+  "author": "Arthur B. Reeve",
+  "identifier": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
+    "published": "2026-07-17T19:52:35Z",
+    "modified": "2026-07-17T19:52:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2454",
+    "https://www.google.com/books/edition/The_Silent_Bullet/Upg9AQAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/arthur-b-reeve/craig-kennedy-stories",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Craig Kennedy",
+      "type": "series"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "f7fd9dd86e5a15eb08a0f9e73982d94d5c9953dcec0ed9821148d7265f86ec94"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 89264,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

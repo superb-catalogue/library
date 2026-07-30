@@ -1,0 +1,44 @@
+{
+  "title": "Payment Deferred",
+  "author": "C. S. Forester",
+  "identifier": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred",
+    "published": "2025-12-18T22:08:02Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20180787",
+    "https://archive.org/details/bwb_T4-ALG-425"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/c-s-forester/payment-deferred",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "a79895a14c7c26cf2798d10bd817d6d7b125ebc3153aa78d07da2dd683007cf0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 16,
+    "words": 59290,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

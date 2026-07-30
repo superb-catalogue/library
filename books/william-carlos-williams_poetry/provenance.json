@@ -1,0 +1,43 @@
+{
+  "title": "Poetry",
+  "author": "William Carlos Williams",
+  "identifier": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+    "published": "2019-09-11T21:24:43Z",
+    "modified": "2026-07-06T20:53:40Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/31878",
+    "https://archive.org/details/temperscarlos00willrich",
+    "https://www.gutenberg.org/ebooks/51997",
+    "https://catalog.hathitrust.org/Record/006060238",
+    "https://www.gutenberg.org/ebooks/35667",
+    "https://catalog.hathitrust.org/Record/007676947"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-carlos-williams/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "7ccf9d3bd3e61d77204fbc221c7e8fb7e4f3d6f57fb09750ab55a83be7686a27"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 124,
+    "words": 17998,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

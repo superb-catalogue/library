@@ -1,0 +1,52 @@
+{
+  "title": "Three Men in a Boat",
+  "author": "Jerome K. Jerome",
+  "identifier": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+    "published": "2016-02-18T22:59:37Z",
+    "modified": "2026-07-14T15:30:56Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/308",
+    "https://archive.org/details/threemeninboatto00jerorich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jerome-k-jerome/three-men-in-a-boat",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction",
+    "Travel"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "25"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "33"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
+    "epub_sha256": "16c7b5e3fafb2d28996c0ea7b4827386d02e03b48c098585ef4b6adebc40f255"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 66262,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

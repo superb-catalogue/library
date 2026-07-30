@@ -1,0 +1,44 @@
+{
+  "title": "The Cherry Orchard",
+  "author": "Anton Chekhov",
+  "identifier": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+    "published": "2025-09-25T20:55:05Z",
+    "modified": "2026-07-14T15:29:29Z"
+  },
+  "made_from": [
+    "https://catalog.hathitrust.org/Record/102691823"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "29d61239a08846f3af12fe2340392b74c9ca6883779e78b3952506c7e4e0ba41"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 4,
+    "words": 7893,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

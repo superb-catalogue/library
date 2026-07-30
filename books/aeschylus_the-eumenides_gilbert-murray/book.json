@@ -1,0 +1,3308 @@
+{
+  "title": "The Eumenides",
+  "author": "Aeschylus",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "drama"
+      ],
+      "blocks": [
+        {
+          "type": "scene",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Scene represents the front of the Temple of Apollo at Delphi; great doors at the back lead to the inner shrine and the central Altar. The Pythian Prophetess is standing before the Doors.4"
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Prophetess"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "First of all Gods I worship in this prayer5 Earth, the primeval prophet; after her Themis, the Wise, who on her mother’s throne﻿— So runs the tale﻿—sat second; by whose own Accepted will, with never strife nor stress, Third reigned another earth-born Titaness, Phoebe; from whom (for that he bears her name) To Phoebus as a birthtide gift it came."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "He left his isle, he left his Delian seas,6 He passed Athena’s wave-worn promontories, In haste this great Parnassus to possess And Delphi, thronèd in the wilderness. And with him came, to escort him and revere, A folk born of Hephaistos, pioneer Of God’s way, making sweet a bitter land. And much this people and the King whose hand Then steered them, Delphos, glorified his name, Till Zeus into his heart put mystic flame And prophet here enthroned him, fourth in use: So Loxias’ lips reveal the thought of Zeus.7"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "These gods be foremost in all prayers of mine, Who have held the Throne. Next, She before the shrine, Pallas, is praisèd, and the Nymphs who keep Yon old Corycian bird-belovèd steep, Deep-caverned, where things blessèd come and go. And Bromios walks the mountain, well I know, Since first he led his Maenad host on high And doomed King Pentheus like a hare to die.8 And Pleistos’ fountains and Poseidon’s power I call, and Him who brings the Perfect Hour, Zeus, the Most Highest. With which prayers I go To seat me, priestess, on the Throne. And, oh, May God send blessing on mine entrance, more And deeper than He e’er hath sent of yore!"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "If there be present men of Greece but not Of Delphi, let them enter as the lot Ordains; I speak but as God leadeth me. She enters the Inner Shrine, and the stage is for a moment empty. Then she returns, grasping at the wall for support. Ah! Horrors, horrors, dire to speak or see, From Loxias’ chamber drive me reeling back. My knees are weak beneath me, and I lack The strength to fly.﻿ ﻿… O hands, drag me from here If feet fail!﻿ ﻿… An old woman, and in fear, A thing of naught, a babe in helplessness! I made my way into the Holy Place, And there, at the inmost Altar of the world, A man abhorred of God, his body hurled Earthward in desperate prayer; blood on his hand9 Yet reeking, and a naked new-drawn brand Wreathed in beseeching wool, a suppliant’s weed Of snow-white fleece﻿ ﻿… so much mine eyes could read. But out in front of him a rout unknown Of women sleepeth, flung from throne to throne. Women? Nay, never women! Gorgons more: And yet not like the Gorgon shapes of yore.﻿ ﻿…10 I saw a picture once of woman things That ravished Phineus’ banquet. But no wings Have these; all shadows, black, abominable. The voices of their slumber rise and swell, Back-beating, and their eyes drop gouts of gore. Their garb, it is no garb to show before God’s altar nor the hearths of human kind. I cannot read what lineage lies behind These shapes, nor what land, having born such breed, Hath trembled not before and shall not bleed Hereafter. Let Apollo great in power Take to his care the peril of this hour: Being Helper, Prophet, Seer of things unseen, The stainèd hearth he knoweth to make clean. The Prophetess departs. The doors open and reveal the inner shrine, Orestes at the Altar, the Furies asleep about him, and Apollo standing over them.11"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I fail thee not. For ever more I stay, Or watching at thy side or far away, Thy guard, and iron against thine enemies. Even now my snares have closèd upon these, The ragers sleep: the Virgins without love, So grey, so old, whom never god above Hath kissed, nor man, nor from the wilderness One wild beast. They were born for wickedness And sorrow;12 for in evil night they dwell, And feed on the great darkness that is Hell, Most hated by the Gods and human thought. But none the less, fly thou and falter not. For these shall hunt thee, ever on through earth Unwandered, through the vast lands of the North, The sea-ways and the cities ringed with sea. But faint not. Clasp thy travail unto thee; On till thou come to Pallas’ Rock,13 and fold Thine arms in prayer about her image old. In Athens there be hearts to judge, there be Words that bring peace; and I shall set thee free At last from all this woe.﻿—If thou didst kill Thy mother, was it not my word and will?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Not to betray thou knowest. Oh, ponder yet One other lesson, Lord﻿—not to forget! Thy strength in doing can be trusted well. Orestes departs."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Remember! Let no fear thy spirit quell!"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Do thou, O Hermes, brother of my blood, Watch over him. Thou guide of man, make good The name thou bearest, shepherding again My suppliant. Him who pitieth suffering men Zeus pitieth,14 and his ways are sweet on earth. Exit Apollo. Presently enter the Ghost of Clytemnestra. She watches the sleeping Furies."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "blocks": [
+                            {
+                              "type": "noteref",
+                              "text": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye sleep. O God, and what are sleepers worth? ’Tis you, have left me among all the dead Dishonoured. Alway, for that blood I shed, Rebuke and hissing cease not, and I go Wandering in shame. Oh, hear!﻿ ﻿… For that old blow I struck still I am hated, but for his Who smote me, being of my blood, there is No wrath in all the darkness: there is none Cares for a mother murdered by her son."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Open thine heart to see this gash!﻿—She shows the wound in her throat. In sleep The heart hath many eyes and can see deep: ’Tis daylight makes man’s fate invisible."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Oft of my bounty ye have lapt your fill; Oft the sad peace of wineless cups to earth I have poured, and midmurk feastings on your hearth Burned, when no other god draws near to eat."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "And all these things ye have cast beneath your feet, And he is fled, fled lightly like a fawn Out of your nets! With mocking he is gone And twisting of the lips.﻿ ﻿… I charge you, hark! This is my life, my death. Oh, shake the dark From off you, Children of the Deep. ’Tis I, Your dream, I, Clytemnestra, stand and cry. Moaning among the Furies. Moan on, but he is vanished and forgot. So strong the prayers of them that love me not! Moaning. Too sound ye sleep.﻿—And have ye for the dead No pity?﻿ ﻿… And my son, my murderer, fled! Groaning. Ye groan; ye slumber. Wake!﻿ ﻿… What task have ye To do on earth save to work misery? Groaning. Can sleep and weariness so well conspire To drain the fell she-dragon of her fire? Sharp repeated muttering: then words “At him! At him! Catch, catch, catch! Ah, beware!” Ah, hunting in your dreams, and clamorous yet, Tired bloodhounds that can sleep but not forget!"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "How now? Awake! Be strong! And faithful keep Thy lust of pain through all the drugs of sleep."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Thou feelst my scorn? Aye, feel and agonize Within; such words are scourges to the wise. Thy blood-mist fold about him, like a doom. Waste him with vapour from thy burning womb. A second chase is death!﻿ ﻿… Pursue! Pursue! The Ghost vanishes as the Furies gradually wake."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "blocks": [
+                            {
+                              "type": "noteref",
+                              "text": "16"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Awake! Quick, waken her as I wake you! Thou sleepest? Rise; cast slumber from thy brain And search. Is our first hunt so all in vain?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Speaking severally."
+                            },
+                            {
+                              "type": "song",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "—O rage, rage and wrath! Friends, they have done me wrong! —Many and many a wrong I have suffered, mockeries all! —Evil and violent deeds, a shame that lingereth long And bitter, bitter as gall! —The beast is out of the toils, out of the toils and away! —I slept, and I lost my prey."
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "—What art thou, O Child of Zeus? A thief and a cozener! —Many and many a wrong I have suffered, mockeries all! —Hast broken beneath thy wheels them that were holy and old? —Many and many a wrong I have suffered, mockeries all! —A godless man and an evil son, he but kneels in prayer, And straight he is ta’en to thy fold. —Thou hast chosen the man who spilt his mother’s blood! —Are these things just, thou God?"
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "—As a raging charioteer mid-grippeth his goad to bite Beneath the belly, beneath the flank, where the smart is hot, There riseth out of my dreams Derision with hands to smite; As a wretch at the block is scourged when the scourger hateth aright, And the shuddering pain dies not."
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "—These be the deeds ye do, ye Gods of the younger race: Ye break the Law at your will; your high throne drips with gore, The foot is wet and the head. There is blood in the Holy Place! The Heart of Earth uplifteth its foulness in all men’s face, Clean nevermore, nevermore!"
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "—Blood, thou holy Seer, there is blood on thy burning hearth. Thine inmost place is defiled, and thine was the will and the word. Thou hast broken the Law of Heaven, exalted the things of Earth; The hallowed Portions of old thine hand hath blurred."
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "—Thou knowest to hurt my soul; yea, but shalt save not him. The earth may open and hide, but never shall he be freed. Defiling all he goes, there where in exile dim Many defilers more wait and bleed."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Apollo"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "blocks": [
+                            {
+                              "type": "noteref",
+                              "text": "17"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Avaunt, I charge you! Get ye from my door! Darken this visionary dome no more! Quick, lest ye meet that snake of bitter wing That leaps a-sudden from my golden string, And in your agony spue forth again The black froth ye have sucked from tortured men!"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "This floor shall be no harbour to your feet. Are there not realms where Law upon her seat Smites living head from trunk? Where prisoners bleed From gougèd eyes? Children with manhood’s seed Blasted are there; maimed foot and severed hand, And stoning, and a moan through all the land Of men impaled to die. There is the board Whereat ye feast, and, feasting, are abhorred Of heaven.﻿—But all the shapes of you declare Your souls within. Some reeking lion’s lair Were your fit dwelling, not this cloistered Hall Of Mercy, which your foulness chokes withal."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Out, ye wild goats unherded! Out, ye drove Accursed, that god nor devil dares to love! During this speech the Furies fly confusedly from the Temple down into the Orchestra. The Leader turns."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Phoebus Apollo, in thy turn give heed! I hold thee not a partner in this deed; Thou hast wrought it all. The guilt is thine alone."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "What sayst thou there?﻿—One word, and then begone."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thou spakest and this man his mother slew."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I spoke, and he avenged his father. True."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thou stoodest by, to accept the new-shed gore."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I bade him turn for cleansing to my door."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ha! And revilest us who guide his feet?18"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye be not clean to approach this Mercy Seat."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "We be by Law eternal what we be."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And what is that? Reveal thy dignity."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "We hunt from home his mother’s murderer."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "A husband-murdering woman, what of her?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "’Twas not one blood19 in slayer and in slain."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "How? Would ye count as a light thing and vain The perfect bond of Hera and high Zeus? Yea, and thy word dishonoured too the use Of Cypris, whence love groweth to his best. The fate-ordainèd meeting, breast to breast, Of man and woman is a tie more sure Than oath or pact, if Justice guards it pure. If them so joined ye heed not when they slay, Nor rise in wrath, nor smite them on their way, Unrighteous is thine hunting of this man, Orestes. Why on him is all thy ban Unloosed? The other never broke thy rest﻿ ﻿… But Pallas, child of Zeus, shall judge this quest."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I cleave to him. I leave him never more."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Oh, hunt thy fill! Make sorrow doubly sore."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Abridge not thou the Portions of my lot."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Keep thou thy portions. I will touch them not."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thou hast thy greatness by the throne of God;20 I﻿ ﻿… But the scent draws of that mother’s blood. I come! I come! I hunt him to the grave.﻿ ﻿… The Furies go out on the track of Orestes."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "’Tis mine then to bring succour, and to save My suppliant. Earth and Heaven are both afraid For God’s wrath, if one helpless is betrayed. Apollo returns behind the shrine, and the doors close. When they open again, they reveal, in place of Apollo’s Central Altar, the Statue of Athena Parthenos: the scene now represents the Temple of Athena in Athens.21"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Orestes"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Pallas Athena, from Apollo’s wing I come; receive in peace this hunted thing My sin no more polluteth, nor with hand Unpurified before thy throne I stand. A blunted edge, grief-worn and sanctified By pain, where’er men traffic or abide, On, on, o’er land and sea I have made my way, True-purposed Loxias’ bidding to obey. At last I have found thy House; thine image I Clasp, and here wait thy judgement till I die. He throws himself down at the feet of the Statue, but no answer comes. Presently enter the Furies, following him."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ha! Here he has passed. Spot reeketh upon spot. Blood is a spy that points and babbles not. Like hounds that follow some sore-wounded fawn, We smell the way that blood and tears are gone, And follow.﻿—Oh, my belly gaspeth sore With toils man-wasting; I can chase no more. Through all the ways of the world I have shepherded My lost sheep, and above the salt sea sped, Wingless pursuing, swift as any sail. And now ’tis here, meseemeth, he doth quail And cower.﻿—Aye, surely it is here; the smell Of man’s blood laughs to meet me. All is well."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Searching."
+                            },
+                            {
+                              "type": "song",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "Ha, search, search again! Seek for him far and wide. Shall this man fly or hide And the unatonèd stain Of his mother’s blood be vain? Haha! Lo where he lies! And comfort is in his eyes! He hath made his arms a wreath For the knees of the Deathless One, And her judgement challengeth On the deed his hands have done. In vain! All in vain! When blood on the earth is shed, Blood of a mother dead, Ye shall gather it not again. ’Tis wet, ’tis vanishèd, Down in the dust like rain. Thyself shalt yield instead, Living, from every vein, Thine own blood, rich and red, For our parchèd mouths to drain, Till my righteous heart be fed With thy blood and thy bitter pain; Till I waste thee like the dead, And cast thee among the slain, Till her wrong be comforted And her wound no longer stain."
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "The Law thou then shalt see; That whoso of men hath trod In sin against these three, Parent or Guest or God,22 That sin is unforgot, And the payment faileth not. There liveth, for every man, Below, in the realm of Night, A judge who straighteneth The crooked; his name is Death. All life his eye doth scan And recordeth right."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I have known much evil, and have learnt therein23 What divers roads man goes to purge his sin, And when to speak and when be dumb; and eke In this thing a wise master bids me speak. The blood upon this hand is fallen asleep And fades. And though a sin be ne’er so deep ’Twill age with the aging years. When this of mine Was fresh, on Phoebus’ hearth with blood of swine ’Twas washed and blurred. ’Twere a long tale since then, To tell how I have spoke with many men In scatheless parle. And now, with lips of grace, Once more I pray the Lady of this place, Athena, to mine aid. Let her but come; Myself, mine Argive people and my home Shall without war be hers, hers true of heart And changeless. Therefore, wheresoe’er thou art, In some far wilderness of Libyan earth, By those Tritonid waters of thy birth; Upgirt for deeds or veilèd on thy throne; Or is it Phlegra’s field thou brood’st upon,24 Guiding the storm, like some bold Lord of War, Oh, hear! A goddess heareth though afar: Bring me deliverance in this mine hour! He waits expectant, but there is no answer.25"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Not Lord Apollo’s, not Athena’s power Shall reach thee any more. Forgot, forgot, Thou reelest back to darkness, knowing not Where in man’s heart joy dwelleth; without blood, A shadow, flung to devils for their food!"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Wilt answer not my word? Wilt spurn thereat, Thou that art mine, born, doomed, and consecrate My living feast, at no high altar slain? Hark thou this song to bind thee like a chain!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "As they move into position for the Dance."
+                            },
+                            {
+                              "type": "song",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "Up, let us tread the dance, and wind﻿— The hour is come!﻿—our shuddering spell. Show how this Band apportions well Their fated burdens to mankind."
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "Behold, we are righteous utterly. The man whose hand is clean, no wrath From us shall follow: down his path He goeth from all evil free."
+                                },
+                                {
+                                  "type": "paragraph",
+                                  "text": "But whoso slays and hides withal His red hand, swift before his eyes True witness for the dead we rise: We are with him to the end of all. Being now in position they begin the Binding Song."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Some Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Mother, who didst bear a being26 Dread to the eyeless and the seeing, Night, my Mother! Leto’s Child would wrong me, tear From my clutch this trembling hare, My doomèd prey: he bore to slay, And shall he not the cleansing bear, He, none other?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "But our sacrifice to bind, Lo, the music that we wind, How it dazeth and amazeth And the will it maketh blind, As it moves without a lyre To the throb of my desire; ’Tis a chain about the brain, ’Tis a wasting of mankind."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Other Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thus hath Fate, through weal and woe, For our Portion as we go Spun the thread: Whenso mortal man in sin ’Brueth hand against his kin, Mine till death He wandereth, And freedom never more shall win, Not when dead."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "But our sacrifice to bind, Lo, the music that we wind, How it dazeth and amazeth And the will it maketh blind, As it moves without a lyre To the throb of my desire; ’Tis a chain about the brain, ’Tis a wasting of mankind."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Some Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Since the hour we were begot Of this rite am I the priest; Other gods may share it not; Nor is any man nor beast That dare eat the food we eat Nor among us take his seat; For no part have I nor lot In the white robe and the feast."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "For the tale I make mine own Is of houses overthrown, When the Foe within the Dwelling27 Slays a brother and is flown: Up and after him, Io! While the blood is still a-flow, Though his strength be full and swelling, We shall waste him, flesh from bone!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Other Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Would they take thee from the care We have guarded thee withal? Would the Gods disown our prayer Till no Law be left at all? Yea, because of blood that drips As aforetime from our lips, And the world’s hate that we bear, God hath cast us from His hall!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I am on them as they fly, With a voice out of the sky, And my armèd heel is o’er them To fall crashing from on high. There be fliers far and fast, But I trip them at the last, And my arms are there before them, And shall crush them ere they die!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Divers Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "—The glories of Man that were proud where the sunlight came, Below in the dark are wasted and cast to shame; For he trembles at the hearing Of the Black Garments nearing, And the beating of the feet, like flame"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—He falls and knows not; the blow hath made blind his eyes; And above hangs Sin, as a darkening of the skies, And a great voice swelling Like a mist about his dwelling, And sobbing in the mist and cries."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—For so it abideth: subtle are we to plan, Sure to fulfil, and forget not any Sin; And Venerable they call us, but none can win Our pardon for child of man. Unhonoured and undesired though our kingdom be, Where the sun is dead and no god in all the skies, Great crags and trackless, alike for them that see, And them of the wasted eyes;"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—What mortal man but quaketh before my power, And boweth in worship to hear my rule of doom, God-given of old, fate-woven on the ageless loom And ripe to the perfect hour? To the end of all abideth mine ancient Right, Whose word shall be never broke nor its deed undone, Though my seat is below the Grave, in the place where sight Fails and there is no Sun."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Athena"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Far off I heard the calling of my name, Beside Scamander, where I took in claim The new land which the Achaean lords and kings,28 In royal spoil for many warfarings, Gave, root and fruit for ever, as mine own Exempted prize, to Theseus’ sons alone. Thence came I speeding, while behind me rolled My wingless aegis, floating fold on fold.29"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "But these strange visitants﻿ ﻿… I tremble not Beholding, yet I marvel. Who and what Are ye? I speak to all. And who is he Who round mine image clings so desperately?"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "But ye are like no earth-seed ever sown, No goddess-shape that Heaven hath looked upon, Nor any semblance borne of human kind﻿ ﻿…"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Howbeit, ye have not wronged me. I were blind To right and custom did I speak you ill."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Virgin of God most high, have all thy will.30 Still-weeping Night knows us the brood she bears; The wronged ones in the darkness call us Prayers."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I know your lineage and the names ye hold."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Our office and our lot can soon be told."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Make clear thy word, that all be understood."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "We hunt from home the shedder of man’s blood."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "What end appoint ye to that flight of his?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "A land where none remembereth what joy is."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And such a chase on this man thou wilt cry?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Who dared to be his mother’s murderer, aye,"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "What goaded him? Some fear, some unseen wrath?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "What goad could drive a man on such a path?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Looking at Orestes."
+                            },
+                            {
+                              "type": "verse",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "Why speaketh one alone, when two are there?"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "He will not swear, nor challenge me to swear."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Which wouldst thou, to seem righteous, or to be?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "What meanst thou there? Speak out thy subtlety."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Let no bare oath the deeper right subdue."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Try thou the cause, then, and give judgement true."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye trust me this whole issue to decide?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Who would not trust thee? True thou art and tried."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Turning to Orestes."
+                            },
+                            {
+                              "type": "verse",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "Strange man, and what in turn hast thou to advance? Thy land and lineage, and thy long mischance Show first, then make thine answer to their laws. If truly in the justice of thy cause Trusting, thou clingest here in need so dire To mine own shape, hard by my deathless fire, In fearful prayer, as lost Ixion prayed, Make to all these thine answer unafraid."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Most high Athena, let me from the last Of these thy questionings one fear outcast. Pollution is not in me, nor with hand Blood-reeking cleave I to thine altar-strand; In sign whereof, behold, I have cast away That silence which the man of blood alway Observeth, till some hand, that hath the power To cleanse the sins of man, new blood shall shower Of swine upon him, drowning the old stain. I have been cleansed again and yet again In others’ dwellings, both by blood that fell And running rivers that have washed me well. Be that care then forgot. My name and birth Are quickly told. I am sprung of Argive earth; My father’s name was known upon thy lips, Agamemnon, marshal of a thousand ships, With whom thou madest Troy, that city of pride, No more a city. He returning died, Not kingly. ’Twas my mother black of heart Met him and murdered, snaring him with art Of spangled webs.﻿ ﻿… Alas, that robe of wrath, That cried to heaven the blood-stain of the bath! Then came long exile; then, returning, I Struck dead my mother. Nought will I deny; So, for my sire belovèd, death met death."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "And Loxias in these doings meriteth His portion, who foretold strange agonies To spur me if I left unsmitten these That slew him.﻿ ﻿… Take me thou, and judge if ill I wrought or righteously. I will be still And praise thy judgement, whatsoe’er betide."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "This is a mystery graver to decide Than mortal dreameth.31 Nor for me ’twere good To sift the passionate punishments of blood. Since thou hast cast thee on my altar stair Perfect by suffering, from thy stains that were Made clean and harmless, suppliant at my knee, I, in my City’s name, must pity thee And chide not. Yet these too, I may not slight: They have their portion in the Orb of Right Eternal. If they are baffled of their will, The wrath of undone Justice shall distil Through all the air a poison; yea, a pall Intolerable about the land shall fall And groaning sickness. Doubtful thus it lies: To cast them out or keep them in mine eyes Were equal peril, and I must ponder sore. Yet, seeing fate lays this matter at my door, Myself not judging, I will judges find In mine own City, who will make no blind Oath-challenge to pursuer and pursued, But follow this new rule, by me indued As law for ever. Proofs and witnesses Call ye on either side, and set to these Your oaths. Such oath helps Justice in her need."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "I will go choose the noblest of the breed Of Athens, and here bring them to decide This bloody judgement even as truth is tried, And then, their oath accomplished, to depart, Right done, and no transgression in their heart. Exit Athena. The Shrine is closed, Orestes remaining inside at the foot of the Image."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Other Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "—This day there is a new Order born.32 If this long coil of judging and of strife Shall uplift the mother-murderer to life, Shall the World not mark it, and in scorn Go forth to do evil with a smile? Yea, for parents hereafter there is guile That waiteth, and great anguish; by a knife In a child’s hand their bosom shall be torn."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—No wrath shall be stirred by any deed, No doom from the Dark Watchers any more. Lo, to all death I cast wide the door! And men, while they whisper of the need Of their neighbour, shall pray tremblingly within For some rest and diminishing of sin. They will praise the old medicine that of yore Brought comfort, and marvel as they bleed."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—Vainly will they make their moan? Vainly cry in sore despite, “Help, ye Watchers on your throne, Help, O Right!” Many a father so shall cry, Many a mother, new in pain; Their vain sobbing floateth by: “The great House is fallen again! Law shall die!”"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—Times there be when Fear is good, And the Watcher in the breast Needs must reign in masterhood. Aye, ’tis best Through much straitening to be wise. Who that hath no fear at all In the sunlight of his eyes, Man or City, but shall fall From Right somewise?"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—The life that walketh without rule, The life that is a tyrant’s fool, Thou shalt not praise. O’er all man’s striving variously God looketh, but, where’er it be, Gives to the Mean his victory. And therefore know I and confess, The doomèd child of Godlessness Is Pride of Man, and Pride’s excess; Only from health of heart shall spring What men desire, what poets sing, Stormless days."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—Whate’er befall, the Throne of Right Fear thou, and let no lucre bright Seen suddenly, To spurn that Altar make thee blind; For chastisement is hid behind, And the End waiteth, and shall bind. Wherefore I charge thee, through all stress Thy mother and thy father bless: Herein, O Man, lies holiness. And next, of all within thy fold, The stranger and the friendless hold In sanctity."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "—He that is righteous uncompelled and free His life’s way taketh Not without happiness; and utterly Cast to destruction shall he never be. But he who laugheth and is bold in sin, From every port great gain he gathers in, Rejoicing; but methinks shall cast away All, with much haste and trembling, on the day When sails are stript by the edge of wind and sea And yard-arm breaketh."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "He yearns, he strives, amid the whirling sea, But none shall hear; And loud his Daemon laughs, saying “This is he Who vaunted him these things should never be!” Who now is weeping, weak in the endless foam, And sees the foreland where beyond is home, But shall not pass it: on the rocks of Right Wrecked is his life’s long glory; and the night Falls, and there lives from all his agony No word nor tear."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "scene",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The scene is now set with seats for the Council of the Areopagus.33 Enter Athena, the Judges, a Herald, a crowd of Citizens, the Furies, Orestes."
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Herald, thine office! See that yonder crowds Hold back, and let this piercer of the clouds, Filled with man’s breath, the Tuscan trumpet, blow His fiery summons to the host below. Then all be silence, while the people fill This Council Hall. Thus shall my sovran will And ordinance to this people, great and small,34 Be known for ever, and upheld by all Within our gates; and thus my wardens do Justice this day, discerning false from true."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Apollo"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Apollo, thou! Go, reign where thou art king! What portion hast thou in this doom-saying?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I come to bear my witness.35 This is one Who in great anguish came to me alone For refuge, and knelt suppliant at my shrine. Therefore the cleansing of his stain is mine. Likewise I share his plea, and on me take What guilt he bears for that dead mother’s sake."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Ope thou the court, O Pallas, and, as well Thou canst, establish justice durable."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ho! Opened is the Court; and yours the speech."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Furies"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "He who pursueth, speaking first, can teach Best his whole grief, and how the evil grew."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Many are we, yet shall our words be few. Make answer thou, point against point. And say First this one thing: thy mother didst thou slay?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I slew her.﻿ ﻿… Aye. Denied it cannot be."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Aha! The first of the three bouts36 to me!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Too soon ye vaunt. I am not yet outsped."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "How didst thou slay? That also must be said."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "With an effort."
+                            },
+                            {
+                              "type": "verse",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "I will say it. I drew sword and clave her throat."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Who and what tempted thee? Who laid the plot?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "He who is with me now, and witnesseth."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "God’s prophet bade thee plot thy mother’s death?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Yes: and hath never failed me to this day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And when the vote is cast, what wilt thou say?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I fear not. Helpers from my father’s grave."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Go, mother-murderer! Call the dead to save!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Two stains of death lay mingled on her hand."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "How two? Let these who judge thee understand."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "A husband and a father, both, she slew."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And death hath purged her. Shalt not thou die too?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye never hunted her, for all her stain."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "’Twas not one blood in slayer and in slain."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And are my mother’s blood and my blood one?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "How did she feed thee else beneath her zone? Caitiff! Thy mother’s blood wilt thou deny?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Overcome."
+                            },
+                            {
+                              "type": "verse",
+                              "blocks": [
+                                {
+                                  "type": "paragraph",
+                                  "text": "I can no more.﻿ ﻿…37 Give witness, and reply, Lord Phoebus, in my stead, if righteously I slew.﻿ ﻿… I slew: denied it cannot be: But rightly, or most foully﻿—as thine own Heart speaks, give judgement, and let all be known."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye judges of Athena’s Court most high, I come to speak before you faithfully, Being God’s prophet: therefore truth is mine. Nor ever spake I from my throne divine Of man nor woman, land nor city wall, Save by command of Him who ruleth all, Zeus, the Olympian Father. Is there Right Holier than this, I charge ye think, or Might More mighty? Follow ye the All-father’s will: If oaths be strong, is Zeus not stronger still?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "’Twas Zeus, thou tellest, laid this duty large Upon thy lips? ’Twas Zeus who bade thee charge This man to avenge his father and cast down, As nothing worth, his mother’s sacred crown?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Are these the same? That a great man, raised high By royal sceptre, given of God, should die, And die by a woman’s hand﻿—and not in war By Amazonian arrow, sped from far,﻿ ﻿… But﻿—Hear my tale, O Pallas, and ye too Who sit enthronèd to sift false from true; He came from battle after sufferings sore But greater glories, and she stood before The gate to greet and praise him, strewed his path With crimson robes and led him to his bath﻿— A marble bed!38﻿—and o’er the end thereof Laid the great web and curtained it above, To ensnare him as he rose; then, in the wide Unending folds, she smote him and he died! So died a man, ye hear it from my lips, All-honoured, War-Lord of a thousand ships; And such a wife was she! Be stern, and smite The guilty, ye who sit to establish right!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Doth Zeus count fatherhood so high a thing? Who cast in bonds his father and his king,39 Old Cronos? Are these things not contrary? I charge ye, judges, hearken his reply."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye worms of hate, O ye that Gods abhor, Bonds can be loosened; there is cure therefor, And many and many a plan in God’s great mind To free the prisoners whom he erst did bind. But once the dust hath drunk the blood of men Murdered, there is no gathering it again. For that no magic doth my Father know, Though all things else he changeth high and low Or fixeth, and no toil is in his breath."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Is that thy pleading against this man’s death? The kindred blood, his mother’s blood, the well Of his own life, he hath spilt. How shall he dwell In Argos? In his home? What altar-stair, When Argos worships, will receive his prayer? What love-bowl of the brethren cleanse his hand?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "That too I answer; mark and understand. The mother to the child that men call hers Is no true life-begetter, but a nurse Of live seed. ’Tis the sower of the seed Alone begetteth. Woman comes at need, A stranger, to hold safe in trust and love That bud of new life﻿—save when God above Wills that it die. And would ye proof of this, There have been fathers where no mother is. Whereof a perfect witness standeth nigh, Athena Pallas, child of the Most High,40 A thought-begotten unconceivèd bloom, No nursling of the darkness of the womb, But such a flower of life as goddess ne’er Hath born in heaven nor ever more shall bear."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Pallas, in all things it is mine to swell In power thy people and thy citadel; And therefore to thine Altar did I send This suppliant, that hereafter to the end Of mortal time he may be true to thee, And plant his spear by thine unfalteringly, And on through generations yet unborn Argos observe the pact her King hath sworn."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Now shall I charge upon their faith these men To cast true stones, or would ye speak again?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Shot is our every arrow: I but stay To learn how ends the issue of the day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "How shall I cast a judgement in this cause Unblamed of you, and of the eternal laws?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye have heard what ye have heard. Strangers, revere Your oaths, and cast your judgement without fear."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Hear now mine ordinance, ye who have striven This day to give, what none before hath given,41 True judgement o’er spilt blood. O Attic Folk, Henceforth for ever, under Aigeus’ yoke, This Council and this Judgement Seat by me Are stablisht. On this mountain shall it be, Here in the Amazons’ most virgin hold, Who came in wrath for Theseus’ wrongs of old Embattled, and this fortress against ours, Hill against hill, towers against soaring towers, Built, and to Ares on the rock with flame Gave sacrifice: whence comes its awful name, The Rock, the Mount, of Ares. All things here Being holy, Reverence and her sister, Fear, In darkness as in daylight shall restrain From all unrighteousness the sons of men, While Athens’ self corrupt not her own law. With mire and evil influx ye can flaw Fair water till no lips may drink thereof. I charge you, citizens, enfold and love That spirit that nor anarch is nor thrall; And casting away Fear, yet cast not all; For who that hath no fear is safe from sin? That Fear which is both Ruth and Law within Be yours, and round your city and your land Shall be upraised a rampart, yea, a hand Of strong deliverance, which no sons of men, From the Isle of Pelops to the Scythian fen, Possess nor know, this Council of the Right, Untouched of lucre, terrible to smite, And swift and merciful, a guard to keep Vigil above my people while they sleep. Which here I establish. Let these words advise My city evermore.﻿—I charge you, rise And lift your stones of doom and judge, alway Your oath remembering. I have said my say. The Judges rise and go one by one past the two urns, casting their stones as they pass."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Behold, an awful presence moveth yet Within your land, which mock not nor forget!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "The will of Zeus, by my lips ministered, I charge you make not fruitless nor unfeared!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "And what wouldst thou with blood, having therein No place? Henceforth thine altars are unclean!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Did Zeus, then, sin, who bowed his head to spare Blood-red Ixion for his burning prayer?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thou speakest: but my Law, if it be broke, Shall come again in wrath to haunt this folk."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thou hast no honour more ’mid things divine, Or old or new: the victory shall be mine."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "So in Admêtus’ House thou didst betray The Fates, to make man deathless past his day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Shall not a god regard his worshipper Then chiefliest, when in peril and in prayer?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "The ancient boundaries thou didst desecrate, Thou mad’st a drunkard of Eternal Fate!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "True Justice thou canst know not. Thou shalt spue Thy venom forth, and none give heed thereto."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Women are we, and old; and thou dost ride Above us, trampling, in thy youth and pride. Howbeit, I wait to know the end, being still In doubt to work this City good or ill."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "One judgement still remains. I, at the last, To set Orestes free this stone will cast: For, lo, no mother bare me: I approve In all﻿—save only that I know not love﻿— The man’s way. Flesh and spirit I am His Who gave me life. And in this coil it is No dire deed that a woman, who had slain Her mate and house-lord, should be quelled again. Wherefore I judge that here, if equal be The votes ye cast, Orestes shall go free."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Ye judges, haste: on you this office turns: And cast the gathered sea-stones from the urns."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Apollo, Lord, what shall the issue be?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "O Night, O dark-eyed Mother, dost thou see?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Is it the noose of death, or life and light?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "My law down-trodden or enthroned in right?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Apollo"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Divide the fallen sea-stones as is due, Strangers, and in the count see all be true. An absent voice hath made life ruinous, And one cast pebble42 built a fallen house. The scrutineers bring their results to Athena."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "This prisoner, since the stones for ill and good Are equal, hath escaped the doom of blood.43"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Orestes"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "O Pallas, O deliverer of my race, Thou hast led back the wanderer to his place, The homeless to his home; and men shall say “Once more he is an Argive, and this day Dwells in his father’s riches, by the word Of Pallas, Loxias, and Zeus the Third, Who saveth all and all accomplisheth.” ’Twas He of old who saw my father’s death, And pitied; He who saw pursuing me My mother’s ministers, and set me free."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Pallas, to this thy people and thy clime Through all the long years of ensuing Time I swear, ere I depart to mine own land, This oath. No captain of an Argive band Shall ever against Athens raise his spear. Yea, and if any break this law, I swear Myself out of the grave bewilderment Shall set before their host, and discontent, Disheartened roads and rivers evil-starred, Till back they turn, bowed down by toils too hard For bearing. But if still with vow unbroke, Through storm or shine, for Pallas and her folk Their lance is lifted, then to Argos too My love shall be the greater, and hold true. And fare thee well, O Pallas; fare you well, All that within her ancient rampart dwell; Iron may your grasp against all evil be, And strong to save, and big with victory! Exit Orestes."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Woe on you, woe, ye younger gods! Ye have trampled the great Laws of old Beneath your chariots! Ye have broke the rods Of justice, yea and torn them from my hold! Mine office gone, unhappy and angered sore, I rage alone. What have I any more To do? Or be? Shall not mine injury turn And crush this people? Shall not poison rain Upon them, even the poison of this pain Wherewith my heart doth burn? And up therefrom there shall a lichen creep, A leafless, childless, blight, A stain in the earth man-slaying.﻿ ﻿… O just Throne of Right! Have ye not suffered deep, Deep, ye unhappy children of old Night, Born to be scorned and weep!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I pray you, nay! Make not this bitter moan;44 Ye are not conquered. Equal, stone for stone, The judgement fell, in honesty of thought, Not scorn of thee. From Zeus on high was brought A shining witness; and the god, who gave The word to slay, himself was here to save, Lest this man for obedience to his will Should perish.﻿ ﻿… And for this ye fain would spill Your poison? Ah, take thought! Nor on our heads Rain the strange dew a spirit’s anger sheds, Seed-ravening blight and mildews merciless, Till all the land lie waste in fruitlessness. Spare us, and, lo, I promise: here shall be A home your own, a caverned mystery, Where alway ye shall sit, enthroned in pride And shining, by my people glorified."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Woe on you, woe, ye younger gods!45 Ye have trampled the great Laws of old Beneath your chariots! Ye have broke the rods Of justice, yea and torn them from my hold! Mine office gone, unhappy and angered sore, I rage alone. What have I any more To do? Or be? Shall not mine injury turn And crush this people? Shall not poison rain Upon them, even the poison of this pain Wherewith my heart doth burn? And up therefrom there shall a lichen creep, A leafless, childless, blight, A stain in the earth man-slaying.﻿ ﻿… O just Throne of Right! Have ye not suffered deep, Deep, ye unhappy children of old Night, Born to be scorned and weep!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ah, rage not. No dishonour comes you nigh; Nor, being immortal, blast for these who die Their little life and land. I, even as you, Obey the supreme Father, yea, I too. What boots it to say more? To me alone The keys of that great treasure-house are known Where sleep the lightnings.﻿—But He needs them not! Accept my word, and cast not here the hot Fruits of a passion that turns all to ill: Bid the dark tempest’s bitter surge be still, Thou great in glory, partner of my home! From many miles of land to thee shall come First-fruits for maidens wed, for children born;46 Then shall ye bless this peace that we have sworn."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "That this should fall on me, Me of the ancient way, The faithful of heart! To be Unclean, abominable, In the darkness where I dwell, And mine honour shorn away! My breath is as a fire flung far and wide, And a strange anguish stabbeth at my side. Hear thou my wrath, O Mother, Night, mine own, Hear what these young false-handed gods have wrought! Mine immemorial honour is overthrown, And I am naught!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thine heaviness myself will help thee bear. Older thou art than I, and surely ware Of wisdom that I wot not: yet also To me Zeus giveth both to think and know. And if ye leave us for the stranger’s shore, This know I, that your heart shall still be sore For Athens. Time’s great river in its flow From darkness shall but make her glory grow. And here in honour at Erechtheus’ side Enthronèd, thou shalt garner gifts of pride From men and women worshippers, in fair Procession moving, richer and more rare Than eye of man hath seen in other lands. Such offering now awaits thee at my hands: Blessing and blest, ’mid glories gladly given, To share this land, the best beloved of Heaven."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "That this should fall on me, Me of the ancient way, The faithful of heart! To be Unclean, abominable, In the darkness where I dwell, And mine honour shorn away! My breath is as a fire flung far and wide, And a strange anguish stabbeth at my side. Hear thou my wrath, O Mother, Night, mine own, Hear what these young false-handed gods have wrought! Mine immemorial honour is overthrown, And I am naught!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I will not cease thine anger to assuage With good words. None shall say that, in thine age, By younger gods and city-building men Thou and thy law were mocked, cast out again To walk the wilderness, exiles from hence. If thou canst hold that spirit in reverence Which hears Persuasion and which thinks again, Whose understanding and whose peace doth reign By God’s appointment in my word and thought, Here thou wilt stay. Or, if that please thee not, Thou shalt not justly lay upon this land Or wrath, or vengeance, or afflicting hand. Stay, if ye will. Let this soil be your own With Right made perfect and an ageless throne."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Great Pallas, what abode shall be my lot?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "A throne unwashed by tears; reject it not."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Say I consent; what shall mine office be?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "No house shall prosper save by aid of thee."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Such greatness mine! Wilt thou thereof have care?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Yea; and through life uphold thy worshipper."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "For dateless time thou giv’st me warranty?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "How should I speak the thing that shall not be?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Thou wilt soften me.﻿ ﻿… Methinks mine anger bends."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Stay, and that softened mood will find thee friends."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Leader"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "What spell upon the land wouldst have me lay?"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "All that brings Victory and not Dismay. From earth and dewy sea﻿—be this thy prayer﻿— From moving winds and the still dome of air Let breaths of gladness and sweet sunlight come; The fruit of flocks and fields round every home Abundant flow and, year by year, be true. The seeds of human life make fruitful, too, Save in the ungodly:47 them thy Rule of Right Shall uproot, as of old. For I delight, Like one that tends his garden, to uprear These plants of righteousness, untouched by fear Of evil. Cast not on this soil of mine Thy whet-stones of the blood, like poisonous wine In young men’s hearts, till rage and death be stirred. Oh, take not from the fierce mate-murdering bird The heart to give my people, the blind war Within, that burneth most where brethren are. War with the stranger, yes; no stint thereof; Terror is there, and glory, and great love; But not the mad bird-rage that slays at home.48 Such let thine office be. And if there come True-hearted war, I will not fail to uphold This land victorious where great deeds are told. At a sign from the Leader, the Furies take formation for a Song of Blessing."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "A home with Pallas shall be mine. I will not give this City nay, The Fort of Heaven, which Zeus divine And faithful Ares hold in sway, A shining loveliness to enfold The altars of the gods of old."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "For whom﻿—so do I weave my prayer And move with words of presage good﻿— All fortunes whereby life is fair, Like springing fountains, up shall flood, From Earth’s deep-bosomed caverns won By wooing of the enthronèd Sun."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "I love my City; and with plan Aforethought here have welcomed these, The Awarders great and hard to appease, Whose realm is all the estate of man."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Justice is theirs: though many an one May meet their wrath in innocence, Not knowing why the wound nor whence, That striketh. Some great evil done"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Aforetime, with no payment just, Casts him to These. Strange wrath and hate Are round him, and he cries: but Fate, Unanswering, grindeth him to dust."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "No storm-wind﻿—so I speak my prize﻿— Shall breathe the blight that poisoneth trees; No burning things that blind the eyes Of plants, shall pass her boundaries: The groaning pest shall come not nigh, Nor fruit upon the branches die."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "The flocks shall browse in happy cheer, And Pan, the Shepherd, guard them true, With twofold increase, as the year Repays her seeds in season due; And deep-hid treasures of the ground Shall be in God’s due order found."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye Guardians, hear the word she hath said, And shall fulfill! Most potent hands Hath great Erinys, in the lands Where dwell the deathless and the dead."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "And all this world of men declares Her visible act on right and wrong; How one man’s life she makes a song, Another’s a long mist of tears."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Let manhood’s glory by no doom Of death untimely be defiled; Let life to maidens in their bloom Bring each a lover and a child. O whatsoever Gods have power, And Fates eternal, grant this dower!"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Ye Fates, our Mother’s Sisterhood, Assigners true to all that be, To every house its ill and good, To every hour its potency; Righteous participants through all, Of Gods the most majestical."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "With joy I hear their prescient song Touching my land; and much in pride I praise Persuasion gentle-eyed, Who guarded well my lips and tongue,"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "When these were wrathful and denied; But Zeus, whose Word is in the Mart, Prevailed; and of our strife no part, Save strife in blessing, shall abide."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Let her who hungereth still for wrong, Faction, in Athens ne’er again Lift on the air her ravening song; Let not the dust of Pallas’ Plain Drink the dark blood of any son By fury of revenge fordone."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Rage not to smite the smiter, lest By rage the City’s heart be torn: Bless him that blesseth: in each breast So shall a single love be born, And ’gainst Her foes a single hate. This also maketh firm a state."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Wise are they and have found the way Of peace. And in each awful face I see for you, my People, grace: If ye are gentle, even as they,"
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "And do them worship, this shall be Your work: to guide through ill, through good, Both land and town in that pure mood Of truth that shuns iniquity. The Judges and the concourse of Athenians have now formed into procession, to escort the Furies to their Cavern."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus of Athenians"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Rejoice, rejoice! And as ye go your ways In rich apportionment of blissful days, Farewell, farewell!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Ye folk within the wall, approved To neighbour Jove’s eternal eyes,49 Ye lovers of the Well-beloved, The Virgin Spirit, timely wise, The wings of Pallas fold above you, Therefore shall Zeus the Father love you."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Fare ye well also. I must go Before you, guiding, to make bright Your secret chambers50 with the light, The holy light, they dared not know."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Come, and when deep beneath the veil Of earth ye pass, ’mid offering high, Hold down the evil that shall die, Send up the good that shall prevail."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Ye sons of Cranaos, guide them, till These Wanderers rest within your doors: With them one City now is yours; Be one in working and in will!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus of Athenians"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Rejoice, rejoice! I raise my voice again, To speak that bliss that overtowereth pain. Farewell, farewell!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Furies"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "All things within the Wall that dwell, All gods and men, that are or were; All life from Pallas’ citadel Which draws its being, I am here: These Dwellers in your gates adore, And fear the tides of Life no more!"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Athena"
+                        },
+                        {
+                          "type": "verse",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "The prayers they have uttered o’er my land I praise; And speed them on, ’mid many a torch’s blaze, To that most deep and subterranean end Of wandering. Let these ministers, who tend Mine image, follow; righteous warders they. Let all the fullness of the land this day, Children, and wives and women bent with years, Come forth: do worship to these Wanderers Accepted in their robes of crimson dye.51 Let leap the flash of fire. This great Ally Shall be revealed and proven in the fate Of Athens, if her men be true and great."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Chorus of Athenians"
+                        },
+                        {
+                          "type": "song",
+                          "blocks": [
+                            {
+                              "type": "paragraph",
+                              "text": "Gather ye home; are ye great, do ye crave adoration, O childless Children of Night in the pride of your going? (Give good words, O Folk of the Fold!) Aeonian caverns of glory are yours, and oblation Of worship, and sacrifice high, and praise overflowing. (Give good words, O young men and old!) Come with the Law that can pardon, the Judgement that knoweth, O Semnai, Semnai, watchers o’er people and land; And joy be a-stream in your ways, as the fire that bloweth A-stream from beacon and brand. A cry of joy rises above the singing."
+                            },
+                            {
+                              "type": "paragraph",
+                              "text": "Outpour ye the Chalice of Peace where the torches are blending: In Pallas the place it is found and the task it is done. The Law that is Fate and the Father the All-Comprehending Are here met together as one. Again a cry of joy as the Procession passes out of sight."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

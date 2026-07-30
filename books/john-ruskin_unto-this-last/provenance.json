@@ -1,0 +1,40 @@
+{
+  "title": "Unto This Last",
+  "author": "John Ruskin",
+  "identifier": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last",
+    "published": "2022-09-17T23:48:52Z",
+    "modified": "2026-07-14T15:31:01Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/36541",
+    "https://archive.org/details/untothislastfou01ruskgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/john-ruskin/unto-this-last",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Philosophy"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "cda9d4915bdb79927a97cdd8d2f7ff067aaeab79df32fff9920c36ad6492642a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 4,
+    "words": 25083,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

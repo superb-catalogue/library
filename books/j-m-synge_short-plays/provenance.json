@@ -1,0 +1,46 @@
+{
+  "title": "Short Plays",
+  "author": "J. M. Synge",
+  "identifier": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+    "published": "2023-09-22T19:07:11Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1618",
+    "https://www.gutenberg.org/ebooks/994",
+    "https://www.gutenberg.org/ebooks/1328",
+    "https://catalog.hathitrust.org/Record/001024645"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/j-m-synge/short-plays",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "cf1509930743264c6d6a89a9d00e29c677912e6f19986551aa02a7eb2348c14a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 1,
+    "words": 2065,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

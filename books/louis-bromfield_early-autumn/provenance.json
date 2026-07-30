@@ -1,0 +1,45 @@
+{
+  "title": "Early Autumn",
+  "author": "Louis Bromfield",
+  "identifier": "https://standardebooks.org/ebooks/louis-bromfield/early-autumn",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/louis-bromfield/early-autumn",
+    "published": "2023-08-16T15:35:48Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20210130",
+    "https://archive.org/details/in.ernet.dli.2015.166193"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/louis-bromfield/early-autumn",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Pulitzer Prize for Fiction Winners",
+      "type": "series",
+      "position": "9"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-pulitzer-prize-for-fiction-winners-epub.zip",
+    "epub_sha256": "9fe06deebcbf230dee443df33ab0c1e31d9ca1d1b56689a910f4547ba5fe001f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 99350,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

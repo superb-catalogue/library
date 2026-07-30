@@ -1,0 +1,39 @@
+{
+  "title": "The Crowd",
+  "author": "Gustave Le Bon",
+  "identifier": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+    "published": "2022-09-01T21:23:50Z",
+    "modified": "2026-07-14T15:30:25Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/445",
+    "https://www.google.com/books/edition/The_Crowd/YNwxAQAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/gustave-le-bon/the-crowd/t-fisher-unwin-ltd",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Philosophy",
+  "genres": [
+    "Philosophy"
+  ],
+  "category": "Philosophy",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-philosophy-epub.zip",
+    "epub_sha256": "3fc1208759a0f2dc62eab9ff61db026592b99fec66ce26c5d946a8cb21a32dfc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 16,
+    "words": 46902,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

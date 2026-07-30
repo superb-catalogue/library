@@ -1,0 +1,45 @@
+{
+  "title": "The Mysterious Island",
+  "author": "Jules Verne",
+  "identifier": "https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white",
+    "published": "2016-08-29T22:51:23Z",
+    "modified": "2026-07-12T18:20:16Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/8993",
+    "https://www.pgdp.org/ols/tools/biblio.php?id=projectID3ebefc797e212"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Voyages Extraordinaires",
+      "type": "series",
+      "position": "12"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-voyages-extraordinaires-epub.zip",
+    "epub_sha256": "378e3dc90b5b2de368c9bedbbd6e3f0c7880ac95b0cb4dc8424f194c1a6f36f1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 65,
+    "words": 161061,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

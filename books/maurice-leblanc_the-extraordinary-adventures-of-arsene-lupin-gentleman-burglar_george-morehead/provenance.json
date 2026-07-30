@@ -1,0 +1,50 @@
+{
+  "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+  "author": "Maurice Leblanc",
+  "identifier": "https://standardebooks.org/ebooks/maurice-leblanc/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/george-morehead",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/maurice-leblanc/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/george-morehead",
+    "published": "2018-03-27T23:44:46Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6133",
+    "https://catalog.hathitrust.org/Record/100554067"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/maurice-leblanc/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/george-morehead",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Arsène Lupin",
+      "type": "series",
+      "position": "1"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "ae10a099c5c657b49f6a96c7362cb01327a07b12e0ee0875e0b58204b9ae3624"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 53951,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

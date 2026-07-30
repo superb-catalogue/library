@@ -1,0 +1,65 @@
+{
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "identifier": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+    "published": "2017-12-26T23:14:09Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2852",
+    "https://archive.org/details/houndofbaskervil00doyluoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Sherlock Holmes",
+      "type": "series",
+      "position": "5"
+    },
+    {
+      "name": "Le Monde’s 100 Books of the Century",
+      "type": "set",
+      "position": "44"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "3"
+    },
+    {
+      "name": "The Crime Writers’ Association Top 100 Crime Novels of All Time",
+      "type": "set",
+      "position": "32"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "ce2ad0cd3b0069c293b2fb6fb1f107a031d3bb12a8c8527b02bed73805bea53a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 15,
+    "words": 59118,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

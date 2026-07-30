@@ -1,0 +1,53 @@
+{
+  "title": "The Protestant Ethic and the Spirit of Capitalism",
+  "author": "Max Weber",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": "Part I",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "division"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Part I"
+            },
+            {
+              "type": "title",
+              "text": "The Problem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Part II",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "division"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Part II"
+            },
+            {
+              "type": "title",
+              "text": "The Practical Ethics of the Ascetic Branches of Protestantism"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "History of the Peloponnesian War",
+  "author": "Thucydides",
+  "identifier": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
+    "published": "2024-10-29T21:18:47Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/7142",
+    "https://archive.org/details/pelocrawleyr00thucuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "2b5e78b0612c738e60c9b7b80f1aa626389f8c92ea67ef148329e388ae479910"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 35,
+    "words": 204493,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

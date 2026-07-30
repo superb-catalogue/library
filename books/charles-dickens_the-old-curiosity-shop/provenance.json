@@ -1,0 +1,45 @@
+{
+  "title": "The Old Curiosity Shop",
+  "author": "Charles Dickens",
+  "identifier": "https://standardebooks.org/ebooks/charles-dickens/the-old-curiosity-shop",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-dickens/the-old-curiosity-shop",
+    "published": "2023-05-22T20:44:37Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/700",
+    "https://archive.org/details/oldcuriosityshop1841dick"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-dickens/the-old-curiosity-shop",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "28"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-telegraphs-greatest-villains-in-literature-epub.zip",
+    "epub_sha256": "d1e84ae26c1e74f3ef1d8ed4fdbb0ea154c2d6eaff18a2cc19df6824f12c10e9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 73,
+    "words": 216771,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

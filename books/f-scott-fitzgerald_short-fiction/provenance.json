@@ -1,0 +1,71 @@
+{
+  "title": "Short Fiction",
+  "author": "F. Scott Fitzgerald",
+  "identifier": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
+    "published": "2024-09-12T18:37:04Z",
+    "modified": "2026-07-17T14:09:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/4368",
+    "https://catalog.hathitrust.org/Record/102985477",
+    "https://www.gutenberg.org/ebooks/6695",
+    "https://archive.org/details/talesofjazzage0000fsco",
+    "https://www.gutenberg.org/ebooks/68229",
+    "https://catalog.hathitrust.org/Record/000437601",
+    "https://www.gutenberg.net.au/fsf/LOVE-IN-THE-NIGHT.html",
+    "https://archive.org/details/sim_saturday-evening-post_1925-03-14_197_37",
+    "https://www.gutenberg.net.au/fsf/JACOBS-LADDER.html",
+    "https://archive.org/details/sim_saturday-evening-post_1927-08-20_200_8",
+    "https://www.gutenberg.net.au/fsf/A-SHORT-TRIP-HOME.html",
+    "https://archive.org/details/sim_saturday-evening-post_1927-12-17_200_25",
+    "https://www.gutenberg.net.au/fsf/THE-BOWL.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-01-21_200_30",
+    "https://www.gutenberg.net.au/fsf/MAGNETISM.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-03-03_200_36",
+    "https://www.gutenberg.net.au/fsf/THE-SCANDAL-DETECTIVES.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-04-28_200_44",
+    "https://www.gutenberg.net.au/fsf/A-NIGHT-AT-THE-FAIR.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-07-21_201_3",
+    "https://www.gutenberg.net.au/fsf/BASIL-THE-FRESHEST-BOY.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-07-28_201_4",
+    "https://www.gutenberg.net.au/fsf/HE-THINKS-HES-WONDERFUL.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-09-29_201_13",
+    "https://www.gutenberg.net.au/fsf/THE-CAPTURED-SHADOW.html",
+    "https://archive.org/details/sim_saturday-evening-post_1928-12-29_201_26",
+    "https://www.gutenberg.net.au/fsf/DICE.html",
+    "https://catalog.hathitrust.org/Record/000542803"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/f-scott-fitzgerald/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "3cd0680ce2dcce2622afe433fbe4944a7df83a3321de1a87b91e655db63d90a6"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 39,
+    "words": 292068,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

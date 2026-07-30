@@ -1,0 +1,60 @@
+{
+  "title": "The Moonstone",
+  "author": "Wilkie Collins",
+  "identifier": "https://standardebooks.org/ebooks/wilkie-collins/the-moonstone",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/wilkie-collins/the-moonstone",
+    "published": "2017-12-02T04:36:54Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/155",
+    "https://archive.org/details/156979296.1876.emory.edu",
+    "https://catalog.hathitrust.org/Record/100822566"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/wilkie-collins/the-moonstone",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "19"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "The Crime Writers’ Association Top 100 Crime Novels of All Time",
+      "type": "set",
+      "position": "8"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "34"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "59085ac25df3639ac37da04a3932f3d7f6b2af415be9b7d0d56fb7ed0f46e693"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 56,
+    "words": 194564,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

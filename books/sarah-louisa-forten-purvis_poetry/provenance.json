@@ -1,0 +1,48 @@
+{
+  "title": "Poetry",
+  "author": "Sarah Louisa Forten Purvis",
+  "identifier": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry",
+    "published": "2023-12-06T20:52:11Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://archive.org/details/liberator1831garr",
+    "https://archive.org/details/sim_liberator_1832-06-30_2_26",
+    "https://archive.org/details/sim_liberator_1832-07-07_2_27",
+    "https://archive.org/details/sim_liberator_1833-05-25_3_21",
+    "https://archive.org/details/sn84031524_1833080301",
+    "https://archive.org/details/sim_liberator_1833-12-21_3_51",
+    "https://archive.org/details/sim_liberator_1834-01-04_4_1",
+    "https://archive.org/details/sim_liberator_1834-01-18_4_3",
+    "https://archive.org/details/sim_liberator_1834-02-01_4_5",
+    "https://archive.org/details/sim_liberator_1835-06-27_5_26",
+    "https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1836-03-11_1_11"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/sarah-louisa-forten-purvis/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "8de6c9b4c3976db1f71c80aa3d3f3f320dad0f86f9b1ca71462402b12b6b873a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 15,
+    "words": 2357,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

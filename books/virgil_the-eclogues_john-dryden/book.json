@@ -1,0 +1,2172 @@
+{
+  "title": "The Eclogues",
+  "author": "Virgil",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": "Pastoral I",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "drama",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral I"
+                },
+                {
+                  "type": "title",
+                  "text": "Tityrus and Meliboeus"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "The occasion of the first Pastoral was this. When Augustus had settled himself in the Roman empire, that he might reward his veteran troops for their past service, he distributed among them all the lands that lay about Cremona and Mantua, turning out the right owners for having sided with his enemies. Virgil was a sufferer among the rest; who afterwards recovered his estate by Maecenas’s intercession, and, as an instance of his gratitude, composed the following Pastoral, where he sets out his own good fortune in the person of Tityrus, and the calamities of his Mantuan neighbours in the character of Meliboeus."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "blocks": [
+            {
+              "type": "tbody",
+              "blocks": [
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Beneath the shade which beechen boughs diffuse, You, Tityrus, entertain your sylvan muse. Round the wide world in banishment we roam, Forced from our pleasing fields and native home; While, stretched at ease, you sing your happy loves, And Amaryllis fills the shady groves."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Tityrus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "These blessings, friend, a deity bestowed: For never can I deem him less than god. The tender firstlings of my woolly breed Shall on his holy altar often bleed. He gave my kine to graze the flowery plain, And to my pipe renewed the rural strain."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "I envy not your fortune, but admire, That, while the raging sword and wasteful fire Destroy the wretched neighbourhood around, No hostile arms approach your happy ground. Far different is my fate: my feeble goats With pains I drive from their forsaken cotes. And this, you see, I scarcely drag along, Who, yeaning, on the rocks has left her young; The hope and promise of my failing fold. My loss, by dire portents, the gods foretold; For, had I not been blind, I might have seen:﻿— Yon riven oak, the fairest of the green, And the hoarse raven, on the blasted bough, By croaking from the left, presaged the coming blow. But tell me, Tityrus, what heavenly power Preserved your fortunes in that fatal hour?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Tityrus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Fool that I was, I thought imperial Rome Like Mantua, where on market-days we come, And thither drive our tender lambs from home. So kids and whelps their sires and dams express, And so the great I measured by the less. But country towns, compared with her, appear Like shrubs, when lofty cypresses are near."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "What great occasion called you hence to Rome?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Tityrus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Freedom, which came at length, though slow to come. Nor did my search of liberty begin, Till my black hairs were changed upon my chin; Nor Amaryllis would vouchsafe a look, Till Galatea’s meaner bonds I broke. Till then a helpless, hopeless, homely swain, I sought not freedom, nor aspired to gain: Though many a victim from my folds was bought, And many a cheese to country markets brought, Yet all the little that I got, I spent, And still returned as empty as I went."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "We stood amazed to see your mistress mourn, Unknowing that she pined for your return: We wondered why she kept her fruit so long, For whom so late the ungathered apples hung. But now the wonder ceases, since I see She kept them only, Tityrus, for thee. For thee the bubbling springs appeared to mourn, And whispering pines made vows for thy return."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Tityrus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "What should I do?﻿—While here I was enchained, No glimpse of godlike liberty remained: Nor could I hope, in any place but there To find a god so present to my prayer. There first the youth of heavenly birth I viewed, For whom our monthly victims are renewed. He heard my vows, and graciously decreed My grounds to be restored, my former flocks to feed."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "O fortunate old man! whose farm remains﻿— For you sufficient﻿—and requites your pains; Though rushes overspread the neighbouring plains, Though here the marshy grounds approach your fields, And there the soil a stony harvest yields. Your teeming ewes shall no strange meadows try, Nor fear a rot from tainted company. Behold! yon bordering fence of sallow-trees Is fraught with flowers; the flowers are fraught with bees: The busy bees, with a soft murmuring strain, Invite to gentle sleep the labouring swain. While from the neighbouring rock, with rural songs, The pruner’s voice the pleasing dream prolongs, Stock-doves and turtles tell their amorous pain, And, from the lofty elms, of love complain."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Tityrus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The inhabitants of seas and skies shall change, And fish on shore, and stags in air, shall range, The banished Parthian dwell on Arar’s brink, And the blue German shall the Tigris drink, Ere I, forsaking gratitude and truth, Forget the figure of that godlike youth."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "But we must beg our bread in climes unknown, Beneath the scorching or the freezing zone: And some to far Oaxis shall be sold, Or try the Libyan heat, or Scythian cold; The rest among the Britons be confined: A race of men from all the world disjoined. O! must the wretched exiles ever mourn, Nor, after length of rolling years, return? Are we condemned by fate’s unjust decree, No more our houses and our homes to see? Or shall we mount again the rural throne, And rule the country kingdoms, once our own? Did we for these barbarians plant and sow? On these, on these, our happy fields bestow? Good heaven! what dire effects from civil discord flow! Now let me graff my pears, and prune the vine; The fruit is theirs, the labour only, mine. Farewell, my pastures, my paternal stock, My fruitful fields, and my more fruitful flock! No more, my goats, shall I behold you climb The steepy cliffs, or crop the flowery thyme! No more, extended in the grot below, Shall see you browsing on the mountain’s brow The prickly shrubs, and after on the bare, Lean down the deep abyss, and hang in air! No more my sheep shall sip the morning dew; No more my song shall please the rural crew: Adieu, my tuneful pipe! and all the world, adieu!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Tityrus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "This night, at least, with me forget your care; Chestnuts, and curds, and cream, shall be your fare; The carpet-ground shall be with leaves o’erspread; And boughs shall weave a covering for your head. For, see, yon sunny hill the shade extends; And curling smoke from cottages ascends."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pastoral II",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral II"
+                },
+                {
+                  "type": "title",
+                  "text": "Alexis"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "The commentators can by no means agree on the person of Alexis, but are all of opinion that some beautiful youth is meant by him, to whom Virgil here makes love, in Corydon’s language and simplicity. His way of courtship is wholly pastoral: he complains of the boy’s coyness; recommends himself for his beauty and skill in piping; invites the youth into the country, where he promises him the diversions of the place, with a suitable present of nuts and apples. But when he finds nothing will prevail, he resolves to quit his troublesome amour, and betake himself again to his former business."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Young Corydon, the unhappy shepherd swain, The fair Alexis loved, but loved in vain; And underneath the beechen shade, alone, Thus to the woods and mountains made his moan: Is this, unkind Alexis, my reward? And must I die unpitied, and unheard? Now the green lizard in the grove is laid; The sheep enjoy the coolness of the shade: And Thestylis wild thyme and garlic beats, For harvest hinds, o’erspent with toil and heats; While in the scorching sun I trace in vain Thy flying footsteps o’er the burning plain. The creaking locusts with my voice conspire, They fried with heat, and I with fierce desire. How much more easy was it to sustain Proud Amaryllis, and her haughty reign; The scorns of young Menalcas, once my care, Though he was black, and thou art heavenly fair! Trust not too much to that enchanting face: Beauty’s a charm; but soon the charm will pass. White lilies lie neglected on the plain, While dusky hyacinths for use remain. My passion is thy scorn; nor wilt thou know What wealth I have, what gifts I can bestow; What stores my dairies and my folds contain﻿— A thousand lambs that wander on the plain, New milk that, all the winter, never fails, And, all the summer, overflows the pails. Amphion sung not sweeter to his herd, When summoned stones the Theban turrets reared. Nor am I so deformed; for late I stood Upon the margin of the briny flood: The winds were still; and, if the glass be true, With Daphnis I may vie, though judged by you. O leave the noisy town: O come and see Our country cots, and live content with me! To wound the flying deer, and from their cotes With me to drive a-field the browsing goats; To pipe and sing, and in our country strain, To copy, or perhaps contend with Pan. Pan taught to join with wax unequal reeds; Pan loves the shepherds, and their flocks he feeds. Nor scorn the pipe: Amyntas, to be taught, With all his kisses would my skill have bought. Of seven smooth joints a mellow pipe I have, Which with his dying breath Damoetas gave, And said, “This, Corydon, I leave to thee; For only thou deserv’st it after me.” His eyes Amyntas durst not upward lift; For much he grudged the praise, but more the gift. Besides, two kids, that in the valley strayed, I found by chance, and to my fold conveyed; They drain two bagging udders every day; And these shall be companions of thy play; Both flecked with white, the true Arcadian strain, Which Thestylis had often begged in vain: And she shall have them, if again she sues, Since you the giver and the gift refuse. Come to my longing arms, my lovely care! And take the presents which the nymphs prepare. White lilies in full canisters they bring, With all the glories of the purple spring. The daughters of the flood have searched the mead For violets pale, and cropped the poppy’s head, The short narcissus and fair daffodil, Pansies to please the sight, and cassia sweet to smell: And set soft hyacinths with iron-blue, To shade marsh marigolds of shining hue; Some bound in order, others loosely strewed, To dress thy bower, and trim thy new abode. Myself will search our planted grounds at home, For downy peaches and the glossy plum: And thrash the chestnuts in the neighbouring grove, Such as my Amaryllis used to love. The laurel and the myrtle sweets agree; And both in nosegays shall be bound for thee. Ah, Corydon! ah, poor unhappy swain! Alexis will thy homely gifts disdain; Nor, shouldst thou offer all thy little store, Will rich Iolas yield, but offer more. What have I done, to name that wealthy swain! So powerful are his presents, mine so mean! The boar amidst my crystal streams I bring: And southern winds to blast my flowery spring. Ah, cruel creature! whom dost thou despise? The gods, to live in woods, have left the skies: And godlike Paris, in the Idaean grove, To Priam’s wealth preferred Oenone’s love. In cities, which she built, let Pallas reign; Towers are for gods, but forests for the swain. The greedy lioness the wolf pursues, The wolf the kid, the wanton kid the browse; Alexis thou art chased by Corydon: All follow several games, and each his own. See, from afar the fields no longer smoke; The sweating steers, unharnassed from the yoke, Bring, as in triumph, back the crooked plough; The shadows lengthen as the sun goes low; Cool breezes now the raging heats remove; Ah! cruel heaven, that made no cure for love! I wish for balmy sleep, but wish in vain: Love has no bounds in pleasure, or in pain. What frenzy, shepherd, has thy soul possessed? Thy vineyard lies half-pruned, and half-undressed. Quench, Corydon, thy long-unanswered fire, Mind what the common wants of life require: On willow twigs employ thy weaving care; And find an easier love, though not so fair."
+        }
+      ]
+    },
+    {
+      "label": "Pastoral III",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "drama",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral III"
+                },
+                {
+                  "type": "title",
+                  "text": "Palaemon"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "Menalcas. Damoetas. Palaemon"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "Damoetas and Menalcas, after some smart strokes of country raillery, resolve to try who has the most skill at a song; and accordingly make their neighbour Palaemon judge of their performances; who, after a full hearing of both parties, declares himself unfit for the decision of so weighty a controversy, and leaves the victory undetermined."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "blocks": [
+            {
+              "type": "tbody",
+              "blocks": [
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ho, swain! what shepherd owns those ragged sheep?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Aegon’s they are: he gave them me to keep."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Unhappy sheep of an unhappy swain! While he Neaera courts, but courts in vain, And fears that I the damsel shall obtain; Thou, varlet, dost thy master’s gains devour; Thou milk’st his ewes, and often twice an hour; Of grass and fodder thou defraud’st the dams, And of their mother’s dugs the starving lambs."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Good words, young catamite, at least to men. We know who did your business, how, and when; And in what chapel too you played your prize, And what the goats observed with leering eyes: The nymphs were kind, and laughed; and there your safety lies."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Yes, when I cropt the hedges of the leas, Cut Micon’s tender vines, and stole the stays!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Or rather, when beneath yon ancient oak, The bow of Daphnis, and the shafts, you broke, When the fair boy received the gift of right; And, but for mischief, you had died for spite."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "What nonsense would the fool thy master prate, When thou, his knave, canst talk at such a rate! Did I not see you, rascal, did I not, When you lay snug to snap young Damon’s goat? His mongrel barked: I ran to his relief, And cried, “There, there he goes! stop, stop the thief!” Discovered, and defeated of your prey, You skulk’d behind the fence, and sneaked away."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "An honest man may freely take his own: The goat was mine, by singing fairly won. A solemn match was made: he lost the prize. Ask Damon, ask, if he the debt denies. I think he dares not: if he does, he lies."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Thou sing with him? thou booby! Never pipe Was so profaned to touch that blubbered lip. Dunce at the best! in streets but scarce allowed To tickle, on thy straw, the stupid crowd."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "To bring it to the trial, will you dare Our pipes, our skill, our voices to compare? My brinded heifer to the stake I lay: Two thriving calves she suckles twice a day, And twice besides her beestings never fail To store the dairy with a brimming pail. Now back your singing with an equal stake."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "That should be seen, if I had one to make. You know too well, I feed my father’s flock: What can I wager from the common stock? A stepdame too I have, a cursed she, Who rules my henpecked sire, and orders me. Both number twice a day the milky dams; And once she takes the tale of all the lambs. But, since you will be mad, and since you may Suspect my courage, if I should not lay; The pawn I proffer shall be full as good: Two bowls I have, well turned, of beechen wood; Both by divine Alcimedon were made: To neither of them yet the lip is laid. The lids are ivy: grapes in clusters lurk Beneath the carving of the curious work. Two figures on the sides embossed appear﻿— Conon, and what’s his name who made the spear, And showed the seasons of the sliding year, Instructed in his trade the labouring swain, And when to reap, and when to sow the grain?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "And I have two, to match your pair, at home; The wood the same; from the same hand they come, (The kimbo handles seem with bear’s-foot carved), And never yet to table have been served; Where Orpheus on his lyre laments his love, With beasts encompassed, and a dancing grove. But these, nor all the proffers you can make, Are worth the heifer which I set to stake."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "No more delays, vain boaster, but begin! I prophesy beforehand I shall win. Palaemon shall be judge how ill you rhyme: I’ll teach you how to brag another time."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Rhymer, come on! and do the worst you can. I fear not you, nor yet a better man. With silence, neighbour, and attention, wait: For ’tis a business of a high debate."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Palaemon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Sing, then: the shade affords a proper place; The trees are clothed with leaves, the fields with grass; The blossoms blow; the birds on bushes sing; And Nature has accomplished all the spring. The challenge to Damoetas shall belong; Menalcas shall sustain his under-song: Each in his turn, your tuneful numbers bring: By turns the tuneful Muses love to sing."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "From the great father of the gods above My muse begins: for all is full of Jove; To Jove the care of heaven and earth belongs; My flocks he blesses, and he loves my songs."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Me Phoebus loves; for he my muse inspires; And, in her songs, the warmth he gave, requires. For him, the god of shepherds and their sheep, My blushing hyacinths and my bays I keep."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "My Phyllis me with pelted apples plies: Then tripping to the woods the wanton hies, And wishes to be seen before she flies."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "But fair Amyntas comes unasked to me, And offers love, and sits upon my knee: Not Delia to my dogs is known so well as he."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "To the dear mistress of my love-sick mind, Her swain a pretty present has designed: I saw two stock-doves billing, and ere long Will take the nest; and hers shall be the young."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ten ruddy wildings in the wood I found, And stood on tip-toes, reaching from the ground: I sent Amyntas all my present store; And will, to-morrow, send as many more."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The lovely maid lay panting in my arms; And all she said and did was full of charms. Winds! on your wings to heaven her accents bear; Such words as heaven alone is fit to hear."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ah! what avails it me, my love’s delight, To call you mine, when absent from my sight! I hold the nets, while you pursue the prey; And must not share the dangers of the day."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "I keep my birthday: send my Phyllis home: At sheering-time, Iolas, you may come."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "With Phyllis I am more in grace than you: Her sorrow did my parting steps pursue: “Adieu my dear! (she said) a long adieu!”"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The nightly wolf is baneful to the fold, Storms to the wheat, to buds the bitter cold; But, from my frowning fair, more ills I find, Than from the wolves, and storms, and winter wind."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The kids with pleasure browse the bushy plain; The showers are grateful to the swelling grain; To teeming ewes the sallow’s tender tree; But, more than all the world, my love to me."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Pollio my rural verse vouchsafes to read: A heifer, Muses, for your patron breed."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "My Pollio writes himself: a bull be bred, With spurning heels, and with a butting head."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Who Pollio loves, and who his muse admires, Let Pollio’s fortune crown his full desires, Let myrrh instead of thorn his fences fill, And showers of honey from his oaks distill."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Who hates not living Bavius, let him be (Dead Maevius!) damned to love thy works and thee! The same ill taste of sense would serve to join Dog-foxes in the yoke, and shear the swine."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ye boys, who pluck the flowers, and spoil the spring, Beware the secret snake that shoots a sting."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Graze not too near the banks, my jolly sheep: The ground is false; the running streams are deep: See, they have caught the father of the flock, Who dries his fleece upon the neighbouring rock."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "From rivers drive the kids, and sling your hook: Anon I’ll wash them in the shallow brook."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "To fold, my flock!﻿—when milk is dried with heat, In vain the milk-maid tugs an empty teat."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "How lank my bulls from plenteous pasture come! But love, that drains the herd, destroys the groom."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "My flocks are free from love, yet look so thin, Their bones are barely covered with their skin. What magic has bewitched the woolly dams, And what ill eyes beheld the tender lambs?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Damoetas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Say, where the round of heaven, which all contains, To three short ells on earth our sight restrains: Tell that, and rise a Phoebus for thy pains."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Nay, tell me first, in what new region springs A flower, that bears inscribed the names of kings; And thou shalt gain a present as divine As Phoebus’ self; for Phyllis shall be thine."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Palaemon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "So nice a difference in your singing lies, That both have won, or both deserved, the prize. Rest equal happy both; and all who prove The bitter sweets, and pleasing pains, of love. Now dam the ditches, and the floods restrain: Their moisture has already drenched the plain."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pastoral IV",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral IV"
+                },
+                {
+                  "type": "title",
+                  "text": "Pollio"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "The poet celebrates the birthday of Saloninus, the son of Pollio, born in the consulship of his father, after the taking of Salonae, a city in Dalmatia. Many of the verses are translated from one of the Sibyls, who prophesied of our Saviour’s birth."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Sicilian muse, begin a loftier strain! Though lowly shrubs, and trees that shade the plain, Delight not all; Sicilian muse, prepare To make the vocal woods deserve a consul’s care. The last great age, foretold by sacred rhymes, Renews its finished course: Saturnian times Roll round again; and mighty years, begun From their first orb, in radiant circles run. The base degenerate iron offspring ends: A golden progeny from heaven descends. O chaste Lucina! speed the mother’s pains; And haste the glorious birth! thy own Apollo reigns! The lovely boy, with his auspicious face, Shall Pollio’s consulship and triumph grace: Majestic months set out with him to their appointed race. The father banished virtue shall restore; And crimes shall threat the guilty world no more. The son shall lead the life of gods, and be By gods and heroes seen, and gods and heroes see. The jarring nations he in peace shall bind, And with paternal virtues rule mankind. Unbidden earth shall wreathing ivy bring, And fragrant herbs (the promises of spring), As her first offerings to her infant king. The goats with strutting dugs shall homeward speed, And lowing herds secure from lions, feed. His cradle shall with rising flowers be crowned: The serpent’s brood shall die; the sacred ground Shall weeds and poisonous plants refuse to bear; Each common bush shall Syrian roses wear. But when heroic verse his youth shall raise, And form it to hereditary praise, Unlaboured harvests shall the fields adorn, And clustered grapes shall blush on every thorn; The knotted oaks shall showers of honey weep, And through the matted grass the liquid cold shall creep. Yet, of old fraud some footsteps shall remain: The merchant still shall plough the deep for gain; Great cities shall with walls be compassed round; And sharpened shares shall vex the fruitful ground; Another Tiphys shall new seas explore; Another Argo land the chiefs upon the Iberian shore; Another Helen other wars create, And great Achilles urge the Trojan fate. But when to ripened manhood he shall grow, The greedy sailor shall the seas forego: No keel shall cut the waves for foreign ware; For every soil shall every product bear. The labouring hind his oxen shall disjoin; No plough shall hurt the glebe, no pruning hook the vine; Nor wool shall in dissembled colours shine; But the luxurious father of the fold, With native purple or unborrowed gold, Beneath his pompous fleece shall proudly sweat; And under Tyrian robes the lamb shall bleat. The Fates, when they this happy web have spun, Shall bless the sacred clue, and bid it smoothly run. Mature in years, to ready honours move, O of celestial seed! O foster-son of Jove! See, labouring Nature calls thee to sustain The nodding frame of heaven, and earth, and main! See to their base restored, earth, seas, and air; And joyful ages, from behind, in crowding ranks appear. To sing thy praise, would heaven my breath prolong, Infusing spirits worthy such a song, Not Thracian Orpheus should transcend my lays, Nor Linus crowned with never-fading bays; Though each his heavenly parent should inspire; The muse instruct the voice, and Phoebus tune the lyre. Should Pan contend in verse, and thou my theme, Arcadian judges should their god condemn. Begin, auspicious boy! to cast about Thy infant eyes, and, with a smile, thy mother single out. Thy mother well deserves that short delight, The nauseous qualms of ten long months and travail to requite. Then smile! the frowning infant’s doom is read, No god shall crown the board, nor goddess bless the bed."
+        }
+      ]
+    },
+    {
+      "label": "Pastoral V",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "drama",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral V"
+                },
+                {
+                  "type": "title",
+                  "text": "Daphnis"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "Menalcas. Mopsus"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "Mopsus and Menalcas, two very expert shepherds at a song, begin one, by consent, to the memory of Daphnis, who is supposed by the best critics to represent Julius Caesar. Mopsus laments his death; Menalcas proclaims his divinity; the whole eclogue consisting of an elegy and an apotheosis."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "blocks": [
+            {
+              "type": "tbody",
+              "blocks": [
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Since on the downs our flocks together feed, And since my voice can match your tuneful reed, Why sit we not beneath the grateful shade, Which hazels, intermixed with elms, have made?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Whether you please that sylvan scene to take, Where whistling winds uncertain shadows make; Or will you to the cooler cave succeed, Whose mouth the curling vines have overspread?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Your merit and your years command the choice: Amyntas only rivals you in voice."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "What will not that presuming shepherd dare, Who thinks his voice with Phoebus may compare?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Begin you first; if either Alcon’s praise, Or dying Phyllis, have inspired your lays: If her you mourn, or Codrus you commend, Begin; and Tityrus your flock shall tend."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Or shall I rather the sad verse repeat, Which on the beech’s bark I lately writ? I writ, and sung betwixt. Now bring the swain Whose voice you boast, and let him try the strain."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Such as the shrub to the tall olive shows, Or the pale sallow to the blushing rose: Such is his voice, if I can judge aright, Compared to thine, in sweetness and in height."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "No more, but sit and hear the promised lay: The gloomy grotto makes a doubtful day. The nymphs about the breathless body wait Of Daphnis, and lament his cruel fate. The trees and floods were witness to their tears: At length the rumour reached his mother’s ears. The wretched parent, with a pious haste, Came running, and his lifeless limbs embraced. She sighed, she sobbed; and, furious with despair, She rent her garments, and she tore her hair, Accusing all the gods, and every star. The swains forgot their sheep, nor near the brink Of running waters brought their herds to drink. The thirsty cattle, of themselves, abstained From water, and their grassy fare disdained. The death of Daphnis, woods and hills deplore; They cast the sound to Libya’s desert shore; The Libyan lions hear, and hearing roar. Fierce tigers Daphnis taught the yoke to bear, And first with curling ivy dressed the spear. Daphnis did rites to Bacchus first ordain, And holy revels for his reeling train. As vines the trees, as grapes the vines adorn, As bulls the herds, and fields the yellow corn: So bright a splendour, so divine a grace, The glorious Daphnis cast on his illustrious race. When envious Fate the godlike Daphnis took, Our guardian gods the fields and plains forsook; Pales no longer swelled the teeming grain, Nor Phoebus fed his oxen on the plain; No fruitful crop the sickly fields return; But oats and darnel choke the rising corn. And where the vales with violets once were crowned, Now knotty burrs and thorns disgrace the ground. Come, shepherds, come, and strew with leaves the plain: Such funeral rites your Daphnis did ordain. With cypress boughs the crystal fountains hide And softly let the running waters glide. A lasting monument to Daphnis raise, With this inscription to record his praise: “Daphnis, the fields’ delight, the shepherds’ love, Renowned on earth, and deified above; Whose flock excelled the fairest on the plains, But less than he himself surpassed the swains.”"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "O heavenly poet! such thy verse appears, So sweet, so charming to my ravished ears, As to the weary swain, with cares opprest, Beneath the sylvan shade, refreshing rest; As to the feverish traveller, when first He finds a crystal stream to quench his thirst. In singing, as in piping, you excel; And scarce your master could perform so well. O fortunate young man! at least your lays Are next to his, and claim the second praise. Such as they are, my rural songs I join, To raise our Daphnis to the powers divine; For Daphnis was so good, to love whate’er was mine."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "How is my soul with such a promise raised; For both the boy was worthy to be praised, And Stimicon has often made me long To hear, like him, so soft, so sweet a song."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Daphnis, the guest of heaven, with wondering eyes Views, in the milky way, the starry skies, And far beneath him, from the shining sphere, Beholds the moving clouds, and rolling year. For this, with cheerful cries the woods resound; The purple spring arrays the various ground; The nymphs and shepherds dance; and Pan himself is crowned. The wolf no longer prowls for nightly spoils, Nor birds the springes fear, nor stags the toils; For Daphnis reigns above, and deals from thence His mother’s milder beams, and peaceful influence. The mountaintops unshorn, the rocks, rejoice; The lowly shrubs partake of human voice. Assenting nature, with a gracious nod, Proclaims him, and salutes the new-admitted god. Be still propitious, ever good to thine! Behold! four hallowed altars we design; And two to thee, and two to Phoebus rise; On both is offered annual sacrifice. The holy priests, at each returning year, Two bowls of milk, and two of oil shall bear; And I myself the guest with friendly bowls will cheer. Two goblets will I crown with sparkling wine, The generous vintage of the Chian vine; These will I pour to thee, and make the nectar thine. In winter shall the genial feast be made Before the fire; by summer, in the shade. Damoetas shall perform the rites divine; And Lyctian Aegon in the song shall join. Alphesiboeus tripping shall advance, And mimic satyrs in his antic dance. When to the nymphs our annual rites we pay, And when our fields with victims we survey: While savage boars delight in shady woods, And finny fish inhabit in the floods: While bees on thyme, and locusts feed on dew: Thy grateful swains these honours shall renew. Such honours as we pay to powers divine, To Bacchus and to Ceres, shall be thine. Such annual honours shall be given; and thou Shalt hear, and shalt condemn thy suppliants to their vow."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "What present, worth thy verse, can Mopsus find? Not the soft whispers of the southern wind, That play through trembling trees, delight me more; Nor murmuring billows on the sounding shore; Nor winding streams that through the valley glide, And the scarce-covered pebbles gently chide."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Menalcas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Receive you first this tuneful pipe, the same That played my Corydon’s unhappy flame; The same that sung Neaera’s conquering eyes, And, had the judge been just, had won the prize."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Mopsus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Accept from me this sheep-hook in exchange; The handle brass; the knobs in equal range. Antigenes, with kisses, often tried To beg this present in his beauty’s pride, When youth and love are hard to be denied. But what I could refuse to his request, Is yours unasked; for you deserve it best."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pastoral VI",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral VI"
+                },
+                {
+                  "type": "title",
+                  "text": "Silenus"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "Two young shepherds, Chromis and Mnasylus, having been often promised a song by Silenus, chance to catch him asleep in this Pastoral; where they bind him hand and foot, and then claim his promise. Silenus, finding they would be put off no longer, begins his song, in which he describes the formation of the universe, and the original of animals, according to the Epicurean philosophy; and then runs through the most surprising transformations which have happened in Nature since her birth. This Pastoral was designed as a compliment to Syron the Epicurean, who instructed Virgil and Varus in the principles of that philosophy. Silenus acts as tutor, Chromis and Mnasylus as the two pupils."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "I first transferred to Rome Sicilian strains: Nor blushed the Doric Muse to dwell on Mantuan plains. But when I tried her tender voice, too young, And fighting kings and bloody battles sung, Apollo checked my pride, and bade me feed My fattening flocks, nor dare beyond the reed. Admonished thus, while every pen prepares To write thy praises, Varus, and thy wars, My pastoral muse her humble tribute brings; And yet not wholly uninspired she sings; For all who read, and, reading, not disdain These rural poems, and their lowly strain, The name of Varus oft inscribed shall see In every grove, and every vocal tree; And all the sylvan reign shall sing of thee: Thy name, to Phoebus and the muses known, Shall in the front of every page be shown; For he who sings thy praise secures his own. Proceed, my muse!﻿—Two satyrs, on the ground, Stretched at his ease, their sire Silenus found, Dosed with his fumes, and heavy with his load, They found him snoring in his dark abode, And seized with youthful arms the drunken god. His rosy wreath was dropt not long before, Borne by the tide of wine, and floating on the floor. His empty can, with ears half worn away, Was hung on high, to boast the triumph of the day. Invaded thus, for want of better bands, His garland they unstring, and bind his hands: For, by the fraudful god deluded long, They now resolve to have their promised song. Aegle came in, to make their party good, The fairest Naïs of the neighbouring flood; And, while he stares around with stupid eyes, His brows with berries, and his temples, dyes. He finds the fraud, and, with a smile, demands On what design the boys had bound his hands. “Loose me (he cried:) ’twas impudence to find A sleeping god; ’tis sacrilege to bind. To you the promised poem I will pay; The nymph shall be rewarded in her way.” He raised his voice; and soon a numerous throng Of tripping satyrs crowded to the song; And sylvan fauns, and savage beasts, advanced; And nodding forests to the numbers danced. Not by Haemonian hills the Thracian bard, Nor awful Phoebus, was on Pindus heard With deeper silence or with more regard. He sung the secret seeds of nature’s frame; How seas, and earth, and air, and active flame, Fell through the mighty void, and, in their fall, Were blindly gathered in this goodly ball. The tender soil then, stiffening by degrees, Shut from the bounded earth the bounding seas. Then earth and ocean various forms disclose; And a new sun to the new world arose; And mists, condensed to clouds, obscure the sky; And clouds, dissolved, the thirsty ground supply. The rising trees the lofty mountains grace: The lofty mountains feed the savage race, Yet few, and strangers, in the unpeopled place. From thence the birth of man the song pursued, And how the world was lost, and how renewed: The reign of Saturn, and the golden age; Prometheus’ theft, and Jove’s avenging rage: The cries of Argonauts for Hylas drowned, With whose repeated name the shores resound; Then mourns the madness of the Cretan queen: Happy for her, if herds had never been. What fury, wretched woman, seized thy breast? The maids of Argos (though with rage possessed, Their imitated lowings filled the grove) Yet shunned the guilt of this preposterous love, Nor sought the youthful husband of the herd, Though labouring yokes on their own necks they feared, And felt for budding horns on their smooth foreheads reared. Ah, wretched queen! you range the pathless wood, While on a flowery bank he chews the cud, Or sleeps in shades, or through the forest roves, And roars with anguish for his absent loves. “Ye nymphs, with toils his forest-walk surround, And trace his wandering footsteps on the ground. But ah! perhaps my passion he disdains, And courts the milky mothers of the plains. We search the ungrateful fugitive abroad, While they at home sustain their happy load.” He sung the lover’s fraud; the longing maid, With golden fruit, like all the sex, betrayed; The sisters mourning for their brother’s loss; Their bodies hid in bark, and furred with moss: How each a rising alder now appears, And o’er the Po distils her gummy tears: Then sung, how Gallus, by a muse’s hand, Was led and welcomed to the sacred strand; The senate rising to salute their guest; And Linus thus their gratitude expressed: “Receive this present, by the muses made, The pipe on which the Ascraean pastor played; With which of old he charmed the savage train, And called the mountain ashes to the plain. Sing thou, on this, thy Phoebus; and the wood Where once his fane of Parian marble stood: On this his ancient oracles rehearse; And with new numbers grace the god of verse.” Why should I sing the double Scylla’s fate? The first by love transformed, the last by hate﻿— A beauteous maid above; but magic arts With barking dogs deformed her nether parts: What vengeance on the passing fleet she poured, The master frighted and the mates devoured. Then ravished Philomel the song exprest; The crime revealed; the sisters’ cruel feast; And how in fields the lapwing Tereus reigns, The warbling nightingale in woods complains; While Procne makes on chimney-tops her moan; And hovers o’er the palace once her own. Whatever songs besides the Delphian god Had taught the laurels, and the Spartan flood, Silenus sung: the vales his voice rebound, And carry to the skies the sacred sound. And now the setting sun had warned the swain To call his counted cattle from the plain; Yet still the unwearied sire pursues the tuneful strain, Till, unperceived, the heavens with stars were hung, And sudden night surprised the yet unfinished song."
+        }
+      ]
+    },
+    {
+      "label": "Pastoral VII",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "drama",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral VII"
+                },
+                {
+                  "type": "title",
+                  "text": "Meliboeus"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "Meliboeus. Corydon. Thyrsis"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "Meliboeus here gives us the relation of a sharp poetical contest between Thyrsis and Corydon, at which he himself and Daphnis were present; who both declared for Corydon."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "blocks": [
+            {
+              "type": "tbody",
+              "blocks": [
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Beneath a holm, repaired two jolly swains (Their sheep and goats together grazed the plains), Both young Arcadians, both alike inspired To sing, and answer as the song required. Daphnis, as umpire, took the middle seat; And fortune thither led my weary feet. For, while I fenced my myrtles from the cold, The father of my flock had wandered from the fold. Of Daphnis I enquired: he smiling said, “Dismiss your fear,” and pointed where he fed: “And, if no greater cares disturb your mind, Sit here with us, in covert of the wind. Your lowing heifers, of their own accord, At watering time will seek the neighbouring ford. Here wanton Mincius winds along the meads, And shades his happy banks with bending reeds. And see, from yon old oak that mates the skies, How black the clouds of swarming bees arise.” What should I do? nor was Alcippe nigh, Nor absent Phillis could my care supply, To house, and feed by hand, my weaning lambs, And drain the strutting udders of their dams. Great was the strife betwixt the singing swains: And I preferred my pleasure to my gains. Alternate rhyme the ready champions chose: These Corydon rehearsed and Thyrsis those."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Corydon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ye muses, ever fair, and ever young, Assist my numbers, and inspire my song. With all my Codrus, O! inspire my breast: For Codrus, after Phoebus, sings the best. Or, if my wishes have presumed too high, And stretched their bounds beyond mortality, The praise of artful numbers I resign, And hang my pipe upon the sacred pine."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Thyrsis"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Arcadian swains, your youthful poet crown With ivy-wreaths; though surly Codrus frown. Or, if he blast my muse with envious praise, Then fence my brows with amulets of bays, Lest his ill arts or his malicious tongue Should poison or bewitch my growing song."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Corydon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "These branches of a stag, this tusky boar (The first essay of arms untried before), Young Micon offers, Delia, to thy shrine. But speed his hunting with thy power divine; Thy statue then of Parian stone shall stand; Thy legs in buskins with a purple band."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Thyrsis"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "This bowl of milk, these cakes (our country fare), For thee, Priapus, yearly we prepare, Because a little garden is thy care. But if the falling lambs increase my fold, Thy marble statue shall be turned to gold."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Corydon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Fair Galatea, with thy silver feet, O, whiter than the swan, and more than Hybla sweet! Tall as a poplar, taper as the bole! Come, charm thy shepherd, and restore my soul Come, when my lated sheep at night return; And crown the silent hours, and stop the rosy morn."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Thyrsis"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "May I become as abject in thy sight, As sea-weed on the shore, and black as night; Rough as a burr, deformed like him who chaws Sardinian herbage to contract his jaws; Such and so monstrous let thy swain appear, If one day’s absence looks not like a year. Hence from the field, for shame! the flock deserves No better feeding, while the shepherd starves."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Corydon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ye mossy springs, inviting easy sleep, Ye trees whose leafy shades those mossy fountains keep, Defend my flock! The summer heats are near, And blossoms on the swelling vines appear."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Thyrsis"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "With heapy fires our cheerful hearth is crowned; And firs for torches in the woods abound: We fear not more the winds, and wintry cold, Than streams the banks, or wolves the bleating fold."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Corydon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Our woods with juniper and chesnuts crowned, With falling fruits and berries paint the ground; And lavish nature laughs, and strews her stores around. But, if Alexis from our mountains fly, E’en running rivers leave their channels dry."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Thyrsis"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Parched are the plains, and frying is the field, Nor withering vines their juicy vintage yield. But, if returning Phyllis bless the plain, The grass revives; the woods are green again; And Jove descends in showers of kindly rain."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Corydon"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The poplar is by great Alcides worn; The brows of Phoebus his own bays adorn; The branching vine the jolly Bacchus loves; The Cyprian queen delights in myrtle groves; With hazel Phyllis crowns her flowing hair; And, while she loves that common wreath to wear, Nor bays, nor myrtle boughs, with hazel shall compare."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Thyrsis"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The towering ash is fairest in the woods, In gardens pines, and poplars by the floods; But, if my Lycidas will ease my pains, And often visit our forsaken plains, To him the towering ash shall yield in woods, In gardens pines, and poplars by the floods."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Meliboeus"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "The rhymes I did to memory commend, When vanquished Thyrsis did in vain contend; Since when, ’tis Corydon among the swains; Young Corydon without a rival reigns."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pastoral VIII",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral VIII"
+                },
+                {
+                  "type": "title",
+                  "text": "Pharmaceutria"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "This Pastoral contains the songs of Damon and Alphesiboeus. The first of them bewails the loss of his mistress, and repines at the success of his rival Mopsus. The other repeats the charms of some enchantress, who endeavoured by her spells and magic to make Daphnis in love with her."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The mournful muse of two despairing swains, The love rejected, and the lover’s pains; To which the savage Lynxes listening stood; The rivers stood on heaps, and stopped the running flood; The hungry herd their needful food refuse﻿— Of two despairing swains, I sing the mournful muse."
+        },
+        {
+          "type": "paragraph",
+          "text": "Great Pollio! thou, for whom thy Rome prepares The ready triumph of thy finished wars, Whether Timavus or the Illyrian coast, Whatever land or sea thy presence boast: Is there an hour in fate reserved for me, To sing thy deeds in numbers worthy thee? In numbers like to thine, could I rehearse Thy lofty tragic scenes, thy laboured verse; The world another Sophocles in thee, Another Homer should behold in me. Amidst thy laurels let this ivy twine: Thine was my earliest muse; my latest shall be thine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scarce from our upper world the shades withdrew, Scarce were the flocks refreshed with morning dew, When Damon, stretched beneath an olive shade, And wildly staring upwards, thus inveighed Against the conscious gods, and cursed the cruel maid: “Star of the morning, why dost thou delay? Come, Lucifer, drive on the lagging day, While I my Nisa’s perjured faith deplore﻿— Witness, ye powers, by whom she falsely swore! The gods, alas! are witnesses in vain: Yet shall my dying breath to heaven complain. Begin with me, my flute, the sweet Maenalian strain."
+        },
+        {
+          "type": "paragraph",
+          "text": "“The pines of Maenalus, the vocal grove, Are ever full of verse, and full of love; They hear the hinds, they hear their god complain, Who suffered not the reeds to rise in vain. Begin with me, my flute, the sweet Maenalian strain."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Mopsus triumphs: he weds the willing fair! When such is Nisa’s choice, what lover can despair? Now griffons join with mares; another age Shall see the hound and hind their thirst assuage, Promiscuous at the spring. Prepare the lights, O Mopsus! and perform the bridal rites. Scatter thy nuts among the scrambling boys: Thine is the night, and thine the nuptial joys. For thee the sun declines: O happy swain! Begin with me, my flute, the sweet Maenalian strain."
+        },
+        {
+          "type": "paragraph",
+          "text": "“O, Nisa! justly to thy choice condemned! Whom hast thou taken, whom hast thou contemned? For him thou hast refused my browsing herd, Scorned my thick eyebrows, and my shaggy beard. Unhappy Damon sighs and sings in vain, While Nisa thinks no god regards a lover’s pain. Begin with me, my flute, the sweet Maenalian strain."
+        },
+        {
+          "type": "paragraph",
+          "text": "“I viewed thee first (how fatal was the view!) And led thee where the ruddy wildings grew, High on the planted hedge, and wet with morning dew. Then scarce the bending branches I could win; The callow down began to clothe my chin. I saw; I perished; yet indulged my pain. Begin with me, my flute, the sweet Maenalian strain."
+        },
+        {
+          "type": "paragraph",
+          "text": "“I know thee, Love! in deserts thou wert bred, And at the dugs of savage tigers fed; Alien of birth, usurper of the plains! Begin with me, my flute, the sweet Maenalian strains."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Relentless Love the cruel mother led The blood of her unhappy babes to shed: Love lent the sword; the mother struck the blow; Inhuman she; but more inhuman thou: Alien of birth, usurper of the plains! Begin with me, my flute, the sweet Maenalian strains."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Old doting nature change thy course anew; And let the trembling lamb the wolf pursue: Let oaks now glitter with Hesperian fruit, And purple daffodils from alder shoot; Fat amber let the tamarisk distill, And hooting owls contend with swans in skill; Hoarse Tityrus strive with Orpheus in the woods, And challenge famed Arion on the floods. Or, oh! let nature cease, and chaos reign! Begin with me, my flute, the sweet Maenalian strain."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Let earth be sea; and let the whelming tide The lifeless limbs of luckless Damon hide: Farewell, ye secret woods, and shady groves, Haunts of my youth, and conscious of my loves! From yon high cliff I plunge into the main: Take the last present of thy dying swain: And cease, my silent flute, the sweet Maenalian strain.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now take your turns, ye muses, to rehearse His friend’s complaints, and mighty magic verse."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Bring running water: bind those altars round With fillets, and with vervain strew the ground: Make fat with frankincense the sacred fires, To reinflame my Daphnis with desires. ’Tis done; we want but verse. Restore, my charms, My lingering Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Pale Phoebe, drawn by verse, from heaven descends; And Circe changed with charms Ulysses’ friends. Verse breaks the ground, and penetrates the brake, And in the winding cavern splits the snake. Verse fires the frozen veins. Restore, my charms, My lingering Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Around his waxen image first I wind Three woolen fillets, of three colours joined; Thrice bind about his thrice-devoted head, Which round the sacred altar thrice is led. Unequal numbers please the gods. My charms, Restore my Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Knit with three knots the fillets: knit them strait: And say, ‘These knots to love I consecrate!’ Haste, Amaryllis, haste! Restore, my charms, My lovely Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“As fire this figure hardens, made of clay, And this of wax with fire consumes away; Such let the soul of cruel Daphnis be﻿— Hard to the rest of women, soft to me. Crumble the sacred mole of salt and corn: Next in the fire the bays with brimstone burn And, while it crackles in the sulphur, say, ‘This I for Daphnis burn; thus Daphnis burn away! This laurel is his fate.’ Restore, my charms, My lovely Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“As when the raging heifer, through the grove, Stung with desire, pursues her wandering love; Faint at the last, she seeks the weedy pools, To quench her thirst, and on the rushes rolls, Careless of night, unmindful to return; Such fruitless fires perfidious Daphnis burn, While I so scorn his love! Restore, my charms, My lingering Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“These garments once were his, and left to me, The pledges of his promised loyalty, Which underneath my threshold I bestow. These pawns, O sacred earth! to me my Daphnis owe. As these were his, so mine is he. My charms, Restore their lingering lord to my deluded arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“These poisonous plants, for magic use designed (The noblest and the best of all the baneful kind), Old Moeris brought me from the Pontic strand, And culled the mischief of a bounteous land. Smeared with these powerful juices, on the plain He howls a wolf among the hungry train; And oft the mighty necromancer boasts, With these to call from tombs the stalking ghosts, And from the roots to tear the standing corn, Which, whirled aloft, to distant fields is borne: Such is the strength of spells. Restore, my charms, My lingering Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Bear out these ashes; cast them in the brook; Cast backwards o’er your head; nor turn your look: Since neither gods nor godlike verse can move, Break out, ye smothered fires, and kindle smothered love. Exert your utmost power, my lingering charms; And force my Daphnis to my longing arms."
+        },
+        {
+          "type": "paragraph",
+          "text": "“See, while my last endeavours I delay, The waking ashes rise, and round our altars play! Run to the threshold, Amaryllis﻿—hark! Our Hylax opens, and begins to bark. Good heaven! may lovers what they wish believe? Or dream their wishes, and those dreams deceive? No more! my Daphnis comes! no more, my charms! He comes, he runs, he leaps to my desiring arms.”"
+        }
+      ]
+    },
+    {
+      "label": "Pastoral IX",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "drama",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral IX"
+                },
+                {
+                  "type": "title",
+                  "text": "Lycidas and Moeris"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "When Virgil, by the favour of Augustus, had recovered his patrimony near Mantua, and went in hope to take possession, he was in danger to be slain by Arius the centurion, to whom those lands were assigned by the emperor, in reward of his service against Brutus and Cassius. This Pastoral therefore is filled with complaints of his hard usage; and the persons introduced are the bailiff of Virgil, Moeris, and his friend Lycidas."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "blocks": [
+            {
+              "type": "tbody",
+              "blocks": [
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Lycidas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Ho, Moeris! whither on thy way so fast? This leads to town."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Moeris"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "O Lycidas! at last The time is come I never thought to see, (Strange revolution for my farm and me) When the grim captain in a surly tone Cries out, “Pack up, ye rascals, and be gone.” Kicked out, we set the best face on’t we could; And these two kids, to appease his angry mood, I bear﻿—of which the Furies give him good!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Lycidas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Your country friends were told another tale﻿— That, from the sloping mountain to the vale And doddered oak, and all the banks along, Menalcas saved his fortune with a song."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Moeris"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Such was the news, indeed; but songs and rhymes Prevail as much in these hard iron times, As would a plump of trembling fowl, that rise Against an eagle sousing from the skies. And, had not Phoebus warned me, by the croak Of an old raven, from a hollow oak, To shun debate, Menalcas had been slain, And Moeris not survived him, to complain."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Lycidas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Now heaven defend! could barbarous rage induce The brutal son of Mars to insult the sacred muse? Who then should sing the nymphs? or who rehearse The waters gliding in a smoother verse! Or Amaryllis praise that heavenly lay, That shortened, as we went, our tedious way﻿— “O Tityrus! tend my herd, and see them fed; To morning pastures, evening waters, led; And ’ware the Libyan ridgils butting head.”"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Moeris"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Or what unfinished he to Varus read﻿— “Thy name, O Varus! (if the kinder powers Preserve our plains, and shield the Mantuan towers, Obnoxious by Cremona’s neighbouring crime), The wings of swans, and stronger-pinioned rhyme, Shall raise aloft, and soaring bear above﻿— The immortal gift of gratitude to Jove.”"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Lycidas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Sing on, sing on: for I can ne’er be cloyed. So may thy swarms the baleful yew avoid: So may thy cows their burdened bags distend, And trees to goats their willing branches bend. Mean as I am, yet have the muses made Me free, a member of the tuneful trade: At least the shepherds seem to like my lays, But I discern their flattery from their praise: I nor to Cinna’s ears, nor Varus’, dare aspire, But gabble, like a goose, amidst the swan-like choir."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Moeris"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "’Tis what I have been conning in my mind; Nor are they verses of a vulgar kind. “Come, Galatea! come! the seas forsake! What pleasures can the tides with their hoarse murmurs make? See, on the shore inhabits purple spring; Where nightingales their love-sick ditty sing: See, meads with purling streams, with flowers the ground The grottoes cool, with shady poplars crowned, And creeping vines on arbours weaved around. Come then, and leave the waves’ tumultuous roar; Let the wild surges vainly beat the shore.”"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Lycidas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Or that sweet song I heard with such delight; The same you sung alone one starry night. The tune I still retain, but not the words."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Moeris"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "“Why, Daphnis, dost thou search in old records, To know the seasons when the stars arise? See Caesar’s lamp is lighted in the skies﻿— The star, whose rays the blushing grapes adorn, And swell the kindly ripening ears of corn. Under this influence, graft the tender shoot; Thy children’s children shall enjoy the fruit.” The rest I have forgot; for cares and time Change all things, and untune my soul to rhyme. I could have once sung down a summer’s sun: But now the chime of poetry is done: My voice grows hoarse; I feel the notes decay, As if the wolves had seen me first to-day. But these, and more than I to mind can bring, Menalcas has not yet forgot to sing."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Lycidas"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Thy faint excuses but inflame me more: And now the waves roll silent to the shore; Hushed winds the topmost branches scarcely bend, As if thy tuneful song they did attend: Already we have half our way o’ercome; Far off I can discern Bianor’s tomb. Here, where the labourers’ hands have formed a bower Of wreathing trees, in singing waste an hour. Rest here thy weary limbs; thy kids lay down; We’ve day before us yet, to reach the town; Or if, ere night, the gathering clouds we fear, A song will help, the beating storm to bear. And, that thou may’st not be too late abroad, Sing, and I’ll ease thy shoulders of thy load."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "tr",
+                  "blocks": [
+                    {
+                      "type": "persona",
+                      "text": "Moeris"
+                    },
+                    {
+                      "type": "verse",
+                      "blocks": [
+                        {
+                          "type": "paragraph",
+                          "text": "Cease to request me; let us mind our way: Another song requires another day. When good Menalcas comes, if he rejoice, And find a friend at court, I’ll find a voice."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Pastoral X",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Pastoral X"
+                },
+                {
+                  "type": "title",
+                  "text": "Gallus"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "Gallus, a great patron of Virgil, and an excellent poet, was very deeply in love with one Citheris, whom he calls Lycoris, and who had forsaken him for the company of a soldier. The poet therefore supposes his friend Gallus retired, in his height of melancholy, into the solitudes of Arcadia (the celebrated scene of pastorals), where he represents him in a very languishing condition, with all the rural deities about him, pitying his hard usage, and condoling his misfortune."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Thy sacred succour, Arethusa, bring, To crown my labour (’tis the last I sing), Which proud Lycoris may with pity view: The muse is mournful, though the numbers few. Refuse me not a verse, to grief and Gallus due. So may thy silver streams beneath the tide, Unmixed with briny seas, securely glide. Sing then my Gallus, and his hopeless vows; Sing while my cattle crop the tender browse. The vocal grove shall answer to the sound, And echo, from the vales, the tuneful voice rebound."
+        },
+        {
+          "type": "paragraph",
+          "text": "What lawns or woods withheld you from his aid, Ye nymphs, when Gallus was to love betrayed, To love, unpitied by the cruel maid? Not steepy Pindus could retard your course, Nor cleft Parnassus, nor the Aonian source: Nothing that owns the muses, could suspend Your aid to Gallus:﻿—Gallus is their friend. For him the lofty laurel stands in tears, And hung with humid pearls the lowly shrub appears. Maenalian pines the godlike swain bemoan, When spread beneath a rock, he sighed alone; And cold Lycaeus wept from every dropping stone. The sheep surround their shepherd, as he lies: Blush not, sweet poet, nor the name despise: Along the streams, his flock Adonis fed; And yet the queen of beauty blest his bed. The swains and tardy neat-herds came, and last Menalcas, wet with beating winter mast. Wondering, they asked from whence arose thy flame. Yet more amazed, thy own Apollo came. Flushed were his cheeks, and glowing were his eyes: “Is she thy care? is she thy care? (he cries) Thy false Lycoris flies thy love and thee, And for thy rival, tempts the raging sea, The forms of horrid war, and heaven’s inclemency.” Silvanus came: his brows a country crown Of fennel, and of nodding lilies, drown. Great Pan arrived; and we beheld him too, His cheeks and temples of vermilion hue. “Why, Gallus, this immoderate grief? (he cried) Think’st thou that love with tears is satisfied? The meads are sooner drunk with morning dews, The bees with flowery shrubs, the goats with browse.” Unmoved, and with dejected eyes, he mourned: He paused, and then these broken words returned: “ ’Tis past; and pity gives me no relief: But you, Arcadian swains, shall sing my grief, And on your hills my last complaints renew: So sad a song is only worthy you. How light would lie the turf upon my breast, If you my sufferings in your songs exprest! Ah! that your birth and business had been mine﻿— To pen the sheep, and press the swelling vine! Had Phyllis or Amyntas caused my pain, Or any nymph or shepherd on the plain, (Though Phyllis brown, though black, Amyntas were, Are violets not sweet, because not fair?) Beneath the sallows and the shady vine, My loves had mixed their pliant limbs with mine: Phyllis with myrtle wreaths had crowned my hair, And soft Amyntas sung away my care. Come, see what pleasures in our plains abound; The woods, the fountains and the flowery ground. As you are beauteous, were you half so true, Here could I live, and love, and die, with only you. Now I to fighting fields am sent afar, And strive in winter camps with toils of war; While you (alas, that I should find it so!) To shun my sight, your native soil forgo, And climb the frozen Alps, and tread the eternal snow. Ye frosts and snows, her tender body spare! Those are not limbs for icicles to tear. For me, the wilds and deserts are my choice; The muses, once my care; my once harmonious voice. There will I sing, forsaken and alone: The rocks and hollow caves shall echo to my moan. The rind of every plant her name shall know; And as the rind extends, the love shall grow. Then on Arcadian mountains will I chase (Mixed with the woodland nymphs) the savage race; Nor cold shall hinder me, with horns and hounds To thrid the thickets, or to leap the mounds. And now methinks o’er steepy rocks I go, And rush through sounding woods, and bend the Parthian bow; As if with sports my sufferings I could ease, Or by my pains the god of love appease. My frenzy changes: I delight no more On mountaintops to chase the tusky boar: No game but hopeless love my thoughts pursue: Once more, ye nymphs, and songs, and sounding woods, adieu! Love alters not for us his hard decrees, Not though beneath the Thracian clime we freeze, Or Italy’s indulgent heaven forgo, And in mid-winter tread Sithonian snow; Or, when the barks of elms are scorched, we keep On Meroë’s burning plains the Libyan sheep. In hell, and earth, and seas, and heaven above, Love conquers all; and we must yield to Love."
+        },
+        {
+          "type": "paragraph",
+          "text": "My muses, here your sacred raptures end: The verse was what I owed my suffering friend. This while I sung, my sorrows I deceived, And bending osiers into baskets weaved. The song, because inspired by you, shall shine; And Gallus will approve, because ’tis mine﻿— Gallus, for whom my holy flames renew, Each hour, and every moment rise in view; As alders, in the spring, their boles extend, And heave so fiercely, that the bark they rend. Now let us rise; for hoarseness oft invades The singer’s voice, who sings beneath the shades. From juniper unwholesome dews distill, That blast the sooty corn, the withering herbage kill: Away, my goats, away! for you have browsed your fill."
+        }
+      ]
+    }
+  ]
+}

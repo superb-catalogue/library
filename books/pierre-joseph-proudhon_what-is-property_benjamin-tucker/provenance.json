@@ -1,0 +1,39 @@
+{
+  "title": "What Is Property?",
+  "author": "Pierre-Joseph Proudhon",
+  "identifier": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+    "published": "2022-03-22T20:37:46Z",
+    "modified": "2026-07-14T15:31:47Z"
+  },
+  "made_from": [
+    "https://en.wikisource.org/wiki/What_is_Property%3F",
+    "https://archive.org/details/what-is-property"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/pierre-joseph-proudhon/what-is-property/benjamin-tucker",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Philosophy",
+  "genres": [
+    "Philosophy"
+  ],
+  "category": "Philosophy",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-philosophy-epub.zip",
+    "epub_sha256": "68d3d04fe5165c3c1544d1862edcc3be2247b3b144728cce366ebbc3ca86e8d3"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 130528,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

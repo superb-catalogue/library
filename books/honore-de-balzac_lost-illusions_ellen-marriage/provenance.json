@@ -1,0 +1,51 @@
+{
+  "title": "Lost Illusions",
+  "author": "Honoré de Balzac",
+  "identifier": "https://standardebooks.org/ebooks/honore-de-balzac/lost-illusions/ellen-marriage",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/honore-de-balzac/lost-illusions/ellen-marriage",
+    "published": "2025-02-23T22:39:51Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1443",
+    "https://www.gutenberg.org/ebooks/1559",
+    "https://www.gutenberg.org/ebooks/1639",
+    "https://archive.org/details/worksofhonorde15balzuoft",
+    "https://archive.org/details/worksofhonorde16balzuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/honore-de-balzac/lost-illusions/ellen-marriage",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Human Comedy",
+      "type": "series"
+    },
+    {
+      "name": "The Human Comedy: Scenes from Provincial Life",
+      "type": "series"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-human-comedy-epub.zip",
+    "epub_sha256": "1bacacc65278a9f801f37d189374841d44f525840226c70774ea584a45841d0e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 246584,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

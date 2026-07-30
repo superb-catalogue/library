@@ -1,0 +1,45 @@
+{
+  "title": "Tracks in the Snow",
+  "author": "Godfrey R. Benson",
+  "identifier": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+    "published": "2025-01-30T00:20:23Z",
+    "modified": "2026-07-14T15:30:25Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/73711",
+    "https://archive.org/details/tracksinsnowbei00unkngoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/godfrey-r-benson/tracks-in-the-snow",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "106260dc646caa7c89b5b3b07d3b7befc2bde8c91ca325b5369cd86281203cb2"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 23,
+    "words": 57311,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

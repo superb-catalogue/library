@@ -1,0 +1,4949 @@
+{
+  "title": "Poetry",
+  "author": "Langston Hughes",
+  "language": "en-US",
+  "chapters": [
+    {
+      "label": "Fairies",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Out of the dust of dreams, Fairies weave their garments; Out of the purple and rose of old memories, They make rainbow wings. No wonder we find them such marvellous things!"
+        }
+      ]
+    },
+    {
+      "label": "Winter Sweetness",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The little house is sugar, Its roof with snow is piled, And from its tiny window, Peeps a maple-sugar child."
+        }
+      ]
+    },
+    {
+      "label": "Signs of Spring",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bright, jolly sunshine and clear blue skies, Green trees and gardens and gay butterflies, Soft little winds that balmy blow, A golden moon with a love light glow, And the music of bird songs, blithe and clear, Are the things which tell us that Spring is here."
+        }
+      ]
+    },
+    {
+      "label": "An April Rain Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Let the rain kiss you. Let the rain beat upon your head With silver liquid drops. Let the rain sing you a lullaby With its pitty-pat. The rain makes still pools on the sidewalk. The rain makes running pools in the gutter. The rain plays a little sleep tune On our roof at night, And I love the rain."
+        }
+      ]
+    },
+    {
+      "label": "The Negro Speaks of Rivers",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "The Negro Speaks of Rivers"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(To W. E. B. DuBois)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve known rivers: I’ve known rivers ancient as the world and older than the flow of human blood in human veins."
+        },
+        {
+          "type": "paragraph",
+          "text": "My soul has grown deep like the rivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "I bathed in the Euphrates when dawns were young. I built my hut near the Congo and it lulled me to sleep. I looked upon the Nile and raised the pyramids above it. I heard the singing of the Mississippi when Abe Lincoln went down to New Orleans, and I’ve seen its muddy bosom turn all golden in the sunset."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve known rivers: Ancient, dusky rivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "My soul has grown deep like the rivers."
+        }
+      ]
+    },
+    {
+      "label": "Aunt Sue’s Stories",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Aunt Sue has a head full of stories. Aunt Sue has a whole heart full of stories. Summer nights on the front porch Aunt Sue cuddles a brown-faced child to her bosom And tells him stories."
+        },
+        {
+          "type": "paragraph",
+          "text": "Black slaves Working in the hot sun, And black slaves Walking in the dewy night, And black slaves Singing sorrow songs on the banks of a mighty river Mingle themselves softly In the flow of old Aunt Sue’s voice, Mingle themselves softly In the dark shadows that cross and recross Aunt Sue’s stories."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the dark-faced child, listening, Knows that Aunt Sue’s stories are real stories. He knows that Aunt Sue Never got her stories out of any book at all, But that they came Right out of her own life."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the dark-faced child is quiet Of a summer night Listening to Aunt Sue’s stories."
+        }
+      ]
+    },
+    {
+      "label": "The Lament of a Vanquished Beau",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Willy is a silly boy, Willy is a cad. Willy is a foolish kid, Sense he never had. Yet all the girls like Willy﻿— Why I cannot see﻿— He even took my best girl Right away from me."
+        },
+        {
+          "type": "paragraph",
+          "text": "I asked him did he want to fight, But all he did was grin And answer, “Don’t be guilty Of such a brutal sin.” Oh, Willy’s sure a silly boy, He really is a cad, Because he took the only girl That I ’most ever had."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her hair’s so long and pretty And her eyes are very gay; I guess that she likes Willy ’Cause he’s handsome, too, they say. But for me, he’s not good looking; And he sure has made me mad, ’Cause he went and took the only girl That I ’most ever had."
+        }
+      ]
+    },
+    {
+      "label": "Mister Sandman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Sandman walks abroad tonight, With his canvas sack o’ dreams filled tight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the roofs of the little town, The golden face of the moon looks down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Each Mary and Willy and Cora and Ned Is sound asleep in some cozy bed,"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the Sandman opens his magic sack To select the dreams from his wonder pack."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Ah,” says the Sandman, “To this little girl I’ll send a dream like a precious pearl.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "So to Mary Jane, who’s been good all day, A fairy comes in her sleep to play;"
+        },
+        {
+          "type": "paragraph",
+          "text": "But for Corinne Ann, who teased the cat, There’s a horrid dream of a horrid rat,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the greedy boy, with his stomach too full, Has a bad, bad dream of a raging bull;"
+        },
+        {
+          "type": "paragraph",
+          "text": "While for tiny babes, a few days old, Come misty dreams, all rose and gold."
+        },
+        {
+          "type": "paragraph",
+          "text": "And for every girl and every boy The Sandman has dreams that can please or annoy."
+        },
+        {
+          "type": "paragraph",
+          "text": "When at pink-white dawn, with his night’s work done, He takes the road toward the rising sun,"
+        },
+        {
+          "type": "paragraph",
+          "text": "He goes straight on without a pause To his house in the land of Santa Claus."
+        },
+        {
+          "type": "paragraph",
+          "text": "But at purple night-fall he’s back again To distribute his dreams, be it moon light or rain;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And good little children get lovely sleep toys; But woe to the bad little girls and boys!"
+        },
+        {
+          "type": "paragraph",
+          "text": "For those who’d have dreams that are charming and sweet, Must be good in the day and not stuff when they eat,"
+        },
+        {
+          "type": "paragraph",
+          "text": "’Cause old Mister Sandman, abroad each night, Has a dream in his sack to fit each child just right."
+        }
+      ]
+    },
+    {
+      "label": "Autumn Thought",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Flowers are happy in summer; In autumn they die and are blown away. Dry and withered, Their petals dance on the wind, Like little brown butterflies."
+        }
+      ]
+    },
+    {
+      "label": "Thanksgiving Time",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When the night winds whistle through the trees and blow the crisp brown leaves a-crackling down, When the autumn moon is big and yellow-orange and round, When old Jack Frost is sparkling on the ground, It’s Thanksgiving time!"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the pantry jars are full of mince-meat and the shelves are laden with sweet spices for a cake, When the butcher man sends up a turkey nice and fat to bake, When the stores are crammed with everything ingenious cooks can make, It’s Thanksgiving time!"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the gales of coming winter outside your window howl, When the air is sharp and cheery so it drives away your scowl, When one’s appetite craves turkey and will have no other fowl, It’s Thanksgiving time!"
+        }
+      ]
+    },
+    {
+      "label": "The Negro",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I am a Negro: Black as the night is black, Black like the depths of my Africa."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve been a slave: Caesar told me to keep his door-steps clean. I brushed the boots of Washington."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve been a worker: Under my hand the pyramids arose. I made mortar for the Woolworth Building."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve been a singer: All the way from Africa to Georgia I carried my sorrow songs. I made ragtime."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’ve been a victim: The Belgians cut off my hands in the Congo. They lynch me now in Texas."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am a Negro: Black as the night is black, Black like the depths of my Africa."
+        }
+      ]
+    },
+    {
+      "label": "Question",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When the old junk man Death Comes to gather up our bodies And toss them into the sack of oblivion, I wonder if he will find The corpse of a white multimillionaire Worth more pennies of eternity, Than the black torso of A Negro cotton-picker?"
+        }
+      ]
+    },
+    {
+      "label": "Mexican Market Woman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This ancient hag Who sits upon the ground Selling her scanty wares Day in, day round, Has known high wind-swept mountains, And the sun has made Her skin so brown."
+        }
+      ]
+    },
+    {
+      "label": "The New Moon",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There’s a new, young moon riding the hills tonight;"
+        },
+        {
+          "type": "paragraph",
+          "text": "There’s a sprightly, young moon exploring the clouds;"
+        },
+        {
+          "type": "paragraph",
+          "text": "There’s a half-shy, young moon veiling her face like a virgin, Waiting for her lover."
+        }
+      ]
+    },
+    {
+      "label": "To a Dead Friend",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The moon still sends its mellow light Through the purple blackness of the night; The morning star is palely bright Before the dawn."
+        },
+        {
+          "type": "paragraph",
+          "text": "The sun still shines just as before; The rose still grows beside my door, But you have gone."
+        },
+        {
+          "type": "paragraph",
+          "text": "The sky is blue and the robin sings; The butterflies dance on rainbow wings Though I am sad."
+        },
+        {
+          "type": "paragraph",
+          "text": "In all the earth no joy can be; Happiness comes no more to me, For you are dead."
+        }
+      ]
+    },
+    {
+      "label": "My Loves",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I love to see the big white moon, A-shining in the sky; I love to see the little stars, When the shadow clouds go by."
+        },
+        {
+          "type": "paragraph",
+          "text": "I love the rain drops falling On my roof-top in the night; I love the soft wind’s sighing, Before the dawn’s gray light."
+        },
+        {
+          "type": "paragraph",
+          "text": "I love the deepness of the blue, In my Lord’s heaven above; But better than all these things I think, I love my lady love."
+        }
+      ]
+    },
+    {
+      "label": "The South",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The lazy, laughing South With blood on its mouth. The sunny-faced South, Beast-strong, Idiot-brained. The child-minded South Scratching in the dead fire’s ashes For a Negro’s bones. Cotton and the moon, Warmth, earth, warmth, The sky, the sun, the stars, The magnolia-scented South. Beautiful, like a woman, Seductive as a dark-eyed whore, Passionate, cruel, Honey-lipped, syphilitic﻿— That is the South. And I, who am black, would love her But she spits in my face. And I, who am black, Would give her many rare gifts But she turns her back upon me. So now I seek the North﻿— The cold-faced North, For she, they say, Is a kinder mistress, And in her house my children May escape the spell of the South."
+        }
+      ]
+    },
+    {
+      "label": "Laughers",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dream singers, Story tellers, Dancers, Loud laughers in the hands of Fate﻿— My people. Dish-washers, Elevator-boys, Ladies’ maids, Crap-shooters, Cooks, Waiters, Jazzers, Nurses of babies, Loaders of ships, Rounders, Number writers, Comedians in vaudeville And band-men in circuses﻿— Dream-singers all﻿— My people. Story-tellers all﻿— My people. Dancers﻿— God! What dancers! Singers﻿— God! What singers! Singers and dancers, Dancers and laughers. Laughers? Yes, laughers﻿ ﻿… laughers﻿ ﻿… laughers﻿— Loud-mouthed laughers in the hands Of Fate."
+        }
+      ]
+    },
+    {
+      "label": "Danse Africaine",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The low beating of the tom-toms, The slow beating of the tom-toms, Low﻿ ﻿… slow Slow﻿ ﻿… low﻿— Stirs your blood. Dance! A night-veiled girl Whirls softly into a Circle of light. Whirls softly﻿ ﻿… slowly, Like a wisp of smoke around the fire﻿— And the tom-toms beat, And the tom-toms beat, And the low beating of the tom-toms Stirs your blood."
+        }
+      ]
+    },
+    {
+      "label": "After Many Springs",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Now, In June, When the night is a vast softness Filled with blue stars, And broken shafts of moon-glimmer Fall upon the earth, Am I too old to see the fairies dance? I cannot find them any more."
+        }
+      ]
+    },
+    {
+      "label": "Beggar Boy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is there within this beggar lad That I can neither hear nor feel nor see, That I can neither know nor understand And still it calls to me?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is not he but a shadow in the sun﻿— A bit of clay, brown, ugly, given life? And yet he plays upon his flute a wild free tune As if Fate had not bled him with her knife!"
+        }
+      ]
+    },
+    {
+      "label": "Song for a Banjo Dance",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Shake your brown feet, honey, Shake your brown feet, chile, Shake your brown feet, honey, Shake ’em swift and wil’﻿— Get way back, honey, Do that low-down step. Walk on over, darling, Now! Come out With your left. Shake your brown feet, honey, Shake ’em, honey chile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sun’s going down this evening﻿— Might never rise no mo’. The sun’s going down this very night﻿— Might never rise no mo’﻿— So dance with swift feet, honey, (The banjo’s sobbing low) Dance with swift feet, honey﻿— Might never dance no mo’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shake your brown feet, Liza, Shake ’em, Liza, chile, Shake your brown feet, Liza, (The music’s soft and wil’) Shake your brown feet, Liza, (The banjo’s sobbing low) The sun’s going down this very night﻿— Might never rise no mo’."
+        }
+      ]
+    },
+    {
+      "label": "Mother to Son",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Well, son, I’ll tell you: Life for me ain’t been no crystal stair. It’s had tacks in it, And splinters, And boards torn up, And places with no carpet on the floor﻿— Bare; But all the time I’se been a-climbin’ on, And reachin’ landin’s, And turnin’ corners, And sometimes goin’ in the dark, Where there ain’t been no light. So boy, don’t you turn back; Don’t you sit down on the steps, ’Cause you finds it’s kinder hard; Don’t you fall now﻿— For I’se still goin’, honey, I’se still climbin’, And life for me ain’t been no crystal stair."
+        }
+      ]
+    },
+    {
+      "label": "When Sue Wears Red",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When Susanna Jones wears red Her face is like an ancient cameo Turned brown by the ages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come with a blast of trumpets, Jesus!"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Susanna Jones wears red A queen from some time-dead Egyptian night Walks once again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blow trumpets, Jesus!"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the beauty of Susanna Jones in red Burns in my heart a love-fire sharp like pain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sweet silver trumpets, Jesus!"
+        }
+      ]
+    },
+    {
+      "label": "A Black Pierrot",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I am a black Pierrot: She did not love me, So I crept away into the night And the night was black, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am a black Pierrot: She did not love me, So I wept until the red dawn Dripped blood over the eastern hills And my heart was bleeding, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am a black Pierrot: She did not love me, So with my once gay-colored soul Shrunken like a balloon without air, I went forth in the morning To seek a new brown love."
+        }
+      ]
+    },
+    {
+      "label": "Justice",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That Justice is a blind goddess Is a thing to which we black are wise. Her bandage hides two festering sores That once, perhaps, were eyes."
+        }
+      ]
+    },
+    {
+      "label": "Monotony",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Today like yesterday Tomorrow like today; The drip, drip, drip, Of monotony Is wearing my life away; Today like yesterday, Tomorrow like today."
+        }
+      ]
+    },
+    {
+      "label": "Dreams",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hold fast to dreams, my son, For if dreams die Life is a broken-winged bird That cannot fly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hold fast to dreams, O boy, For when dreams go Life is a barren field Frozen with snow."
+        }
+      ]
+    },
+    {
+      "label": "Poem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem"
+            },
+            {
+              "type": "subtitle",
+              "text": "For the Portrait of an African Boy After the Manner of Gauguin"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "All the tom-toms of the jungles beat in my blood, And all the wild hot moons of the jungles shine in my soul. I am afraid of this civilization﻿— So hard, So strong, So cold."
+        }
+      ]
+    },
+    {
+      "label": "Our Land",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Our Land"
+            },
+            {
+              "type": "subtitle",
+              "text": "Poem for a Decorative Panel"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We should have a land of sun, Of gorgeous sun, And a land of fragrant water Where the twilight Is a soft bandana handkerchief Of rose and gold, And not this land where life is cold."
+        },
+        {
+          "type": "paragraph",
+          "text": "We should have a land of trees, Of tall thick trees Bowed down with chattering parrots Brilliant as the day, And not this land where birds are grey."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah, we should have a land of joy, Of love and joy and wine and song, And not this land where joy is wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, sweet, away! Ah, my beloved one, away!"
+        }
+      ]
+    },
+    {
+      "label": "The Last Feast of Belshazzar",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The jeweled entrails of pomegranates bled on the marble floor. The jewel-heart of a virgin broke at the golden door. The laughter of a drunken lord hid the sob of a silken whore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mene, Wrote a strange hand, Mene Tekel Upharsin﻿— And Death stood at the door."
+        }
+      ]
+    },
+    {
+      "label": "Young Prostitute",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Her dark brown face Is like a withered flower On a broken stem. Those kind come cheap in Harlem So they say."
+        }
+      ]
+    },
+    {
+      "label": "Jazzonia",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Oh, silver tree! Oh, shining rivers of the soul!"
+        },
+        {
+          "type": "paragraph",
+          "text": "In a Harlem cabaret Six long-headed jazzers play. A dancing girl whose eyes are bold Lifts high a dress of silken gold."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, singing tree! Oh, shining rivers of the soul!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Were Eve’s eyes In the first garden Just a bit too bold? Was Cleopatra gorgeous In a gown of gold?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, shining tree! Oh, silver rivers of the soul!"
+        },
+        {
+          "type": "paragraph",
+          "text": "In a whirling cabaret Six long-headed jazzers play."
+        }
+      ]
+    },
+    {
+      "label": "Shadows",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We run, We run, We cannot stand these shadows! Give us the sun."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were not made For shade, For heavy shade, And narrow space of stifling air That these white things have made. We run, Oh, God, We run! We must break through these shadows, We must find the sun."
+        }
+      ]
+    },
+    {
+      "label": "Cabaret",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Does a jazz-band ever sob? They say a jazz-band’s gay. Yet as the vulgar dancers whirled And the wan night wore away, One said she heard the jazz-band sob When the little dawn was grey."
+        }
+      ]
+    },
+    {
+      "label": "Winter Moon",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How thin and sharp is the moon tonight! How thin and sharp and ghostly white Is the slim curved crook of the moon tonight!"
+        }
+      ]
+    },
+    {
+      "label": "Young Singer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "One who sings “chansons vulgaires” In a Harlem cellar Where the jazz-band plays From dark to dawn Would not understand Should you tell her That she is like a nymph For some wild faun."
+        }
+      ]
+    },
+    {
+      "label": "Prayer Meeting",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Glory! Halleluiah! De dawn’s a-comin’! Glory! Halleluiah! De dawn’s a-comin’! A black old woman croons In the amen-corner of the Ebecanezer Baptist Church. A black old woman croons﻿— De dawn’s a-comin’!"
+        }
+      ]
+    },
+    {
+      "label": "Poem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem"
+            },
+            {
+              "type": "subtitle",
+              "text": "The Night Is Beautiful"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The night is beautiful, So the faces of my people."
+        },
+        {
+          "type": "paragraph",
+          "text": "The stars are beautiful, So the eyes of my people."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beautiful, also, is the sun. Beautiful, also, are the souls of my people."
+        }
+      ]
+    },
+    {
+      "label": "The Little Frightened Child",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A little southern colored child comes to a northern school and is afraid to play with the white children."
+        },
+        {
+          "type": "paragraph",
+          "text": "At first they are nice to him, but finally they taunt him and call him “nigger.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The colored children hate him after a while, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "He is a little dark boy with a round black face and a white embroidered collar."
+        },
+        {
+          "type": "paragraph",
+          "text": "One might make a story out of this tiny frightened child."
+        }
+      ]
+    },
+    {
+      "label": "My Beloved",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Shall I make a record of your beauty? Shall I write words about you? Shall I make a poem that will live a thousand years and paint you in the poem?"
+        }
+      ]
+    },
+    {
+      "label": "The White Ones",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I do not hate you, For your faces are beautiful, too. I do not hate you, Your faces are whirling lights of loveliness and splendor, too. Yet why do you torture me, O, white strong ones, Why do you torture me?"
+        }
+      ]
+    },
+    {
+      "label": "Grant Park",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The haunting face of poverty, The hands of pain, The rough, gargantuan feet of fate, The nails of conscience in a soul That didn’t want to do wrong﻿— You can see what they’ve done To brothers of mine In one back-yard of Fifth Avenue. You can see what they’ve done To brothers of mine﻿— Sleepers on iron benches Behind the Library in Grant Park."
+        }
+      ]
+    },
+    {
+      "label": "Gods",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The ivory gods, And the ebony gods, And the gods of diamond and jade, Sit silently on their temple shelves While the people Are afraid. Yet the ivory gods, And the ebony gods, And the gods of diamond-jade, Are only silly puppet gods That the people themselves Have made."
+        }
+      ]
+    },
+    {
+      "label": "Fire-Caught",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The gold moth did not love him So, gorgeous, she flew away. But the gray moth circled the flame Until the break of day. And then, with wings like a dead desire, She fell, fire-caught, into the fire."
+        }
+      ]
+    },
+    {
+      "label": "Song for a Suicide",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Oh, the sea is deep And a knife is sharp And a poison acid burns; But they all bring rest In a deep, long sleep For which the tired soul yearns﻿— They all bring rest in a nothingness From where no road returns."
+        }
+      ]
+    },
+    {
+      "label": "Prayer for a Winter Night",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O, Great God of Cold and Winter, Wrap the earth in an icy blanket And freeze the poor in their beds. All those who haven’t enough cover To keep them warm, Nor food enough to keep them strong﻿— Freeze, dear God. Let their limbs grow stiff And their hearts cease to beat, Then tomorrow They’ll wake up in some rich kingdom of nowhere Where nothingness is everything and Everything is nothingness."
+        }
+      ]
+    },
+    {
+      "label": "Lament for Dark Peoples",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I was a red man one time, But the white men came. I was a black man, too, But the white men came."
+        },
+        {
+          "type": "paragraph",
+          "text": "They drove me out of the forest. They took me away from the jungles. I lost my trees. I lost my silver moons."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now they’ve caged me In the circus of civilization. Now I herd with the many﻿— Caged in the circus of civilization."
+        }
+      ]
+    },
+    {
+      "label": "Fascination",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Her teeth are as white as the meat of an apple, Her lips are like dark ripe plums. I love her. Her hair is a midnight mass, a dusky aurora. I love her. And because her skin is the brown of an oak leaf in autumn, but a softer color, I want to kiss her."
+        }
+      ]
+    },
+    {
+      "label": "Poem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem"
+            },
+            {
+              "type": "subtitle",
+              "text": "We Have Tomorrow"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We have tomorrow Bright before us Like a flame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yesterday, a night-gone thing, A sun-down name."
+        },
+        {
+          "type": "paragraph",
+          "text": "And dawn-today Broad arch above the road we came."
+        },
+        {
+          "type": "paragraph",
+          "text": "We march."
+        }
+      ]
+    },
+    {
+      "label": "Mammy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’m waiting for ma mammy﻿— She is Death."
+        },
+        {
+          "type": "paragraph",
+          "text": "Say it very softly. Say it very slowly if you choose."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m waiting for ma mammy﻿— Death."
+        }
+      ]
+    },
+    {
+      "label": "Dream Variation",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "To fling my arms wide In some place of the sun, To whirl and to dance Till the white day is done. Then rest at cool evening Beneath a tall tree While night comes on gently, Dark like me﻿— That is my dream!"
+        },
+        {
+          "type": "paragraph",
+          "text": "To fling my arms wide In the face of the sun, Dance! whirl! whirl! Till the quick day is done. Rest at pale evening.﻿ ﻿… A tall, slim tree.﻿ ﻿… Night coming tenderly Black like me."
+        }
+      ]
+    },
+    {
+      "label": "Afraid",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We cry among the skyscrapers As our ancestors Cried among the palms in Africa Because we are alone, It is night, And we’re afraid."
+        }
+      ]
+    },
+    {
+      "label": "Subway Face",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That I have been looking For you all my life Does not matter to you. You do not know."
+        },
+        {
+          "type": "paragraph",
+          "text": "You never knew. Nor did I. Now you take the Harlem train uptown; I take a local down."
+        }
+      ]
+    },
+    {
+      "label": "A Song to a Negro Wash-Woman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Oh, wash-woman, Arms elbow-deep in white suds, Soul washed clean, Clothes washed clean﻿— I have many songs to sing you Could I but find the words."
+        },
+        {
+          "type": "paragraph",
+          "text": "Was it four o’clock or six o’clock on a winter afternoon, I saw you wringing out the last shirt in Miss White Lady’s kitchen? Was it four o’clock or six o’clock? I don’t remember."
+        },
+        {
+          "type": "paragraph",
+          "text": "But I know, at seven one spring morning you were on Vermont Street with a bundle in your arms going to wash clothes. And I know I’ve seen you in a New York subway train in the late afternoon coming home from washing clothes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, I know you, wash-woman. I know how you send your children to school, and high-school, and even college. I know how you work and help your man when times are hard. I know how you build your house up from the wash-tub and call it home. And how you raise your churches from white suds for the service of the Holy God."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I’ve seen you singing, wash-woman. Out in the backyard garden under the apple trees, singing, hanging white clothes on long lines in the sunshine. And I’ve seen you in church a Sunday morning singing, praising your Jesus, because some day you’re going to sit on the right hand of the Son of God and forget you ever were a wash-woman. And the aching back and the bundles of clothes will be unremembered then. Yes, I’ve seen you singing."
+        },
+        {
+          "type": "paragraph",
+          "text": "And for you, O singing wash-woman, For you, singing little brown woman, Singing strong black woman, Singing tall yellow woman, Arms deep in white suds, Soul clean, Clothes clean﻿— For you I have many songs to make Could I but find the words."
+        }
+      ]
+    },
+    {
+      "label": "The Poppy Flower",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A wild poppy-flower Withered and died. The day-people laughed But the night-people cried. A wild poppy-flower Withered and died."
+        }
+      ]
+    },
+    {
+      "label": "Troubled Woman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "She stands In the quiet darkness, This troubled woman, Bowed by Weariness and pain, Like an Autumn flower In the frozen rain. Like a Wind-blown autumn flower That never lifts its head Again."
+        }
+      ]
+    },
+    {
+      "label": "Johannesburg Mines",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the Johannesburg Mines There are 240,000 Native Africans working. What kind of poem Would you Make out of that? 240,000 natives Working in the Johannesburg mines."
+        }
+      ]
+    },
+    {
+      "label": "To Certain Intellectuals",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You are no friend of mine For I am poor, Black, Ignorant and slow﻿— Not your kind, You yourself Have told me so﻿— No friend of mine."
+        }
+      ]
+    },
+    {
+      "label": "Steel Mills",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The mills That grind and grind, That grind out new steel And grind away the lives Of men﻿— In the sunset Their stacks Are great black silhouettes Against the sky. In the dawn They belch red fire. The mills﻿— Grinding out new steel, Old men."
+        }
+      ]
+    },
+    {
+      "label": "Negro Dancer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“Me an’ ma baby’s Got two mo’ ways, Two mo’ ways to do de buck! Da, da, Da, da, da! Two mo’ ways to do de buck!”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Soft light on the tables, Music gay, Brown-skin steppers In a cabaret."
+        },
+        {
+          "type": "paragraph",
+          "text": "White folks, laugh! White folks, pray!"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Me an’ ma baby’s Got two mo’ ways, Two mo’ ways to do de buck!”"
+        }
+      ]
+    },
+    {
+      "label": "Liars",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It is we who are liars: The Pretenders-to-be who are not And the Pretenders-not-to-be who are. It is we who use words As screens for thoughts And weave dark garments To cover the naked body Of the too white Truth. It is we with the civilized souls Who are liars."
+        }
+      ]
+    },
+    {
+      "label": "Sea Charm",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sea charm The sea’s own children Do not understand. They know But that the sea is strong Like God’s hand. They know But that sea wind is sweet Like God’s breath, And that the sea holds A wide, deep death."
+        }
+      ]
+    },
+    {
+      "label": "The Dream Keeper",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bring me all of your dreams, You dreamers. Bring me all of your Heart melodies That I may wrap them In a blue cloud-cloth Away from the too rough fingers Of the world."
+        }
+      ]
+    },
+    {
+      "label": "Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Song"
+            },
+            {
+              "type": "subtitle",
+              "text": "Lovely, Dark, and Lonely One"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lovely, dark, and lonely one, Bare your bosom to the sun, Do not be afraid of light You who are a child of night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Open wide your arms to life, Whirl in the wind of pain and strife, Face the wall with the dark closed gate, Beat with bare, brown fists And wait."
+        }
+      ]
+    },
+    {
+      "label": "Poem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem"
+            },
+            {
+              "type": "subtitle",
+              "text": "Being Walkers with the Dawn and Morning"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Being walkers with the dawn and morning Walkers with the sun and morning, We are not afraid of night, Nor days of gloom, Nor darkness, Being walkers with the sun and morning."
+        }
+      ]
+    },
+    {
+      "label": "An Earth Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It’s an earth song﻿— And I’ve been waiting long for an earth song. It’s a spring song﻿— And I’ve been waiting long for a spring song. Strong as the shoots of a new plant Strong as the bursting of new buds Strong as the coming of the first child from its mother’s womb. It’s an earth song, A body song, A spring song﻿— I have been waiting long for this spring song."
+        }
+      ]
+    },
+    {
+      "label": "I Too",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I, too, sing America."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am the darker brother. They send me to eat in the kitchen When company comes, But I laugh, And eat well, And grow strong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tomorrow, I’ll sit at the table When company comes. Nobody’ll dare Say to me, “Eat in the kitchen,” Then."
+        },
+        {
+          "type": "paragraph",
+          "text": "Besides, They’ll see how beautiful I am And be ashamed﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "I, too, am America."
+        }
+      ]
+    },
+    {
+      "label": "Drama for Winter Night",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Drama for Winter Night"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(Fifth Avenue)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can’t sleep here, My good man, You can’t sleep here. This is the house of God."
+        },
+        {
+          "type": "paragraph",
+          "text": "The usher opens the church door and he goes out."
+        },
+        {
+          "type": "paragraph",
+          "text": "You can’t sleep in this car, old top, Not here. If Jones found you He’d give you to the cops. Get-the-hell out now, This ain’t home. You can’t stay here."
+        },
+        {
+          "type": "paragraph",
+          "text": "The chauffeur opens the door and he gets out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lord! You can’t let a man lie in the streets like this. Find an officer quick. Send for an ambulance. Maybe he is sick but He can’t die on this corner, Not here! He can’t die here."
+        },
+        {
+          "type": "paragraph",
+          "text": "Death opens a door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, God, Lemme git by St. Peter. Lemme sit down on the steps of your throne. Lemme rest somewhere. What did yuh say, God? What did yuh say? You can’t sleep here.﻿ ﻿… Bums can’t stay.﻿ ﻿…"
+        },
+        {
+          "type": "paragraph",
+          "text": "The man’s raving. Get him to the hospital quick. He’s attracting a crowd. He can’t die on this corner. No, no, not here."
+        }
+      ]
+    },
+    {
+      "label": "God to Hungry Child",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hungry child, I didn’t make this world for you. You didn’t buy any stock in my railroad. You didn’t invest in my corporation. Where are your shares in standard oil? I made the world for the rich And the will-be-rich And the have-always-been-rich. Not for you, Hungry child."
+        }
+      ]
+    },
+    {
+      "label": "Poem to a Dead Soldier",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem to a Dead Soldier"
+            },
+            {
+              "type": "epigraph",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "“Death is a whore who consorts with all men.”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ice-cold passion And a bitter breath Adorned the bed Of Youth and Death﻿— Youth, the young soldier Who went to the wars And embraced white Death, The vilest of whores."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now we spread roses Over your tomb﻿— We who sent you To your doom. Now we make soft speeches And sob soft cries And throw soft flowers And utter soft lies."
+        },
+        {
+          "type": "paragraph",
+          "text": "We mould you in metal And carve you in stone, Not daring make statue Of your dead flesh and bone, Not daring to mention The bitter breath Nor the ice-cold passion Of your love-night with Death."
+        },
+        {
+          "type": "paragraph",
+          "text": "We make soft speeches. We sob soft cries We throw soft flowers, And utter soft lies. And you who were young When you went to the wars Have lost your youth now With the vilest of whores."
+        }
+      ]
+    },
+    {
+      "label": "Park Benching",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’ve sat on the park benches in Paris Hungry. I’ve sat on the park benches in New York Hungry. And I’ve said: I want a job. I want work. And I’ve been told: There are no jobs. There is no work. So I’ve sat on the park benches Hungry. Mid-winter, Hungry days, No jobs, No work."
+        }
+      ]
+    },
+    {
+      "label": "Rising Waters",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "To you Who are the Foam on the sea And not the sea﻿— What of the jagged rocks, And the waves themselves, And the force of the mounting waters? You are But foam on the sea, You rich ones﻿— Not the sea."
+        }
+      ]
+    },
+    {
+      "label": "The Weary Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Droning a drowsy syncopated tune, Rocking back and forth to a mellow croon, I heard a Negro play. Down on Lenox Avenue the other night By the pale dull pallor of an old gas light He did a lazy sway.﻿ ﻿… He did a lazy sway.﻿ ﻿… To the tune o’ those Weary Blues. With his ebony hands on each ivory key He made that poor piano moan with melody. O Blues! Swaying to and fro on his rickety stool He played that sad raggy tune like a musical fool. Sweet Blues! Coming from a black man’s soul. O Blues! In a deep song voice with a melancholy tone I heard that Negro sing, that old piano moan﻿— “Ain’t got nobody in all this world, Ain’t got nobody but ma self. I’s gwine to quit ma frownin’ And put ma troubles on the shelf.” Thump, thump, thump, went his foot on the floor. He played a few chords then he sang some more﻿— “I got the Weary Blues And I can’t be satisfied. Got the Weary Blues And can’t be satisfied﻿— I ain’t happy no mo’ And I wish that I had died.” And far into the night he crooned that tune. The stars went out and so did the moon. The singer stopped playing and went to bed While the Weary Blues echoed through his head. He slept like a rock or a man that’s dead."
+        }
+      ]
+    },
+    {
+      "label": "Prayer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I ask you this: Which way to go? I ask you this: Which sin to bear? Which crown to put Upon my hair? I do not know, Lord God, I do not know."
+        }
+      ]
+    },
+    {
+      "label": "Poem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem"
+            },
+            {
+              "type": "subtitle",
+              "text": "To F. S."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "I loved my friend. He went away from me. There’s nothing more to say. The poem ends, Soft as it began﻿— I loved my friend."
+        }
+      ]
+    },
+    {
+      "label": "America",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Little dark baby, Little Jew baby, Little outcast, America is seeking the stars, America is seeking tomorrow. You are America. I am America America﻿—the dream, America﻿—the vision. America﻿—the star-seeking I. Out of yesterday The chains of slavery; Out of yesterday, The ghettos of Europe; Out of yesterday, The poverty and pain of the old, old world, The building and struggle of this new one, We come You and I, Seeking the stars. You and I, You of the blue eyes And the blond hair, I of the dark eyes And the crinkly hair. You and I Offering hands Being brothers, Being one, Being America. You and I. And I? Who am I? You know me: I am Crispus Attucks at the Boston Tea Party; Jimmy Jones in the ranks of the last black troops marching for democracy. I am Sojourner Truth preaching and praying for the goodness of this wide, wide land; Today’s black mother bearing tomorrow’s America. Who am I? You know me, Dream of my dreams, I am America. I am America seeking the stars. America﻿— Hoping, praying Fighting, dreaming. Knowing There are stains On the beauty of my democracy, I want to be clean. I want to grovel No longer in the mire. I want to reach always After stars. Who am I? I am the ghetto child, I am the dark baby, I am you And the blond tomorrow And yet I am my one sole self, America seeking the stars."
+        }
+      ]
+    },
+    {
+      "label": "To Certain “Brothers”",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You sicken me with lies, With truthful lies. And with your pious faces, And your wide, out-stretched, mock-welcome, Christian hands. While underneath Is dirt and ugliness, And rottening hearts, And wild hyenas howling In your soul’s waste lands."
+        }
+      ]
+    },
+    {
+      "label": "Suicide’s Note",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The calm, Cool face of the river Asked me for a kiss."
+        }
+      ]
+    },
+    {
+      "label": "Fantasy in Purple",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Beat the drums of tragedy for me. Beat the drums of tragedy and death. And let the choir sing a stormy song To drown the rattle of my dying breath."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beat the drums of tragedy for me, And let the white violins whir thin and slow, But blow one blaring trumpet note of sun To go with me to the darkness where I go."
+        }
+      ]
+    },
+    {
+      "label": "To Midnight Nan at Leroy’s",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strut and wiggle, Shameless gal. Wouldn’t no good fellow Be your pal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hear dat music.﻿ ﻿… Jungle night. Hear dat music.﻿ ﻿… And the moon was white."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sing your Blues song, Pretty baby. You want lovin’ And you don’t mean maybe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jungle lover.﻿ ﻿… Night black boy.﻿ ﻿… Two against the moon And the moon was joy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strut and wiggle, Shameless Nan. Wouldn’t no good fellow Be your man."
+        }
+      ]
+    },
+    {
+      "label": "Young Bridge",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "They say she died﻿— Although I do not know, They say she died of grief And in the earth-dark arms of Death Sought calm relief, And rest from pain of love In loveless sleep."
+        }
+      ]
+    },
+    {
+      "label": "The Jester",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In one hand I hold tragedy And in the other Comedy﻿— Masks for the soul. Laugh with me. You would laugh! Weep with me. You would weep! Tears are my laughter. Laughter is my pain. Cry at my grinning mouth, If you will. Laugh at my sorrow’s reign. I am the Black Jester, The dumb clown of the world, The booted, booted fool of silly men. Once I was wise. Shall I be wise again?"
+        }
+      ]
+    },
+    {
+      "label": "Soledad",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Soledad"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Cuban Portrait"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The shadows Of too many nights of love Have fallen beneath your eyes. Your eyes, So full of pain and passion, So full of lies. So full of pain and passion, Soledad, So deeply scarred, So still with silent cries."
+        }
+      ]
+    },
+    {
+      "label": "Poem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Poem"
+            },
+            {
+              "type": "subtitle",
+              "text": "To the Black Beloved"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah, My black one, Thou art not beautiful Yet thou hast A loveliness Surpassing beauty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, My black one, Thou art not good Yet thou hast A purity Surpassing goodness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah, My black one, Thou art not luminous Yet an altar of jewels, An altar of shimmering jewels, Would pale in the light Of thy darkness, Pale in the light Of thy nightness."
+        }
+      ]
+    },
+    {
+      "label": "Cross",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "My old man’s a white old man And my old mother’s black. If ever I cursed my white old man I take my curses back."
+        },
+        {
+          "type": "paragraph",
+          "text": "If ever I cursed my black old mother And wished she were in hell, I’m sorry for that evil wish And now I wish her well."
+        },
+        {
+          "type": "paragraph",
+          "text": "My old man died in a fine big house. My ma died in a shack. I wonder where I’m gonna die, Being neither white nor black?"
+        }
+      ]
+    },
+    {
+      "label": "Summer Night",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The sounds Of the Harlem night Drop one by one into stillness. The last player-piano is closed. The last victrola ceases with the “Jazz Boy Blues.” The last crying baby sleeps And the night becomes Still as a whispering heartbeat. I toss Without rest in the darkness, Weary as the tired night, My soul Empty as the silence, Empty with a vague, Aching emptiness, Desiring, Needing someone, Something."
+        },
+        {
+          "type": "paragraph",
+          "text": "I toss without rest In the darkness Until the new dawn, Wan and pale, Descends like a white mist Into the court-yard."
+        }
+      ]
+    },
+    {
+      "label": "Disillusion",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I would be simple again, Simple and clean Like the earth, Like the rain, Nor ever know, Dark Harlem, The wild laughter Of your mirth Nor the salt tears Of your pain. Be kind to me, Oh, great dark city. Let me forget. I will not come To you again."
+        }
+      ]
+    },
+    {
+      "label": "Jazz Band in a Parisian Cabaret",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Play that thing, Jazz band! Play it for the lords and ladies, For the dukes and counts, For the whores and gigolos, For the American millionaires, And the school teachers Out for a spree. Play it, Jazz band! You know that tune That laughs and cries at the same time. You know it. May I? Mais oui. Mein Gott! Parece una rumba. Play it, jazz band! You’ve got seven languages to speak in And then some, Even if you do come from Georgia. Can I go home wid yuh, sweetie? Sure."
+        }
+      ]
+    },
+    {
+      "label": "Minstrel Man",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Because my mouth Is wide with laughter And my throat Is deep with song, You do not think I suffer after I have held my pain So long."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because my mouth Is wide with laughter, You do not hear My inner cry, Because my feet Are gay with dancing, You do not know I die."
+        }
+      ]
+    },
+    {
+      "label": "Nude Young Dancer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What jungle tree have you slept under, Midnight dancer of the jazzy hour? What great forest has hung its perfume Like a sweet veil about your bower?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What jungle tree have you slept under, Night-dark girl of the swaying hips? What star-white moon has been your mother? To what clean boy have you offered your lips?"
+        }
+      ]
+    },
+    {
+      "label": "Songs to the Dark Virgin",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "I"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Would That I were a jewel, A shattered jewel, That all my shining brilliants Might fall at thy feet, Thou dark one."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "II"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Would That I were a garment, A shimmering, silken garment, That all my folds Might wrap about thy body, Absorb thy body, Hold and hide thy body, Thou dark one."
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "III"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Would That I were a flame, But one sharp, leaping flame To annihilate thy body, Thou dark one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Young Sailor",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "He carries His own strength And his own laughter, His own today And his own hereafter﻿— This strong young sailor Of the wide seas."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is money for? To spend, he says. And wine? To drink. And women? To love. And today? For joy. And tomorrow? For joy. And the green sea For strength, And the brown land For laughter. And nothing hereafter."
+        }
+      ]
+    },
+    {
+      "label": "Joy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I went to look for Joy, Slim, dancing Joy, Gay, laughing Joy, Bright-eyed Joy﻿— And I found her Driving the butcher’s cart In the arms of the butcher boy! Such company, such company, As keeps this young nymph, Joy!"
+        }
+      ]
+    },
+    {
+      "label": "Strange Hurt She Knew",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In times of stormy weather She felt queer pain That said, “You’ll find rain better Than shelter from the rain.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Days filled with fiery sunshine Strange hurt she knew That made Her seek the burning sunlight Rather than the shade."
+        },
+        {
+          "type": "paragraph",
+          "text": "In months of snowy winter When cozy houses hold, She’d break Down doors to wander Naked through the cold."
+        }
+      ]
+    },
+    {
+      "label": "Star Seeker",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I have been a seeker Seeking a flaming star, And the flame-white star Has burned my hands Even from afar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Walking in a dream-dead world Circled by iron bars I sought a singing star’s Wild beauty.﻿— Now behold my scars."
+        }
+      ]
+    },
+    {
+      "label": "Lullaby",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "My little dark baby, My little earth-thing, My little love-one, What shall I sing For your lullaby? Stars, Stars, A necklace of stars Winding the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "My little black baby, My dark body’s baby, What shall I sing For your lullaby? Moon, Moon, Great diamond moon, Kissing the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, little dark baby, Night black baby, Stars, stars, Moon, Night stars, Moon, For your sleep-song lullaby."
+        }
+      ]
+    },
+    {
+      "label": "Salome",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There Is no sweetness In the kiss Of a mouth Unwarm and dead, And even passion’s Flaming bliss Turns ashen In a charnel bed. Salome Of the wine-red lips, What would you with death’s head?"
+        }
+      ]
+    },
+    {
+      "label": "The Ring",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Love is the master of the ring And life a circus tent. What is this silly song you sing? Love is the master of the ring."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am afraid! Afraid of Love And of Love’s bitter whip! Afraid, Afraid of Love And Love’s sharp, stinging whip."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is this silly song you sing? Love is the master of the ring."
+        }
+      ]
+    },
+    {
+      "label": "Midwinter Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In de middle of de winter, Snow all over de ground. In de middle of de winter, Snow all over de ground﻿— ’Twas de night befo’ Christmas Ma good man turned me down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Don’ know’s I’d mind his goin’ But he left me when de coal was low. Don’ know’s I’d mind his goin’ But he left when de coal was low. Now, if a man loves a woman That ain’t no time to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "He told me that he loved me But he must a been tellin’ a lie. He told me that he loved me. He must a been tellin’ a lie. But he’s the only man I’ll Love till de day I die."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m gonna buy me a rose bud An’ plant it at ma back door. Gonna buy me a rose bud And plant it at ma back door, So when I’m dead they Won’t need no flowers from de store."
+        }
+      ]
+    },
+    {
+      "label": "Gypsy Man",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ma man’s a gypsy Cause he never does come home. Ma man’s a gypsy﻿— He never does come home. I’m gonna be a gypsy woman Fer I can’t stay here alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once I was in Memphis, I mean Tennessee. Once I was in Memphis, Said Tennessee. But I had to leave cause Nobody there was good to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "I met a yellow papa, He took ma last thin dime. Met a yellow papa, He took ma last thin dime. I give it to him cause I loved him But I’ll have mo’ sense next time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Love, Oh, love is Such a strange disease. Love, Oh, love is Such a strange disease. When it hurts yo’ heart you Sho can’t find no ease."
+        }
+      ]
+    },
+    {
+      "label": "Ma Man",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When ma man looks at me He knocks me off ma feet. When ma man looks at me He knocks me off ma feet. He’s got those ’lectric-shockin’ eyes an’ De way he shocks me sho is sweet."
+        },
+        {
+          "type": "paragraph",
+          "text": "He kin play a banjo. Lordy, he kin plunk, plunk, plunk. He kin play a banjo. I mean plunk, plunk﻿ ﻿… plunk, plunk. He plays good when he’s sober An’ better, better, better when he’s drunk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eagle-rockin’, Daddy, eagle-rock with me. Eagle rockin’, Come an’ eagle-rock with me. Honey baby, Eagle-rockish as I kin be!"
+        }
+      ]
+    },
+    {
+      "label": "Love Song for Lucinda",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Love Is a ripe plum Growing on a purple tree. Taste it once And the spell of its enchantment Will never let you be."
+        },
+        {
+          "type": "paragraph",
+          "text": "Love Is a bright star Glowing in far Southern skies. Look too hard And its burning flame Will always hurt your eyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Love Is a high mountain Stark in a windy sky. If you Would never lose your breath Do not climb too high."
+        }
+      ]
+    },
+    {
+      "label": "Teacher",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ideals are like the stars, Always above our reach. Humbly I tried to learn, More humbly did I teach."
+        },
+        {
+          "type": "paragraph",
+          "text": "On all honest virtues I sought to keep firm hold. I wanted to be a good man Though I pinched my soul."
+        },
+        {
+          "type": "paragraph",
+          "text": "But now I lie beneath cool loam Forgetting every dream; And in this narrow bed of earth No lights gleam."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this narrow bed of earth Star-dust never scatters, And I tremble lest the darkness teach Me that nothing matters."
+        }
+      ]
+    },
+    {
+      "label": "Minnie Sings Her Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cabaret, cabaret! That’s where ma man an’ me go. Cabaret, cabaret! That’s where we go﻿— Leaves de snow outside An’ our troubles at de door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jazz band, jazz band! Ma man an’ me dance. When I cuddles up to him No other gal’s got a chance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baby, O, Baby, I’m midnight mad. If ma daddy didn’t love me It sho would be sad. If he didn’t love me I’d go away An’ dig me a grave this very day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blues﻿ ﻿… blues! Blue, blue, blues! I’d sho have them blues."
+        }
+      ]
+    },
+    {
+      "label": "Listen Here Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sweet girls, sweet girls, Listen here to me. All you sweet girls, Listen here to me: Gin an’ whiskey Kin make you lose yo’ ’ginity."
+        },
+        {
+          "type": "paragraph",
+          "text": "I used to be a good chile, Lawd, in Sunday School. Used to be a good chile﻿— Always in Sunday School, Till these licker-headed rounders Made me everbody’s fool."
+        },
+        {
+          "type": "paragraph",
+          "text": "Good girls, good girls, Listen here to me. Oh, you good girls, Better listen to me: Don’t you fool wid no men cause They’ll bring you misery."
+        }
+      ]
+    },
+    {
+      "label": "Fortune Teller Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I went to de gypsy, De gypsy took hold o’ my hand. Went to de gypsy, Gypsy took hold o’ my hand. She looked at me and tole me Chile, you gonna lose yo’ man."
+        },
+        {
+          "type": "paragraph",
+          "text": "These fortune tellers Never tell me nothin’ kind. I say fortune tellers Never tell me nothin’ kind. I’d give a hundred dollars To de one that would ease my mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cause I’ll holler an’ scream an’ Fall down on de flo’. Say I’ll holler an’ scream an’ Fall down on de flo’. If my man leaves me I won’t live no mo’."
+        }
+      ]
+    },
+    {
+      "label": "Judgment Day",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "They put ma body in de ground, Ma soul went flyin’ o’ de town."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lord Jesus!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Went flyin’ to de stars an’ moon A shoutin’ God, I’s comin’ soon."
+        },
+        {
+          "type": "paragraph",
+          "text": "O Jesus!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lord in heaben, Crown on His head, Says don’t be ’fraid Cause you ain’t dead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kind Jesus!"
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ now I’m settin’ clean an’ bright In de sweet o’ ma Lord’s sight﻿— Clean an’ bright, Clean an’ bright."
+        }
+      ]
+    },
+    {
+      "label": "Wide River",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ma baby lives across de river An’ I ain’t got no boat. She lives across de river, I ain’t got no boat. I ain’t a good swimmer An’ I don’t know how to float."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wide, wide river ’Tween ma love an’ me. Wide, wide river ’Tween ma love an’ me. I never knowed how Wide a river can be."
+        },
+        {
+          "type": "paragraph",
+          "text": "Got to cross that river An’ git to ma baby somehow. Cross that river, Git to ma baby somehow, Cause if I don’t see ma baby I’ll lay down an’ die right now."
+        }
+      ]
+    },
+    {
+      "label": "Homesick Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "De railroad bridge’s A sad song in de air. De railroad bridge’s A sad song in de air. Ever time de trains pass I wants to go somewhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "I went down to de station. Ma heart was in ma mouth. Went down to de station. Heart was in ma mouth. Lookin’ for a box car To roll me to de South."
+        },
+        {
+          "type": "paragraph",
+          "text": "Homesick blues, Lawd, ’S a terrible thing to have. Homesick blues is A terrible thing to have. To keep from cryin’ I opens ma mouth an’ laughs."
+        }
+      ]
+    },
+    {
+      "label": "Ruby Brown",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "She was young and beautiful And golden like the sunshine That warmed her body. And because she was colored Mayville had no place to offer her, Nor fuel for the clean flame of joy That tried to burn within her soul."
+        },
+        {
+          "type": "paragraph",
+          "text": "One day, Sitting on old Mrs. Latham’s back porch Polishing the silver, She asked herself two questions And they ran something like this: What can a colored girl do On the money from a white woman’s kitchen? And ain’t there any joy in this town?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the streets down by the river Know more about this pretty Ruby Brown, And the sinister shuttered houses of the bottoms Hold a yellow girl Seeking an answer to her questions. The good church folk do not mention Her name any more."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the white men, Habitués of the high shuttered houses, Pay more money to her now Than they ever did before, When she worked in their kitchens."
+        }
+      ]
+    },
+    {
+      "label": "Formula",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Poetry should treat Of lofty things Soaring thoughts And birds with wings."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Muse of Poetry Should not know That roses In manure grow."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Muse of Poetry Should not care That earthly pain Is everywhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poetry! Treats of lofty things: Soaring thoughts And birds with wings."
+        }
+      ]
+    },
+    {
+      "label": "Autumn Note",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The little flowers of yesterday Have all forgotten May. The last gold leaf Has turned to brown. The last bright day is grey. The cold of winter comes apace And you have gone away."
+        }
+      ]
+    },
+    {
+      "label": "For Dead Mimes",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Oh, white-faced mimes, May rose leaves Cover you like snow. And may Pierrette, The faithful, Rest forever with Pierrot."
+        }
+      ]
+    },
+    {
+      "label": "New Year",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The years Fall like dry leaves From the top-less tree Of eternity. Does it matter That another leaf has fallen?"
+        }
+      ]
+    },
+    {
+      "label": "Epitaph",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Within this grave I lie, Yes, I. Why laugh, good people, Or why cry? Within this grave Lies nothing more Than I."
+        }
+      ]
+    },
+    {
+      "label": "To Beauty",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "To worship At the altar of Beauty, To feel her loveliness and pain, To thrill At the wonder of her gorgeous moon Or the sharp, swift, silver swords Of falling rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "To walk in a golden garden When an autumn sun Has almost set, When near-night’s purple splendor Shimmers to a star-shine net."
+        },
+        {
+          "type": "paragraph",
+          "text": "To worship At the altar of Beauty Is a pleasure divine, Not given to the many many But to fools Who drink Beauty’s wine. Not given to the many many But to fools Who seek no other goddess Nor grapes Plucked from another’s Vine."
+        }
+      ]
+    },
+    {
+      "label": "Bound No’th Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Goin’ down de road, Lawd, Goin’ down de road. Down de road, Lawd, Way, way down de road. Got to find somebody To help me carry dis load."
+        },
+        {
+          "type": "paragraph",
+          "text": "Road’s in front o’ me, Nothin’ to do but walk. Road’s in front o’ me, Walk﻿ ﻿… and walk﻿ ﻿… and walk. I’d like to meet a good friend To come along an’ talk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hates to be lonely, Lawd, I hates to be sad. Says I hates to be lonely, Hates to be lonely an’ sad, But ever friend you finds seems Like they try to do you bad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Road, road, road, O! Road, road﻿ ﻿… road﻿ ﻿… road, road! Road, road, road, O! On de No’thern road. These Mississippi towns ain’t Fit fer a hoppin’ toad."
+        }
+      ]
+    },
+    {
+      "label": "Lonesome Place",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I got to leave this town. It’s a lonesome place. Got to leave this town cause It’s a lonesome place. A po’, po’ boy can’t Find a friendly face."
+        },
+        {
+          "type": "paragraph",
+          "text": "Goin’ down to de river Flowin’ deep an’ slow. Goin’ down to de river Deep an’ slow.﻿— Cause there ain’t no worries Where de waters go."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m weary, weary, Weary, as I can be. Weary, weary, Weary as can be. This life’s so weary, ’S ’bout to overcome me."
+        }
+      ]
+    },
+    {
+      "label": "Misery",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Play de blues for me. Play de blues for me. No other music ’Ll ease ma misery."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sing a soothin’ song. Said a soothin’ song, Cause de man I love’s done Done me wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Can’t you understand, O, understand A good woman’s cryin’ For a no-good man?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Black gal like me, Black gal like me ’S got to hear a blues For her misery."
+        }
+      ]
+    },
+    {
+      "label": "Bad Luck Card",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cause you don’t love me Is awful, awful hard. Gypsy done showed me Ma bad luck card."
+        },
+        {
+          "type": "paragraph",
+          "text": "There ain’t no good left In this world for me. Gypsy done tole me﻿— Unlucky as can be."
+        },
+        {
+          "type": "paragraph",
+          "text": "I don’t know what Po’ weary me can do. Gypsy says I’d kill ma self If I was you."
+        }
+      ]
+    },
+    {
+      "label": "Feet o’ Jesus",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At de feet o’ Jesus, Sorrow like a sea. Lordy, let yo’ mercy Come driftin’ down on me."
+        },
+        {
+          "type": "paragraph",
+          "text": "At de feet o’ Jesus, At yo’ feet I stand. O, ma little Jesus, Please reach out yo’ hand."
+        }
+      ]
+    },
+    {
+      "label": "Down an’ Out",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If you loves me Help me when I’m down an’ out. If you loves me Help me when I’m down an’ out. Cause I’m a po’ gal that Nobody gives a damn about."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Stalment man’s done took ma clothes An’ rent time’s most nigh here. ’Stalment man’s done took ma clothes, Rent time’s most nigh here. I’d like to buy a straightenin’ comb An’ I needs a dime for beer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Talk about yo’ friendly friends Bein’ kind to you. Talk about yo’ friendly friends Bein’ kind to you: Just let yo’self git down an’ out An’ then see what they’ll do."
+        }
+      ]
+    },
+    {
+      "label": "Fog",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Singing black boatmen An August morning In the thick white fog at Sekondi Coming out to take cargo From anchored alien ships, You do not know the fog We strange so-civilized ones Sail in always."
+        }
+      ]
+    },
+    {
+      "label": "Pictures to the Wall",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Shall I tell you of my old, old dreams Lost at the earth’s strange turnings, Some in the sea when the waves foamed high, Some in a garret candle’s burnings?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Shall I tell you of bitter, forgotten dreams﻿— You who are still so young, so young? You with your wide brown singing eyes And laughter at the tip of your tongue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shall I tell you of weary, weary dreams﻿— You who have lost no dreams at all, Or shall I keep quiet and let turn My ugly pictures to the wall?"
+        }
+      ]
+    },
+    {
+      "label": "Walls",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four walls can hold Oh, so much pain: Four walls that shield From the wind and rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Four walls can keep Oh, so much sorrow Garnered from yesterday And held for tomorrow."
+        }
+      ]
+    },
+    {
+      "label": "Beale Street Love",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Love Is a brown man’s fist With hard knuckles Crushing the lips, Blackening the eyes﻿— Hit me again, Says Clorinda."
+        }
+      ]
+    },
+    {
+      "label": "Dressed Up",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I had ma clothes cleaned Just like new. I put ’em on but I still feels biue."
+        },
+        {
+          "type": "paragraph",
+          "text": "I bought a new hat, Sho is fine, But I wish I had back that Old gal o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "I got new shoes﻿— They don’t hurt ma feet, But I ain’t got nobody For to call me sweet."
+        }
+      ]
+    },
+    {
+      "label": "A House in Taos",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "section",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Rain"
+            },
+            {
+              "type": "paragraph",
+              "text": "Thunder of the Rain God: And we three Smitten by beauty."
+            },
+            {
+              "type": "paragraph",
+              "text": "Thunder of the Rain God: And we three Weary, weary."
+            },
+            {
+              "type": "paragraph",
+              "text": "Thunder of the Rain God: And you, she, and I Waiting for nothingness."
+            },
+            {
+              "type": "paragraph",
+              "text": "Do you understand the stillness Of this house in Taos Under the thunder of the Rain God?"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Sun"
+            },
+            {
+              "type": "paragraph",
+              "text": "That there should be a barren garden About this house in Taos Is not so strange, But that there should be three barren hearts In this one house in Taos﻿— Who carries ugly things to show the sun?"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Moon"
+            },
+            {
+              "type": "paragraph",
+              "text": "Did you ask for the beaten brass of the moon? We can buy lovely things with money, You, she and I, Yet you seek As though you could keep, This unbought loveliness of moon."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Wind"
+            },
+            {
+              "type": "paragraph",
+              "text": "Touch our bodies, wind. Our bodies are separate individual things. Touch our bodies, wind, But blow quickly Through the red, white, yellow skins Of our bodies To the terrible snarl, Not mine, Not yours, Not hers, But all one snarl of souls. Blow quickly, wind, Before we run back into the windlessness﻿— With our bodies﻿— Into the windlessness Of our house in Taos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Suicide",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ma sweet good man has Packed his trunk and left. Ma sweet good man has Packed his trunk and left. Nobody to love me: I’m gonna kill ma self."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m gonna buy me a knife with A blade ten inches long. Gonna buy a knife with A blade ten inches long. Shall I carve ma self or That man that done me wrong?"
+        },
+        {
+          "type": "paragraph",
+          "text": "’Lieve I’ll jump in de river Eighty-nine feet deep. ’Lieve I’ll jump in de river Eighty-nine feet deep. Cause de river’s quiet An’ a po’, po’ gal can sleep."
+        }
+      ]
+    },
+    {
+      "label": "Hard Luck",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When hard luck overtakes you Nothin’ for you to do. When hard luck overtakes you Nothin’ for you to do. Gather up yo’ fine clothes An’ sell ’em to de Jew."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jew takes yo’ fine clothes, Gives you a dollar an’ a half. Jew takes yo’ fine clothes, Gives you a dollar an’ a half. Go to de bootleg’s, Git some gin to make you laugh."
+        },
+        {
+          "type": "paragraph",
+          "text": "If I was a mule I’d Git me a wagon to haul. If I was a mule I’d Git a wagon to haul. I’m so low-down I Ain’t even got a stall."
+        }
+      ]
+    },
+    {
+      "label": "Po’ Boy Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When I was home de Sunshine seemed like gold. When I was home de Sunshine seemed like gold. Since I come up North de Whole damn world’s turned cold."
+        },
+        {
+          "type": "paragraph",
+          "text": "I was a good boy, Never done no wrong. Yes, I was a good boy, Never done no wrong, But this world is weary An’ de road is hard an’ long."
+        },
+        {
+          "type": "paragraph",
+          "text": "I fell in love with A gal I thought was kind. Fell in love with A gal I thought was kind. She made me lose ma money An’ almost lose ma mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Weary, weary, Weary early in de morn. Weary, weary, Early, early in de morn. I’s so weary I wish I’d never been born."
+        }
+      ]
+    },
+    {
+      "label": "Red Roses",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’m waitin’ for de springtime When de tulips grow﻿— Sweet, sweet springtime When de tulips grow; Cause if I’d die in de winter They’d bury me under snow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un’neath de snow, Lawd, Oh, what would I do? Un’neath de snow, I say what would I do? It’s bad enough to die but I don’t want freezin’ too."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m waitin’ for de springtime An’ de roses red, Waitin’ for de springtime When de roses red ’Ll make a nice coverin’ Fer a gal that’s dead."
+        }
+      ]
+    },
+    {
+      "label": "Railroad Adventure",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dusk dark On Railroad Avenue. Lights in the fish joints, Lights in the pool rooms. A box-car some train Has forgotten In the middle of the Block. A player piano, A victrola. 942 Was the number. A boy Lounging on a corner. A passing girl With purple powdered skin. Laughter Suddenly Like a taut drum. Laughter Suddenly Neither truth nor lie. Laughter Hardening the dusk dark evening. Laughter Shaking the lights in the fish joints, Rolling white balls in the pool rooms, And leaving untouched the box-car Some train has forgotten."
+        }
+      ]
+    },
+    {
+      "label": "Elevator Boy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I got a job now Runnin’ an elevator In the Dennison Hotel in Jersey. Job ain’t no good though. No money around. Jobs are just chances Like everthing else. Maybe a little luck now, Maybe not. Maybe a good job sometimes: Step out o’ the barrel, boy. Two new suits an’ A woman to sleep with. Maybe no luck for a long time. Only the elevators Goin’ up an’ down, Up an’ down, Or somebody elses’ shoes To shine, Or greasy pots in a dirty kitchen. I been runnin’ this Elevator too long. Guess I’ll quit now."
+        }
+      ]
+    },
+    {
+      "label": "Stars",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O, sweep of stars over Harlem streets, O, little breath of oblivion that is night; A city building To a mother’s song. A city building To a lullabye. Dark boy, Reach up your hand and take a star Out of the little breath of oblivion That is night, Take just one star."
+        }
+      ]
+    },
+    {
+      "label": "Brass Spitoons",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Clean the spitoons, boy. Detroit, Chicago, Atlantic City, Palm Beach. Clean the spitoons. The steam in hotel kitchens, And the smoke in hotel lobbies, And the slime in hotel spitoons: Part of my life. Hey, boy! A nickel, A dime, A dollar, Two dollars a day. Hey, boy! A nickel, A dime, A dollar, Two dollars Buys shoes for the baby. House rent to pay. Gin on Saturday, Church on Sunday. My God! Babies and girl and church and women and Sunday all mixed up with dimes and dollars and clean spitoons and house rent to pay. Hey, boy! A bright bowl of brass is beautiful to the Lord. Bright polished brass like the cymbals Of King David’s dancers, Like the wine cups of Solomon. Hey, boy! A clean spitoon on the altar of the Lord. A clean bright spitoon all newly polished﻿— At least I can offer that. Com’ mere, boy!"
+        }
+      ]
+    },
+    {
+      "label": "The New Cabaret Girl",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That little yaller gal Wid blue-green eyes: If her daddy ain’t white Would be a surprise."
+        },
+        {
+          "type": "paragraph",
+          "text": "She don’t drink gin An’ she don’t like corn. I asked her one night Where she was born."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ she say, Honey, I don’t know Where I come from Or where I go."
+        },
+        {
+          "type": "paragraph",
+          "text": "That crazy little yaller gal Wid blue-green eyes: If her daddy ain’t ’fay Would be a surprise."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ there she sets a cryin’ In de cabaret A lookin’ all sad When she ought to play."
+        },
+        {
+          "type": "paragraph",
+          "text": "My God, I says, You can’t live that way! Babe, you can’t Live that way!"
+        }
+      ]
+    },
+    {
+      "label": "Argument",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Now lookahere, gal, Don’t you talk ’bout me. I got mo’ hair ’n you evah did see, An’ if I ain’t high yaller I ain’t coal black, So what you said ’bout me You bettah take it back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, listen, Corrine, I don’t talk ’bout you. I’s got much mo’ Important things to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "All right, gal, But I’m speakin’ ma mind: You bettah keep yo’ freight train Off ma line."
+        }
+      ]
+    },
+    {
+      "label": "Saturday Night",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Play it once. O, play some more. Charlie is a gambler An’ Sadie is a whore. A glass o’ whiskey An’ a glass o’ gin: Strut, Mr. Charlie, Till de dawn comes in. Pawn yo’ gold watch An’ diamond ring. Git a quart o’ licker, Let’s shake dat thing! Skee-de-dad! De-dad! Doo-doo-doo! Won’t be nothin’ left When de worms git through An’ you’s a long time Dead When you is Dead, too. So beat dat drum, boy! Shout dat song: Shake ’em up an’ shake ’em up All night long. Hey! Hey! Ho﻿ ﻿… Hum! Do, it, Mr. Charlie, Till de red dawn come."
+        }
+      ]
+    },
+    {
+      "label": "The Cat and the Saxophone",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "The Cat and the Saxophone"
+            },
+            {
+              "type": "subtitle",
+              "text": "(2 a.m.)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Everybody Half-pint﻿— Gin? No, make it loves my baby corn. You like liquor, don’t you, honey? but my baby Sure. Kiss me, don’t love nobody daddy. but me. Say! Everybody Yes? wants my baby I’m your but my baby sweetie, ain’t I? don’t want nobody Sure. but Then let’s me, do it! sweet me. Charleston, mamma! !"
+        }
+      ]
+    },
+    {
+      "label": "To a Little Lover-Lass, Dead",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "She Who searched for lovers In the night Has gone the quiet way Into the still, Dark land of death Beyond the rim of day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now like a little lonely waif She walks An endless street And gives her kiss to nothingness. Would God his lips were sweet!"
+        }
+      ]
+    },
+    {
+      "label": "Harlem Night Club",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sleek black boys in a cabaret. Jazz-band, jazz-band﻿— Play, play, play! Tomorrow﻿ ﻿… who knows? Dance today!"
+        },
+        {
+          "type": "paragraph",
+          "text": "White girls’ eyes Call gay black boys. Black boys’ lips Grin jungle joys."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dark brown girls In blond men’s arms. Jazz-band, jazz-band﻿— Sing Eve’s charms!"
+        },
+        {
+          "type": "paragraph",
+          "text": "White ones, brown ones, What do you know About tomorrow Where all paths go?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jazz-boys, jazz-boys,﻿–﻿ Play, play, play! Tomorrow﻿ ﻿… is darkness. Joy today!"
+        }
+      ]
+    },
+    {
+      "label": "To a Black Dancer in “The Little Savoy”",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Wine-maiden Of the jazz-tuned night, Lips Sweet as purple dew, Breasts Like the pillows of all sweet dreams, Who crushed The grapes of joy And dripped their juice On you?"
+        }
+      ]
+    },
+    {
+      "label": "Blues Fantasy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hey! Hey! That’s what the Blues singers say. Singing minor melodies They laugh, Hey! Hey!"
+        },
+        {
+          "type": "paragraph",
+          "text": "My man’s done left me, Chile, he’s gone away. My good man’s left me, Babe, he’s gone away. Now the cryin’ blues Haunts me night and day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hey!﻿ ﻿… Hey!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Weary, Weary, Trouble, pain. Sun’s gonna shine Somewhere Again."
+        },
+        {
+          "type": "paragraph",
+          "text": "I got a railroad ticket, Pack my trunk and ride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sing ’em, sister!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Got a railroad ticket, Pack my trunk and ride. And when I get on the train I’ll cast my blues aside."
+        },
+        {
+          "type": "paragraph",
+          "text": "Laughing, Hey!﻿ ﻿… Hey! Laugh a loud, Hey! Hey!"
+        }
+      ]
+    },
+    {
+      "label": "Lenox Avenue: Midnight",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The rhythm of life Is a jazz rhythm, Honey. The gods are laughing at us."
+        },
+        {
+          "type": "paragraph",
+          "text": "The broken heart of love, The weary, weary heart of pain﻿— Overtones, Undertones, To the rumble of street cars, To the swish of rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lenox Avenue, Honey. Midnight, And the gods are laughing at us."
+        }
+      ]
+    },
+    {
+      "label": "Poème d’Automne",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The autumn leaves Are too heavy with color. The slender trees On the Vulcan Road Are dressed in scarlet and gold Like young courtesans Waiting for their lovers. But soon The winter winds Will strip their bodies bare And then The sharp, sleet-stung Caresses of the cold Will be their only Love."
+        }
+      ]
+    },
+    {
+      "label": "March Moon",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The moon is naked. The wind has undressed the moon. The wind has blown all the cloud-garments Off the body of the moon And now she’s naked, Stark naked."
+        },
+        {
+          "type": "paragraph",
+          "text": "But why don’t you blush, O shameless moon? Don’t you know It isn’t nice to be naked?"
+        }
+      ]
+    },
+    {
+      "label": "As I Grew Older",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It was a long time ago. I have almost forgotten my dream. But it was there then, In front of me, Bright like a sun﻿— My dream."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then the wall rose, Rose slowly, Slowly, Between me and my dream. Rose slowly, slowly, Dimming, Hiding, The light of my dream. Rose until it touched the sky﻿— The wall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shadow. I am black."
+        },
+        {
+          "type": "paragraph",
+          "text": "I lie down in the shadow. No longer the light of my dream before me, Above me. Only the thick wall. Only the shadow."
+        },
+        {
+          "type": "paragraph",
+          "text": "My hands! My dark hands! Break through the wall!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Find my dream! Help me to shatter this darkness, To smash this night, To break this shadow Into a thousand lights of sun, Into a thousand whirling dreams Of sun!"
+        }
+      ]
+    },
+    {
+      "label": "Harlem Night Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Come, Let us roam the night together Singing."
+        },
+        {
+          "type": "paragraph",
+          "text": "I love you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Across The Harlem roof-tops Moon is shining. Night sky is blue. Stars are great drops Of golden dew. In the cabaret The jazz-band’s playing."
+        },
+        {
+          "type": "paragraph",
+          "text": "I love you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come, Let us roam the night together Singing."
+        }
+      ]
+    },
+    {
+      "label": "Ardella",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I would liken you To a night without stars Were it not for your eyes. I would liken you To a sleep without dreams Were it not for your songs."
+        }
+      ]
+    },
+    {
+      "label": "Pierrot",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I work all day, Said Simple John, Myself a house to buy. I work all day, Said Simple John, But Pierrot wondered why."
+        },
+        {
+          "type": "paragraph",
+          "text": "For Pierrot loved the long white road, And Pierrot loved the moon, And Pierrot loved a star-filled sky, And the breath of a rose in June."
+        },
+        {
+          "type": "paragraph",
+          "text": "I have one wife, Said Simple John, And, faith, I love her yet. I have one wife, Said Simple John, But Pierrot left Pierrette."
+        },
+        {
+          "type": "paragraph",
+          "text": "For Pierrot saw a world of girls, And Pierrot loved each one, And Pierrot thought all maidens fair As flowers in the sun."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, I am good, Said Simple John, The Lord will take me in. Yes, I am good, Said Simple John, But Pierrot’s steeped in sin."
+        },
+        {
+          "type": "paragraph",
+          "text": "For Pierrot played on a slim guitar, And Pierrot loved the moon, And Pierrot ran down the long white road With the burgher’s wife one June."
+        }
+      ]
+    },
+    {
+      "label": "Water-Front Streets",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The spring is not so beautiful there﻿— But dream ships sail away To where the spring is wondrous rare And life is gay."
+        },
+        {
+          "type": "paragraph",
+          "text": "The spring is not so beautiful there﻿— But lads put out to sea Who carry beauties in their hearts And dreams, like me."
+        }
+      ]
+    },
+    {
+      "label": "A Farewell",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "With gypsies and sailors, Wanderers of the hills and seas, I go to seek my fortune. With pious folk and fair I must have a parting. But you will not miss me﻿— You who live between the hills And have never seen the seas."
+        }
+      ]
+    },
+    {
+      "label": "Long Trip",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The sea is a wilderness of waves, A desert of water. We dip and dive, Rise and roll, Hide and are hidden On the sea. Day, night, Night, day, The sea is a desert of waves, A wilderness of water."
+        }
+      ]
+    },
+    {
+      "label": "Port Town",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hello, sailor boy, In from the sea! Hello, sailor, Come with me!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Come on drink cognac. Rather have wine? Come here, I love you. Come and be mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lights, sailor boy, Warm, white lights. Solid land, kid. Wild, white nights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Come on, sailor, Out o’ the sea. Let’s go, sweetie! Come with me."
+        }
+      ]
+    },
+    {
+      "label": "Sea Calm",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How still, How strangely still The water is today. It is not good For water To be so still that way."
+        }
+      ]
+    },
+    {
+      "label": "Caribbean Sunset",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "God having a hemorrhage, Blood coughed across the sky, Staining the dark sea red, That is sunset in the Caribbean."
+        }
+      ]
+    },
+    {
+      "label": "Natcha",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Natcha, offering love. For ten shillings offering love. Offering: A night with me, honey. A long, sweet night with me. Come, drink palm wine. Come, drink kisses. A long, dream night with me."
+        }
+      ]
+    },
+    {
+      "label": "Death of an Old Seaman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We buried him high on a windy hill, But his soul went out to sea. I know, for I heard, when all was still, His sea-soul say to me:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Put no tombstone at my head, For here I do not make my bed. Strew no flowers on my grave, I’ve gone back to the wind and wave. Do not, do not weep for me, For I am happy with my sea."
+        }
+      ]
+    },
+    {
+      "label": "Sick Room",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How quiet It is in this sick room Where on the bed A silent woman lies between two lovers﻿— Life and Death, And all three covered with a sheet of pain."
+        }
+      ]
+    },
+    {
+      "label": "To the Dark Mercedes of “El Palacio de Amor”",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mercedes is a jungle-lily in a death house. Mercedes is a doomed star. Mercedes is a charnel rose. Go where gold Will fall at the feet of your beauty, Mercedes. Go where they will pay you well For your loveliness."
+        }
+      ]
+    },
+    {
+      "label": "Mulatto",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I am your son, white man!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Georgia dusk And the turpentine woods. One of the pillars of the temple fell."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are my son! Like hell!"
+        },
+        {
+          "type": "paragraph",
+          "text": "The moon over the turpentine woods. The Southern night Full of stars, Great big yellow stars. Juicy bodies Of nigger wenches Blue black Against black fences. O, you little bastard boy, What’s a body but a toy? The scent of pine wood stings the soft night air. What’s the body of your mother? Silver moonlight everywhere. What’s the body of your mother? Sharp pine scent in the evening air. A nigger night, A nigger joy, A little yellow Bastard boy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Naw, you ain’t my brother. Niggers ain’t my brother. Not ever. Niggers ain’t my brother."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Southern night is full of stars, Great big yellow stars. O, sweet as earth, Dusk dark bodies Give sweet birth To little yellow bastard boys."
+        },
+        {
+          "type": "paragraph",
+          "text": "Git on back there in the night, You ain’t white."
+        },
+        {
+          "type": "paragraph",
+          "text": "The bright stars scatter everywhere. Pine wood scent in the evening air. A nigger night, A nigger joy."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am your son, white man!"
+        },
+        {
+          "type": "paragraph",
+          "text": "A little yellow Bastard boy."
+        }
+      ]
+    },
+    {
+      "label": "A Letter to Anne",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Since I left you, Anne, I have seen nothing but you. Every day Has been your face, And every night your hand, And every road Your voice calling me. And every rock and every flower and tree Has been a touch of you. Nowhere Have I seen anything else but you, Anne."
+        }
+      ]
+    },
+    {
+      "label": "In the Mist of the Moon",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the mist of the moon I saw you, O, Nanette, And you were lovelier than the moon. You were darkness, And the body of darkness. And light, And the body of light. In the mist of the moon I saw you, Dark Nanette."
+        }
+      ]
+    },
+    {
+      "label": "Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Song"
+            },
+            {
+              "type": "subtitle",
+              "text": "Rocks and the Firm Roots of Trees"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Rocks and the firm roots of trees. The rising shafts of mountains. Something strong to put my hands on."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sing, O Lord Jesus! Song is a strong thing. I heard my mother singing when you hurt her:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gonna ride in ma chariot some day."
+        },
+        {
+          "type": "paragraph",
+          "text": "The branches rise from the firm roots of trees. The mountains rise from the solid lap of earth. The waves rise from the dead weight of sea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sing, O black mother! Song is a strong thing."
+        }
+      ]
+    },
+    {
+      "label": "For an Indian Screen",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Clutching at trees and clawing rocks And panting and climbing Until he reached the top A tiger in India Surmounted a cliff one day When the hunters were behind him And his lair was far away. A black and golden tiger Climbed a red cliff’s side And men in black and golden gowns Sought the tiger’s hide."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, splendid, supple animal: Against the cliff’s red face: A picture for an Indian screen Woven in silks of subtle sheen And broidered in yellow lace, A picture for an Indian screen As a prince’s gift to some ebony queen In a far-off land like a fairy scene."
+        }
+      ]
+    },
+    {
+      "label": "Day",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Where most surely comes a day When all the sweets you’ve gourged Will turn your stomach sick And all the friends you’ve loved Will go away And every gold swift hour Will be an hour of pain And every sun-filled cloud A cloud of rain And even the withered flowers Will lose their long-held faint perfume And you alone will be with you In that last room﻿— Only your single selves together Facing a single doom."
+        }
+      ]
+    },
+    {
+      "label": "Passing Love",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Because you are to me a song I must not sing you overlong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because you are to me a prayer I cannot say you everywhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because you are to me a rose You will not stay when summer goes."
+        }
+      ]
+    },
+    {
+      "label": "Lincoln Monument",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Lincoln Monument"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(Washington)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Let’s go see old Abe Sitting in the marble and the moonlight, Sitting lonely in the marble and the moonlight, Quiet for ten thousand centuries, old Abe. Quiet for a million, million centuries. Quiet﻿—and yet a voice forever Against the timeless walls of time, Old Abe."
+        }
+      ]
+    },
+    {
+      "label": "Song for a Dark Girl",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Way Down South in Dixie (Break the heart of me) They hung my black young lover To a cross roads tree."
+        },
+        {
+          "type": "paragraph",
+          "text": "Way Down South in Dixie (Bruised body high in air) I asked the white Lord Jesus What was the use of prayer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Way Down South in Dixie (Break the heart of me) Love is a naked shadow On a gnarled and naked tree."
+        }
+      ]
+    },
+    {
+      "label": "Gal’s Cry for a Dying Lover",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Heard de owl a hootin’, Knowed somebody’s ’bout to die. Heard de owl a hootin’, Knowed somebody’s ’bout to die. Put ma head un’neath de kiver, Started in to moan an’ cry."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hound dawg’s barkin’ Means he’s gonna leave this world. Hound dawg’s barkin’ Means he’s gonna leave this world. O, Lawd have mercy On a po’ black girl."
+        },
+        {
+          "type": "paragraph",
+          "text": "Black an’ ugly But he sho do treat me kind. I’m black an’ ugly But he sho do treat me kind. High-in-heaben Jesus, Please don’t take this man o’ mine."
+        }
+      ]
+    },
+    {
+      "label": "Desire",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Desire to us Was like a double death. Swift dying Of our mingled breath, Evaporation Of an unknown strange perfume Between us quickly In a naked room."
+        }
+      ]
+    },
+    {
+      "label": "Bulwark",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You were the last bulwark of my dreams, And now you, too, have tumbled down into the dust. You, too, are no more than a broken lie. Something came between us green and slimy like sickly laughter and a bowl was broken from which we could not drink thereafter and we turned around and threw the shattered bits upon the ground and went our separate ways into the town and a clock somewhere in a tower boomed out slowly hour after hour a great cracked broken sound. You were the last bulwark of my dreams, And now you, too, have tumbled down."
+        }
+      ]
+    },
+    {
+      "label": "Wise Men",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Let me become dead eyed Like a fish﻿— I’m sure then I’d be wise For all the wise men I’ve seen Have had dead eyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let me learn to fit all things Into law and rule: I’d be the proper person then To teach a school."
+        }
+      ]
+    },
+    {
+      "label": "Poem for Youth",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Raindrops On the crumbling walls Of tradition, Sunlight Across mouldy pits Of yesterday."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, Wise old men, What do you say About the fiddles And the jazz And the loud Hey! Hey! About the dancing girls, And the laughing boys, And the brilliant lights, And the blaring joys, The firecracker days And the nights﻿— Love-toys?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Staid old men, What do you say About sun-filled rain Drowning yesterday?"
+        }
+      ]
+    },
+    {
+      "label": "The Naughty Child",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The naughty child Who ventured to go cut flowers, Fell into the mill-pond And was drowned. But the good children all Are living yet, Nice folks now In a very nice town."
+        }
+      ]
+    },
+    {
+      "label": "Mona",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "She lived in sinful happiness And died in pain, But she danced in sunshine And laughed in rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "She went one summer morning When flowers spread the plain But she told my mother She was coming back again."
+        },
+        {
+          "type": "paragraph",
+          "text": "The old folks made a coffin And hid her deep in earth. Seems like she said: My body Brings new birth."
+        },
+        {
+          "type": "paragraph",
+          "text": "For sure there grew flowers And tall young trees And sturdy weeds and grasses To sway in the breeze."
+        },
+        {
+          "type": "paragraph",
+          "text": "And sure she lived in growing things With no pain And laughed in sunshine And danced in rain."
+        }
+      ]
+    },
+    {
+      "label": "Ma Lord",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ma Lord ain’t no stuck up man. Ma Lord, he ain’t proud. When he goes a walkin’ He gives me his hand. You ma friend, he ’lowed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Lord knows what it is to work. He knows how to pray. Ma Lord’s life was trouble, too, Trouble ever day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma Lord ain’t no stuck up man. He’s a friend o’ mine. When he went to heaben, His soul like fire, He tole me I was gwine. He said, Sho you’ll come wid me An’ be ma friend through eternity."
+        }
+      ]
+    },
+    {
+      "label": "Tapestry",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Men who ride strange wild horses Down dangerous glens and glades, Men who draw keen sharp swords, Toledo or Damascus blades, Men who swear and laugh and love And live and sing like troubadours﻿— Wrinkled old beldams somewhere Are dreaming of old amours."
+        }
+      ]
+    },
+    {
+      "label": "Nocturne for the Drums",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gay little devils That hide in gin And tickle black boys Under the chin And make them laugh, Gay little devils That lurk in kisses, And shine in the eyes Of ebony misses, Shine in their eyes: Whee‑e‑e!! O‑o‑o‑o﻿ ﻿… Boom! Jazz band in a cabaret! The quick red hour Before the day."
+        }
+      ]
+    },
+    {
+      "label": "Success",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Here I sit with my belly full And he who might have been my brother Walks hungry in the rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here I sit with my belly full And she I might have loved Seeks someone in the shadows To whom she may sell her body."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here I sit with my belly full, No longer the rain, No longer the shadows for the Woman I love, No longer hunger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Success is a great big beefsteak With onions on it, And I eat."
+        }
+      ]
+    },
+    {
+      "label": "Being Old",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It’s because you are so young﻿— You do not understand. But we are old As the jungle trees That bloomed forever, Old as the forgotten rivers That flowed into the earth. Surely we know what you do not know: Joy of living, Uselessness of things. You are too young to understand yet. Build another skyscraper Touching the stars. We sit with our backs against a tree And watch skyscrapers tumble And stars forget. Solomon built a temple And it must have fallen down. It isn’t here now. We know some things, being old, You do not understand."
+        }
+      ]
+    },
+    {
+      "label": "Montmartre Beggar Woman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Once you were beautiful﻿— Now, Hunched in the cold, Nobody cares That you are old."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once you were lovely﻿— Now, In the street, No one remembers Your lips were sweet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, withered old woman Of rue Fontaine, Nobody but death Will kiss you again."
+        }
+      ]
+    },
+    {
+      "label": "I Thought It Was Tangiers I Wanted",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I know now That Notre Dame is in Paris. And the Seine is more to me now Than a wriggling line on a map Or a name in travel stories."
+        },
+        {
+          "type": "paragraph",
+          "text": "I know now There is a Crystal Palace in Antwerp Where a hundred women sell their naked bodies, And the night-lovers of sailors Wait for men on docks in Genoa."
+        },
+        {
+          "type": "paragraph",
+          "text": "I know now That a great golden moon Like a picture-book moon Really rises behind palm groves In Africa, And tom-toms do beat In village squares under the mango trees."
+        },
+        {
+          "type": "paragraph",
+          "text": "I know now That Venice is a church dome And a net-work of canals, Tangiers a whiteness under sun. I thought It was Tangiers I wanted, Or the gargoyles of Notre Dame, Or the Crystal Palace in Antwerp, Or the golden palm-grove moon in Africa, Or a church dome and a net-work of canals."
+        },
+        {
+          "type": "paragraph",
+          "text": "Happiness lies nowhere, Some old fool said, If not within oneself."
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s a sure thing Notre Dame is in Paris﻿— But I thought it was Tangiers I wanted."
+        }
+      ]
+    },
+    {
+      "label": "Dreamer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I take my dreams And make of them a bronze vase, And a wide round fountain With a beautiful statue in its center, And a song with a broken heart, And I ask you: Do you understand my dreams? Sometimes you say you do And sometimes you say you don’t. Either way It doesn’t matter. I continue to dream."
+        }
+      ]
+    },
+    {
+      "label": "Hey!",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sun’s a settin’, This is what I’m gonna sing. Sun’s a settin’, This is what I’m gonna sing: I feels de blues a comin’, Wonder what de blues’ll bring?"
+        }
+      ]
+    },
+    {
+      "label": "Hey! Hey!",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sun’s a risin’, This is gonna be ma song. Sun’s a risin’, This is gonna be ma song. I could be blue but I been blue all night long."
+        }
+      ]
+    },
+    {
+      "label": "Bad Man",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’m a bad, bad man Cause everbody tells me so. I’m a bad, bad man. Everbody tells me so. I takes ma meanness and ma licker Everwhere I go."
+        },
+        {
+          "type": "paragraph",
+          "text": "I beats ma wife an’ I beats ma side gal too. Beats ma wife an’ Beats ma side gal too. Don’t know why I do it but It keeps me from feelin’ blue."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m so bad I Don’t even want to be good. So bad, bad, bad I Don’t even want to be good. I’m goin’ to de devil an’ I wouldn’t go to heaben if I could."
+        }
+      ]
+    },
+    {
+      "label": "Closing Time",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Starter!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Her face is pale In the doorway light. Her lips blood red And her skin blue white."
+        },
+        {
+          "type": "paragraph",
+          "text": "Taxi!"
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m tired."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep﻿ ﻿… River.﻿ ﻿…"
+        },
+        {
+          "type": "paragraph",
+          "text": "O, God, please!"
+        },
+        {
+          "type": "paragraph",
+          "text": "The river and the moon hold memories."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cornets play. Dancers whirl. Death, be kind"
+        },
+        {
+          "type": "paragraph",
+          "text": "What was the cover charge, kid?"
+        },
+        {
+          "type": "paragraph",
+          "text": "To a little drowned girl."
+        }
+      ]
+    },
+    {
+      "label": "Prize Fighter",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Only dumb guys fight. If I wasn’t dumb I wouldn’t be fightin’. I could make six dollars a day On the docks And I’d save more than I do now. Only dumb guys fight."
+        }
+      ]
+    },
+    {
+      "label": "Crap Game",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lemme roll ’em, boy. I got ma tail curled! If a seven don’t come ’Leven ain’t far away. An’ if I craps, Dark baby, Trouble Don’t last all de time. Hit ’em, bones!"
+        }
+      ]
+    },
+    {
+      "label": "Ballad of Gin Mary",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Carried me to de court, Judge was settin’ there. Looked all around me, Didn’t have a friend nowhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Judge Pierce he says, Mary. Old Judge says, Mary Jane, Ever time I mounts this bench I sees yo’ face again."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, Lawd! O, Lawd! O, Lawd﻿ ﻿… Lawdee! Seems like bad licker, Judge, won’t let me be."
+        },
+        {
+          "type": "paragraph",
+          "text": "Old Judge says you’s a drunkard. Fact is you worries me. Gwine give you eighteen months So licker’ll let you be."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eighteen months in jail! O, eighteen months locked in! Won’t be so bad in jail. But I’ll miss ma gin."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, please sir, Judge, have mercy! Have mercy, please, on me! Old hard-faced Judge says eighteen months Till licker’ll let you be."
+        }
+      ]
+    },
+    {
+      "label": "Death of Do Dirty",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Death of Do Dirty"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Rounder’s Song"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O, you can’t find a buddy Any old time ’Ll help you out When you ain’t got a dime."
+        },
+        {
+          "type": "paragraph",
+          "text": "He was a friend o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "They called him Do Dirty Cause he was black An’ had cut his gal An’ shot a man in de back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma friend o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "But when I was hungry, Had nothin’ to eat, He bought me corn bread An’ a stew o’ meat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Good friend o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ when de cops got me An’ put me in jail If Dirty had de money, He’d go ma bail."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, friend o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "That night he got kilt I was standin’ in de street. Somebody comes by An’ says yo’ boy is gettin’ beat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma friend o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "But when I got there An’ seen de ambulance A guy was sayin’ He ain’t got a chance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best friend o’ mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ de ones that kilt him﻿— Damn their souls﻿— I’m gonna fill ’em up full o’ Bullet holes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma friend o’ mine."
+        }
+      ]
+    },
+    {
+      "label": "Porter",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I must say Yes, sir, To you all the time. Yes, sir! Yes, sir! All my days Climbing up a great big mountain Of yes, sirs!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rich old white man Owns the world. Gimme yo’ shoes To shine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, sir!"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Life For him Must be The shivering of A great drum Beaten with swift sticks Then at the closing hour The lights go out And there is no music at all And death becomes An empty cabaret And eternity an unblown saxophone And yesterday A glass of gin Drunk long Ago."
+        }
+      ]
+    },
+    {
+      "label": "Shout",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Listen to yo’ prophets, Little Jesus! Listen to yo’ saints!"
+        }
+      ]
+    },
+    {
+      "label": "Fire",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fire, Fire, Lord! Fire gonna burn ma soul!"
+        },
+        {
+          "type": "paragraph",
+          "text": "I ain’t been good, I ain’t been clean﻿— I been stinkin’, low-down, mean."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fire, Fire, Lord! Fire gonna burn ma soul!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tell me, brother, Do you believe If you wanta go to heaben Got to moan an’ grieve?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fire, Fire, Lord! Fire gonna burn ma soul!"
+        },
+        {
+          "type": "paragraph",
+          "text": "I been stealin’, Been tellin’ lies, Had more women Than Pharaoh had wives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fire, Fire, Lord! Fire gonna burn ma soul! I means Fire, Lord! Fire gonna burn ma soul!"
+        }
+      ]
+    },
+    {
+      "label": "Moan",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’m deep in trouble, Nobody to understand, Lord, Lord!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep in trouble, Nobody to understand, O, Lord!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gonna pray to ma Jesus, Ask him to gimme His hand. Ma Lord!"
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m moanin’, moanin’, Nobody cares just why. No, Lord!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Moanin’, moanin’, Feels like I could die. O, Lord!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sho, there must be peace, Ma Jesus, Somewhere in yo’ sky. Yes, Lord!"
+        }
+      ]
+    },
+    {
+      "label": "Angels Wings",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "De angels wings is white as snow, O, white as snow, White as snow. De angels wings is white as snow, But I drug ma wings In de dirty mire. O, I drug ma wings All through de fire. But de angels wings is white as snow, White as snow."
+        }
+      ]
+    },
+    {
+      "label": "Sinner",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Have mercy, Lord!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Po’ an’ black An’ humble an’ lonesome An’ a sinner in yo’ sight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Have mercy, Lord!"
+        }
+      ]
+    },
+    {
+      "label": "Cora",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I broke ma heart this mornin’. Ain’t got no heart no mo’. Next time a man comes near me Gonna shut an’ lock ma door Cause they treats me mean﻿— The ones I loves. They always treats me mean."
+        }
+      ]
+    },
+    {
+      "label": "Workin’ Man",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I works all day Wid a pick an’ a shovel. Comes home at night﻿— It ain’t nothin’ but a hovel."
+        },
+        {
+          "type": "paragraph",
+          "text": "I calls for ma woman When I opens de door. She’s out in de street﻿— Ain’t nothin’ but a ’hore,"
+        },
+        {
+          "type": "paragraph",
+          "text": "I does her good An’ I treats her fine, But she don’t gimme lovin’ Cause she ain’t de right kind."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m a hard workin’ man An’ I sho pays double Cause I tries to be good An’ gits nothin’ but trouble."
+        }
+      ]
+    },
+    {
+      "label": "Baby",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Albert! Hey, Albert! Don’t you play in dat road. You see dem trucks A goin’ by. One run ovah you An’ you die. Albert, don’t you play in dat road."
+        }
+      ]
+    },
+    {
+      "label": "Evil Woman",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I ain’t gonna mistreat ma Good gal any more. I’m just gonna kill her Next time she makes me sore."
+        },
+        {
+          "type": "paragraph",
+          "text": "I treats her kind but She don’t do me right. She fights an’ quarrels most Ever night."
+        },
+        {
+          "type": "paragraph",
+          "text": "I can’t have no woman’s Got such low-down ways, Cause a blue-gummed woman Ain’t de style now days."
+        },
+        {
+          "type": "paragraph",
+          "text": "I brought her from de South An’ she’s goin’ on back Else I’ll use her head For a carpet tack."
+        }
+      ]
+    },
+    {
+      "label": "A Ruined Gal",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Standin’ by de lonesome riverside After de boat’s done gone, Po’ weary me Won’t be nobody’s bride Cause I is long gone wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Standin’ by de weary riverside When de boat comes in, Po’ lonesome me Won’t meet nobody Cause I ain’t got no friend."
+        },
+        {
+          "type": "paragraph",
+          "text": "By de edge o’ de weary riverside Night-time’s comin’ down. Ain’t nothin’ for a ruined gal But jump overboard an’ drown."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, de lonesome riverside, O, de wicked water. Damn ma black old mammy’s soul For ever havin’ a daughter."
+        }
+      ]
+    },
+    {
+      "label": "Sun Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sun and softness, Sun and the beaten hardness of the earth, Sun and the song of all the sun-stars Gathered together﻿— Dark ones of Africa, I bring you my songs To sing on the Georgia roads."
+        }
+      ]
+    },
+    {
+      "label": "Magnolia Flowers",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The quiet fading out of life In a corner full of ugliness."
+        },
+        {
+          "type": "paragraph",
+          "text": "I went lookin’ for magnolia flowers But I didn’t find ’em. I went lookin’ for magnolia flowers in the dusk And there was only this corner Full of ugliness."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Scuse me, I didn’t mean to stump ma toe on you, lady,"
+        },
+        {
+          "type": "paragraph",
+          "text": "There ought to be magaolias Somewhere in this dusk."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Scuse me, I didn’t mean to stump ma toe on you."
+        }
+      ]
+    },
+    {
+      "label": "Red Silk Stockings",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Put on yo’ red silk stockings, Black gal. Go out an’ let de white boys Look at yo’ legs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ain’t nothin’ to do for you, nohow, Round this town﻿— You’s too pretty. Put on yo’ red silk stockings, gal, An’ tomorrow’s chile’ll Be a high yaller."
+        },
+        {
+          "type": "paragraph",
+          "text": "Go out an’ let de white boys Look at yo’ legs."
+        }
+      ]
+    },
+    {
+      "label": "Young Gal’s Blues",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’m gonna walk to de graveyard ’Hind ma friend Miss Cora Lee. Gonna walk to de graveyard ’Hind ma dear friend Cora Lee Cause when I’m dead some Body’ll have to walk behind me."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m goin’ to de po’ house To see ma old Aunt Clew. Goin’ to de po’ house To see ma old Aunt Clew. When I’m old an’ ugly I’ll want to see somebody, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "De po’ house is lonely An’ de grave is cold. O, de po’ house is lonely, De graveyard grave is cold. But I’d rather be dead than To be ugly an’ old."
+        },
+        {
+          "type": "paragraph",
+          "text": "When love is gone what Can a young gal do? When love is gone, O, What can a young gal do? Keep on a-lovin’ me, daddy, Cause I don’t want to be blue."
+        }
+      ]
+    },
+    {
+      "label": "Hard Daddy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I went to ma daddy, Says Daddy I have got de blues. Went to ma daddy, Says Daddy I have got de blues. Ma daddy says Honey Can’t you bring no better news?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I cried on his shoulder but He turned his back on me. Cried on his shoulder but He turned his back on me. He said a woman’s cryin’s Never gonna bother me."
+        },
+        {
+          "type": "paragraph",
+          "text": "I wish I had wings to Fly like de eagle flies. Wish I had wings to Fly like de eagle flies. I’d fly on ma man an’ I’d scratch out both his eyes."
+        }
+      ]
+    },
+    {
+      "label": "Sunset﻿—Coney Island",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The sun, Like the red yolk of a rotten egg, Falls behind the roller-coaster And the horizon sticks With a putrid odor of colors. Down on the beach A little Jewish tailor from the Bronx, With a bad stomach, Throws up the hot-dog sandwiches He ate in the afternoon While life To him Is like a sick tomato In a garbage can."
+        }
+      ]
+    },
+    {
+      "label": "Nonette",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You wound my soul with a thousand spears, You bathe my wounds in a flood of tears, Nonette."
+        },
+        {
+          "type": "paragraph",
+          "text": "You give me a rose whose breath is sweet, Whose petals are poison and death to eat, Nonette."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when I am dead you do not cry, But your heart breaks, too, and you, too, die."
+        }
+      ]
+    },
+    {
+      "label": "Lover’s Return",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Lover’s Return"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(Song for a Deserted Woman)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma old time daddy Came back home last night. His face was pale an’ His eyes didn’t look just right."
+        },
+        {
+          "type": "paragraph",
+          "text": "He says to me I’m Comin’ home to you So sick an’ lonsome I don’t know what to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, men treats women Just like a pair o’ shoes. I say treats women Like a pair o’ shoes﻿—, They kicks ’em round an’ Does ’em like they choose."
+        },
+        {
+          "type": "paragraph",
+          "text": "I looked at ma daddy﻿— Lawd! an’ I wanted to cry. He looked so thin.﻿— Lawd! that I wanted to cry. But de devil told me Damn a lover Comes home to die!"
+        }
+      ]
+    },
+    {
+      "label": "Mazie Dies Alone in the City Hospital",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I hate to die this way with the quiet Over everything like a shroud. I’d rather die where the band’s a playin’ Noisy and loud."
+        },
+        {
+          "type": "paragraph",
+          "text": "I’d rather die the way I lived﻿— Drunk and rowdy and gay; God! Why did you ever curse me Makin’ me die this way?"
+        }
+      ]
+    },
+    {
+      "label": "Hurt",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who cares About the hurt in your heart?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Make a song like this for a jazz band to play:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nobody cares. Nobody cares."
+        },
+        {
+          "type": "paragraph",
+          "text": "Make a song like that From your lips."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nobody cares."
+        }
+      ]
+    },
+    {
+      "label": "Lady in Cabaret",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "She knows The end of the evening will come﻿— It has come before. And if it should never come again, Well﻿— Just that much more A bore."
+        }
+      ]
+    },
+    {
+      "label": "Dear Lovely Death",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dear lovely Death That taketh all things under wing﻿— Never to kill﻿— Only to change Into some other thing This suffering flesh, To make it either more or less, Yet not again the same﻿— Dear lovely Death, Change is thy other name."
+        }
+      ]
+    },
+    {
+      "label": "Flight",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Plant your toes in the cool swamp mud; Step and leave no track. Hurry, sweating runner! The hounds are at your back."
+        },
+        {
+          "type": "paragraph",
+          "text": "No, I didn’t touch her. White flesh ain’t for me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hurry! Black boy, hurry! Or they’ll swing you to a tree!"
+        }
+      ]
+    },
+    {
+      "label": "Aesthete in Harlem",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Strange, That in this nigger place I should meet life face to face; When, for years, I had been seeking Life in places gentler speaking﻿— Before I came to this vile street And found Life﻿—stepping on my feet!"
+        }
+      ]
+    },
+    {
+      "label": "Anne Spencer’s Table",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "On Anne Spencer’s table There lies an unsharpened pencil﻿— As though she has left unwritten Many things she knows to write."
+        }
+      ]
+    },
+    {
+      "label": "Spring for Lovers",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Desire weaves its fantasy of dreams, And all the world becomes a garden close In which we wander, you and I together, Believing in the symbol of the rose, Believing only in the heart’s bright flower﻿— Forgetting﻿—flowers wither in an hour."
+        }
+      ]
+    },
+    {
+      "label": "Tower",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Death is a tower To which the soul ascends To spend a meditative hour﻿— That never ends."
+        }
+      ]
+    },
+    {
+      "label": "The English",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In ships all over the world The English comb their hair for dinner, Stand watch on the bridge, Guide by strange stars, Take on passengers, Slip up hot rivers, Nose across lagoons, Bargain for trade, Buy, sell or rob, Load oil, load fruit, Load cocoa beans, load gold. In ships all over the world, Comb their hair for dinner."
+        }
+      ]
+    },
+    {
+      "label": "Afro-American Fragment",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "So long, So far away Is Africa. Not even memories alive Save those that history books create, Save those that songs beat back into the blood﻿— Beat out of blood with words sad sung In strange un-Negro tongue﻿— So long, So far away Is Africa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subdued and time lost are the drums﻿— And yet, through some vast mist of race There comes this song I do not understand, This song of atavistic land, Of bitter yearnings lost, without a place﻿— So long, So far away Is Africa’s Dark face."
+        }
+      ]
+    },
+    {
+      "label": "Black Seed",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "World-wide dusk Of dear dark faces Driven before an alien wind, Scattered like seed From far-off places Growing in soil That’s strange and thin, Hybrid plants In another’s garden, Flowers In a land That’s not your own, Cut by the shears Of the white-faced gardeners﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tell them to leave you alone!"
+        }
+      ]
+    },
+    {
+      "label": "Pride",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Let all who will Eat quietly the bread of shame."
+        },
+        {
+          "type": "paragraph",
+          "text": "I cannot, Without complaining loud and long, Tasting its bitterness in my throat, And feeling to my very soul Its wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "For honest work You proffer me poor pay. For honest dreams Your spit is in my face, And so my fist is clenched﻿— Too weak I know﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "But longing to be strong To strike your face!"
+        }
+      ]
+    },
+    {
+      "label": "Negro Servant",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "All day subdued, polite Kind, thoughtful to the faces that are white. O, tribal dance! O, drums! O, veldt at night! Forgotten watch-fires on a hill somewhere! O, songs that do not care! At six o’clock, or seven, or eight, You’re through. You’ve worked all day. Dark Harlem waits for you. The el, the sub. Pay-nights, A taxi through the park. O, drums of life in Harlem after dark! O, dreams! O, songs! O, saxophones at night! O, sweet relief from faces that are white!"
+        }
+      ]
+    },
+    {
+      "label": "Merry Christmas",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Merry Christmas, China, From the gun-boats in the river, Ten-inch shells for Christmas gifts, And peace on earth forever."
+        },
+        {
+          "type": "paragraph",
+          "text": "Merry Christmas, India, To Gandhi in his cell, From righteous Christian England, Ring out, bright Christmas bell!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ring Merry Christmas, Africa, From Cairo to the Cape! Ring Halleluiah! Praise the Lord! (For murder and for rape.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ring Merry Christmas, Haiti! (And drown the voodoo drums﻿— We’ll rob you to the Christian hymns Until the next Christ comes.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ring Merry Christmas, Cuba! (While Yankee domination Keeps a nice fat president In a little half-starved nation.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to you down-and-outers, (“Due to economic laws”) Oh, eat, drink, and be merry With a bread-line Santa Claus﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "While all the world hails Christmas, While all the church bells sway! While, better still, the Christian guns Proclaim this joyous day!"
+        },
+        {
+          "type": "paragraph",
+          "text": "While holy steel that makes us strong Spits forth a mighty Yuletide song: Shoot Merry Christmas everywhere! Let Merry Christmas gas the air!"
+        }
+      ]
+    }
+  ]
+}

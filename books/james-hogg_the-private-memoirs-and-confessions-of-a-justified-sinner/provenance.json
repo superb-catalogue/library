@@ -1,0 +1,52 @@
+{
+  "title": "The Private Memoirs and Confessions of a Justified Sinner",
+  "author": "James Hogg",
+  "identifier": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+    "published": "2023-01-11T20:07:00Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2276",
+    "https://catalog.hathitrust.org/Record/000438212",
+    "https://archive.org/details/privatememoirsco00hoggrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Horror"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "94"
+    },
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "38"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-telegraphs-greatest-villains-in-literature-epub.zip",
+    "epub_sha256": "17b3cf252414c1f71dccf82595e0c78ba0ec1844e6e8a0db725437acaec0287f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 83920,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

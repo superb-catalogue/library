@@ -1,0 +1,45 @@
+{
+  "title": "The War of the Worlds",
+  "author": "H. G. Wells",
+  "identifier": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+    "published": "2016-03-29T23:15:11Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/36",
+    "https://catalog.hathitrust.org/Record/012293655"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [
+    {
+      "name": "Le Monde’s 100 Books of the Century",
+      "type": "set",
+      "position": "56"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-le-mondes-100-books-of-the-century-epub.zip",
+    "epub_sha256": "56b57347a63fbd52a6a94b6500e5ff1c0a49a266e525223fef08789cb1ad4f8f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 29,
+    "words": 59896,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

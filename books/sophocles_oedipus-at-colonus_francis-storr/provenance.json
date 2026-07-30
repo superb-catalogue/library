@@ -1,0 +1,49 @@
+{
+  "title": "Oedipus at Colonus",
+  "author": "Sophocles",
+  "identifier": "https://standardebooks.org/ebooks/sophocles/oedipus-at-colonus/francis-storr",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/sophocles/oedipus-at-colonus/francis-storr",
+    "published": "2025-01-07T20:31:14Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/31",
+    "https://archive.org/details/sophoclesstor01sophuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/sophocles/oedipus-at-colonus/francis-storr",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [
+    {
+      "name": "The Theban Plays",
+      "type": "set",
+      "position": "2"
+    },
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "fa79b97a95296141696dec02d156af96d891b8c0821850e87643d81f64942534"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 1,
+    "words": 13604,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Travel Essays",
+  "author": "Robert Louis Stevenson",
+  "identifier": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+    "published": "2025-09-15T19:35:13Z",
+    "modified": "2026-06-30T03:25:14Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/534",
+    "https://www.gutenberg.org/ebooks/382",
+    "https://www.gutenberg.org/ebooks/535",
+    "https://www.gutenberg.org/ebooks/516",
+    "https://www.gutenberg.org/ebooks/614",
+    "https://www.gutenberg.org/ebooks/627",
+    "https://www.gutenberg.org/ebooks/30527",
+    "https://archive.org/details/inlandvoyage06stev",
+    "https://archive.org/details/edinburghpicture00stev_0",
+    "https://archive.org/details/worksstevens12stevuoft",
+    "https://archive.org/details/silveradosquaste00stev",
+    "https://archive.org/details/with00stevacrossplainsrich",
+    "https://archive.org/details/cu31924013553965",
+    "https://archive.org/details/amateuremigrants0000unse",
+    "https://archive.org/details/inlandvoyagetrav02stev"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-louis-stevenson/travel-essays",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Memoir",
+  "genres": [
+    "Memoir",
+    "Nonfiction",
+    "Travel"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "b9faf18422b78888a16dd5862680e5948423608c5a310f5bafee17e7bc9a6851"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 20,
+    "words": 230587,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "The Riddle of the Sands",
+  "author": "Erskine Childers",
+  "identifier": "https://standardebooks.org/ebooks/erskine-childers/the-riddle-of-the-sands",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/erskine-childers/the-riddle-of-the-sands",
+    "published": "2017-07-10T02:58:27Z",
+    "modified": "2026-07-14T15:29:57Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2360",
+    "https://books.google.com/books?id=p441AAAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/erskine-childers/the-riddle-of-the-sands",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "The Crime Writers’ Association Top 100 Crime Novels of All Time",
+      "type": "set",
+      "position": "92"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "37"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "d643f811dbc4b2a431395c4664f8fe1c8f85f25ac2884277f8b3c4979bdc26c5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 29,
+    "words": 107386,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Our Mutual Friend",
+  "author": "Charles Dickens",
+  "identifier": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend",
+    "published": "2025-11-25T19:25:09Z",
+    "modified": "2026-07-17T14:08:09Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/883",
+    "https://catalog.hathitrust.org/Record/011405488"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "73"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-best-novels-of-all-time-2026-epub.zip",
+    "epub_sha256": "c1dd4a8c89033c65af96c8f070b79cf4e175e5d38e31c5d2e8341556eeb3f8b4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 71,
+    "words": 323891,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

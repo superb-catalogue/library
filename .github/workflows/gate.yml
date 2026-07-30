@@ -1,0 +1,46 @@
+name: gate
+
+# Deliberately light — see scripts/gate.py's own docstring. No corpus-wide
+# analysis, no cross-library measurement, nothing that would make adding a
+# book slow. Two jobs, both meant to finish in seconds.
+
+on:
+  pull_request:
+    paths:
+      - "books/**"
+      - "LIBRARY.md"
+      - "CATEGORIES.md"
+      - "scripts/**"
+  push:
+    branches: [main]
+
+jobs:
+  door-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: per-book gate
+        run: python scripts/gate.py
+
+  index-in-step:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: LIBRARY.md matches books/INDEX.json
+        run: python scripts/check_index.py
+
+  licence-check-acceptance-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: adversarial cases the licence check has to survive
+        run: python scripts/test_gate.py

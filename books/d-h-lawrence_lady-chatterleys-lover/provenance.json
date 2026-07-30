@@ -1,0 +1,45 @@
+{
+  "title": "Lady Chatterley’s Lover",
+  "author": "D. H. Lawrence",
+  "identifier": "https://standardebooks.org/ebooks/d-h-lawrence/lady-chatterleys-lover",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/d-h-lawrence/lady-chatterleys-lover",
+    "published": "2024-12-10T17:22:53Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/73144",
+    "https://archive.org/details/ladychatterleysl0000dhla_f8m1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/d-h-lawrence/lady-chatterleys-lover",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Le Monde’s 100 Books of the Century",
+      "type": "set",
+      "position": "39"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-le-mondes-100-books-of-the-century-epub.zip",
+    "epub_sha256": "0730b58f0f5ad5a11af64071289f8ce7cac02348616d2b2f7dfa8ff80f6cc310"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 117698,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

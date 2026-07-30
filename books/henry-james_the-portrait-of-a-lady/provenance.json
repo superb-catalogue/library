@@ -1,0 +1,56 @@
+{
+  "title": "The Portrait of a Lady",
+  "author": "Henry James",
+  "identifier": "https://standardebooks.org/ebooks/henry-james/the-portrait-of-a-lady",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/henry-james/the-portrait-of-a-lady",
+    "published": "2023-02-14T22:51:10Z",
+    "modified": "2026-07-29T20:06:58Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2833",
+    "https://www.gutenberg.org/ebooks/2834",
+    "https://archive.org/details/novelsandtalesh08unkngoog",
+    "https://archive.org/details/novelsandtalesh05unkngoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/henry-james/the-portrait-of-a-lady",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Harvard Classics Shelf of Fiction",
+      "type": "set"
+    },
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "21"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "30"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-harvard-classics-shelf-of-fiction-epub.zip",
+    "epub_sha256": "d964d4c377f23f6affd594cf1caacbdc73d35a9cc009c9c008c1f8f8588dd3dc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 55,
+    "words": 223649,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

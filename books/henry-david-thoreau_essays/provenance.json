@@ -1,0 +1,81 @@
+{
+  "title": "Essays",
+  "author": "Henry David Thoreau",
+  "identifier": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+    "published": "2021-05-11T21:19:01Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/60951",
+    "https://en.wikisource.org/wiki/The_Dial/Volume_1/Aulus_Persius_Flaccus",
+    "https://www.gutenberg.org/ebooks/9846",
+    "https://en.wikisource.org/wiki/Dark_Ages",
+    "https://en.wikisource.org/wiki/The_United_States_Democratic_Review/Volume_13/The_Landlord",
+    "https://www.gutenberg.org/ebooks/63459",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)/Herald_of_Freedom",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)/Wendell_Phillips_Before_the_Concord_Lyceum",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)/Thomas_Carlyle_and_His_Works",
+    "https://www.gutenberg.org/ebooks/71",
+    "https://en.wikisource.org/wiki/Sir_Walter_Raleigh/Main",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)/Slavery_in_Massachusetts",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)/Life_without_Principle",
+    "https://www.gutenberg.org/ebooks/42500",
+    "https://www.gutenberg.org/ebooks/2567",
+    "https://www.walden.org/what-we-do/library/thoreau/mr-thoreaus-remarks",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)/The_Last_Days_of_John_Brown",
+    "https://www.gutenberg.org/ebooks/34392",
+    "https://en.wikisource.org/wiki/The_Atlantic_Monthly/Volume_14/Number_86/The_Highland_Light",
+    "https://en.wikisource.org/wiki/Yankee_in_Canada_(1866)",
+    "https://archive.org/details/service1902thor",
+    "https://books.google.com/books?id=t5c_AQAAMAAJ",
+    "https://archive.org/details/sim_boston-miscellany-of-literature-and-fashion_1843_3_3",
+    "https://archive.org/details/dial02riplgoog",
+    "https://catalog.hathitrust.org/Record/011682134",
+    "https://archive.org/details/dial03riplgoog",
+    "https://archive.org/details/the-liberator-1845-3-28",
+    "https://books.google.com/books?id=Fs01AQAAMAAJ",
+    "https://archive.org/details/cu31924031042173",
+    "https://archive.org/details/sirwalterraleigh00thor",
+    "https://archive.org/details/the-liberator-1854-7-21",
+    "https://catalog.hathitrust.org/Record/000597656",
+    "https://catalog.hathitrust.org/Record/000597656",
+    "https://archive.org/details/ASPC0005147600",
+    "https://archive.org/details/the-liberator-1860-7-27",
+    "https://archive.org/details/excursionhenry00thorrich",
+    "https://archive.org/details/yankeeincanadawi00thor"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/henry-david-thoreau/essays",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Memoir",
+  "genres": [
+    "Memoir",
+    "Nonfiction",
+    "Travel"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "c955db7f11c012ff9f4438e5b54c24424a76e33ae992e8d7bfcb1039b27967eb"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 28,
+    "words": 223185,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

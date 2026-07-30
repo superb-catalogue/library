@@ -1,0 +1,43 @@
+{
+  "title": "The Story of My Experiments with Truth",
+  "author": "Mahatma Gandhi",
+  "identifier": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+    "published": "2025-01-01T09:01:00Z",
+    "modified": "2026-07-14T15:31:26Z"
+  },
+  "made_from": [
+    "https://archive.org/details/dli.csl.5087",
+    "https://archive.org/details/HindSwaraj-CWMG-039"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Autobiography",
+  "genres": [
+    "Autobiography",
+    "Memoir",
+    "Nonfiction",
+    "Philosophy",
+    "Spirituality"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "3965c1c9776a029a1b6899a8d160bce2d130c9e77d6976329e5bcf88d3e818a8"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 173,
+    "words": 171310,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

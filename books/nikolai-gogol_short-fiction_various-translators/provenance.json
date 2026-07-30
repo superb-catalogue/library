@@ -1,0 +1,51 @@
+{
+  "title": "Short Fiction",
+  "author": "Nikolai Gogol",
+  "identifier": "https://standardebooks.org/ebooks/nikolai-gogol/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/nikolai-gogol/short-fiction/various-translators",
+    "published": "2017-12-20T17:05:13Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1197",
+    "https://archive.org/details/tarasbulbaalsos00gogogoog",
+    "https://www.gutenberg.org/ebooks/36238",
+    "https://archive.org/details/mantleotherstori00gogorich",
+    "https://en.wikisource.org/wiki/Old-Fashioned_Farmers",
+    "https://archive.org/details/stjohnseveandot00hapggoog",
+    "https://www.gutenberg.org/ebooks/58409",
+    "https://archive.org/details/cossacktales00gogorich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/nikolai-gogol/short-fiction/various-translators",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "548710d5eb49597552a19a4b09673d70205ff45895bc755adf48944b7c19b38f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 172383,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

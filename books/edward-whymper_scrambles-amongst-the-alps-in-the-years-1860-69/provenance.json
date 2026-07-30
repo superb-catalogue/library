@@ -1,0 +1,42 @@
+{
+  "title": "Scrambles Amongst the Alps in the Years 1860–69",
+  "author": "Edward Whymper",
+  "identifier": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+    "published": "2024-11-20T03:10:35Z",
+    "modified": "2026-07-17T14:19:09Z"
+  },
+  "made_from": [
+    "https://en.wikisource.org/wiki/Scrambles_amongst_the_Alps",
+    "https://archive.org/details/scramblesamongst0000unse_l2h0",
+    "https://archive.org/details/scramblesamongst00whym"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edward-whymper/scrambles-amongst-the-alps-in-the-years-1860-69",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Memoir",
+  "genres": [
+    "Memoir",
+    "Nonfiction",
+    "Travel"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "09deda89f9686e2bd8837457489935edc575abfe341a600fdaebcd1af4026b95"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 22,
+    "words": 116252,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

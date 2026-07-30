@@ -1,0 +1,52 @@
+{
+  "title": "Poetry",
+  "author": "Mina Loy",
+  "identifier": "https://standardebooks.org/ebooks/mina-loy/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/mina-loy/poetry",
+    "published": "2024-02-29T20:07:56Z",
+    "modified": "2026-07-12T08:17:55Z"
+  },
+  "made_from": [
+    "https://hdl.handle.net/2027/uva.x002129491?urlappend=%3Bseq=396",
+    "https://collections.library.yale.edu/catalog/17374476",
+    "https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1916-07_3_1/page/27",
+    "https://collections.library.yale.edu/catalog/17390662",
+    "https://archive.org/details/othersanantholo01kreygoog",
+    "https://archive.org/details/cu31924022030351",
+    "https://archive.org/details/littlereview07mcke/page/n199",
+    "https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1917-04_3_6",
+    "https://archive.org/details/sim_dial_1921-06_70/page/672",
+    "https://archive.org/details/sim_dial_1921-08_71/page/n15",
+    "https://hdl.handle.net/2027/uc1.32106010168349",
+    "https://archive.org/details/contact-collection-of-contemporary-writers/page/137",
+    "https://personal.colby.edu/~isadoff/map/loy.doc",
+    "https://archives.yale.edu/repositories/11/digital_objects/211477",
+    "https://digitalcommons.whitworth.edu/transatlantic/1/"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/mina-loy/poetry",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "9d173cdcaa64aad62177ba4591f0648970c3af82360055425341be17e662ec40"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 30,
+    "words": 15715,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}
