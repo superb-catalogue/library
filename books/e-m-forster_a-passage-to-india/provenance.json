@@ -1,0 +1,68 @@
+{
+  "title": "A Passage to India",
+  "author": "E. M. Forster",
+  "identifier": "https://standardebooks.org/ebooks/e-m-forster/a-passage-to-india",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-m-forster/a-passage-to-india",
+    "published": "2020-05-24T01:22:38Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/61221",
+    "https://catalog.hathitrust.org/Record/101864201"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-m-forster/a-passage-to-india"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Modern Library’s 100 Best Novels",
+      "type": "set",
+      "position": "25"
+    },
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "48"
+    },
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "50"
+    },
+    {
+      "name": "James Tait Black Memorial Fiction Prize Winners",
+      "type": "series",
+      "position": "6"
+    },
+    {
+      "name": "Prix Femina—Vie Heureuse Winners",
+      "type": "series",
+      "position": "6"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "47"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-james-tait-black-memorial-fiction-prize-winners-epub.zip",
+    "epub_sha256": "a8e26b2530d8570dfc8b1330a569dc1942319c3456fe5fdf6e4698c63bc57f3c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 40,
+    "words": 100451,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

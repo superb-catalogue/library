@@ -1,0 +1,38 @@
+{
+  "title": "Confessions of an English Opium-Eater",
+  "author": "Thomas De Quincey",
+  "identifier": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-07-14T15:32:10Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2040",
+    "https://archive.org/details/confessionsofen00dequ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater"
+  },
+  "genre": "Autobiography",
+  "genres": [
+    "Autobiography",
+    "Nonfiction"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "4c2ebb60528a413643cd7de98432d9034c12a8e3f61cbe1ea27f9b04a0c1ac43"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 2,
+    "words": 31872,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

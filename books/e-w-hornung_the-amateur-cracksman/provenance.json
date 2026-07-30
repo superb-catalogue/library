@@ -1,0 +1,48 @@
+{
+  "title": "The Amateur Cracksman",
+  "author": "E. W. Hornung",
+  "identifier": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman",
+    "published": "2021-10-26T21:06:34Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/706",
+    "https://archive.org/details/amateurcracksma00horngoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "A. J. Raffles",
+      "type": "series",
+      "position": "1"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "8cb0467612824262e9b05a72bc3b80bdcc5f77c4c72d4b7ad639b12532ad0138"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 8,
+    "words": 51998,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Through the Brazilian Wilderness",
+  "author": "Theodore Roosevelt",
+  "identifier": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness",
+    "published": "2023-10-31T18:23:58Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/11746",
+    "https://archive.org/details/throughbrazilian0000roos"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/theodore-roosevelt/through-the-brazilian-wilderness"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Travel"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "bd0b081bb2cc9fa25f6a00fe0f8131c7ea7d421cb744a7e3e9740402363b0ad8"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 101370,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

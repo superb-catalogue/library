@@ -1,0 +1,43 @@
+{
+  "title": "So Big",
+  "author": "Edna Ferber",
+  "identifier": "https://standardebooks.org/ebooks/edna-ferber/so-big",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edna-ferber/so-big",
+    "published": "2022-01-05T05:05:41Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/61686",
+    "https://archive.org/details/sobigferb00ferb"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edna-ferber/so-big"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Pulitzer Prize for Fiction Winners",
+      "type": "series",
+      "position": "7"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-pulitzer-prize-for-fiction-winners-epub.zip",
+    "epub_sha256": "53483451b1446c52bbec9084f6b1691f631ce21c0b4a5098d3e68aed067aa04d"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 21,
+    "words": 86158,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

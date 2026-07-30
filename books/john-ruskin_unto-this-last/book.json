@@ -1,0 +1,999 @@
+{
+  "title": "Unto This Last",
+  "author": "John Ruskin",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": "I",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "ordinal+roman",
+              "text": "I"
+            },
+            {
+              "type": "title",
+              "text": "The Roots of Honour"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Among the delusions which at different periods have possessed themselves of the minds of large masses of the human race, perhaps the most curious﻿—certainly the least creditable﻿—is the modern soi-disant science of political economy, based on the idea that an advantageous code of social action may be determined irrespectively of the influence of social affection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Of course, as in the instances of alchemy, astrology, witchcraft, and other such popular creeds, political economy has a plausible idea at the root of it. “The social affections,” says the economist, “are accidental and disturbing elements in human nature; but avarice and the desire of progress are constant elements. Let us eliminate the inconstants, and, considering the human being merely as a covetous machine, examine by what laws of labour, purchase, and sale, the greatest accumulative result in wealth is obtainable. Those laws once determined, it will be for each individual afterwards to introduce as much of the disturbing affectionate element as he chooses, and to determine for himself the result on the new conditions supposed.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "This would be a perfectly logical and successful method of analysis, if the accidentals afterwards to be introduced were of the same nature as the powers first examined. Supposing a body in motion to be influenced by constant and inconstant forces, it is usually the simplest way of examining its course to trace it first under the persistent conditions, and afterwards introduce the causes of variation. But the disturbing elements in the social problem are not of the same nature as the constant ones; they alter the essence of the creature under examination the moment they are added; they operate, not mathematically, but chemically, introducing conditions which render all our previous knowledge unavailable. We made learned experiments upon pure nitrogen, and have convinced ourselves that it is a very manageable gas: but behold! the thing which we have practically to deal with is its chloride; and this, the moment we touch it on our established principles, sends us and our apparatus through the ceiling."
+        },
+        {
+          "type": "paragraph",
+          "text": "Observe, I neither impugn nor doubt the conclusions of the science, if its terms are accepted. I am simply uninterested in them, as I should be in those of a science of gymnastics which assumed that men had no skeletons. It might be shown, on that supposition, that it would be advantageous to roll the students up into pellets, flatten them into cakes, or stretch them into cables; and that when these results were effected, the re-insertion of the skeleton would be attended with various inconveniences to their constitution. The reasoning might be admirable, the conclusions true, and the science deficient only in applicability. Modern political economy stands on a precisely similar basis. Assuming, not that the human being has no skeleton, but that it is all skeleton, it founds an ossifiant theory of progress on this negation of a soul; and having shown the utmost that may be made of bones, and constructed a number of interesting geometrical figures with death’s-heads and humeri, successfully proves the inconvenience of the reappearance of a soul among these corpuscular structures. I do not deny the truth of this theory: I simply deny its applicability to the present phase of the world."
+        },
+        {
+          "type": "paragraph",
+          "text": "This inapplicability has been curiously manifested during the embarrassment caused by the late strikes of our workmen. Here occurs one of the simplest cases, in a pertinent and positive form, of the first vital problem which political economy has to deal with (the relation between employer and employed); and at a severe crisis, when lives in multitudes, and wealth in masses, are at stake, the political economists are helpless﻿—practically mute; no demonstrable solution of the difficulty can be given by them, such as may convince or calm the opposing parties. Obstinately the masters take one view of the matter; obstinately the operatives another; and no political science can set them at one."
+        },
+        {
+          "type": "paragraph",
+          "text": "It would be strange if it could, it being not by “science” of any kind that men were ever intended to be set at one. Disputant after disputant vainly strives to show that the interests of the masters are, or are not, antagonistic to those of the men: none of the pleaders ever seeming to remember that it does not absolutely or always follow that the persons must be antagonistic because their interests are. If there is only a crust of bread in the house, and mother and children are starving, their interests are not the same. If the mother eats it, the children want it; if the children eat it, the mother must go hungry to her work. Yet it does not necessarily follow that there will be “antagonism” between them, that they will fight for the crust, and that the mother, being strongest, will get it, and eat it. Neither, in any other case, whatever the relations of the persons may be, can it be assumed for certain that, because their interests are diverse, they must necessarily regard each other with hostility, and use violence or cunning to obtain the advantage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even if this were so, and it were as just as it is convenient to consider men as actuated by no other moral influences than those which affect rats or swine, the logical conditions of the question are still indeterminable. It can never be shown generally either that the interests of master and labourer are alike, or that they are opposed; for, according to circumstances, they may be either. It is, indeed, always the interest of both that the work should be rightly done, and a just price obtained for it; but, in the division of profits, the gain of the one may or may not be the loss of the other. It is not the master’s interest to pay wages so low as to leave the men sickly and depressed, nor the workman’s interest to be paid high wages if the smallness of the master’s profit hinders him from enlarging his business, or conducting it in a safe and liberal way. A stoker ought not to desire high pay if the company is too poor to keep the engine-wheels in repair."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the varieties of circumstance which influence these reciprocal interests are so endless, that all endeavour to deduce rules of action from balance of expediency is in vain. And it is meant to be in vain. For no human actions ever were intended by the Maker of men to be guided by balances of expediency, but by balances of justice. He has therefore rendered all endeavours to determine expediency futile forevermore. No man ever knew or can know, what will be the ultimate result to himself, or to others, of any given line of conduct. But every man may know, and most of us do know, what is a just and unjust act. And all of us may know also, that the consequences of justice will be ultimately the best possible, both to others and ourselves, though we can neither say what is best, or how it is likely to come to pass."
+        },
+        {
+          "type": "paragraph",
+          "text": "I have said balances of justice, meaning, in the term justice, to include affection﻿—such affection as one man owes to another. All right relations between master and operative, and all their best interests, ultimately depend on these."
+        },
+        {
+          "type": "paragraph",
+          "text": "We shall find the best and simplest illustration of the relations of master and operative in the position of domestic servants."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will suppose that the master of a household desires only to get as much work out of his servants as he can, at the rate of wages he gives. He never allows them to be idle; feeds them as poorly and lodges them as ill as they will endure, and in all things pushes his requirements to the exact point beyond which he cannot go without forcing the servant to leave him. In doing this, there is no violation on his part of what is commonly called “justice.” He agrees with the domestic for his whole time and service, and takes them;﻿—the limits of hardship in treatment being fixed by the practice of other masters in his neighbourhood; that is to say, by the current rate of wages for domestic labour. If the servant can get a better place, he is free to take one, and the master can only tell what is the real market value of his labour, by requiring as much as he will give."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the politico-economical view of the case, according to the doctors of that science; who assert that by this procedure the greatest average of work will be obtained from the servant, and therefore, the greatest benefit to the community, and through the community, by reversion, to the servant himself."
+        },
+        {
+          "type": "paragraph",
+          "text": "That, however, is not so. It would be so if the servant were an engine of which the motive power was steam, magnetism, gravitation, or any other agent of calculable force. But he being, on the contrary, an engine whose motive power is a Soul, the force of this very peculiar agent, as an unknown quantity, enters into all the political economist’s equations, without his knowledge, and falsifies every one of their results. The largest quantity of work will not be done by this curious engine for pay, or under pressure, or by help of any kind of fuel which may be supplied by the chaldron. It will be done only when the motive force, that is to say, the will or spirit of the creature, is brought to its greatest strength by its own proper fuel; namely, by the affections."
+        },
+        {
+          "type": "paragraph",
+          "text": "It may indeed happen, and does happen often, that if the master is a man of sense and energy, a large quantity of material work may be done under mechanical pressure, enforced by strong will and guided by wise method; also it may happen, and does happen often, that if the master is indolent and weak (however good-natured), a very small quantity of work, and that bad, may be produced by the servant’s undirected strength, and contemptuous gratitude. But the universal law of the matter is that, assuming any given quantity of energy and sense in master and servant, the greatest material result obtainable by them will be, not through antagonism to each other, but through affection for each other; and that if the master, instead of endeavouring to get as much work as possible from the servant, seeks rather to render his appointed and necessary work beneficial to him, and to forward his interests in all just and wholesome ways, the real amount of work ultimately done, or of good rendered, by the person so cared for, will indeed be the greatest possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "Observe, I say, “of good rendered,” for a servant’s work is not necessarily or always the best thing he can give his master. But good of all kinds, whether in material service, in protective watchfulness of his master’s interest and credit, or in joyful readiness to seize unexpected and irregular occasions of help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nor is this one whit less generally true because indulgence will be frequently abused, and kindness met with ingratitude. For the servant who, gently treated, is ungrateful, treated ungently, will be revengeful; and the man who is dishonest to a liberal master will be injurious to an unjust one."
+        },
+        {
+          "type": "paragraph",
+          "text": "In any case, and with any person, this unselfish treatment will produce the most effective return. Observe, I am here considering the affections wholly as a motive power; not at all as things in themselves desirable or noble, or in any other way abstractedly good. I look at them simply as an anomalous force, rendering every one of the ordinary political economist’s calculations nugatory; while, even if he desired to introduce this new element into his estimates, he has no power of dealing with it; for the affections only become a true motive power when they ignore every other motive and condition of political economy. Treat the servant kindly, with the idea of turning his gratitude to account, and you will get, as you deserve, no gratitude, nor any value for your kindness; but treat him kindly without any economical purpose, and all economical purposes will be answered; in this, as in all other matters, whosoever will save his life shall lose it, whoso loses it shall find it.7"
+        },
+        {
+          "type": "paragraph",
+          "text": "The next clearest and simplest example of relation between master and operative is that which exists between the commander of a regiment and his men."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supposing the officer only desires to apply the rules of discipline so as, with least trouble to himself, to make the regiment most effective, he will not be able, by any rules, or administration of rules, on this selfish principle, to develop the full strength of his subordinates. If a man of sense and firmness, he may, as in the former instance, produce a better result than would be obtained by the irregular kindness of a weak officer; but let the sense and firmness be the same in both cases, and assuredly the officer who has the most direct personal relations with his men, the most care for their interests, and the most value for their lives, will develop their effective strength, through their affection for his own person, and trust in his character, to a degree wholly unattainable by other means. The law applies still more stringently as the numbers concerned are larger; a charge may often be successful, though the men dislike their officers; a battle has rarely been won, unless they loved their general."
+        },
+        {
+          "type": "paragraph",
+          "text": "Passing from these simple examples to the more complicated relations existing between a manufacturer and his workmen, we are met first by certain curious difficulties, resulting, apparently, from a harder and colder state of moral elements. It is easy to imagine an enthusiastic affection existing among soldiers for the colonel, not so easy to imagine an enthusiastic affection among cotton-spinners for the proprietor of the mill. A body of men associated for purposes of robbery (as a Highland clan in ancient times) shall be animated by perfect affection, and every member of it be ready to lay down his life for the life of his chief. But a band of men associated for purposes of legal production and accumulation is usually animated, it appears, by no such emotions, and none of them are in anywise willing to give his life for the life of his chief. Not only are we met by this apparent anomaly, in moral matters, but by others connected with it, in administration of system. For a servant or a soldier is engaged at a definite rate of wages, for a definite period; but a workman at a rate of wages variable according to the demand for labour, and with the risk of being at any time thrown out of his situation by chances of trade. Now, as, under these contingencies, no action of the affections can take place, but only an explosive action of disaffections, two points offer themselves for consideration in the matter."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first﻿—How far the rate of wages may be so regulated as not to vary with the demand for labour."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second﻿—How far it is possible that bodies of workmen may be engaged and maintained at such fixed rate of wages (whatever the state of trade may be), without enlarging or diminishing their number, so as to give them permanent interest in the establishment with which they are connected, like that of the domestic servants in an old family, or an esprit de corps, like that of the soldiers in a crack regiment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first question is, I say, how far it may be possible to fix the rate of wages irrespectively of the demand for labour."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perhaps one of the most curious facts in the history of human error is the denial by the common political economist of the possibility of thus regulating wages; while, for all the important, and much of the unimportant, labour on the earth, wages are already so regulated."
+        },
+        {
+          "type": "paragraph",
+          "text": "We do not sell our prime-ministership by Dutch auction; nor, on the decease of a bishop, whatever may be the general advantages of simony, do we (yet) offer his diocese to the clergyman who will take the episcopacy at the lowest contract. We (with exquisite sagacity of political economy!) do indeed sell commissions, but not, openly, generalships: sick, we do not inquire for a physician who takes less than a guinea; litigious, we never think of reducing six-and-eightpence to four-and-sixpence; caught in a shower, we do not canvass the cabmen, to find one who values his driving at less than a sixpence a mile."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is true that in all these cases there is, and in every conceivable case there must be, ultimate reference to the presumed difficulty of the work, or number of candidates for the office. If it were thought that the labour necessary to make a good physician would be gone through by a sufficient number of students with the prospect of only half-guinea fees, public consent would soon withdraw the unnecessary half-guinea. In this ultimate sense, the price of labour is indeed always regulated by the demand for it; but so far as the practical and immediate administration of the matter is regarded, the best labour always has been, and is, as all labour ought to be, paid by an invariable standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "“What!” the reader, perhaps, answers amazedly: “pay good and bad workmen alike?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Certainly. The difference between one prelate’s sermons and his successor’s﻿—or between one physician’s opinion and another’s﻿—is far greater, as respects the qualities of mind involved, and far more important in result to you personally, than the difference between good and bad laying of bricks (though that is greater than most people suppose). Yet you pay with equal fee, contentedly, the good and bad workmen upon your soul, and the good and bad workmen upon your body; much more may you pay, contentedly, with equal fees, the good and bad workmen upon your house."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Nay, but I choose my physician and my clergyman, thus indicating my sense of the quality of their work.” By all means, also, choose your bricklayer; that is the proper reward of the good workman, to be “chosen.” The natural and right system respecting all labour is, that it should be paid at a fixed rate, but the good workman employed, and the bad workmen unemployed. The false, unnatural, and destructive system is, when the bad workman is allowed to offer his work at half-price, and either take the place of the good, or force him by his competition to work for an inadequate sum."
+        },
+        {
+          "type": "paragraph",
+          "text": "This equality of wages, then, being the first object towards which we have to discover the directest available road; the second is, as above stated, that of maintaining constant numbers of workmen in employment, whatever may be the accidental demand for the article they produce."
+        },
+        {
+          "type": "paragraph",
+          "text": "I believe the sudden and extensive inequalities of demand which necessarily arise in the mercantile operations of an active nation, constitute the only essential difficulty which has to be overcome in a just organization of labour. The subject opens into too many branches to admit of being investigated in a paper of this kind; but the following general facts bearing on it may be noted."
+        },
+        {
+          "type": "paragraph",
+          "text": "The wages which enable any workman to live are necessarily higher, if his work is liable to intermission, than if it is assured and continuous; and however severe the struggle for work may become, the general law will always hold, that men must get more daily pay if, on the average, they can only calculate on work three days a week, than they would require if they were sure of work six days a week. Supposing that a man cannot live on less than a shilling a day, his seven shillings he must get, either for three days’ violent work, or six days’ deliberate work. The tendency of all modern mercantile operations is to throw both wages and trade into the form of a lottery, and to make the workman’s pay depend on intermittent exertion, and the principal’s profit on dexterously used chance."
+        },
+        {
+          "type": "paragraph",
+          "text": "In what partial degree, I repeat, this may be necessary, in consequence of the activities of modern trade, I do not here investigate; contenting myself with the fact, that in its fatalist aspects it is assuredly unnecessary, and results merely from love of gambling on the part of the masters, and from ignorance and sensuality in the men. The masters cannot bear to let any opportunity of gain escape them, and frantically rush at every gap and breach in the walls of Fortune, raging to be rich, and affronting, with impatient covetousness, every risk of ruin; while the men prefer three days of violent labour, and three days of drunkenness, to six days of moderate work and wise rest. There is no way in which a principal, who really desires to help his workmen, may do it more effectually than by checking these disorderly habits both in himself and them; keeping his own business operations on a scale which will enable him to pursue them securely, not yielding to temptations of precarious gain; and, at the same time, leading his workmen into regular habits of labour and life, either by inducing them rather to take low wages in the form of a fixed salary, than high wages, subject to the chance of their being thrown out of work; or, if this be impossible, by discouraging the system of violent exertion for nominally high day wages, and leading the men to take lower pay for more regular labour."
+        },
+        {
+          "type": "paragraph",
+          "text": "In effecting any radical changes of this kind, doubtless there would be great inconvenience and loss incurred by all the originators of movement. That which can be done with perfect convenience and without loss, is not always the thing that most needs to be done, or which we are most imperatively required to do."
+        },
+        {
+          "type": "paragraph",
+          "text": "I have already alluded to the difference hitherto existing between regiments of men associated for purposes of violence, and for purposes of manufacture; in that the former appear capable of self-sacrifice﻿—the latter, not; which singular fact is the real reason of the general lowness of estimate in which the profession of commerce is held, as compared with that of arms. Philosophically, it does not, at first sight, appear reasonable (many writers have endeavoured to prove it unreasonable) that a peaceable and rational person, whose trade is buying and selling, should be held in less honour than an unpeaceable and often irrational person, whose trade is slaying. Nevertheless, the consent of mankind has always, in spite of the philosophers, given precedence to the soldier."
+        },
+        {
+          "type": "paragraph",
+          "text": "And this is right."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the soldier’s trade, verily and essentially, is not slaying, but being slain. This, without well knowing its own meaning, the world honours it for. A bravo’s trade is slaying; but the world has never respected bravos more than merchants: the reason it honours the soldier is, because he holds his life at the service of the State. Reckless he may be﻿—fond of pleasure or of adventure﻿—all kinds of bye-motives and mean impulses may have determined the choice of his profession, and may affect (to all appearance exclusively) his daily conduct in it; but our estimate of him is based on this ultimate fact﻿—of which we are well assured﻿—that, put him in a fortress breach, with all the pleasures of the world behind him, and only death and his duty in front of him, he will keep his face to the front; and he knows that this choice may be put to him at any moment, and has beforehand taken his part﻿—virtually takes such part continually﻿—does, in reality, die daily."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not less is the respect we pay to the lawyer and physician, founded ultimately on their self-sacrifice. Whatever the learning or acuteness of a great lawyer, our chief respect for him depends on our belief that, set in a judge’s seat, he will strive to judge justly, come of it what may. Could we suppose that he would take bribes, and use his acuteness and legal knowledge to give plausibility to iniquitous decisions, no degree of intellect would win for him our respect. Nothing will win it, short of our tacit conviction, that in all important acts of his life justice is first with him; his own interest, second."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of a physician, the ground of the honour we render him is clearer still. Whatever his science, we should shrink from him in horror if we found him regard his patients merely as subjects to experiment upon; much more, if we found that, receiving bribes from persons interested in their deaths, he was using his best skill to give poison in the mask of medicine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally, the principle holds with utmost clearness as it respects clergymen. No goodness of disposition will excuse want of science in a physician, or of shrewdness in an advocate; but a clergyman, even though his power of intellect be small, is respected on the presumed ground of his unselfishness and serviceableness."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now there can be no question but that the tact, foresight, decision, and other mental powers, required for the successful management of a large mercantile concern, if not such as could be compared with those of a great lawyer, general, or divine, would at least match the general conditions of mind required in the subordinate officers of a ship, or of a regiment, or in the curate of a country parish. If, therefore, all the efficient members of the so-called liberal professions are still, somehow, in public estimate of honour, preferred before the head of a commercial firm, the reason must lie deeper than in the measurement of their several powers of mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the essential reason for such preference will be found to lie in the fact that the merchant is presumed to act always selfishly. His work may be very necessary to the community; but the motive of it is understood to be wholly personal. The merchant’s first object in all his dealings must be (the public believe) to get as much for himself, and leave as little to his neighbour (or customer) as possible. Enforcing this upon him, by political statute, as the necessary principle of his action; recommending it to him on all occasions, and themselves reciprocally adopting it; proclaiming vociferously, for law of the universe, that a buyer’s function is to cheapen, and a seller’s to cheat﻿—the public, nevertheless, involuntarily condemn the man of commerce for his compliance with their own statement, and stamp him forever as belonging to an inferior grade of human personality."
+        },
+        {
+          "type": "paragraph",
+          "text": "This they will find, eventually, they must give up doing. They must not cease to condemn selfishness; but they will have to discover a kind of commerce which is not exclusively selfish. Or, rather, they will have to discover that there never was, or can be, any other kind of commerce; that this which they have called commerce was not commerce at all, but cozening; and that a true merchant differs as much from a merchant according to laws of modern political economy, as the hero of the Excursion from Autolycus. They will find that commerce is an occupation which gentlemen will every day see more need to engage in, rather than in the businesses of talking to men, or slaying them; that, in true commerce, as in true preaching, or true fighting, it is necessary to admit the idea of occasional voluntary loss; that sixpences have to be lost, as well as lives, under a sense of duty; that the market may have its martyrdoms as well as the pulpit; and trade its heroisms, as well as war."
+        },
+        {
+          "type": "paragraph",
+          "text": "May have﻿—in the final issue, must have﻿—and only has not had yet, because men of heroic temper have always been misguided in their youth into other fields, not recognizing what is in our days, perhaps, the most important of all fields; so that, while many a zealous person loses his life in trying to teach the form of a gospel, very few will lose a hundred pounds in showing the practice of one."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fact is, that people never have had clearly explained to them the true functions of a merchant with respect to other people. I should like the reader to be very clear about this."
+        },
+        {
+          "type": "paragraph",
+          "text": "Five great intellectual professions, relating to daily necessities of life, have hitherto existed﻿—three exist necessarily, in every civilized nation:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Soldier’s profession is to defend it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Pastor’s, to teach it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Physician’s, to keep it in health."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Lawyer’s, to enforce justice in it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Merchant’s, to provide for it."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the duty of all these men is, on due occasion, to die for it."
+        },
+        {
+          "type": "paragraph",
+          "text": "“On due occasion,” namely:﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Soldier, rather than leave his post in battle."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Physician, rather than leave his post in plague."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Pastor, rather than teach Falsehood."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Lawyer, rather than countenance Injustice."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Merchant﻿—What is his “due occasion” of death? It is the main question for the merchant, as for all of us. For, truly, the man who does not know when to die, does not know how to live."
+        },
+        {
+          "type": "paragraph",
+          "text": "Observe, the merchant’s function (or manufacturer’s, for in the broad sense in which it is here used the word must be understood to include both) is to provide for the nation. It is no more his function to get profit for himself out of that provision than it is a clergyman’s function to get his stipend. The stipend is a due and necessary adjunct, but not the object, of his life, if he be a true clergyman, any more than his fee (or honorarium) is the object of life to a true physician. Neither is his fee the object of life to a true merchant. All three, if true men, have a work to be done irrespective of fee﻿—to be done even at any cost, or for quite the contrary of fee; the pastor’s function being to teach, the physician’s to heal, and the merchant’s, as I have said, to provide. That is to say, he has to understand to their very root the qualities of the thing he deals in, and the means of obtaining or producing it; and he has to apply all his sagacity and energy to the producing or obtaining it in perfect state, and distributing it at the cheapest possible price where it is most needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "And because the production or obtaining of any commodity involves necessarily the agency of many lives and hands, the merchant becomes in the course of his business the master and governor of large masses of men in a more direct, though less confessed way, than a military officer or pastor; so that on him falls, in great part, the responsibility for the kind of life they lead: and it becomes his duty, not only to be always considering how to produce what he sells in the purest and cheapest forms, but how to make the various employments involved in the production, or transference of it, most beneficial to the men employed."
+        },
+        {
+          "type": "paragraph",
+          "text": "And as into these two functions, requiring for their right exercise the highest intelligence, as well as patience, kindness, and tact, the merchant is bound to put all his energy, so for their just discharge he is bound, as soldier or physician is bound, to give up, if need be, his life, in such way as it may be demanded of him. Two main points he has in his providing function to maintain: first, his engagements (faithfulness to engagements being the real root of all possibilities in commerce); and, secondly, the perfectness and purity of the thing provided; so that, rather than fail in any engagement, or consent to any deterioration, adulteration, or unjust and exorbitant price of that which he provides, he is bound to meet fearlessly any form of distress, poverty, or labour, which may, through maintenance of these points, come upon him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Again: in his office as governor of the men employed by him, the merchant or manufacturer is invested with a distinctly paternal authority and responsibility. In most cases, a youth entering a commercial establishment is withdrawn altogether from home influence; his master must become his father, else he has, for practical and constant help, no father at hand: in all cases the master’s authority, together with the general tone and atmosphere of his business, and the character of the men with whom the youth is compelled in the course of it to associate, have more immediate and pressing weight than the home influence, and will usually neutralize it either for good or evil; so that the only means which the master has of doing justice to the men employed by him is to ask himself sternly whether he is dealing with such subordinate as he would with his own son, if compelled by circumstances to take such a position."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supposing the captain of a frigate saw it right, or were by any chance obliged, to place his own son in the position of a common sailor; as he would then treat his son, he is bound always to treat every one of the men under him. So, also; supposing the master of a manufactory saw it right, or were by any chance obliged, to place his own son in the position of an ordinary workman; as he would then treat his son, he is bound always to treat every one of his men. This is the only effective true, or practical Rule which can be given on this point of political economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "And as the captain of a ship is bound to be the last man to leave his ship in case of wreck, and to share his last crust with the sailors in case of famine, so the manufacturer, in any commercial crisis or distress, is bound to take the suffering of it with his men, and even to take more of it for himself than he allows his men to feel; as a father would in a famine, shipwreck, or battle, sacrifice himself for his son."
+        },
+        {
+          "type": "paragraph",
+          "text": "All which sounds very strange: the only real strangeness in the matter being, nevertheless, that it should so sound. For all this is true, and that not partially nor theoretically, but everlastingly and practically: all other doctrine than this respecting matters political being false in premises, absurd in deduction, and impossible in practice, consistently with any progressive state of national life; all the life which we now possess as a nation showing itself in the resolute denial and scorn, by a few strong minds and faithful hearts, of the economic principles taught to our multitudes, which principles, so far as accepted, lead straight to national destruction. Respecting the modes and forms of destruction to which they lead, and, on the other hand, respecting the farther practical working of true polity, I hope to reason further in a following paper."
+        }
+      ]
+    },
+    {
+      "label": "II",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "ordinal+roman",
+              "text": "II"
+            },
+            {
+              "type": "title",
+              "text": "The Veins of Wealth"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The answer which would be made by any ordinary political economist to the statements contained in the preceding paper, is in few words as follows:﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "“It is indeed true that certain advantages of a general nature may be obtained by the development of social affections. But political economists never professed, nor profess, to take advantages of a general nature into consideration. Our science is simply the science of getting rich. So far from being a fallacious or visionary one, it is found by experience to be practically effective. Persons who follow its precepts do actually become rich, and persons who disobey them become poor. Every capitalist of Europe has acquired his fortune by following the known laws of our science, and increases his capital daily by an adherence to them. It is vain to bring forward tricks of logic, against the force of accomplished facts. Every man of business knows by experience how money is made, and how it is lost.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pardon me. Men of business do indeed know how they themselves made their money, or how, on occasion, they lost it. Playing a long-practised game, they are familiar with the chances of its cards, and can rightly explain their losses and gains. But they neither know who keeps the bank of the gambling-house, nor what other games may be played with the same cards, nor what other losses and gains, far away among the dark streets, are essentially, though invisibly, dependent on theirs in the lighted rooms. They have learned a few, and only a few, of the laws of mercantile economy; but not one of those of political economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Primarily, which is very notable and curious, I observe that men of business rarely know the meaning of the word “rich.” At least if they know, they do not in their reasonings allow for the fact that it is a relative word, implying its opposite “poor” as positively as the word “north” implies its opposite “south.” Men nearly always speak and write as if riches were absolute, and it were possible, by following certain scientific precepts, for everybody to be rich. Whereas riches are a power like that of electricity, acting only through inequalities or negations of itself. The force of the guinea you have in your pocket depends wholly on the default of a guinea in your neighbour’s pocket. If he did not want it, it would be of no use to you; the degree of power it possesses depends accurately upon the need or desire he has for it﻿—and the art of making yourself rich, in the ordinary mercantile economist’s sense, is therefore equally and necessarily the art of keeping your neighbour poor."
+        },
+        {
+          "type": "paragraph",
+          "text": "I would not contend in this matter (and rarely in any matter), for the acceptance of terms. But I wish the reader clearly and deeply to understand the difference between the two economies, to which the terms “Political” and “Mercantile” might not unadvisably be attached."
+        },
+        {
+          "type": "paragraph",
+          "text": "Political economy (the economy of a State, or of citizens) consists simply in the production, preservation, and distribution, at fittest time and place, of useful or pleasurable things. The farmer who cuts his hay at the right time; the shipwright who drives his bolts well home in sound wood; the builder who lays good bricks in well-tempered mortar; the housewife who takes care of her furniture in the parlour, and guards against all waste in her kitchen; and the singer who rightly disciplines, and never overstrains her voice: are all political economists in the true and final sense; adding continually to the riches and well-being of the nation to which they belong."
+        },
+        {
+          "type": "paragraph",
+          "text": "But mercantile economy, the economy of “merces” or of “pay,” signifies the accumulation, in the hands of individuals, of legal, or moral claim upon, or power over, the labour of others; every such claim implying precisely as much poverty or debt on one side, as it implies riches or right on the other."
+        },
+        {
+          "type": "paragraph",
+          "text": "It does not, therefore, necessarily involve an addition to the actual property, or well-being, of the State in which it exists. But since this commercial wealth, or power over labour, is nearly always convertible at once into real property, while real property is not always convertible at once into power over labour, the idea of riches among active men in civilized nations, generally refers to commercial wealth; and in estimating their possessions, they rather calculate the value of their horses and fields by the number of guineas they could get for them, than the value of their guineas by the number of horses and fields they could buy with them."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is, however, another reason for this habit of mind; namely, that an accumulation of real property is of little use to its owner, unless, together with it, he has commercial power over labour. Thus, suppose any person to be put in possession of a large estate of fruitful land, with rich beds of gold in its gravel, countless herds of cattle in its pastures; houses, and gardens, and storehouses full of useful stores; but suppose, after all, that he could get no servants? In order that he may be able to have servants, someone in his neighbourhood must be poor, and in want of his gold﻿—or his corn. Assume that no one is in want of either, and that no servants are to be had. He must, therefore, bake his own bread, make his own clothes, plough his own ground, and shepherd his own flocks. His gold will be as useful to him as any other yellow pebbles on his estate. His stores must rot, for he cannot consume them. He can eat no more than another man could eat, and wear no more than another man could wear. He must lead a life of severe and common labour to procure even ordinary comforts; he will be ultimately unable to keep either houses in repair, or fields in cultivation; and forced to content himself with a poor man’s portion of cottage and garden, in the midst of a desert of waste land, trampled by wild cattle, and encumbered by ruins of palaces, which he will hardly mock at himself by calling “his own.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The most covetous of mankind would, with small exultation, I presume, accept riches of this kind on these terms. What is really desired, under the name of riches, is, essentially, power over men; in its simplest sense, the power of obtaining for our own advantage the labour of servant, tradesman, and artist; in wider sense, authority of directing large masses of the nation to various ends (good, trivial, or hurtful, according to the mind of the rich person). And this power of wealth of course is greater or less in direct proportion to the poverty of the men over whom it is exercised, and in inverse proportion to the number of persons who are as rich as ourselves, and who are ready to give the same price for an article of which the supply is limited. If the musician is poor, he will sing for small pay, as long as there is only one person who can pay him; but if there be two or three, he will sing for the one who offers him most. And thus the power of the riches of the patron (always imperfect and doubtful, as we shall see presently, even when most authoritative) depends first on the poverty of the artist, and then on the limitation of the number of equally wealthy persons, who also wants seats at the concert. So that, as above stated, the art of becoming “rich,” in the common sense, is not absolutely nor finally the art of accumulating much money for ourselves, but also of contriving that our neighbours shall have less. In accurate terms, it is “the art of establishing the maximum inequality in our own favour.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the establishment of such inequality cannot be shown in the abstract to be either advantageous or disadvantageous to the body of the nation. The rash and absurd assumption that such inequalities are necessarily advantageous, lies at the root of most of the popular fallacies on the subject of political economy. For the eternal and inevitable law in this matter is, that the beneficialness of the inequality depends, first, on the methods by which it was accomplished, and, secondly, on the purposes to which it is applied. Inequalities of wealth, unjustly established, have assuredly injured the nation in which they exist during their establishment; and, unjustly directed, injure it yet more during their existence. But inequalities of wealth justly established, benefit the nation in the course of their establishment; and, nobly used, aid it yet more by their existence. That is to say, among every active and well-governed people, the various strength of individuals, tested by full exertion and specially applied to various need, issues in unequal, but harmonious results, receiving reward or authority according to its class and service;8 while, in the inactive or ill-governed nation, the gradations of decay and the victories of treason work out also their own rugged system of subjection and success; and substitute, for the melodious inequalities of concurrent power, the iniquitous dominances and depressions of guilt and misfortune."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus the circulation of wealth in a nation resembles that of the blood in the natural body. There is one quickness of the current which comes of cheerful emotion or wholesome exercise; and another which comes of shame or of fever. There is a flush of the body which is full of warmth and life; and another which will pass into putrefaction."
+        },
+        {
+          "type": "paragraph",
+          "text": "The analogy will hold, down even to minute particulars. For as diseased local determination of the blood involves depression of the general health of the system, all morbid local action of riches will be found ultimately to involve a weakening of the resources of the body politic."
+        },
+        {
+          "type": "paragraph",
+          "text": "The mode in which this is produced may be at once understood by examining one or two instances of the development of wealth in the simplest possible circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Suppose two sailors cast away on an uninhabited coast, and obliged to maintain themselves there by their own labour for a series of years."
+        },
+        {
+          "type": "paragraph",
+          "text": "If they both kept their health, and worked steadily, and in amity with each other, they might build themselves a convenient house, and in time come to possess a certain quantity of cultivated land, together with various stores laid up for future use. All these things would be real riches or property; and, supposing the men both to have worked equally hard, they would each have right to equal share or use of it. Their political economy would consist merely in careful preservation and just division of these possessions. Perhaps, however, after some time one or other might be dissatisfied with the results of their common farming; and they might in consequence agree to divide the land they had brought under the spade into equal shares, so that each might thenceforward work in his own field and live by it. Suppose that after this arrangement had been made, one of them were to fall ill, and be unable to work on his land at a critical time﻿—say of sowing or harvest."
+        },
+        {
+          "type": "paragraph",
+          "text": "He would naturally ask the other to sow or reap for him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then his companion might say, with perfect justice, “I will do this additional work for you; but if I do it, you must promise to do as much for me at another time. I will count how many hours I spend on your ground, and you shall give me a written promise to work for the same number of hours on mine, whenever I need your help, and you are able to give it.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Suppose the disabled man’s sickness to continue, and that under various circumstances, for several years, requiring the help of the other, he on each occasion gave a written pledge to work, as soon as he was able, at his companion’s orders, for the same number of hours which the other had given up to him. What will the positions of the two men be when the invalid is able to resume work?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Considered as a “Polis,” or state, they will be poorer than they would have been otherwise: poorer by the withdrawal of what the sick man’s labour would have produced in the interval. His friend may perhaps have toiled with an energy quickened by the enlarged need, but in the end his own land and property must have suffered by the withdrawal of so much of his time and thought from them; and the united property of the two men will be certainly less than it would have been if both had remained in health and activity."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the relations in which they stand to each other are also widely altered. The sick man has not only pledged his labour for some years, but will probably have exhausted his own share of the accumulated stores, and will be in consequence for some time dependent on the other for food, which he can only “pay” or reward him for by yet more deeply pledging his own labour."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supposing the written promises to be held entirely valid (among civilized nations their validity is secured by legal measures9), the person who had hitherto worked for both might now, if he chose, rest altogether, and pass his time in idleness, not only forcing his companion to redeem all the engagements he had already entered into, but exacting from him pledges for further labour, to an arbitrary amount, for what food he had to advance to him."
+        },
+        {
+          "type": "paragraph",
+          "text": "There might not, from first to last, be the least illegality (in the ordinary sense of the word) in the arrangement; but if a stranger arrived on the coast at this advanced epoch of their political economy, he would find one man commercially Rich; the other commercially Poor. He would see, perhaps with no small surprise, one passing his days in idleness; the other labouring for both, and living sparely, in the hope of recovering his independence, at some distant period."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is, of course, an example of one only out of many ways in which inequality of possession may be established between different persons, giving rise to the Mercantile forms of Riches and Poverty. In the instance before us, one of the men might from the first have deliberately chosen to be idle, and to put his life in pawn for present ease; or he might have mismanaged his land, and been compelled to have recourse to his neighbour for food and help, pledging his future labour for it. But what I want the reader to note especially is the fact, common to a large number of typical cases of this kind, that the establishment of the mercantile wealth which consists in a claim upon labour, signifies a political diminution of the real wealth which consists in substantial possessions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Take another example, more consistent with the ordinary course of affairs of trade. Suppose that three men, instead of two, formed the little isolated republic, and found themselves obliged to separate in order to farm different pieces of land at some distance from each other along the coast; each estate furnishing a distinct kind of produce, and each more or less in need of the material raised on the other. Suppose that the third man, in order to save the time of all three, undertakes simply to superintend the transference of commodities from one farm to the other; on condition of receiving some sufficiently remunerative share of every parcel of goods conveyed, or of some other parcel received in exchange for it."
+        },
+        {
+          "type": "paragraph",
+          "text": "If this carrier or messenger always brings to each estate, from the other, what is chiefly wanted, at the right time, the operations of the two farmers will go on prosperously, and the largest possible result in produce, or wealth, will be attained by the little community. But suppose no intercourse between the landowners is possible, except through the travelling agent; and that, after a time, this agent, watching the course of each man’s agriculture, keeps back the articles with which he has been entrusted until there comes a period of extreme necessity for them, on one side or other, and then exacts in exchange for them all that the distressed farmer can spare of other kinds of produce; it is easy to see that by ingeniously watching his opportunities, he might possess himself regularly of the greater part of the superfluous produce of the two estates, and at last, in some year of severest trial or scarcity, purchase both for himself, and maintain the former proprietors thenceforward as his labourers or servants."
+        },
+        {
+          "type": "paragraph",
+          "text": "This would be a case of commercial wealth acquired on the exactest principles of modern political economy. But more distinctly even than in the former instance, it is manifest in this that the wealth of the State, or of the three men considered as a society, is collectively less than it would have been had the merchant been content with juster profit. The operations of the two agriculturists have been cramped to the utmost; and the continual limitations of the supply of things they wanted at critical times, together with the failure of courage consequent on the prolongation of a struggle for mere existence, without any sense of permanent gain, must have seriously diminished the effective results of their labour; and the stores finally accumulated in the merchant’s hands will not in anywise be of equivalent value to those which, had his dealings been honest, would have filled at once the granaries of the farmers and his own."
+        },
+        {
+          "type": "paragraph",
+          "text": "The whole question, therefore, respecting not only the advantage, but even the quantity, of national wealth, resolves itself finally into one of abstract justice. It is impossible to conclude, of any given mass of acquired wealth, merely by the fact of its existence, whether it signifies good or evil to the nation in the midst of which it exists. Its real value depends on the moral sign attached to it, just as sternly as that of a mathematical quantity depends on the algebraical sign attached to it. Any given accumulation of commercial wealth may be indicative, on the one hand, of faithful industries, progressive energies, and productive ingenuities; or, on the other, it may be indicative of mortal luxury, merciless tyranny, ruinous chicane. Some treasures are heavy with human tears, as an ill-stored harvest with untimely rain; and some gold is brighter in sunshine than it is in substance."
+        },
+        {
+          "type": "paragraph",
+          "text": "And these are not, observe, merely moral or pathetic attributes of riches, which the seeker of riches may, if he chooses, despise; they are, literally and sternly, material attributes of riches, depreciating or exalting, incalculably, the monetary signification of the sum in question. One mass of money is the outcome of action which has created﻿—another, of action which has annihilated﻿—ten times as much in the gathering of it; such and such strong hands have been paralysed, as if they had been numbed by nightshade: so many strong men’s courage broken, so many productive operations hindered; this and the other false direction given to labour, and lying image of prosperity set up, on Dura plains dug into seven-times-heated furnaces. That which seems to be wealth may in verity be only the gilded index of far-reaching ruin; a wrecker’s handful of coin gleaned from the beach to which he has beguiled an argosy; a camp-follower’s bundle of rags unwrapped from the breasts of goodly soldiers dead; the purchase-pieces of potter’s fields, wherein shall be buried together the citizen and the stranger."
+        },
+        {
+          "type": "paragraph",
+          "text": "And therefore, the idea that directions can be given for the gaining of wealth, irrespectively of the consideration of its moral sources, or that any general and technical law of purchase and gain can be set down for national practice, is perhaps the most insolently futile of all that ever beguiled men through their vices. So far as I know, there is not in history record of anything so disgraceful to the human intellect as the modern idea that the commercial text, “Buy in the cheapest market and sell in the dearest,” represents, or under any circumstances could represent, an available principle of national economy. Buy in the cheapest market?﻿—yes; but what made your market cheap? Charcoal may be cheap among your roof timbers after a fire, and bricks may be cheap in your streets after an earthquake; but fire and earthquake may not therefore be national benefits. Sell in the dearest?﻿—yes, truly; but what made your market dear? You sold your bread well today; was it to a dying man who gave his last coin for it, and will never need bread more, or to a rich man who tomorrow will buy your farm over your head; or to a soldier on his way to pillage the bank in which you have put your fortune?"
+        },
+        {
+          "type": "paragraph",
+          "text": "None of these things you can know. One thing only you can know, namely, whether this dealing of yours is a just and faithful one, which is all you need concern yourself about respecting it; sure thus to have done your own part in bringing about ultimately in the world a state of things which will not issue in pillage or in death. And thus every question concerning these things merges itself ultimately in the great question of justice, which, the ground being thus far cleared for it, I will enter upon in the next paper, leaving only, in this, three final points for the reader’s consideration."
+        },
+        {
+          "type": "paragraph",
+          "text": "It has been shown that the chief value and virtue of money consists in its having power over human beings; that, without this power, large material possessions are useless, and, to any person possessing such power, comparatively unnecessary. But power over human beings is attainable by other means than by money. As I said a few pages back, the money power is always imperfect and doubtful; there are many things which cannot be reached with it, others which cannot be retained by it. Many joys may be given to men which cannot be bought for gold, and many fidelities found in them which cannot be rewarded with it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trite enough﻿—the reader thinks. Yes: but it is not so trite﻿—I wish it were﻿—that in this moral power, quite inscrutable and immeasurable though it be, there is a monetary value just as real as that represented by more ponderous currencies. A man’s hand may be full of invisible gold, and the wave of it, or the grasp, shall do more than another’s with a shower of bullion. This invisible gold, also, does not necessarily diminish in spending. Political economists will do well some day to take heed of it, though they cannot take measure."
+        },
+        {
+          "type": "paragraph",
+          "text": "But farther. Since the essence of wealth consists in its authority over men, if the apparent or nominal wealth fail in this power, it fails in essence; in fact, ceases to be wealth at all. It does not appear lately in England, that our authority over men is absolute. The servants show some disposition to rush riotously upstairs, under an impression that their wages are not regularly paid. We should augur ill of any gentleman’s property to whom this happened every other day in his drawing-room."
+        },
+        {
+          "type": "paragraph",
+          "text": "So also, the power of our wealth seems limited as respects the comfort of the servants, no less than their quietude. The persons in the kitchen appear to be ill-dressed, squalid, half-starved. One cannot help imagining that the riches of the establishment must be of a very theoretical and documentary character."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally. Since the essence of wealth consists in power over men, will it not follow that the nobler and the more in number the persons are over whom it has power, the greater the wealth? Perhaps it may even appear after some consideration, that the persons themselves are the wealth﻿—that these pieces of gold with which we are in the habit of guiding them, are, in fact, nothing more than a kind of Byzantine harness or trappings, very glittering and beautiful in barbaric sight, wherewith we bridle the creatures; but that if these same living creatures could be guided without the fretting and jingling of the byzants in their mouths and ears, they might themselves be more valuable than their bridles. In fact, it may be discovered that the true veins of wealth are purple﻿—and not in Rock, but in Flesh﻿—perhaps even that the final outcome and consummation of all wealth is in the producing as many as possible full-breathed, bright-eyed, and happy-hearted human creatures. Our modern wealth, I think, has rather a tendency the other way;﻿—most political economists appearing to consider multitudes of human creatures not conducive to wealth, or at best conducive to it only by remaining in a dim-eyed and narrow-chested state of being."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevertheless, it is open, I repeat, to serious question, which I leave to the reader’s pondering, whether, among national manufactures, that of Souls of a good quality may not at last turn out a quite leadingly lucrative one? Nay, in some faraway and yet undreamt-of hour, I can even imagine that England may cast all thoughts of possessive wealth back to the barbaric nations among whom they first arose; and that, while the sands of the Indus and adamant of Golconda may yet stiffen the housings of the charger, and flash from the turban of the slave, she, as a Christian mother, may at last attain to the virtues and the treasures of a Heathen one, and be able to lead forth her Sons, saying﻿—"
+        },
+        {
+          "type": "blockquote",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "“These are my Jewels.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "III",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "ordinal+roman",
+              "text": "III"
+            },
+            {
+              "type": "title",
+              "text": "Qui Judicatis Terram"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some centuries before the Christian era, a Jew merchant, largely engaged in business on the Gold Coast, and reported to have made one of the largest fortunes of his time (held also in repute for much practical sagacity), left among his ledgers some general maxims concerning wealth, which have been preserved, strangely enough, even to our own days. They were held in considerable respect by the most active traders of the middle ages, especially by the Venetians, who even went so far in their admiration as to place a statue of the old Jew on the angle of one of their principal public buildings. Of late years these writings have fallen into disrepute, being opposed in every particular to the spirit of modern commerce. Nevertheless, I shall reproduce a passage or two from them here, partly because they may interest the reader by their novelty; and chiefly because they will show him that it is possible for a very practical and acquisitive tradesman to hold, through a not unsuccessful career, that principle of distinction between well-gotten and ill-gotten wealth, which, partially insisted on in my last paper, it must be our work more completely to examine in this."
+        },
+        {
+          "type": "paragraph",
+          "text": "He says, for instance, in one place: “The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death:” adding in another, with the same meaning (he has a curious way of doubling his sayings): “Treasures of wickedness profit nothing: but justice delivers from death.” Both these passages are notable for their assertion of death as the only real issue and sum of attainment by any unjust scheme of wealth. If we read, instead of “lying tongue,” “lying label, title, pretence, or advertisement,” we shall more clearly perceive the bearing of the words on modern business. The seeking of death is a grand expression of the true course of men’s toil in such business. We usually speak as if death pursued us, and we fled from him; but that is only so in rare instances. Ordinarily, he masks himself﻿—makes himself beautiful﻿—all-glorious; not like the King’s daughter, all-glorious within, but outwardly: his clothing of wrought gold. We pursue him frantically all our days, he flying or hiding from us. Our crowning success at threescore and ten is utterly and perfectly to seize, and hold him in his eternal integrity﻿—robes, ashes, and sting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Again: the merchant says, “He that oppresseth the poor to increase his riches, shall surely come to want.” And again, more strongly: “Rob not the poor because he is poor; neither oppress the afflicted in the place of business. For God shall spoil the soul of those that spoiled them.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "This “robbing the poor because he is poor” is especially the mercantile form of theft, consisting in taking advantage of a man’s necessities in order to obtain his labour or property at a reduced price. The ordinary highwayman’s opposite form of robbery﻿—of the rich, because he is rich﻿—does not appear to occur so often to the old merchant’s mind; probably because, being less profitable and more dangerous than the robbery of the poor, it is rarely practised by persons of discretion."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the two most remarkable passages in their deep general significance are the following:﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "“The rich and the poor have met. God is their maker.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "“The rich and the poor have met. God is their light.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "They “have met:” more literally, have stood in each other’s way, (obviaverunt). That is to say, as long as the world lasts, the action and counteraction of wealth and poverty, the meeting, face to face, of rich and poor, is just as appointed and necessary a law of that world as the flow of stream to sea, or the interchange of power among the electric clouds:﻿—“God is their maker.” But, also, this action may be either gentle and just, or convulsive and destructive: it may be by rage of devouring flood, or by lapse of serviceable wave;﻿—in blackness of thunderstroke, or continual force of vital fire, soft, and shapeable into love-syllables from far away. And which of these it shall be depends on both rich and poor knowing that God is their light; that in the mystery of human life, there is no other light than this by which they can see each other’s faces, and live;﻿—light, which is called in another of the books among which the merchant’s maxims have been preserved, the “sun of justice,”10 of which it is promised that it shall rise at last with “healing” (health-giving or helping, making whole or setting at one) in its wings. For truly this healing is only possible by means of justice; no love, no faith, no hope will do it; men will be unwisely fond﻿—vainly faithful, unless primarily they are just; and the mistake of the best men through generation after generation, has been that great one of thinking to help the poor by almsgiving, and by preaching of patience or of hope, and by every other means, emollient or consolatory, except the one thing which God orders for them, justice. But this justice, with its accompanying holiness or helpfulness, being even by the best men denied in its trial time, is by the mass of men hated wherever it appears: so that, when the choice was one day fairly put to them, they denied the Helpful One and the Just;11 and desired a murderer, sedition-raiser, and robber, to be granted to them;﻿—the murderer instead of the Lord of Life, the sedition-raiser instead of the Prince of Peace, and the robber instead of the Just Judge of all the world."
+        },
+        {
+          "type": "paragraph",
+          "text": "I have just spoken of the flowing of streams to the sea as a partial image of the action of wealth. In one respect it is not a partial, but a perfect image. The popular economist thinks himself wise in having discovered that wealth, or the forms of property in general, must go where they are required; that where demand is, supply must follow. He farther declares that this course of demand and supply cannot be forbidden by human laws. Precisely in the same sense, and with the same certainty, the waters of the world go where they are required. Where the land falls, the water flows. The course neither of clouds nor rivers can be forbidden by human will. But the disposition and administration of them can be altered by human forethought. Whether the stream shall be a curse or a blessing, depends upon man’s labour, and administrating intelligence. For centuries after centuries, great districts of the world, rich in soil, and favoured in climate, have lain desert under the rage of their own rivers; not only desert, but plague-struck. The stream which, rightly directed, would have flowed in soft irrigation from field to field﻿—would have purified the air, given food to man and beast, and carried their burdens for them on its bosom﻿—now overwhelms the plain, and poisons the wind; its breath pestilence, and its work famine. In like manner this wealth “goes where it is required.” No human laws can withstand its flow. They can only guide it: but this, the leading trench and limiting mound can do so thoroughly, that it shall become water of life﻿—the riches of the hand of wisdom;12 or, on the contrary, by leaving it to its own lawless flow, they may make it, what it has been too often, the last and deadliest of national plagues: water of Marah﻿—the water which feeds the roots of all evil."
+        },
+        {
+          "type": "paragraph",
+          "text": "The necessity of these laws of distribution or restraint is curiously overlooked in the ordinary political economist’s definition of his own “science.” He calls it, shortly, the “science of getting rich.” But there are many sciences, as well as many arts, of getting rich. Poisoning people of large estates was one employed largely in the middle ages; adulteration of food of people of small estates is one employed largely now. The ancient and honourable Highland method of blackmail; the more modern and less honourable system of obtaining goods on credit, and the other variously improved methods of appropriation﻿—which, in major and minor scales of industry, down to the most artistic pocket-picking, we owe to recent genius﻿—all come under the general head of sciences, or arts, of getting rich."
+        },
+        {
+          "type": "paragraph",
+          "text": "So that it is clear the popular economist, in calling his science the science par excellence of getting rich, must attach some peculiar ideas of limitation to its character. I hope I do not misrepresent him, by assuming that he means his science to be the science of “getting rich by legal or just means.” In this definition, is the word “just,” or “legal,” finally to stand? For it is possible among certain nations, or under certain rulers, or by help of certain advocates, that proceedings may be legal which are by no means just. If, therefore, we leave at last only the word “just” in that place of our definition, the insertion of this solitary and small word will make a notable difference in the grammar of our science. For then it will follow that, in order to grow rich scientifically we must grow rich justly; and, therefore, know what is just; so that our economy will no longer depend merely on prudence, but on jurisprudence﻿—and that of divine, not human law. Which prudence is indeed of no mean order, holding itself, as it were, high in the air of heaven, and gazing forever on the light of the sun of justice; hence the souls which have excelled in it are represented by Dante as stars forming in heaven forever the figure of the eye of an eagle: they having been in life the discerners of light from darkness; or to the whole human race, as the light of the body, which is the eye; while those souls which form the wings of the bird (giving power and dominion to justice, “healing in its wings”) trace also in light the inscription in heaven: “diligite justitiam qui judicatis” “Ye who judge the earth, give” (not, observe, merely love, but) “diligent love to justice:” the love which seeks diligently, that is to say, choosingly, and by preference to all things else. Which judging or doing judgment in the earth is, according to their capacity and position, required not of judges only, nor of rulers only, but of all men:13 a truth sorrowfully lost sight of even by those who are ready enough to apply to themselves passages in which Christian men are spoken of as called to be “saints” (i.e., to helpful or healing functions); and “chosen to be kings” (i.e., to knowing or directing functions); the true meaning of these titles having been long lost through the pretences of unhelpful and unable persons to saintly and kingly character; also through the once popular idea that both the sanctity and royalty are to consist in wearing long robes and high crowns, instead of in mercy and judgment; whereas all true sanctity is saving power, as all true royalty is ruling power; and injustice is part and parcel of the denial of such power, which “makes men as the creeping things, as the fishes of the sea, that have no ruler over them.”14"
+        },
+        {
+          "type": "paragraph",
+          "text": "Absolute justice is indeed no more attainable than absolute truth; but the righteous man is distinguished from the unrighteous by his desire and hope of justice, as the true man from the false by his desire and hope of truth. And though absolute justice be unattainable, as much justice as we need for all practical use is attainable by all those who make it their aim."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have to examine, then, in the subject before us, what are the laws of justice respecting payment of labour﻿—no small part, these, of the foundations of all jurisprudence."
+        },
+        {
+          "type": "paragraph",
+          "text": "I reduced, in my last paper, the idea of money payment to its simplest or radical terms. In those terms its nature, and the conditions of justice respecting it, can be best ascertained."
+        },
+        {
+          "type": "paragraph",
+          "text": "Money payment, as there stated, consists radically in a promise to some person working for us, that for the time and labour he spends in our service today we will give or procure equivalent time and labour in his service at any future time when he may demand it.15"
+        },
+        {
+          "type": "paragraph",
+          "text": "If we promise to give him less labour than he has given us, we underpay him. If we promise to give him more labour than he has given us, we overpay him. In practice, according to the laws of demand and supply, when two men are ready to do the work, and only one man wants to have it done, the two men underbid each other for it; and the one who gets it to do, is underpaid. But when two men want the work done, and there is only one man ready to do it, the two men who want it done overbid each other, and the workman is overpaid."
+        },
+        {
+          "type": "paragraph",
+          "text": "I will examine these two points of injustice in succession, but first I wish the reader to clearly understand the central principle lying between the two, of right or just payment."
+        },
+        {
+          "type": "paragraph",
+          "text": "When we ask a service of any man, he may either give it us freely, or demand payment for it. Respecting free gift of service, there is no question at present, that being a matter of affection﻿—not of traffic. But if he demand payment for it, and we wish to treat him with absolute equity, it is evident that this equity can only consist in giving time for time, strength for strength, and skill for skill. If a man works an hour for us, and we only promise to work half an hour for him in return, we obtain an unjust advantage. If, on the contrary, we promise to work an hour and a half for him in return, he has an unjust advantage. The justice consists in absolute exchange; or, if there be any respect to the stations of the parties, it will not be in favour of the employer: there is certainly no equitable reason in a man’s being poor, that if he give me a pound of bread today, I should return him less than a pound of bread tomorrow; or any equitable reason in a man’s being uneducated, that if he uses a certain quantity of skill and knowledge in my service, I should use a less quantity of skill and knowledge in his. Perhaps, ultimately, it may appear desirable, or, to say the least, gracious, that I should give in return somewhat more than I received. But at present, we are concerned on the law of justice only, which is that of perfect and accurate exchange;﻿—one circumstance only interfering with the simplicity of this radical idea of just payment﻿—that inasmuch as labour (rightly directed) is fruitful just as seed is, the fruit (or “interest” as it is called) of the labour first given, or “advanced,” ought to be taken into account, and balanced by an additional quantity of labour in the subsequent repayment. Supposing the repayment to take place at the end of a year, or of any other given time, this calculation could be approximately made; but as money (that is to say, cash) payment involves no reference to time (it being optional with the person paid to spend what he receives at once or after any number of years), we can only assume, generally, that some slight advantage must in equity be allowed to the person who advances the labour, so that the typical form of bargain will be: If you give me an hour today, I will give you an hour and five minutes on demand. If you give me a pound of bread today, I will give you seventeen ounces on demand, and so on. All that is necessary for the reader to note is, that the amount returned is at least in equity not to be less than the amount given."
+        },
+        {
+          "type": "paragraph",
+          "text": "The abstract idea, then, of just or due wages, as respects the labourer, is that they will consist in a sum of money which will at any time procure for him at least as much labour as he has given, rather more than less. And this equity or justice of payment is, observe, wholly independent of any reference to the number of men who are willing to do the work. I want a horseshoe for my horse. Twenty smiths, or twenty thousand smiths, may be ready to forge it; their number does not in one atom’s weight affect the question of the equitable payment of the one who does forge it. It costs him a quarter of an hour of his life, and so much skill and strength of arm to make that horseshoe for me. Then at some future time I am bound in equity to give a quarter of an hour, and some minutes more, of my life (or of some other person’s at my disposal), and also as much strength of arm and skill, and a little more, in making or doing what the smith may have need of."
+        },
+        {
+          "type": "paragraph",
+          "text": "Such being the abstract theory of just remunerative payment, its application is practically modified by the fact that the order for labour, given in payment, is general, while the labour received is special. The current coin or document is practically an order on the nation for so much work of any kind; and this universal applicability to immediate need renders it so much more valuable than special labour can be, that an order for a less quantity of this general toil will always be accepted as a just equivalent for a greater quantity of special toil. Any given craftsman will always be willing to give an hour of his own work in order to receive command over half an hour, or even much less, of national work. This source of uncertainty, together with the difficulty of determining the monetary value of skill,16 renders the ascertainment (even approximate) of the proper wages of any given labour in terms of currency, matter of considerable complexity. But they do not affect the principle of exchange. The worth of the work may not be easily known; but it has a worth, just as fixed and real as the specific gravity of a substance, though such specific gravity may not be easily ascertainable when the substance is united with many others. Nor is there so much difficulty or chance in determining it as in determining the ordinary maxima and minima of vulgar political economy. There are few bargains in which the buyer can ascertain with anything like precision that the seller would have taken no less;﻿—or the seller acquire more than a comfortable faith that the purchaser would have given no more. This impossibility of precise knowledge prevents neither from striving to attain the desired point of greatest vexation and injury to the other, nor from accepting it for a scientific principle that he is to buy for the least and sell for the most possible, though what the real least or most may be he cannot tell. In like manner, a just person lays it down for a scientific principle that he is to pay a just price, and, without being able precisely to ascertain the limits of such a price, will nevertheless strive to attain the closest possible approximation to them. A practically serviceable approximation he can obtain. It is easier to determine scientifically what a man ought to have for his work, than what his necessities will compel him to take for it. His necessities can only be ascertained by empirical, but his due by analytical, investigation. In the one case, you try your answer to the sum like a puzzled schoolboy﻿—till you find one that fits; in the other, you bring out your result within certain limits, by process of calculation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supposing, then, the just wages of any quantity of given labour to have been ascertained, let us examine the first results of just and unjust payment, when in favour of the purchaser or employer; i.e., when two men are ready to do the work, and only one wants to have it done."
+        },
+        {
+          "type": "paragraph",
+          "text": "The unjust purchaser forces the two to bid against each other till he has reduced their demand to its lowest terms. Let us assume that the lowest bidder offers to do the work at half its just price."
+        },
+        {
+          "type": "paragraph",
+          "text": "The purchaser employs him, and does not employ the other. The first or apparent result, is, therefore, that one of the two men is left out of employ, or to starvation, just as definitely as by the just procedure of giving fair price to the best workman. The various writers who endeavoured to invalidate the positions of my first paper never saw this, and assumed that the unjust hirer employed both. He employs both no more than the just hirer. The only difference (in the outset) is that the just man pays sufficiently, the unjust man insufficiently, for the labour of the single person employed."
+        },
+        {
+          "type": "paragraph",
+          "text": "I say, in “the outset”; for this first or apparent difference is not the actual difference. By the unjust procedure, half the proper price of the work is left in the hands of the employer. This enables him to hire another man at the same unjust rate on some other kind of work; and the final result is that he has two men working for him at half-price, and two are out of employ."
+        },
+        {
+          "type": "paragraph",
+          "text": "By the just procedure, the whole price of the first piece of work goes into the hands of the man who does it. No surplus being left in the employer’s hands, he cannot hire another man for another piece of labour. But by precisely so much as his power is diminished, the hired workman’s power is increased; that is to say, by the additional half of the price he has received; which additional half he has the power of using to employ another man in his service. I will suppose, for the moment, the least favourable, though quite probable, case﻿—that, though justly treated himself, he yet will act unjustly to his subordinate; and hire at half-price, if he can. The final result will then be, that one man works for the employer, at just price; one for the workman, at half-price; and two, as in the first case, are still out of employ. These two, as I said before, are out of employ in both cases. The difference between the just and unjust procedure does not lie in the number of men hired, but in the price paid to them, and the persons by whom it is paid. The essential difference, that which I want the reader to see clearly, is, that in the unjust case, two men work for one, the first hirer. In the just case, one man works for the first hirer, one for the person hired, and so on, down or up through the various grades of service; the influence being carried forward by justice, and arrested by injustice. The universal and constant action of justice in this matter is therefore to diminish the power of wealth, in the hands of one individual, over masses of men, and to distribute it through a chain of men. The actual power exerted by the wealth is the same in both cases; but by injustice it is put all into one man’s hands, so that he directs at once and with equal force the labour of a circle of men about him; by the just procedure, he is permitted to touch the nearest only, through whom, with diminished force, modified by new minds, the energy of the wealth passes on to others, and so till it exhausts itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "The immediate operation of justice in this respect is, therefore, to diminish the power of wealth, first in acquisition of luxury, and, secondly, in exercise of moral influence. The employer cannot concentrate so multitudinous labour on his own interests, nor can he subdue so multitudinous mind to his own will. But the secondary operation of justice is not less important. The insufficient payment of the group of men working for one, places each under a maximum of difficulty in rising above his position. The tendency of the system is to check advancement. But the sufficient or just payment, distributed through a descending series of offices or grades of labour,17 gives each subordinated person fair and sufficient means of rising in the social scale, if he chooses to use them; and thus not only diminishes the immediate power of wealth, but removes the worst disabilities of poverty."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is on this vital problem that the entire destiny of the labourer is ultimately dependent. Many minor interests may sometimes appear to interfere with it, but all branch from it. For instance, considerable agitation is often caused in the minds of the lower classes when they discover the share which they nominally, and to all appearance, actually, pay out of their wages in taxation (I believe thirty-five or forty percent). This sounds very grievous; but in reality the labourer does not pay it, but his employer. If the workman had not to pay it, his wages would be less by just that sum: competition would still reduce them to the lowest rate at which life was possible. Similarly the lower orders agitated for the repeal of the corn laws,18 thinking they would be better off if bread were cheaper; never perceiving that as soon as bread was permanently cheaper, wages would permanently fall in precisely that proportion. The corn laws were rightly repealed; not, however, because they directly oppressed the poor, but because they indirectly oppressed them in causing a large quantity of their labour to be consumed unproductively. So also unnecessary taxation oppresses them, through destruction of capital, but the destiny of the poor depends primarily always on this one question of dueness of wages. Their distress (irrespectively of that caused by sloth, minor error, or crime) arises on the grand scale from the two reacting forces of competition and oppression. There is not yet, nor will yet for ages be, any real overpopulation in the world; but a local overpopulation, or, more accurately, a degree of population locally unmanageable under existing circumstances for want of forethought and sufficient machinery, necessarily shows itself by pressure of competition; and the taking advantage of this competition by the purchaser to obtain their labour unjustly cheap, consummates at once their suffering and his own; for in this (as I believe in every other kind of slavery) the oppressor suffers at last more than the oppressed, and those magnificent lines of Pope, even in all their force, fall short of the truth﻿—"
+        },
+        {
+          "type": "verse",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "“Yet, to be just to these poor men of pelf, Each does but hate his neighbour as himself: Damned to the mines, an equal fate betides The slave that digs it, and the slave that hides.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The collateral and reversionary operations of justice in this matter I shall examine hereafter (it being needful first to define the nature of value); proceeding then to consider within what practical terms a juster system may be established; and ultimately the vexed question of the destinies of the unemployed workmen.19 Lest, however, the reader should be alarmed at some of the issues to which our investigations seem to be tending, as if in their bearing against the power of wealth they had something in common with those of socialism, I wish him to know, in accurate terms, one or two of the main points which I have in view."
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether socialism has made more progress among the army and navy (where payment is made on my principles), or among the manufacturing operatives (who are paid on my opponents’ principles), I leave it to those opponents to ascertain and declare. Whatever their conclusions may be, I think it necessary to answer for myself only this: that if there be any one point insisted on throughout my works more frequently than another, that one point is the impossibility of Equality. My continual aim has been to show the eternal superiority of some men to others, sometimes even of one man to all others; and to show also the advisability of appointing such persons or person to guide, to lead, or on occasion even to compel and subdue, their inferiors, according to their own better knowledge and wiser will. My principles of Political Economy were all involved in a single phrase spoken three years ago at Manchester: “Soldiers of the Ploughshare as well as Soldiers of the Sword:” and they were all summed in a single sentence in the last volume of Modern Painters﻿—“Government and cooperation are in all things the Laws of Life; Anarchy and competition the Laws of Death.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And with respect to the mode in which these general principles affect the secure possession of property, so far am I from invalidating such security, that the whole gist of these papers will be found ultimately to aim at an extension in its range; and whereas it has long been known and declared that the poor have no right to the property of the rich, I wish it also to be known and declared that the rich have no right to the property of the poor."
+        },
+        {
+          "type": "paragraph",
+          "text": "But that the working of the system which I have undertaken to develop would in many ways shorten the apparent and direct, though not the unseen and collateral, power, both of wealth, as the Lady of Pleasure, and of capital, as the Lord of Toil, I do not deny: on the contrary, I affirm it in all joyfulness; knowing that the attraction of riches is already too strong, as their authority is already too weighty, for the reason of mankind. I said in my last paper that nothing in history had ever been so disgraceful to human intellect as the acceptance among us of the common doctrines of political economy as a science. I have many grounds for saying this, but one of the chief may be given in few words. I know no previous instance in history of a nation’s establishing a systematic disobedience to the first principles of its professed religion. The writings which we (verbally) esteem as divine, not only denounce the love of money as the source of all evil, and as an idolatry abhorred of the Deity, but declare mammon service to be the accurate and irreconcileable opposite of God’s service; and, whenever they speak of riches absolute, and poverty absolute, declare woe to the rich, and blessing to the poor. Whereupon we forthwith investigate a science of becoming rich, as the shortest road to national prosperity."
+        },
+        {
+          "type": "verse",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "“Tai Cristian dannerà l’Etiòpe, Quando si partiranno i due collegi, L’uno in eterno ricco, e l’altro inòpe.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "IV",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "chapter"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "ordinal+roman",
+              "text": "IV"
+            },
+            {
+              "type": "title",
+              "text": "Ad Valorem"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In the last paper we saw that just payment of labour consisted in a sum of money which would approximately obtain equivalent labour at a future time: we have now to examine the means of obtaining such equivalence. Which question involves the definition of Value, Wealth, Price, and Produce."
+        },
+        {
+          "type": "paragraph",
+          "text": "None of these terms are yet defined so as to be understood by the public. But the last, Produce, which one might have thought the clearest of all, is, in use, the most ambiguous; and the examination of the kind of ambiguity attendant on its present employment will best open the way to our work."
+        },
+        {
+          "type": "paragraph",
+          "text": "In his Chapter on Capital,20 Mr. J. S. Mill instances, as a capitalist, a hardware manufacturer, who, having intended to spend a certain portion of the proceeds of his business in buying plate and jewels, changes his mind, and “pays it as wages to additional workpeople.” The effect is stated by Mr. Mill to be that “more food is appropriated to the consumption of productive labourers.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now I do not ask, though, had I written this paragraph, it would surely have been asked of me, What is to become of the silversmiths? If they are truly unproductive persons, we will acquiesce in their extinction. And though in another part of the same passage, the hardware merchant is supposed also to dispense with a number of servants, whose “food is thus set free for productive purposes,” I do not inquire what will be the effect, painful or otherwise, upon the servants, of this emancipation of their food. But I very seriously inquire why ironware is produce, and silverware is not? That the merchant consumes the one, and sells the other, certainly does not constitute the difference, unless it can be shown (which, indeed, I perceive it to be becoming daily more and more the aim of tradesmen to show) that commodities are made to be sold, and not to be consumed. The merchant is an agent of conveyance to the consumer in one case, and is himself the consumer in the other:21 but the labourers are in either case equally productive, since they have produced goods to the same value, if the hardware and the plate are both goods."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what distinction separates them? It is indeed possible that in the “comparative estimate of the moralist,” with which Mr. Mill says political economy has nothing to do (III i 2), a steel fork might appear a more substantial production than a silver one: we may grant also that knives, no less than forks, are good produce; and scythes and ploughshares serviceable articles. But, how of bayonets? Supposing the hardware merchant to effect large sales of these, by help of the “setting free” of the food of his servants and his silversmith﻿—is he still employing productive labourers, or, in Mr. Mill’s words, labourers who increase “the stock of permanent means of enjoyment” (I iii 4)? Or if, instead of bayonets, he supply bombs, will not the absolute and final “enjoyment” of even these energetically productive articles (each of which costs ten pounds22) be dependent on a proper choice of time and place for their enfantement; choice, that is to say, depending on those philosophical considerations with which political economy has nothing to do?23"
+        },
+        {
+          "type": "paragraph",
+          "text": "I should have regretted the need of pointing out inconsistency in any portion of Mr. Mill’s work, had not the value of his work proceeded from its inconsistencies. He deserves honour among economists by inadvertently disclaiming the principles which he states, and tacitly introducing the moral considerations with which he declares his science has no connection. Many of his chapters, are, therefore, true and valuable; and the only conclusions of his which I have to dispute are those which follow from his premises."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus, the idea which lies at the root of the passage we have just been examining, namely, that labour applied to produce luxuries will not support so many persons as labour applied to produce useful articles, is entirely true; but the instance given fails﻿—and in four directions of failure at once﻿—because Mr. Mill has not defined the real meaning of usefulness. The definition which he has given﻿—“capacity to satisfy a desire, or serve a purpose” (III i 2)﻿—applies equally to the iron and silver; while the true definition﻿—which he has not given, but which nevertheless underlies the false verbal definition in his mind, and comes out once or twice by accident (as in the words “any support to life or strength” in I i 5)﻿—applies to some articles of iron, but not to others, and to some articles of silver, but not to others. It applies to ploughs, but not to bayonets; and to forks, but not to filigree.24"
+        },
+        {
+          "type": "paragraph",
+          "text": "The eliciting of the true definition will give us the reply to our first question, “What is value?” respecting which, however, we must first hear the popular statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "“The word ‘value,’ when used without adjunct, always means, in political economy, value in exchange” (Mill, III i 3). So that, if two ships cannot exchange their rudders, their rudders are, in politico-economic language, of no value to either."
+        },
+        {
+          "type": "paragraph",
+          "text": "But “the subject of political economy is wealth.”﻿—(Preliminary remarks, page 1.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "And wealth “consists of all useful and agreeable objects which possess exchangeable value.”﻿—(Preliminary remarks, page 10.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "It appears then, according to Mr. Mill, that usefulness and agreeableness underlie the exchange value, and must be ascertained to exist in the thing, before we can esteem it an object of wealth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, the economical usefulness of a thing depends not merely on its own nature, but on the number of people who can and will use it. A horse is useless, and therefore unsaleable, if no one can ride﻿—a sword if no one can strike, and meat, if no one can eat. Thus every material utility depends on its relative human capacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Similarly: The agreeableness of a thing depends not merely on its own likeableness, but on the number of people who can be got to like it. The relative agreeableness, and therefore saleableness, of “a pot of the smallest ale,” and of “Adonis painted by a running brook,” depends virtually on the opinion of Demos, in the shape of Christopher Sly. That is to say, the agreeableness of a thing depends on its relative human disposition.25 Therefore, political economy, being a science of wealth, must be a science respecting human capacities and dispositions. But moral considerations have nothing to do with political economy (III i 2). Therefore, moral considerations have nothing to do with human capacities and dispositions."
+        },
+        {
+          "type": "paragraph",
+          "text": "I do not wholly like the look of this conclusion from Mr. Mill’s statements:﻿—let us try Mr. Ricardo’s."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Utility is not the measure of exchangeable value, though it is absolutely essential to it.”﻿—(Chap. 1 sect. i.) Essential to what degree, Mr. Ricardo? There may be greater and less degrees of utility. Meat, for instance, may be so good as to be fit for anyone to eat, or so bad as to be fit for no one to eat. What is the exact degree of goodness which is “essential” to its exchangeable value, but not “the measure” of it? How good must the meat be, in order to possess any exchangeable value; and how bad must it be﻿—(I wish this were a settled question in London markets)﻿—in order to possess none?"
+        },
+        {
+          "type": "paragraph",
+          "text": "There appears to be some hitch, I think, in the working even of Mr. Ricardo’s principles; but let him take his own example. “Suppose that in the early stages of society the bows and arrows of the hunter were of equal value with the implements of the fisherman. Under such circumstances the value of the deer, the produce of the hunter’s day’s labour, would be exactly” (italics mine) “equal to the value of the fish, the product of the fisherman’s day’s labour. The comparative value of the fish and game would be entirely regulated by the quantity of labour realized in each.” (Ricardo, chap. iii “On Value.”)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indeed! Therefore, if the fisherman catches one sprat, and the huntsman one deer, one sprat will be equal in value to one deer; but if the fisherman catches no sprat, and the huntsman two deer, no sprat will be equal in value to two deer?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nay; but﻿—Mr. Ricardo’s supporters may say﻿—he means, on an average;﻿—if the average product of a day’s work of fisher and hunter be one fish and one deer, the one fish will always be equal in value to the one deer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Might I inquire the species of fish. Whale? or whitebait?26"
+        },
+        {
+          "type": "paragraph",
+          "text": "It would be waste of time to pursue these fallacies farther; we will seek for a true definition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Much store has been set for centuries upon the use of our English classical education. It were to be wished that our well-educated merchants recalled to mind always this much of their Latin schooling﻿—that the nominative of valorem (a word already sufficiently familiar to them) is valor; a word which, therefore, ought to be familiar to them. Valor, from valere, to be well, or strong (ὑγιαίνω);﻿—strong, in life (if a man), or valiant; strong, for life (if a thing), or valuable. To be “valuable,” therefore, is to “avail towards life.” A truly valuable or availing thing is that which leads to life with its whole strength. In proportion as it does not lead to life, or as its strength is broken, it is less valuable; in proportion as it leads away from life, it is unvaluable or malignant."
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of a thing, therefore, is independent of opinion, and of quantity. Think what you will of it, gain how much you may of it, the value of the thing itself is neither greater nor less. Forever it avails, or avails not; no estimate can raise, no disdain depress, the power which it holds from the Maker of things and of men."
+        },
+        {
+          "type": "paragraph",
+          "text": "The real science of political economy, which has yet to be distinguished from the bastard science, as medicine from witchcraft, and astronomy from astrology, is that which teaches nations to desire and labour for the things that lead to life; and which teaches them to scorn and destroy the things that lead to destruction. And if, in a state of infancy, they suppose indifferent things, such as excrescences of shellfish, and pieces of blue and red stone, to be valuable, and spend large measure of the labour which ought to be employed for the extension and ennobling of life, in diving or digging for them, and cutting them into various shapes﻿—or if, in the same state of infancy, they imagine precious and beneficent things, such as air, light, and cleanliness, to be valueless﻿—or if, finally, they imagine the conditions of their own existence, by which alone they can truly possess or use anything, such, for instance, as peace, trust, and love, to be prudently exchangeable, when the market offers, for gold, iron, or excrescences of shells﻿—the great and only science of Political Economy teaches them, in all these cases, what is vanity, and what substance; and how the service of Death, the Lord of Waste, and of eternal emptiness, differs from the service of Wisdom, the Lady of Saving, and of eternal fullness; she who has said, “I will cause those that love me to inherit Substance; and I will Fill their treasures.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The “Lady of Saving,” in a profounder sense than that of the savings’ bank, though that is a good one: Madonna della Salute﻿—Lady of Health﻿—which, though commonly spoken of as if separate from wealth, is indeed a part of wealth. This word, “wealth,” it will be remembered, is the next we have to define."
+        },
+        {
+          "type": "paragraph",
+          "text": "“To be wealthy,” says Mr. Mill, is “to have a large stock of useful articles.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I accept this definition. Only let us perfectly understand it. My opponents often lament my not giving them enough logic: I fear I must at present use a little more than they will like; but this business of Political Economy is no light one, and we must allow no loose terms in it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have, therefore, to ascertain in the above definition, first, what is the meaning of “having,” or the nature of Possession. Then, what is the meaning of “useful,” or the nature of Utility."
+        },
+        {
+          "type": "paragraph",
+          "text": "And first of possession. At the crossing of the transepts of Milan Cathedral has lain, for three hundred years, the embalmed body of St. Carlo Borromeo. It holds a golden crosier, and has a cross of emeralds on its breast. Admitting the crosier and emeralds to be useful articles, is the body to be considered as “having” them? Do they, in the politico-economical sense of property, belong to it? If not, and if we may, therefore, conclude generally that a dead body cannot possess property, what degree and period of animation in the body will render possession possible?"
+        },
+        {
+          "type": "paragraph",
+          "text": "As thus: lately in a wreck of a Californian ship, one of the passengers fastened a belt about him with two hundred pounds of gold in it, with which he was found afterwards at the bottom. Now, as he was sinking﻿—had he the gold? or had the gold him?27"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if, instead of sinking him in the sea by its weight, the gold had struck him on the forehead, and thereby caused incurable disease﻿—suppose palsy or insanity﻿—would the gold in that case have been more a “possession” than in the first? Without pressing the inquiry up through instances of gradually increasing vital power over the gold (which I will, however, give, if they are asked for), I presume the reader will see that possession, or “having,” is not an absolute, but a gradated, power; and consists not only in the quantity or nature of the thing possessed, but also (and in a greater degree) in its suitableness to the person possessing it, and in his vital power to use it."
+        },
+        {
+          "type": "paragraph",
+          "text": "And our definition of Wealth, expanded, becomes: “The possession of useful articles, which we can use.” This is a very serious change. For wealth, instead of depending merely on a “have,” is thus seen to depend on a “can.” Gladiator’s death, on a “habet”; but soldier’s victory, and state’s salvation, on a “quo plurimum posset.” (Liv. VII 6.) And what we reasoned of only as accumulation of material, is seen to demand also accumulation of capacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "So much for our verb. Next for our adjective. What is the meaning of “useful?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The inquiry is closely connected with the last. For what is capable of use in the hands of some persons, is capable, in the hands of others, of the opposite of use, called commonly, “from-use,” or “ab-use.” And it depends on the person, much more than on the article, whether its usefulness or ab-usefulness will be the quality developed in it. Thus, wine, which the Greeks, in their Bacchus, made, rightly, the type of all passion, and which, when used, “cheereth god and man” (that is to say, strengthens both the divine life, or reasoning power, and the earthly, or carnal power, of man); yet, when abused, becomes “Dionusos,” hurtful especially to the divine part of man, or reason. And again, the body itself, being equally liable to use and to abuse, and, when rightly disciplined, serviceable to the State, both for war and labour;﻿—but when not disciplined, or abused, valueless to the State, and capable only of continuing the private or single existence of the individual (and that but feebly)﻿—the Greeks called such a body an “idiotic” or “private” body, from their word signifying a person employed in no way directly useful to the State: whence, finally, our “idiot,” meaning a person entirely occupied with his own concerns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hence, it follows, that if a thing is to be useful, it must be not only of an availing nature, but in availing hands. Or, in accurate terms, usefulness is value in the hands of the valiant; so that this science of wealth being, as we have just seen, when regarded as the science of Accumulation, accumulative of capacity as well as of material﻿—when regarded as the science of Distribution, is distribution not absolute, but discriminate; not of everything to every man, but of the right thing to the right man. A difficult science, dependent on more than arithmetic."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wealth, therefore, is “the possession of the valuable by the valiant;” and in considering it as a power existing in a nation, the two elements, the value of the thing, and the valour of its possessor, must be estimated together. Whence it appears that many of the persons commonly considered wealthy, are in reality no more wealthy than the locks of their own strong boxes are; they being inherently and eternally incapable of wealth; and operating for the nation, in an economical point of view, either as pools of dead water, and eddies in a stream (which, so long as the stream flows, are useless, or serve only to drown people, but may become of importance in a state of stagnation, should the stream dry); or else, as dams in a river, of which the ultimate service depends not on the dam, but the miller; or else, as mere accidental stays and impediments, acting, not as wealth, but (for we ought to have a correspondent term) as “illth,” causing various devastation and trouble around them in all directions; or lastly, act not at all, but are merely animated conditions of delay (no use being possible of anything they have until they are dead), in which last condition they are nevertheless often useful as delays, and “impedimenta,” if a nation is apt to move too fast."
+        },
+        {
+          "type": "paragraph",
+          "text": "This being so, the difficulty of the true science of Political Economy lies not merely in the need of developing manly character to deal with material value, but in the fact, that while the manly character and material value only form wealth by their conjunction, they have nevertheless a mutually destructive operation on each other. For the manly character is apt to ignore, or even cast away, the material value:﻿—whence that of Pope:﻿—"
+        },
+        {
+          "type": "verse",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "“Sure, of qualities demanding praise More go to ruin fortunes, than to raise.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "And on the other hand, the material value is apt to undermine the manly character; so that it must be our work, in the issue, to examine what evidence there is of the effect of wealth on the minds of its possessors; also, what kind of person it is who usually sets himself to obtain wealth, and succeeds in doing so; and whether the world owes more gratitude to rich or to poor men, either for their moral influence upon it, or for chief goods, discoveries, and practical advancements. I may, however, anticipate future conclusions so far as to state that in a community regulated only by laws of demand and supply, but protected from open violence, the persons who become rich are, generally speaking, industrious, resolute, proud, covetous, prompt, methodical, sensible, unimaginative, insensitive, and ignorant. The persons who remain poor are the entirely foolish, the entirely wise,28 the idle, the reckless, the humble, the thoughtful, the dull, the imaginative, the sensitive, the well-informed, the improvident, the irregularly and impulsively wicked, the clumsy knave, the open thief, and the entirely merciful, just, and godly person."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus far then of wealth. Next, we have to ascertain the nature of Price; that is to say, of exchange value, and its expression by currencies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Note first, of exchange, there can be no profit in it. It is only in labour there can be profit﻿—that is to say a “making in advance,” or “making in favour of” (from proficio). In exchange, there is only advantage, i.e., a bringing of vantage or power to the exchanging persons. Thus, one man, by sowing and reaping, turns one measure of corn into two measures. That is Profit. Another by digging and forging, turns one spade into two spades. That is Profit. But the man who has two measures of corn wants sometimes to dig; and the man who has two spades wants sometimes to eat:﻿—They exchange the gained grain for the gained tool; and both are the better for the exchange; but though there is much advantage in the transaction, there is no profit. Nothing is constructed or produced. Only that which had been before constructed is given to the person by whom it can be used. If labour is necessary to effect the exchange, that labour is in reality involved in the production, and, like all other labour, bears profit. Whatever number of men are concerned in the manufacture, or in the conveyance, have share in the profit; but neither the manufacture nor the conveyance are the exchange, and in the exchange itself there is no profit."
+        },
+        {
+          "type": "paragraph",
+          "text": "There may, however, be acquisition, which is a very different thing. If, in the exchange, one man is able to give what cost him little labour for what has cost the other much, he “acquires” a certain quantity of the produce of the other’s labour. And precisely what he acquires, the other loses. In mercantile language, the person who thus acquires is commonly said to have “made a profit”; and I believe that many of our merchants are seriously under the impression that it is possible for everybody, somehow, to make a profit in this manner. Whereas, by the unfortunate constitution of the world we live in, the laws both of matter and motion have quite rigorously forbidden universal acquisition of this kind. Profit, or material gain, is attainable only by construction or by discovery; not by exchange. Whenever material gain follows exchange, for every plus there is a precisely equal minus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unhappily for the progress of the science of Political Economy, the plus quantities, or﻿—if I may be allowed to coin an awkward plural﻿—the pluses, make a very positive and venerable appearance in the world, so that everyone is eager to learn the science which produces results so magnificent; whereas the minuses have, on the other hand, a tendency to retire into back streets, and other places of shade﻿—or even to get themselves wholly and finally put out of sight in graves: which renders the algebra of this science peculiar, and difficultly legible; a large number of its negative signs being written by the account-keeper in a kind of red ink, which starvation thins, and makes strangely pale, or even quite invisible ink, for the present."
+        },
+        {
+          "type": "paragraph",
+          "text": "The science of Exchange, or, as I hear it has been proposed to call it, of “Catallactics,” considered as one of gain, is, therefore, simply nugatory; but considered as one of acquisition, it is a very curious science, differing in its data and basis from every other science known. Thus:﻿—If I can exchange a needle with a savage for a diamond, my power of doing so depends either on the savage’s ignorance of social arrangements in Europe, or on his want of power to take advantage of them, by selling the diamond to anyone else for more needles. If, farther, I make the bargain as completely advantageous to myself as possible, by giving to the savage a needle with no eye in it (reaching, thus, a sufficiently satisfactory type of the perfect operation of catallactic science), the advantage to me in the entire transaction depends wholly upon the ignorance, powerlessness, or heedlessness of the person dealt with. Do away with these, and catallactic advantage becomes impossible. So far, therefore as the science of exchange relates to the advantage of one of the exchanging persons only, it is founded on the ignorance or incapacity of the opposite person. Where these vanish, it also vanishes. It is therefore a science founded on nescience, and an art founded on artlessness. But all other sciences and arts, except this, have for their object the doing away with their opposite nescience and artlessness. This science, alone of sciences, must, by all available means, promulgate and prolong its opposite nescience; otherwise the science itself is impossible. It is, therefore, peculiarly and alone, the science of darkness; probably a bastard science﻿—not by any means a divina scientia, but one begotten of another father, that father who, advising his children to turn stones into bread, is himself employed in turning bread into stones, and who, if you ask a fish of him (fish not being producible on his estate), can but give you a serpent."
+        },
+        {
+          "type": "paragraph",
+          "text": "The general law, then, respecting just or economical exchange, is simply this:﻿—There must be advantage on both sides (or if only advantage on one, at least no disadvantage on the other) to the persons exchanging; and just payment for his time, intelligence, and labour, to any intermediate person effecting the transaction (commonly called a merchant): and whatever advantage there is on either side, and whatever pay is given to the intermediate person, should be thoroughly known to all concerned. All attempt at concealment implies some practice of the opposite, or undivine science, founded on nescience. Whence another saying of the Jew merchant’s﻿—“As a nail between the stone joints, so doth sin stick fast between buying and selling.” Which peculiar riveting of stone and timber, in men’s dealing with each other, is again set forth in the house which was to be destroyed﻿—timber and stones together﻿—when Zechariah’s roll (more probably “curved sword”) flew over it: “the curse that goeth forth over all the earth upon everyone that stealeth and holdeth himself guiltless,” instantly followed by the vision of the Great Measure;﻿—the measure “of the injustice of them in all the earth” (αὔτη ἡ ἀδικία αὐτῶν ἐν πάσῇ τῇ γῃ), with the weight of lead for its lid, and the woman, the spirit of wickedness, within it;﻿—that is to say, Wickedness hidden by Dullness, and formalized, outwardly, into ponderously established cruelty. “It shall be set upon its own base in the land on Babel.”29"
+        },
+        {
+          "type": "paragraph",
+          "text": "I have hitherto carefully restricted myself, in speaking of exchange, to the use of the term “advantage”; but that term includes two ideas: the advantage, namely, of getting what we need, and that of getting what we wish for. Three-fourths of the demands existing in the world are romantic; founded on visions, idealisms, hopes, and affections; and the regulation of the purse is, in its essence, regulation of the imagination and the heart. Hence, the right discussion of the nature of price is a very high metaphysical and psychical problem; sometimes to be solved only in a passionate manner, as by David in his counting the price of the water of the well by the gate of Bethlehem; but its first conditions are the following:﻿—The price of anything is the quantity of labour given by the person desiring it, in order to obtain possession of it. This price depends on four variable quantities. A. The quantity of wish the purchaser has for the thing; opposed to α, the quantity of wish the seller has to keep it. B. The quantity of labour the purchaser can afford, to obtain the thing; opposed to β, the quantity of labour the seller can afford, to keep it. These quantities are operative only in excess; i.e., the quantity of wish (A) means the quantity of wish for this thing, above wish for other things; and the quantity of work (B) means the quantity which can be spared to get this thing from the quantity needed to get other things."
+        },
+        {
+          "type": "paragraph",
+          "text": "Phenomena of price, therefore, are intensely complex, curious, and interesting﻿—too complex, however, to be examined yet; every one of them, when traced far enough, showing itself at last as a part of the bargain of the Poor of the Flock (or “flock of slaughter”), “If ye think good, give me my price, and if not, forbear”﻿—Zech. 11:12; but as the price of everything is to be calculated finally in labour, it is necessary to define the nature of that standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Labour is the contest of the life of man with an opposite:﻿—the term “life” including his intellect, soul, and physical power, contending with question, difficulty, trial, or material force."
+        },
+        {
+          "type": "paragraph",
+          "text": "Labour is of a higher or lower order, as it includes more or fewer of the elements of life: and labour of good quality, in any kind, includes always as much intellect and feeling as will fully and harmoniously regulate the physical force."
+        },
+        {
+          "type": "paragraph",
+          "text": "In speaking of the value and price of labour, it is necessary always to understand labour of a given rank and quality, as we should speak of gold or silver of a given standard. Bad (that is, heartless, inexperienced, or senseless) labour cannot be valued; it is like gold of uncertain alloy, or flawed iron.30"
+        },
+        {
+          "type": "paragraph",
+          "text": "The quality and kind of labour being given, its value, like that of all other valuable things, is invariable. But the quantity of it which must be given for other things is variable: and in estimating this variation, the price of other things must always be counted by the quantity of labour; not the price of labour by the quantity of other things."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus, if we want to plant an apple sapling in rocky ground, it may take two hours’ work; in soft ground, perhaps only half an hour. Grant the soil equally good for the tree in each case. Then the value of the sapling planted by two hours’ work is nowise greater than that of the sapling planted in half an hour. One will bear no more fruit than the other. Also, one half-hour of work is as valuable as another half-hour; nevertheless the one sapling has cost four such pieces of work, the other only one. Now the proper statement of this fact is, not that the labour on the hard ground is cheaper than on the soft; but that the tree is dearer. The exchange value may, or may not, afterwards depend on this fact. If other people have plenty of soft ground to plant in, they will take no cognizance of our two hours’ labour, in the price they will offer for the plant on the rock. And if, through want of sufficient botanical science, we have planted an upas-tree instead of an apple, the exchange value will be a negative quantity; still less proportionate to the labour expended."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is commonly called cheapness of labour, signifies, therefore, in reality, that many obstacles have to be overcome by it; so that much labour is required to produce a small result. But this should never be spoken of as cheapness of labour, but as dearness of the object wrought for. It would be just as rational to say that walking was cheap, because we had ten miles to walk home to our dinner, as that labour was cheap, because we had to work ten hours to earn it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The last word which we have to define is “Production.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I have hitherto spoken of all labour as profitable; because it is impossible to consider under one head the quality or value of labour, and its aim. But labour of the best quality may be various in aim. It may be either constructive (“gathering,” from con and struo), as agriculture; nugatory, as jewel-cutting; or destructive (“scattering,” from de and struo), as war. It is not, however, always easy to prove labour, apparently nugatory, to be actually so;31 generally, the formula holds good, “he that gathereth not, scattereth”; thus, the jeweller’s art is probably very harmful in its ministering to a clumsy and inelegant pride. So that, finally, I believe nearly all labour may be shortly divided into positive and negative labour: positive, that which produces life; negative, that which produces death; the most directly negative labour being murder, and the most directly positive, the bearing and rearing of children: so that in the precise degree in which murder is hateful, on the negative side of idleness, in that exact degree child-rearing is admirable, on the positive side of idleness. For which reason, and because of the honour that there is in rearing32 children, while the wife is said to be as the vine (for cheering), the children are as the olive-branch, for praise; nor for praise only, but for peace (because large families can only be reared in times of peace): though since, in their spreading and voyaging in various directions, they distribute strength, they are, to the home strength, as arrows in the hand of the giant﻿—striking here and there, far away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Labour being thus various in its result, the prosperity of any nation is in exact proportion to the quantity of labour which it spends in obtaining and employing means of life. Observe﻿—I say, obtaining and employing; that is to say, not merely wisely producing, but wisely distributing and consuming. Economists usually speak as if there were no good in consumption absolute.33 So far from this being so, consumption absolute is the end, crown, and perfection of production; and wise consumption is a far more difficult art than wise production. Twenty people can gain money for one who can use it; and the vital question, for individual and for nation, is, never “how much do they make?” but “to what purpose do they spend?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The reader may, perhaps, have been surprised at the slight reference I have hitherto made to “capital,” and its functions. It is here the place to define them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capital signifies “head, or source, or root material”﻿—it is material by which some derivative or secondary good is produced. It is only capital proper (caput vivum, not caput mortuum) when it is thus producing something different from itself. It is a root, which does not enter into vital function till it produces something else than a root; namely, fruit. That fruit will in time again produce roots; and so all living capital issues in reproduction of capital; but capital which produces nothing but capital is only root producing root; bulb issuing in bulb, never in tulip; seed issuing in seed, never in bread. The Political Economy of Europe has hitherto devoted itself wholly to the multiplication, or (less even) the aggregation, of bulbs. It never saw, nor conceived such a thing as a tulip. Nay, boiled bulbs they might have been﻿—glass bulbs﻿—Prince Rupert’s drops, consummated in powder (well, if it were glass-powder and not gunpowder), for any end or meaning the economists had in defining the laws of aggregation. We will try and get a clearer notion of them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The best and simplest general type of capital is a well-made ploughshare. Now, if that ploughshare did nothing but beget other ploughshares, in a polypous manner﻿—however the great cluster of polypous plough might glitter in the sun, it would have lost its function of capital. It becomes true capital only by another kind of splendour﻿—when it is seen “splendescere sulco,” to grow bright in the furrow; rather with diminution of its substance, than addition, by the noble friction. And the true home question, to every capitalist and to every nation, is not, “how many ploughs have you?” but, “where are your furrows?” not﻿—“how quickly will this capital reproduce itself?”﻿—but, “what will it do during reproduction?” What substance will it furnish, good for life? what work construct, protective of life? if none, its own reproduction is useless﻿—if worse than none (for capital may destroy life as well as support it), its own reproduction is worse than useless; it is merely an advance from Tisiphone, on mortgage﻿—not a profit by any means."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not a profit, as the ancients truly saw, and showed in the type of Ixion;﻿—for capital is the head, or fountainhead, of wealth﻿—the “wellhead” of wealth, as the clouds are the wellheads of rain: but when clouds are without water, and only beget clouds, they issue in wrath at last, instead of rain, and in lightning instead of harvest; whence Ixion is said first to have invited his guests to a banquet, and then made them fall into a pit filled with fire; which is the type of the temptation of riches issuing in imprisoned torment﻿—torment in a pit (as also Demas’ silver mine), after which, to show the rage of riches passing from lust of pleasure to lust of power, yet power not truly understood, Ixion is said to have desired Juno, and instead, embracing a cloud (or phantasm), to have begotten the Centaurs; the power of mere wealth being, in itself, as the embrace of a shadow﻿—comfortless (so also “Ephraim feedeth on wind and followeth after the east wind”; or “that which is not”﻿—Prov. 23:5; and again Dante’s Geryon, the type of avaricious fraud, as he flies, gathers the air up with retractile claws﻿—“l’aer a se raccolse”34), but in its offspring, a mingling of the brutal with the human nature: human in sagacity﻿—using both intellect and arrow; but brutal in its body and hoof, for consuming, and trampling down. For which sin Ixion is at last bound upon a wheel﻿—fiery and toothed, and rolling perpetually in the air;﻿—the type of human labour when selfish and fruitless (kept far into the middle ages in their wheel of fortune); the wheel which has in it no breath or spirit, but is whirled by chance only; whereas of all true work the Ezekiel vision is true, that the Spirit of the living creature is in the wheels, and where the angels go, the wheels go by them; but move no otherwise."
+        },
+        {
+          "type": "paragraph",
+          "text": "This being the real nature of capital, it follows that there are two kinds of true production, always going on in an active State; one of seed, and one of food; or production for the Ground, and for the Mouth; both of which are by covetous persons thought to be production only for the granary; whereas the function of the granary is but intermediate and conservative, fulfilled in distribution; else it ends in nothing but mildew, and nourishment of rats and worms. And since production for the Ground is only useful with future hope of harvest, all essential production is for the Mouth; and is finally measured by the mouth; hence, as I said above, consumption is the crown of production; and the wealth of a nation is only to be estimated by what it consumes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The want of any clear sight of this fact is the capital error, issuing in rich interest and revenue of error among the political economists. Their minds are continually set on money-gain, not on mouth-gain; and they fall into every sort of net and snare, dazzled by the coin-glitter as birds by the fowler’s glass; or rather (for there is not much else like birds in them) they are like children trying to jump on the heads of their own shadows; the money-gain being only the shadow of the true gain, which is humanity."
+        },
+        {
+          "type": "paragraph",
+          "text": "The final object of political economy, therefore, is to get good method of consumption, and great quantity of consumption: in other words, to use everything, and to use it nobly; whether it be substance, service, or service perfecting substance. The most curious error in Mr. Mill’s entire work (provided for him originally by Ricardo) is his endeavour to distinguish between direct and indirect service, and consequent assertion that a demand for commodities is not demand for labour (I v 9, et seq.). He distinguishes between labourers employed to lay out pleasure grounds, and to manufacture velvet; declaring that it makes material difference to the labouring classes in which of these two ways a capitalist spends his money; because the employment of the gardeners is a demand for labour, but the purchase of velvet is not.35 Error colossal as well as strange. It will, indeed, make a difference to the labourer whether we bid him swing his scythe in the spring winds, or drive the loom in pestilential air; but, so far as his pocket is concerned, it makes to him absolutely no difference whether we order him to make green velvet, with seed and a scythe, or red velvet, with silk and scissors. Neither does it anywise concern him whether, when the velvet is made, we consume it by walking on it, or wearing it, so long as our consumption of it is wholly selfish. But if our consumption is to be in any wise unselfish, not only our mode of consuming the articles we require interests him, but also the kind of article we require with a view to consumption. As thus (returning for a moment to Mr. Mill’s great hardware theory36): it matters, so far as the labourer’s immediate profit is concerned, not an iron filing whether I employ him in growing a peach, or forging a bombshell; but my probable mode of consumption of those articles matters seriously. Admit that it is to be in both cases “unselfish,” and the difference, to him, is final, whether when his child is ill, I walk into his cottage and give it the peach, or drop the shell down his chimney, and blow his roof off."
+        },
+        {
+          "type": "paragraph",
+          "text": "The worst of it, for the peasant, is, that the capitalist’s consumption of the peach is apt to be selfish, and of the shell, distributive;37 but, in all cases, this is the broad and general fact, that on due catallactic commercial principles, somebody’s roof must go off in fulfilment of the bomb’s destiny. You may grow for your neighbour, at your liking, grapes or grapeshot; he will also, catallactically, grow grapes or grapeshot for you, and you will each reap what you have sown."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is, therefore, the manner and issue of consumption which are the real tests of production. Production does not consist in things laboriously made, but in things serviceably consumable; and the question for the nation is not how much labour it employs, but how much life it produces. For as consumption is the end and aim of production, so life is the end and aim of consumption."
+        },
+        {
+          "type": "paragraph",
+          "text": "I left this question to the reader’s thought two months ago, choosing rather that he should work it out for himself than have it sharply stated to him. But now, the ground being sufficiently broken (and the details into which the several questions, here opened, must lead us, being too complex for discussion in the pages of a periodical, so that I must pursue them elsewhere), I desire, in closing the series of introductory papers, to leave this one great fact clearly stated. There is no Wealth but Life. Life, including all its powers of love, of joy, and of admiration. That country is the richest which nourishes the greatest number of noble and happy human beings; that man is richest who, having perfected the functions of his own life to the utmost, has also the widest helpful influence, both personal and by means of his possessions, over the lives of others."
+        },
+        {
+          "type": "paragraph",
+          "text": "A strange political economy; the only one, nevertheless, that ever was or can be: all political economy founded on self-interest38 being but the fulfilment of that which once brought schism into the Policy of angels, and ruin into the Economy of Heaven."
+        },
+        {
+          "type": "paragraph",
+          "text": "“The greatest number of human beings noble and happy.” But is the nobleness consistent with the number? Yes, not only consistent with it, but essential to it. The maximum of life can only be reached by the maximum of virtue. In this respect the law of human population differs wholly from that of animal life. The multiplication of animals is checked only by want of food, and by the hostility of races; the population of the gnat is restrained by the hunger of the swallow, and that of the swallow by the scarcity of gnats. Man, considered as an animal, is indeed limited by the same laws: hunger, or plague, or war, are the necessary and only restraints upon his increase﻿—effectual restraints hitherto﻿—his principal study having been how most swiftly to destroy himself, or ravage his dwelling-places, and his highest skill directed to give range to the famine, seed to the plague, and sway to the sword. But, considered as other than an animal, his increase is not limited by these laws. It is limited only by the limits of his courage and his love. Both of these have their bounds; and ought to have: his race has its bounds also; but these have not yet been reached, nor will be reached for ages."
+        },
+        {
+          "type": "paragraph",
+          "text": "In all the ranges of human thought I know none so melancholy as the speculations of political economists on the population question. It is proposed to better the condition of the labourer by giving him higher wages. “Nay,” says the economist, “if you raise his wages, he will either drag people down to the same point of misery at which you found him, or drink your wages away.” He will. I know it. Who gave him this will? Suppose it were your own son of whom you spoke, declaring to me that you dared not take him into your firm, nor even give him his just labourer’s wages, because if you did, he would die of drunkenness, and leave half a score of children to the parish. “Who gave your son these dispositions?”﻿—I should inquire. Has he them by inheritance or by education? By one or other they must come; and as in him, so also in the poor. Either these poor are of a race essentially different from ours, and unredeemable (which, however often implied, I have heard none yet openly say), or else by such care as we have ourselves received, we may make them continent and sober as ourselves﻿—wise and dispassionate as we are﻿—models arduous of imitation. “But,” it is answered, “they cannot receive education.” Why not? That is precisely the point at issue. Charitable persons suppose the worst fault of the rich is to refuse the people meat; and the people cry for their meat, kept back by fraud, to the Lord of Multitudes.39 Alas! it is not meat of which the refusal is cruelest, or to which the claim is validest. The life is more than the meat. The rich not only refuse food to the poor; they refuse wisdom; they refuse virtue; they refuse salvation. Ye sheep without shepherd, it is not the pasture that has been shut from you, but the presence. Meat! perhaps your right to that may be pleadable; but other rights have to be pleaded first. Claim your crumbs from the table, if you will; but claim them as children, not as dogs; claim your right to be fed, but claim more loudly your right to be holy, perfect, and pure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strange words to be used of working people: “What! holy; without any long robes nor anointing oils; these rough-jacketed, rough-worded persons set to nameless and dishonoured service? Perfect!﻿—these, with dim eyes and cramped limbs, and slowly wakening minds? Pure!﻿—these, with sensual desire and grovelling thought; foul of body, and coarse of soul?” It may be so; nevertheless, such as they are, they are the holiest, perfectest, purest persons the earth can at present show. They may be what you have said; but if so, they yet are holier than we, who have left them thus."
+        },
+        {
+          "type": "paragraph",
+          "text": "But what can be done for them? Who can clothe﻿—who teach﻿—who restrain their multitudes? What end can there be for them at last, but to consume one another?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I hope for another end, though not, indeed, from any of the three remedies for overpopulation commonly suggested by economists."
+        },
+        {
+          "type": "paragraph",
+          "text": "These three are, in brief﻿—Colonization; Bringing in of waste lands; or Discouragement of Marriage."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first and second of these expedients merely evade or delay the question. It will, indeed, be long before the world has been all colonized, and its deserts all brought under cultivation. But the radical question is not how much habitable land is in the world, but how many human beings ought to be maintained on a given space of habitable land."
+        },
+        {
+          "type": "paragraph",
+          "text": "Observe, I say, ought to be, not how many can be. Ricardo, with his usual inaccuracy, defines what he calls the “natural rate of wages” as “that which will maintain the labourer.” Maintain him! yes; but how?﻿—the question was instantly thus asked of me by a working girl, to whom I read the passage. I will amplify her question for her. “Maintain him, how?” As, first, to what length of life? Out of a given number of fed persons how many are to be old﻿—how many young; that is to say, will you arrange their maintenance so as to kill them early﻿—say at thirty or thirty-five on the average, including deaths of weakly or ill-fed children?﻿—or so as to enable them to live out a natural life? You will feed a greater number, in the first case,40 by rapidity of succession; probably a happier number in the second: which does Mr. Ricardo mean to be their natural state, and to which state belongs the natural rate of wages?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Again: A piece of land which will only support ten idle, ignorant, and improvident persons, will support thirty or forty intelligent and industrious ones. Which of these is their natural state, and to which of them belongs the natural rate of wages?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Again: If a piece of land support forty persons in industrious ignorance; and if, tired of this ignorance, they set apart ten of their number to study the properties of cones, and the sizes of stars; the labour of these ten, being withdrawn from the ground, must either tend to the increase of food in some transitional manner, or the persons set apart for sidereal and conic purposes must starve, or someone else starve instead of them. What is, therefore, the natural rate of wages of the scientific persons, and how does this rate relate to, or measure, their reverted or transitional productiveness?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Again: If the ground maintains, at first, forty labourers in a peaceable and pious state of mind, but they become in a few years so quarrelsome and impious that they have to set apart five, to meditate upon and settle their disputes; ten, armed to the teeth with costly instruments, to enforce the decisions; and five to remind everybody in an eloquent manner of the existence of a God;﻿—what will be the result upon the general power of production, and what is the “natural rate of wages” of the meditative, muscular, and oracular labourers?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Leaving these questions to be discussed, or waived, at their pleasure, by Mr. Ricardo’s followers, I proceed to state the main facts bearing on that probable future of the labouring classes which has been partially glanced at by Mr. Mill. That chapter and the preceding one differ from the common writing of political economists in admitting some value in the aspect of nature, and expressing regret at the probability of the destruction of natural scenery. But we may spare our anxieties, on this head. Men can neither drink steam, nor eat stone. The maximum of population on a given space of land implies also the relative maximum of edible vegetable, whether for men or cattle; it implies a maximum of pure air; and of pure water. Therefore: a maximum of wood, to transmute the air, and of sloping ground, protected by herbage from the extreme heat of the sun, to feed the streams. All England may, if it so chooses, become one manufacturing town; and Englishmen, sacrificing themselves to the good of general humanity, may live diminished lives in the midst of noise, of darkness, and of deadly exhalation. But the world cannot become a factory, nor a mine. No amount of ingenuity will ever make iron digestible by the million, nor substitute hydrogen for wine. Neither the avarice nor the rage of men will ever feed them, and however the apple of Sodom and the grape of Gomorrah may spread their table for a time with dainties of ashes, and nectar of asps﻿—so long as men live by bread, the far away valleys must laugh as they are covered with the gold of God, and the shouts of His happy multitudes ring round the winepress and the well."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nor need our more sentimental economists fear the too wide spread of the formalities of a mechanical agriculture. The presence of a wise population implies the search for felicity as well as for food; nor can any population reach its maximum but through that wisdom which “rejoices” in the habitable parts of the earth. The desert has its appointed place and work; the eternal engine, whose beam is the earth’s axle, whose beat is its year, and whose breath is its ocean, will still divide imperiously to their desert kingdoms, bound with unfurrowable rock, and swept by unarrested sand, their powers of frost and fire: but the zones and lands between, habitable, will be loveliest in habitation. The desire of the heart is also the light of the eyes. No scene is continually and untiringly loved, but one rich by joyful human labour; smooth in field; fair in garden; full in orchard; trim, sweet, and frequent in homestead; ringing with voices of vivid existence. No air is sweet that is silent; it is only sweet when full of low currents of under sound﻿—triplets of birds, and murmur and chirp of insects, and deep-toned words of men, and wayward trebles of childhood. As the art of life is learned, it will be found at last that all lovely things are also necessary:﻿—the wild flower by the wayside, as well as the tended corn; and the wild birds and creatures of the forest, as well as the tended cattle; because man doth not live by bread only, but also by the desert manna; by every wondrous word and unknowable work of God. Happy, in that he knew them not, nor did his fathers know; and that round about him reaches yet into the infinite, the amazement of his existence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Note, finally, that all effectual advancement towards this true felicity of the human race must be by individual, not public effort. Certain general measures may aid, certain revised laws guide, such advancement; but the measure and law which have first to be determined are those of each man’s home. We continually hear it recommended by sagacious people to complaining neighbours (usually less well placed in the world than themselves), that they should “remain content in the station in which Providence has placed them.” There are perhaps some circumstances of life in which Providence has no intention that people should be content. Nevertheless, the maxim is on the whole a good one; but it is peculiarly for home use. That your neighbour should, or should not, remain content with his position, is not your business; but it is very much your business to remain content with your own. What is chiefly needed in England at the present day is to show the quantity of pleasure that may be obtained by a consistent, well-administered competence, modest, confessed, and laborious. We need examples of people who, leaving Heaven to decide whether they are to rise in the world, decide for themselves that they will be happy in it, and have resolved to seek﻿—not greater wealth, but simpler pleasure; not higher fortune, but deeper felicity; making the first of possessions, self-possession; and honouring themselves in the harmless pride and calm pursuits of peace."
+        },
+        {
+          "type": "paragraph",
+          "text": "Of which lowly peace it is written that “justice and peace have kissed each other”; and that the fruit of justice is “sown in peace of them that make peace”; not “peacemakers” in the common understanding﻿—reconcilers of quarrels; (though that function also follows on the greater one) but peace-Creators; Givers of Calm. Which you cannot give, unless you first gain; nor is this gain one which will follow assuredly on any course of business, commonly so called. No form of gain is less probable, business being (as is shown in the language of all nations﻿—πωλεῖν from πέλω, πρᾶσις from περάω, venire, vendre, and venal, from venio, etc.) essentially restless﻿—and probably contentious;﻿—having a raven-like mind to the motion to and fro, as to the carrion food; whereas the olive-feeding and bearing birds look for rest for their feet: thus it is said of Wisdom that she “hath builded her house, and hewn out her seven pillars”; and even when, though apt to wait long at the doorposts, she has to leave her house and go abroad, her paths are peace also."
+        },
+        {
+          "type": "paragraph",
+          "text": "For us, at all events, her work must begin at the entry of the doors: all true economy is “Law of the house.” Strive to make that law strict, simple, generous: waste nothing, and grudge nothing. Care in nowise to make more of money, but care to make much of it; remembering always the great, palpable, inevitable fact﻿—the rule and root of all economy﻿—that what one person has, another cannot have; and that every atom of substance, of whatever kind, used or consumed, is so much human life spent; which, if it issue in the saving present life, or gaining more, is well spent, but if not, is either so much life prevented, or so much slain. In all buying, consider, first, what condition of existence you cause in the producers of what you buy; secondly, whether the sum you have paid is just to the producer, and in due proportion lodged in his hands;41 thirdly, to how much clear use, for food, knowledge, or joy, this that you have bought can be put; and fourthly, to whom and in what way it can be most speedily and serviceably distributed: in all dealings whatsoever insisting on entire openness and stern fulfilment; and in all doings, on perfection and loveliness of accomplishment; especially on fineness and purity of all marketable commodity: watching at the same time for all ways of gaining, or teaching, powers of simple pleasure; and of showing “hoson en asphodelph geg honeiar”﻿—the sum of enjoyment depending not on the quantity of things tasted, but on the vivacity and patience of taste."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if, on due and honest thought over these things, it seems that the kind of existence to which men are now summoned by every plea of pity and claim of right, may, for some time at least, not be a luxurious one:﻿—consider whether, even, supposing it guiltless, luxury would be desired by any of us, if we saw clearly at our sides the suffering which accompanies it in the world. Luxury is indeed possible in the future﻿—innocent and exquisite: luxury for all, and by the help of all; but luxury at present can only be enjoyed by the ignorant; the cruelest man living could not sit at his feast, unless he sat blindfold. Raise the veil boldly; face the light; and if, as yet, the light of the eye can only be through tears, and the light of the body through sackcloth, go thou forth weeping, bearing precious seed, until the time come, and the kingdom, when Christ’s gift of bread, and bequest of peace shall be Unto this last as unto thee; and when, for earth’s severed multitudes of the wicked and the weary, there shall be holier reconciliation than that of the narrow home, and calm economy, where the Wicked cease﻿—not from trouble, but from troubling﻿—and the Weary are at rest."
+        }
+      ]
+    }
+  ]
+}

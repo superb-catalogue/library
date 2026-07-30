@@ -1,0 +1,40 @@
+{
+  "title": "Poetry",
+  "author": "James Joyce",
+  "identifier": "https://standardebooks.org/ebooks/james-joyce/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-joyce/poetry",
+    "published": "2021-10-11T22:29:37Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2817",
+    "https://www.google.com/books/edition/Chamber_Music/HPhaAAAAMAAJ",
+    "https://jjq.utulsa.edu/joyce-100-objects-gas-burner/",
+    "https://archive.org/details/pomespenyeachoth0000joyc",
+    "https://en.wikisource.org/wiki/Pomes_Penyeach"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-joyce/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "5ed15dd775a2836ebf96efdd9a46f19f55a112e25ee7a649c70a180c61f65cf9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 4293,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

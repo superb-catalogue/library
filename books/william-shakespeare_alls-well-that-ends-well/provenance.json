@@ -1,0 +1,44 @@
+{
+  "title": "All’s Well That Ends Well",
+  "author": "William Shakespeare",
+  "identifier": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well",
+    "published": "2021-10-18T21:15:48Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "http://shakespeare.mit.edu/allswell/full.html",
+    "https://catalog.hathitrust.org/Record/004135080",
+    "https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=allswell"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well"
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "a8d8d2549e62c3390810ad2b47401334b0d2e936f403120310f75d92ef51d2a5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 6,
+    "words": 22709,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "The Innocence of Father Brown",
+  "author": "G. K. Chesterton",
+  "identifier": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown",
+    "published": "2016-04-10T21:05:36Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/204",
+    "https://catalog.hathitrust.org/Record/000663081"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/g-k-chesterton/the-innocence-of-father-brown"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Father Brown",
+      "type": "series",
+      "position": "1"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "75"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "22ea1ab29bf14ee585be30231d3b019b86da241d1372b029fc006af99f9c86d2"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 78861,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

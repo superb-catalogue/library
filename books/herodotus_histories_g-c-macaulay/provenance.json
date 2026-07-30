@@ -1,0 +1,44 @@
+{
+  "title": "Histories",
+  "author": "Herodotus",
+  "identifier": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay",
+    "published": "2024-07-06T01:45:21Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2707",
+    "https://www.gutenberg.org/ebooks/2456",
+    "https://archive.org/details/historyofherodot0001geor_k1m8",
+    "https://archive.org/details/1914historyofhe02hero"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "2a9f9a0bbc3a77f5bff0e302a2a54472321b8d89fdf5143c086f835224ea7218"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 285073,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

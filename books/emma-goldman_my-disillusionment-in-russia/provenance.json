@@ -1,0 +1,40 @@
+{
+  "title": "My Disillusionment in Russia",
+  "author": "Emma Goldman",
+  "identifier": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia",
+    "published": "2022-01-05T03:31:26Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/60315",
+    "https://archive.org/details/in.ernet.dli.2015.74435",
+    "https://theanarchistlibrary.org/library/emma-goldman-my-further-disillusionment-in-russia",
+    "https://archive.org/details/in.ernet.dli.2015.58226"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/emma-goldman/my-disillusionment-in-russia"
+  },
+  "genre": "Memoir",
+  "genres": [
+    "Memoir",
+    "Nonfiction"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "8ebae86206b6630610df999e9c7180ebe91f9f572cfa73bf95cf79737350276c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 33,
+    "words": 81262,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

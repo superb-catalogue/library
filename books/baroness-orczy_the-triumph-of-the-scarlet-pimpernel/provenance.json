@@ -1,0 +1,44 @@
+{
+  "title": "The Triumph of the Scarlet Pimpernel",
+  "author": "Baroness Orczy",
+  "identifier": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel",
+    "published": "2021-01-17T02:19:42Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks06/0602601h.html",
+    "https://www.google.com/books/edition/The_Triumph_of_the_Scarlet_Pimpernel/JWeIDnx3LaAC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/baroness-orczy/the-triumph-of-the-scarlet-pimpernel"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Scarlet Pimpernel",
+      "type": "series",
+      "position": "14"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-scarlet-pimpernel-epub.zip",
+    "epub_sha256": "f0922956747fa407ac0a8e199707b334507d8766a28c8c203695f18148b2bdfd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 34,
+    "words": 90231,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Alice Adams",
+  "author": "Booth Tarkington",
+  "identifier": "https://standardebooks.org/ebooks/booth-tarkington/alice-adams",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/booth-tarkington/alice-adams",
+    "published": "2017-09-21T03:47:27Z",
+    "modified": "2026-07-06T20:52:44Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/980",
+    "https://catalog.hathitrust.org/Record/100541804"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/booth-tarkington/alice-adams"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Pulitzer Prize for Fiction Winners",
+      "type": "series",
+      "position": "4"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-pulitzer-prize-for-fiction-winners-epub.zip",
+    "epub_sha256": "c705c0c78be378c1bd891968d2c5f2d7a3a7f4167d00d5b7f5c0b3cca92dd420"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 25,
+    "words": 84498,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

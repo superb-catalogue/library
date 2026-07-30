@@ -71,6 +71,15 @@ This repository's own files — the scripts, the notes, this page — are MIT.
 The app is source-available: free to read, use, change and pass along, but not to
 sell. That is the app's licence and it does not reach the books here.
 
+## The shelf
+
+The whole thing, one row per book, is in [`LIBRARY.md`](LIBRARY.md) — sorted
+by category, with what each book is, who wrote it, and which other lists it
+turned up in. `CATEGORIES.md` says what the categories are and why.
+
 ## Status
 
-New, and mostly empty. The shape comes first, then the books.
+614 books, taken from Standard Ebooks' full catalogue as it stood in July
+2026, retypeset and de-duplicated by `scripts/ingest.py`. More arrive as
+Standard Ebooks publishes them and as Gutenberg titles are typeset by hand
+and added through the same path.

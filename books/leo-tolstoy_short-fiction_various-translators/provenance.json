@@ -1,0 +1,77 @@
+{
+  "title": "Short Fiction",
+  "author": "Leo Tolstoy",
+  "identifier": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators",
+    "published": "2021-04-27T00:44:58Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://archive.org/details/in.ernet.dli.2015.97297",
+    "https://catalog.hathitrust.org/Record/008634081",
+    "https://www.gutenberg.org/ebooks/41119",
+    "https://catalog.hathitrust.org/Record/101834927",
+    "https://catalog.hathitrust.org/Record/102113914",
+    "https://archive.org/details/in.ernet.dli.2015.149072",
+    "https://en.wikisource.org/wiki/Family_Happiness",
+    "https://www.mobileread.com/forums/showthread.php?t=279993",
+    "https://en.wikisource.org/wiki/The_Devil",
+    "https://catalog.hathitrust.org/Record/008973985",
+    "https://archive.org/details/completeworksofc12tols",
+    "https://www.gutenberg.org/ebooks/38025",
+    "https://archive.org/details/tolstoiforyoung00tols",
+    "https://www.gutenberg.org/ebooks/51708",
+    "https://en.wikisource.org/wiki/Twenty-three_Tales",
+    "https://archive.org/details/cihm_85206",
+    "https://archive.org/details/completeworksco02unkngoog",
+    "https://en.wikisource.org/wiki/Diary_of_a_Lunatic",
+    "https://archive.org/details/mastermanotherpa00tols",
+    "https://catalog.hathitrust.org/Record/007126104",
+    "https://www.gutenberg.org/ebooks/689",
+    "https://www.gutenberg.org/ebooks/985",
+    "https://archive.org/details/invadersothersto00tolsrich",
+    "https://www.gutenberg.org/ebooks/56797",
+    "https://catalog.hathitrust.org/Record/011726151",
+    "https://catalog.hathitrust.org/Record/007124838",
+    "https://www.gutenberg.org/ebooks/243",
+    "https://archive.org/details/in.ernet.dli.2015.41079",
+    "https://www.gutenberg.org/ebooks/986",
+    "https://archive.org/details/opencourt_jun1903caru",
+    "https://archive.org/details/cu31924027448483",
+    "https://www.gutenberg.org/ebooks/51018"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/leo-tolstoy/short-fiction/various-translators"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    },
+    {
+      "name": "Harvard Classics Shelf of Fiction",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "bf55d454294c307941cbf66d43c91af0dbd111e082729dfd780f5220f09aa773"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 94,
+    "words": 649277,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

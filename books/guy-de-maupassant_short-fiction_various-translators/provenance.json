@@ -1,0 +1,67 @@
+{
+  "title": "Short Fiction",
+  "author": "Guy de Maupassant",
+  "identifier": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators",
+    "published": "2022-10-31T22:07:43Z",
+    "modified": "2026-07-12T18:20:12Z"
+  },
+  "made_from": [
+    "https://archive.org/details/sim_fortnightly_1888-03-01_43_255",
+    "https://books.google.com/books?id=wJY4AQAAIAAJ",
+    "https://books.google.com/books?id=9pY4AQAAIAAJ",
+    "https://books.google.com/books?id=PJc4AQAAIAAJ",
+    "https://books.google.com/books?id=6pc4AQAAIAAJ",
+    "https://books.google.com/books?id=R5g4AQAAIAAJ",
+    "https://books.google.com/books?id=LZk4AQAAIAAJ",
+    "https://books.google.com/books?id=e5k4AQAAIAAJ",
+    "https://books.google.com/books?id=35k4AQAAIAAJ",
+    "https://books.google.com/books?id=W5o4AQAAIAAJ",
+    "https://books.google.com/books?id=jp04AQAAIAAJ",
+    "https://books.google.com/books?id=6504AQAAIAAJ",
+    "https://books.google.com/books?id=YJ44AQAAIAAJ",
+    "https://books.google.com/books?id=nHZEAAAAIAAJ",
+    "https://books.google.com/books?id=VMRcAAAAMAAJ",
+    "https://catalog.hathitrust.org/Record/001213466",
+    "https://catalog.hathitrust.org/Record/101925686",
+    "https://catalog.hathitrust.org/Record/011254238",
+    "https://catalog.hathitrust.org/Record/100643388",
+    "https://catalog.hathitrust.org/Record/100708703",
+    "https://archive.org/details/completewritings02mussiala",
+    "https://archive.org/details/in.ernet.dli.2015.459801"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/various-translators"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    },
+    {
+      "name": "Harvard Classics Shelf of Fiction",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "202c67fba6703db76f0fc46571a55222d586c815af95c8edf4038ee218429dae"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 278,
+    "words": 805812,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Poetry",
+  "author": "Frances Ellen Watkins Harper",
+  "identifier": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry",
+    "published": "2024-08-29T18:16:49Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-on-miscellaneous-subjects-1857",
+    "https://archive.org/details/poemsonmiscellan00harp",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-1871",
+    "https://archive.org/details/poems01harp",
+    "https://www.gutenberg.org/ebooks/69249",
+    "https://catalog.hathitrust.org/Record/007491600",
+    "https://www.gutenberg.org/ebooks/69248",
+    "https://catalog.hathitrust.org/Record/100774124",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-full-text-1895",
+    "https://catalog.hathitrust.org/Record/100488369",
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-idylls-of-the-bible-1901",
+    "https://catalog.hathitrust.org/Record/100319488",
+    "https://archive.org/details/historyofafrican00payn",
+    "https://archive.org/details/WeeklyAngloAfricanI",
+    "https://archive.org/details/sim_liberator_1858-05-14_28_20",
+    "https://catalog.hathitrust.org/Record/000500702",
+    "https://archive.org/details/undergroundrailr00stil",
+    "https://archive.org/details/frances-ellen-watkins-harper_sketches-of-southern-life-1872",
+    "https://archive.org/details/25th-annual-report-of-the-board-of-managers-of-the-home-etc",
+    "https://archive.org/details/frances-ellen-watkins-harper_light-beyond-the-darkness",
+    "https://archive.org/details/ame-church-review-1900-04"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/frances-ellen-watkins-harper/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "e709544ec6a0608eb09b9f92f01802e00d5790e2a55e316b1da3908e19ba533e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 123,
+    "words": 40648,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

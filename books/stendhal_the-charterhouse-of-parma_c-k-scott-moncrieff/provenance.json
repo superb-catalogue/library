@@ -1,0 +1,45 @@
+{
+  "title": "The Charterhouse of Parma",
+  "author": "Stendhal",
+  "identifier": "https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff",
+    "published": "2025-01-14T20:27:02Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/66374",
+    "https://www.gutenberg.org/ebooks/66375",
+    "https://www.google.com/books/edition/The_Charterhouse_of_Parma/8O5JAQAAIAAJ",
+    "https://www.google.com/books/edition/The_Charterhouse_of_Parma/W7yd2tLNOYQC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/stendhal/the-charterhouse-of-parma/c-k-scott-moncrieff"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "13"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
+    "epub_sha256": "62df4e4a72fc0b423d3d7772a6ebdc57d4f10caaa41de847b410d66647eb70aa"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 28,
+    "words": 199235,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

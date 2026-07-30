@@ -1,0 +1,42 @@
+{
+  "title": "Timon of Athens",
+  "author": "William Shakespeare",
+  "identifier": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens",
+    "published": "2022-02-28T20:36:22Z",
+    "modified": "2026-06-30T02:48:56Z"
+  },
+  "made_from": [
+    "http://shakespeare.mit.edu/timon/full.html",
+    "https://catalog.hathitrust.org/Record/004135080"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-shakespeare/timon-of-athens"
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "fb919d16cf360f3f80861aba0db29410924ec06e22eeb825b73701ac0b56516d"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 18599,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

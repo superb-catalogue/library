@@ -1,0 +1,44 @@
+{
+  "title": "The Turn of the Screw",
+  "author": "Henry James",
+  "identifier": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/209",
+    "https://archive.org/details/turnofthescrew00jamerich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Horror"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "88"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-best-novels-of-all-time-2026-epub.zip",
+    "epub_sha256": "5a5d0805121ab504807cd659fa5d9e1a75c111f8b9defe41ec7e23b2e490f388"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 25,
+    "words": 42240,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

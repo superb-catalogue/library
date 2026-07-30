@@ -1,0 +1,53 @@
+{
+  "title": "Of Human Bondage",
+  "author": "W. Somerset Maugham",
+  "identifier": "https://standardebooks.org/ebooks/w-somerset-maugham/of-human-bondage",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/w-somerset-maugham/of-human-bondage",
+    "published": "2018-03-29T20:48:55Z",
+    "modified": "2026-06-30T02:48:56Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/351",
+    "https://books.google.com/books?id=aQCrAAAAIAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/w-somerset-maugham/of-human-bondage"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Modern Library’s 100 Best Novels",
+      "type": "set",
+      "position": "66"
+    },
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "44"
+    },
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "77"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-modern-librarys-100-best-novels-epub.zip",
+    "epub_sha256": "29e315bc1c3870e17302ebbf918eaccc9cea4c6710920cb9b895e9c5977b9a06"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 122,
+    "words": 259467,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Call Mr. Fortune",
+  "author": "H. C. Bailey",
+  "identifier": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune",
+    "published": "2024-03-15T18:29:43Z",
+    "modified": "2026-07-06T20:53:03Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/59653",
+    "https://archive.org/details/callmrfortune00bailgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-c-bailey/call-mr-fortune"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Reggie Fortune",
+      "type": "series",
+      "position": "1"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "333ab4b8ab9a0a49a9786f5d6242ad5823e7817d8b1883bcabe6db50c491f716"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 6,
+    "words": 53567,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

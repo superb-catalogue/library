@@ -1,0 +1,42 @@
+{
+  "title": "Poetry",
+  "author": "Edgar Allan Poe",
+  "identifier": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry",
+    "published": "2023-05-30T18:39:29Z",
+    "modified": "2026-06-30T03:19:45Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2151",
+    "https://en.wikisource.org/wiki/An_Acrostic",
+    "https://en.wikisource.org/wiki/Elizabeth_(Poe)",
+    "https://en.wikisource.org/wiki/Serenade_(Poe)",
+    "https://archive.org/details/worksedgarallan00unkngoog",
+    "https://archive.org/details/cu31924019520810",
+    "https://archive.org/details/jstor-2915307"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edgar-allan-poe/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "37e2c0041f8f883db8fa42b38e81cf2b622cfc56038cd79b8c2c2d40b7fdfbbd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 53,
+    "words": 15198,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

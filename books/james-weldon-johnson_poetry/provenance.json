@@ -1,0 +1,40 @@
+{
+  "title": "Poetry",
+  "author": "James Weldon Johnson",
+  "identifier": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry",
+    "published": "2021-02-07T22:17:09Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.google.com/books/edition/How_the_National_Association_for_the_Adv/AAs-AQAAMAAJ",
+    "https://www.gutenberg.org/ebooks/17884",
+    "https://archive.org/details/fiftyyearsother00johnrich",
+    "https://docsouth.unc.edu/southlit/johnson/johnson.html",
+    "https://archive.org/details/godstrombonessev00johnso"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-weldon-johnson/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "b65bda3930773277ccdc1e1ffdb30d4278900ddd26b190895101a6e4130f5094"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 66,
+    "words": 17751,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

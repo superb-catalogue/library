@@ -1,0 +1,42 @@
+{
+  "title": "The Pickwick Papers",
+  "author": "Charles Dickens",
+  "identifier": "https://standardebooks.org/ebooks/charles-dickens/the-pickwick-papers",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-dickens/the-pickwick-papers",
+    "published": "2024-10-02T00:05:08Z",
+    "modified": "2026-07-14T15:29:44Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/580",
+    "https://archive.org/details/posthumouspapers00dick_1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-dickens/the-pickwick-papers"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "5d6b6c282789b0bf83c9cfb07e507187c8f9adc60e2eb26c66834a67458ab71e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 57,
+    "words": 298140,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

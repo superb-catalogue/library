@@ -1,0 +1,37 @@
+{
+  "title": "Bulfinch’s Mythology",
+  "author": "Thomas Bulfinch",
+  "identifier": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology",
+    "published": "2019-07-12T21:12:52Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/56644",
+    "https://archive.org/details/bulfinchsmytholo1913bulf"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-bulfinch/bulfinchs-mythology"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "3b221d6fafa6f45ee318fb0f0331b650dbf7f49c19c9d62545919bb158c29635"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 112,
+    "words": 311479,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

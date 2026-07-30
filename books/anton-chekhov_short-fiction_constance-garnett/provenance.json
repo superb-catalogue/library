@@ -1,0 +1,55 @@
+{
+  "title": "Short Fiction",
+  "author": "Anton Chekhov",
+  "identifier": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/13416",
+    "https://www.gutenberg.org/ebooks/13505",
+    "https://www.gutenberg.org/ebooks/13415",
+    "https://www.gutenberg.org/ebooks/13413",
+    "https://www.gutenberg.org/ebooks/1883",
+    "https://www.gutenberg.org/ebooks/1944",
+    "https://www.gutenberg.org/ebooks/13419",
+    "https://www.gutenberg.org/ebooks/13418",
+    "https://www.gutenberg.org/ebooks/1732",
+    "https://www.gutenberg.org/ebooks/13409",
+    "https://www.gutenberg.org/ebooks/13412",
+    "https://www.gutenberg.org/ebooks/13417",
+    "https://www.gutenberg.org/ebooks/13414",
+    "https://catalog.hathitrust.org/Record/100025935"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Gateway to the Great Books",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "epub_sha256": "159e851017cdcee19805f7ee3b592f63bd76b4376f34e3eec41e7423832157d4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 192,
+    "words": 796496,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

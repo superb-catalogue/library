@@ -1,0 +1,51 @@
+{
+  "title": "Dangerous Liaisons",
+  "author": "Pierre Choderlos de Laclos",
+  "identifier": "https://standardebooks.org/ebooks/pierre-choderlos-de-laclos/dangerous-liaisons/thomas-moore",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/pierre-choderlos-de-laclos/dangerous-liaisons/thomas-moore",
+    "published": "2022-01-25T21:51:44Z",
+    "modified": "2026-07-14T15:31:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/45512",
+    "https://archive.org/details/dangerousconnec00laclgoog",
+    "https://archive.org/details/DangerousConnectionsVol.3",
+    "https://archive.org/details/DangerousConnectionsVol.4Part1",
+    "https://archive.org/details/DangerousConnectionsVol.4Part2"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/pierre-choderlos-de-laclos/dangerous-liaisons/thomas-moore"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "29"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "8"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
+    "epub_sha256": "88aefa69faaeb6d738a46097e7562a858011059db8b270685441ae86635e39b0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 176,
+    "words": 136047,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

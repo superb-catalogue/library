@@ -1,0 +1,69 @@
+{
+  "title": "Shorts from Scenes from Private Life",
+  "author": "Honoré de Balzac",
+  "identifier": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators",
+    "published": "2023-08-14T17:58:54Z",
+    "modified": "2026-06-30T03:19:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1680",
+    "https://www.gutenberg.org/ebooks/1305",
+    "https://www.gutenberg.org/ebooks/1196",
+    "https://www.gutenberg.org/ebooks/1810",
+    "https://www.gutenberg.org/ebooks/1411",
+    "https://www.gutenberg.org/ebooks/1189",
+    "https://www.gutenberg.org/ebooks/1710",
+    "https://www.gutenberg.org/ebooks/1428",
+    "https://www.gutenberg.org/ebooks/1729",
+    "https://www.gutenberg.org/ebooks/1683",
+    "https://www.gutenberg.org/ebooks/1389",
+    "https://www.gutenberg.org/ebooks/1954",
+    "https://www.gutenberg.org/ebooks/1220",
+    "https://www.gutenberg.org/ebooks/1410",
+    "https://www.gutenberg.org/ebooks/1714",
+    "https://archive.org/details/TheWorksOfHonoreDeBalzacVolI",
+    "https://archive.org/details/worksofhonorde05balzuoft",
+    "https://archive.org/details/worksofhonorde07balzuoft",
+    "https://archive.org/details/worksofhonorde08balzuoft",
+    "https://archive.org/details/daughterofevelet00balziala",
+    "https://archive.org/details/worksofhonorde11balzuoft",
+    "https://archive.org/details/worksofhonorde12balzuoft",
+    "https://archive.org/details/worksofhonorde14balzuoft",
+    "https://archive.org/details/worksofhonorde18balzuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/honore-de-balzac/shorts-from-scenes-from-private-life/various-translators"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Human Comedy",
+      "type": "series"
+    },
+    {
+      "name": "The Human Comedy: Scenes from Private Life",
+      "type": "series"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-human-comedy-epub.zip",
+    "epub_sha256": "713708c2f09582541297e030abe86c1b9b59f6116c2887e404c9e9e87965b392"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 20,
+    "words": 322372,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

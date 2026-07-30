@@ -1,0 +1,37 @@
+{
+  "title": "Women and Economics",
+  "author": "Charlotte Perkins Gilman",
+  "identifier": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics",
+    "published": "2021-03-21T01:15:44Z",
+    "modified": "2026-07-14T15:29:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/57913",
+    "https://archive.org/details/womeneconomicsst00gilmuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics"
+  },
+  "genre": "Philosophy",
+  "genres": [
+    "Philosophy"
+  ],
+  "category": "Philosophy",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-philosophy-epub.zip",
+    "epub_sha256": "b8d249a98e4df0e73296d75cb76c70351f77817107e16e17077e74970f398fee"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 15,
+    "words": 71732,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

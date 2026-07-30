@@ -1,0 +1,53 @@
+{
+  "title": "Sybil",
+  "author": "Benjamin Disraeli",
+  "identifier": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil",
+    "published": "2018-09-07T22:16:36Z",
+    "modified": "2026-07-14T15:29:34Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/3760",
+    "https://books.google.com.au/books?id=r99FAAAAcAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "11"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "15"
+    },
+    {
+      "name": "Young England Trilogy",
+      "type": "set",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
+    "epub_sha256": "61c92dacce13a164c96d8de3388a3a28ab48e64446ffb964a5a3eb659d3db471"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 77,
+    "words": 157504,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

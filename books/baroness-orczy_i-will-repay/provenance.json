@@ -1,0 +1,44 @@
+{
+  "title": "I Will Repay",
+  "author": "Baroness Orczy",
+  "identifier": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay",
+    "published": "2020-12-05T23:58:26Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/5090",
+    "https://archive.org/details/iwillrepayaroma00orczgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/baroness-orczy/i-will-repay"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Scarlet Pimpernel",
+      "type": "series",
+      "position": "8"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-scarlet-pimpernel-epub.zip",
+    "epub_sha256": "9b1d0e31cd7f555725d565e22f66f098bc705f8117772aea30d3a963d7b43816"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 31,
+    "words": 63514,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

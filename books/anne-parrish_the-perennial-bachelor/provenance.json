@@ -1,0 +1,43 @@
+{
+  "title": "The Perennial Bachelor",
+  "author": "Anne Parrish",
+  "identifier": "https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor",
+    "published": "2026-04-22T03:36:34Z",
+    "modified": "2026-07-06T20:52:41Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20140612",
+    "https://archive.org/details/bwb_W9-BDU-630"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anne-parrish/the-perennial-bachelor"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Harper Novel Prize Winners",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-harper-novel-prize-winners-epub.zip",
+    "epub_sha256": "da7adb79c1513a76298a991f16e7503ee071d7b29dfc3491814a5105169e28b7"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 33,
+    "words": 72680,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "The Mind of Mr. J. G. Reeder",
+  "author": "Edgar Wallace",
+  "identifier": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder",
+    "published": "2023-08-03T16:05:37Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks02/0200891h.html",
+    "https://archive.org/details/mindofmrjgreeder0000wall"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edgar-wallace/the-mind-of-mr-j-g-reeder"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "J. G. Reeder",
+      "type": "series",
+      "position": "2"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "43c2f9ee7afa97cc53b9c9029ea9bd17e3c7040386ac524c33c88cc3fa3370ff"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 8,
+    "words": 46055,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

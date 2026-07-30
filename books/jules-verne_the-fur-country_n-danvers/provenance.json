@@ -1,0 +1,44 @@
+{
+  "title": "The Fur Country",
+  "author": "Jules Verne",
+  "identifier": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers",
+    "published": "2025-03-04T03:35:37Z",
+    "modified": "2026-07-14T15:31:14Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/8991",
+    "https://archive.org/details/furcountryorseve00vernuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Voyages Extraordinaires",
+      "type": "series",
+      "position": "10"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-voyages-extraordinaires-epub.zip",
+    "epub_sha256": "ef68c9988dbf463cc63cbc9a0bf58aea8b884f6a12a4b2144cb6fb389cdf922e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 49,
+    "words": 124264,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

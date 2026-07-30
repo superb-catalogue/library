@@ -1,0 +1,40 @@
+{
+  "title": "The Worst Journey in the World",
+  "author": "Apsley Cherry-Garrard",
+  "identifier": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-07-14T15:29:29Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/14363",
+    "https://archive.org/details/worstjourneyinwo01",
+    "https://archive.org/details/worstjourneyinwo02"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/apsley-cherry-garrard/the-worst-journey-in-the-world"
+  },
+  "genre": "Memoir",
+  "genres": [
+    "Memoir",
+    "Nonfiction",
+    "Travel"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "2dbc20013647c4afef0bc02f0733e68ed06b657b6de322ce1323aba1d86d0d3c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 219752,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Genealogy of Morals",
+  "author": "Friedrich Nietzsche",
+  "identifier": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel",
+    "published": "2023-10-09T20:05:09Z",
+    "modified": "2026-07-14T15:30:09Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/52319",
+    "https://archive.org/details/cu31924021569201"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/friedrich-nietzsche/the-genealogy-of-morals/horace-b-samuel"
+  },
+  "genre": "Philosophy",
+  "genres": [
+    "Philosophy"
+  ],
+  "category": "Philosophy",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-philosophy-epub.zip",
+    "epub_sha256": "715a134b65ea4206869f66c4d35d3e6ba0f97bcecfd2db57714ec48dbbfb0551"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 48789,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

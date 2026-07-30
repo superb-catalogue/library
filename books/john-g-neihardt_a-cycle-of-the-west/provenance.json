@@ -1,0 +1,40 @@
+{
+  "title": "A Cycle of the West",
+  "author": "John G. Neihardt",
+  "identifier": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west",
+    "published": "2024-05-10T02:30:09Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://archive.org/details/songthree00neihrich",
+    "https://catalog.hathitrust.org/Record/000673224",
+    "https://www.gutenberg.org/ebooks/53667",
+    "https://archive.org/details/songofhughglass00neih",
+    "https://archive.org/details/bp_574832"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/john-g-neihardt/a-cycle-of-the-west"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "56fd8144187992e2d5464e048a7681eb7f17b753d6e1afc22c4c84fed888d39f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 86109,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

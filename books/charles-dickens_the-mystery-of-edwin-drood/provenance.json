@@ -1,0 +1,48 @@
+{
+  "title": "The Mystery of Edwin Drood",
+  "author": "Charles Dickens",
+  "identifier": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood",
+    "published": "2026-07-13T01:22:36Z",
+    "modified": "2026-07-13T01:33:26Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/564",
+    "https://archive.org/details/mysteryofedwindr00dickrich",
+    "https://archive.org/details/in.ernet.dli.2015.225977"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-dickens/the-mystery-of-edwin-drood"
+  },
+  "genre": "Mystery",
+  "genres": [
+    "Mystery"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "47"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "c1786038fd3d3a2b708fd01eeaacc864d1c33d215aa7a04872e70cdf1d301cc5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 23,
+    "words": 93793,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

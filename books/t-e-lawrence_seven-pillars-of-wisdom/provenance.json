@@ -1,0 +1,40 @@
+{
+  "title": "Seven Pillars of Wisdom",
+  "author": "T. E. Lawrence",
+  "identifier": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom",
+    "published": "2022-01-01T22:32:49Z",
+    "modified": "2026-06-30T03:19:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks01/0100111h.html",
+    "https://www.loc.gov/resource/rbc0001.2017rosen2254",
+    "https://archive.org/details/sevenpillarsofwi0000unse_t7h3"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Memoir",
+    "Nonfiction"
+  ],
+  "category": "Adventure",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "981157bf4c196b5c705e0990964735945f69eb10d0a757a84faaf9a56c8e502a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 133,
+    "words": 249552,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

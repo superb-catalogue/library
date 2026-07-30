@@ -1,0 +1,70 @@
+{
+  "title": "Poetry",
+  "author": "Ring Lardner",
+  "identifier": "https://standardebooks.org/ebooks/ring-lardner/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ring-lardner/poetry",
+    "published": "2025-11-05T20:36:31Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/25961",
+    "https://archive.org/details/cu31924021755669",
+    "https://archive.org/details/the-niles-daily-star-1901-06-14-1",
+    "https://archive.org/details/per_chicago-daily-tribune_1913-06-03_72_132",
+    "https://archive.org/details/per_chicago-daily-tribune_1913-06-20_72_147",
+    "https://archive.org/details/per_chicago-daily-tribune_1913-06-23_72_149",
+    "https://archive.org/details/per_chicago-daily-tribune_1913-07-02_72_157",
+    "https://archive.org/details/per_chicago-daily-tribune_1913-08-02_72_184",
+    "https://archive.org/details/per_chicago-daily-tribune_1914-02-27_73_50",
+    "https://archive.org/details/per_chicago-daily-tribune_1916-07-22_75_175",
+    "https://archive.org/details/per_chicago-daily-tribune_1914-06-01_73_129",
+    "https://archive.org/details/per_chicago-daily-tribune_1914-06-06_73_134",
+    "https://archive.org/details/per_chicago-daily-tribune_1914-11-21_73_278",
+    "https://archive.org/details/per_chicago-daily-tribune_1914-12-15_73_298",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-04-19_74_93",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-08-05_74_186",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-08-23_74_201",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-08-30_74_207",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-09-06_74_213",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-09-20_74_225",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-09-27_74_231",
+    "https://archive.org/details/per_chicago-daily-tribune_1915-10-04_74_237",
+    "https://archive.org/details/per_chicago-daily-tribune_1916-02-09_75_34",
+    "https://archive.org/details/per_chicago-daily-tribune_1916-11-18_75_277",
+    "https://archive.org/details/per_chicago-daily-tribune_1917-01-09_76_8",
+    "https://archive.org/details/per_chicago-daily-tribune_1918-02-14_77_39",
+    "https://archive.org/details/per_chicago-daily-tribune_1918-12-10_77_295",
+    "https://archive.org/details/bub_gb_HIE2AQAAMAAJ",
+    "https://archive.org/details/st-francis-lobbyist-lardner",
+    "https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-09_73_3",
+    "https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-11_73_5",
+    "https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-12_73_6",
+    "https://archive.org/details/boston-evening-globe-1924-02-23-1",
+    "https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9",
+    "https://archive.org/details/the-atlanta-journal-1929-01-16-1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ring-lardner/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "f0248adc8ea2f86afdaf57acdbe4afffac7e9209be36106f29c7104867654872"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 15761,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

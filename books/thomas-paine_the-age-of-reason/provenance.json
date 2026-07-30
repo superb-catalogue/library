@@ -1,0 +1,39 @@
+{
+  "title": "The Age of Reason",
+  "author": "Thomas Paine",
+  "identifier": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason",
+    "published": "2021-04-29T19:14:01Z",
+    "modified": "2026-07-14T15:32:13Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/3743",
+    "https://books.google.com/books?id=wZ8rAQAAMAAJ",
+    "https://books.google.com/books?id=LXVYF8vi0o4C",
+    "https://books.google.com/books?id=knx2l2xUgWkC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-paine/the-age-of-reason"
+  },
+  "genre": "Philosophy",
+  "genres": [
+    "Philosophy"
+  ],
+  "category": "Philosophy",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-philosophy-epub.zip",
+    "epub_sha256": "a1ec30d443f393cf9c509967885dcf3d4eb84caeb1348fa97dafb3d2923db6bc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 30,
+    "words": 81949,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

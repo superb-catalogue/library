@@ -1,0 +1,38 @@
+{
+  "title": "Twelve Years a Slave",
+  "author": "Solomon Northup",
+  "identifier": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave",
+    "published": "2021-04-07T19:45:28Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/45631",
+    "https://archive.org/details/twelveyearsslave00nort"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/solomon-northup/twelve-years-a-slave"
+  },
+  "genre": "Memoir",
+  "genres": [
+    "Memoir",
+    "Nonfiction"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "9f35b151983031853b7962a89b386225d9b4715649f0f45e85542b7d6eddd068"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 22,
+    "words": 75950,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

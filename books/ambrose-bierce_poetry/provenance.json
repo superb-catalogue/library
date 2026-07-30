@@ -1,0 +1,46 @@
+{
+  "title": "Poetry",
+  "author": "Ambrose Bierce",
+  "identifier": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ambrose-bierce/poetry",
+    "published": "2022-09-26T19:15:51Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/4793",
+    "https://www.gutenberg.org/ebooks/12658",
+    "https://www.gutenberg.org/ebooks/12977",
+    "https://www.gutenberg.org/ebooks/15599",
+    "https://archive.org/details/collectedworksof04bierrich",
+    "https://archive.org/details/collectedworksof05bierrich",
+    "https://archive.org/details/collectedworksof08bierrich",
+    "https://archive.org/details/shapesofclay00bier",
+    "https://archive.org/details/blackbeetlesinam00bier",
+    "https://archive.org/details/literarycalifor05mighgoog",
+    "https://archive.org/details/cali07webb"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ambrose-bierce/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "e58c89472d6ad73227192deb10b86f1445c0130f548ef55ac606d70c80c08402"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 11,
+    "words": 118972,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

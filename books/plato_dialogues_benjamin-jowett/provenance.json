@@ -1,0 +1,75 @@
+{
+  "title": "Dialogues",
+  "author": "Plato",
+  "identifier": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett",
+    "published": "2022-06-25T16:13:45Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1676",
+    "https://www.gutenberg.org/ebooks/1677",
+    "https://www.gutenberg.org/ebooks/1656",
+    "https://www.gutenberg.org/ebooks/1580",
+    "https://www.gutenberg.org/ebooks/1616",
+    "https://www.gutenberg.org/ebooks/1571",
+    "https://www.gutenberg.org/ebooks/1657",
+    "https://www.gutenberg.org/ebooks/1681",
+    "https://www.gutenberg.org/ebooks/1598",
+    "https://www.gutenberg.org/ebooks/1642",
+    "https://www.gutenberg.org/ebooks/1672",
+    "https://www.gutenberg.org/ebooks/1635",
+    "https://www.gutenberg.org/ebooks/1584",
+    "https://www.gutenberg.org/ebooks/1750",
+    "https://www.gutenberg.org/ebooks/1673",
+    "https://www.gutenberg.org/ebooks/1579",
+    "https://www.gutenberg.org/ebooks/1682",
+    "https://www.gutenberg.org/ebooks/1643",
+    "https://www.gutenberg.org/ebooks/1687",
+    "https://www.gutenberg.org/ebooks/1658",
+    "https://www.gutenberg.org/ebooks/1636",
+    "https://www.gutenberg.org/ebooks/1744",
+    "https://www.gutenberg.org/ebooks/1591",
+    "https://www.gutenberg.org/ebooks/1497",
+    "https://www.gutenberg.org/ebooks/1735",
+    "https://www.gutenberg.org/ebooks/1738",
+    "https://www.gutenberg.org/ebooks/1600",
+    "https://www.gutenberg.org/ebooks/1726",
+    "https://www.gutenberg.org/ebooks/1572",
+    "https://archive.org/details/b24750189_0001",
+    "https://archive.org/details/b24750189_0002",
+    "https://archive.org/details/b24750189_0003",
+    "https://archive.org/details/b24750189_0004",
+    "https://archive.org/details/b24750189_0005",
+    "https://oll.libertyfund.org/title/plato-the-dialogues-of-plato-in-5-vols-jowett-ed"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett"
+  },
+  "genre": "Philosophy",
+  "genres": [
+    "Philosophy"
+  ],
+  "category": "Philosophy",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "f1926a609dace3d02458249e69901e3ef798c60d0916195682981decde77d3aa"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 24,
+    "words": 1109631,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

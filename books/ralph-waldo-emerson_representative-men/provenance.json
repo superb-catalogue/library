@@ -1,0 +1,37 @@
+{
+  "title": "Representative Men",
+  "author": "Ralph Waldo Emerson",
+  "identifier": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men",
+    "published": "2025-03-05T03:47:14Z",
+    "modified": "2026-07-14T15:31:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6312",
+    "https://archive.org/details/representativeme0000ralp_h9j4"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "cac8dd3ade066ac5331fdf7a64b963860ef9f722986c283c0444c093b4d709df"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 57786,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

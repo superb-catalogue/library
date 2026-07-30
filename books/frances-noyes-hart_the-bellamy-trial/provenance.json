@@ -1,0 +1,43 @@
+{
+  "title": "The Bellamy Trial",
+  "author": "Frances Noyes Hart",
+  "identifier": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial",
+    "published": "2025-06-16T18:51:24Z",
+    "modified": "2026-07-07T18:27:40Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20120315",
+    "https://catalog.hathitrust.org/Record/006533871"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/frances-noyes-hart/the-bellamy-trial"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "1feb48e689c180279188a6d219025997b216532178d33900365a2726f0ebb467"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 8,
+    "words": 108290,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Candide",
+  "author": "Voltaire",
+  "identifier": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-07-14T15:32:17Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/19942",
+    "https://archive.org/details/Candide_887"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/voltaire/candide/the-modern-library"
+  },
+  "genre": "Satire",
+  "genres": [
+    "Satire"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "6c9517d830697ebc53f6de07b55851e6f31312d56dc1684644a7af464a51071c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 30,
+    "words": 32586,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

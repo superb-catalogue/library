@@ -1,0 +1,47 @@
+{
+  "title": "813",
+  "author": "Maurice Leblanc",
+  "identifier": "https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos",
+    "published": "2018-07-18T00:01:28Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/34758",
+    "https://catalog.hathitrust.org/Record/100405910"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Arsène Lupin",
+      "type": "series",
+      "position": "4"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "79861c2b3eb40ee3e6e999a10d8008064126ebdb04febbdd9f9875eb86768c65"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 17,
+    "words": 109756,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

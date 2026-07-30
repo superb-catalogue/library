@@ -1,0 +1,53 @@
+{
+  "title": "The Poisoned Chocolates Case",
+  "author": "Anthony Berkeley",
+  "identifier": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case",
+    "published": "2025-04-21T03:39:39Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/75476",
+    "https://archive.org/details/isbn_9781780020167"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anthony-berkeley/the-poisoned-chocolates-case"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Roger Sheringham",
+      "type": "series",
+      "position": "5"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "The Crime Writers’ Association Top 100 Crime Novels of All Time",
+      "type": "set",
+      "position": "41"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "63076260bdb01b6dc463f0eddc0bbb7b0ca8f7d0640aec478c7d2bea13561830"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 18,
+    "words": 65997,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "As You Like It",
+  "author": "William Shakespeare",
+  "identifier": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it",
+    "published": "2021-06-08T01:41:28Z",
+    "modified": "2026-07-14T01:56:37Z"
+  },
+  "made_from": [
+    "https://shakespeare.mit.edu/asyoulikeit/full.html",
+    "https://catalog.hathitrust.org/Record/004135080"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-shakespeare/as-you-like-it"
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "f91cd24a309a47df1f9af7a3113d14f35de79f9c5f7f750f1fa97ef7316d2d20"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 6,
+    "words": 21594,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

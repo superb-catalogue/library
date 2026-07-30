@@ -1,0 +1,48 @@
+{
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "identifier": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-07-09T22:01:56Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/174",
+    "https://archive.org/details/pictureofdoriang00wildiala"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "27"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "34"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
+    "epub_sha256": "cbc33e9dcaaa8b3aa8afc4062739b481ab810c224fd2157312925cabad633402"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 20,
+    "words": 78504,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

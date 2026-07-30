@@ -1,11 +1,12 @@
 {
   "title": "Dracula",
   "author": "Bram Stoker",
-  "language": "en-GB",
+  "identifier": "https://standardebooks.org/ebooks/bram-stoker/dracula",
   "edition": {
     "publisher": "Standard Ebooks",
     "page": "https://standardebooks.org/ebooks/bram-stoker/dracula",
-    "published": "2014-05-25"
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-07-02T18:40:35Z"
   },
   "made_from": [
     "https://www.gutenberg.org/ebooks/345",
@@ -16,16 +17,47 @@
     "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
     "read_at": "https://standardebooks.org/ebooks/bram-stoker/dracula"
   },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Horror"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "31"
+    },
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "13"
+    },
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    },
+    {
+      "name": "Mystery Writers of America Top 100 Mysteries of All Time",
+      "type": "set",
+      "position": "28"
+    },
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "77"
+    }
+  ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-the-guardians-100-best-novels-of-all-time-2026-epub.zip",
-    "retrieved": "2026-07-30",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
     "epub_sha256": "8fb41790926f7da2aebe1c052cb13f874e87fa4c6ef5ebb487d82e83623ef95a"
   },
   "text": {
     "file": "book.json",
     "chapters": 28,
-    "words": 160112,
+    "words": 160147,
     "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
   }
 }

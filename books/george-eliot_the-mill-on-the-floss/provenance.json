@@ -1,0 +1,44 @@
+{
+  "title": "The Mill on the Floss",
+  "author": "George Eliot",
+  "identifier": "https://standardebooks.org/ebooks/george-eliot/the-mill-on-the-floss",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/george-eliot/the-mill-on-the-floss",
+    "published": "2020-02-10T22:30:14Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6688",
+    "https://archive.org/details/flossmillon01eliorich",
+    "https://archive.org/details/onflossmill02eliorich",
+    "https://archive.org/details/millonfloss03eliorich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/george-eliot/the-mill-on-the-floss"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Harvard Classics Shelf of Fiction",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-harvard-classics-shelf-of-fiction-epub.zip",
+    "epub_sha256": "81f5fa92a55ddc22bbac413b8294f23a18205ba42b7b5572bdbfcfb550ecc978"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 66,
+    "words": 206007,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

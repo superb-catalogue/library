@@ -1,0 +1,44 @@
+{
+  "title": "The Child of the Cavern",
+  "author": "Jules Verne",
+  "identifier": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company",
+    "published": "2021-08-30T22:24:43Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1355",
+    "https://archive.org/details/worksjulesverne03horngoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jules-verne/the-child-of-the-cavern/vincent-parke-and-company"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Voyages Extraordinaires",
+      "type": "series",
+      "position": "16"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-voyages-extraordinaires-epub.zip",
+    "epub_sha256": "c5c95c6afaaba514e9d84ab3b8f0d6b7e80d21c08779f1bfc12b71fcd617cb42"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 43523,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

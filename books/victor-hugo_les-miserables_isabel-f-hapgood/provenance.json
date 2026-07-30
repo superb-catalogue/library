@@ -1,0 +1,42 @@
+{
+  "title": "Les Misérables",
+  "author": "Victor Hugo",
+  "identifier": "https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood",
+    "published": "2019-08-15T21:23:54Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/135",
+    "https://archive.org/details/in.ernet.dli.2015.149684"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Haycraft-Queen Cornerstones",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-haycraft-queen-cornerstones-epub.zip",
+    "epub_sha256": "0157077ba0a0daf2859b624247d02c457dc45b91955a5781005160081426fb19"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 418,
+    "words": 558474,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

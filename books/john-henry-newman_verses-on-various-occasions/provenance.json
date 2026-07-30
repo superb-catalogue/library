@@ -1,0 +1,40 @@
+{
+  "title": "Verses on Various Occasions",
+  "author": "John Henry Newman",
+  "identifier": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions",
+    "published": "2021-01-06T19:08:24Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "http://www.newmanreader.org/works/verses",
+    "https://catalog.hathitrust.org/Record/009038168",
+    "https://www.gutenberg.org/ebooks/48927",
+    "https://archive.org/details/dreamofgerontius01newmuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/john-henry-newman/verses-on-various-occasions"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry",
+    "Spirituality"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "38a217c7821dfd99481caf94626add8fc84486fb441607ab6f065e7a17544af5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 178,
+    "words": 32650,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Poetry",
+  "author": "W. B. Yeats",
+  "identifier": "https://standardebooks.org/ebooks/w-b-yeats/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/w-b-yeats/poetry",
+    "published": "2024-08-29T19:22:49Z",
+    "modified": "2026-06-30T03:19:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/49608",
+    "https://www.gutenberg.org/ebooks/32491",
+    "https://www.gutenberg.org/ebooks/36865",
+    "https://www.gutenberg.org/ebooks/49609",
+    "https://www.gutenberg.org/ebooks/49615",
+    "https://www.gutenberg.org/ebooks/49609",
+    "https://www.gutenberg.org/ebooks/32233",
+    "https://archive.org/details/in.ernet.dli.2015.92252",
+    "https://catalog.hathitrust.org/Record/001776372",
+    "https://www.google.com/books/edition/The_Dublin_University_Review/fE8wAQAAMAAJ",
+    "https://www.google.ie/books/edition/The_Dublin_University_Review/TWUEAAAAQAAJ",
+    "https://www.google.ie/books/edition/The_Dublin_University_Review/TFAwAQAAMAAJ",
+    "https://www.google.ie/books/edition/The_Irish_Monthly/EMoaAAAAYAAJ",
+    "https://archive.org/details/gop-1889",
+    "https://archive.org/details/poemsandballads00unkngoog",
+    "https://catalog.hathitrust.org/Record/000551354",
+    "https://archive.org/details/fairytalesirish00yeatrich",
+    "https://catalog.hathitrust.org/Record/008958226",
+    "https://archive.org/details/countesskathleen00yeat",
+    "https://catalog.hathitrust.org/Record/008883383",
+    "https://archive.org/details/poeticalworksofw01yeat",
+    "https://archive.org/details/collectedworksin01yeat",
+    "https://archive.org/details/collectedworksin02yeatuoft",
+    "https://archive.org/details/collectedworksin00yeatuoft",
+    "https://archive.org/details/responsibilities00yeatiala",
+    "https://books.google.com/books?id=jDI3AAAAIAAJ",
+    "https://archive.org/details/robertes00wby/robertes00wby",
+    "https://archive.org/details/poemsyeatrich",
+    "https://catalog.hathitrust.org/Record/001020237"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/w-b-yeats/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "14f5ec94dd580e70c00aaf6a06c64712a3be3285909665a02b0226fa178ff414"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 47,
+    "words": 63174,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

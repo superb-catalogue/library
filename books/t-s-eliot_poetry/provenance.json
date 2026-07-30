@@ -1,0 +1,50 @@
+{
+  "title": "Poetry",
+  "author": "T. S. Eliot",
+  "identifier": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/t-s-eliot/poetry",
+    "published": "2017-09-20T21:36:23Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1567",
+    "https://catalog.hathitrust.org/Record/009592742",
+    "https://www.gutenberg.org/ebooks/1321",
+    "https://catalog.hathitrust.org/Record/001835100",
+    "https://catalog.hathitrust.org/Record/100218549",
+    "https://archive.org/details/poems19091925030616mbp",
+    "https://archive.org/details/collectedpoems1900elio",
+    "https://www.fadedpage.com/showbook.php?pid=20200705",
+    "https://archive.org/details/poemswritteninea00elio",
+    "https://theworld.com/~raparker/exploring/tseliot/works/poems/eliot-harvard-poems.html"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/t-s-eliot/poetry"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "8c7761a2c1411e477e0878fb540b4c30321389f222e4703ef45a9c473e60bb59"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 33,
+    "words": 14577,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

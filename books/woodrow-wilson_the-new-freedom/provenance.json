@@ -1,0 +1,37 @@
+{
+  "title": "The New Freedom",
+  "author": "Woodrow Wilson",
+  "identifier": "https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom",
+    "published": "2025-08-29T18:31:02Z",
+    "modified": "2026-07-14T15:32:33Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/14811",
+    "https://archive.org/details/newfreedom0000unse_n6x3"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "b2eebd1dfa6fce087553c893e613b95348f8203d0d651f2bbb2c9fde360bd0ca"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 54056,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

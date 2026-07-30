@@ -1,0 +1,37 @@
+{
+  "title": "The Book of Tea",
+  "author": "Okakura Kakuzō",
+  "identifier": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea",
+    "published": "2019-01-24T17:02:28Z",
+    "modified": "2026-07-25T20:37:17Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/769",
+    "https://archive.org/details/bookoftea00okakrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/okakura-kakuzo/the-book-of-tea"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "7c21fe2fce78cfaa19194d0bad18286183d78cc9c6219c8f81d78f4e813e9fdd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 17971,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

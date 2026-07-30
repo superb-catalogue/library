@@ -1,0 +1,52 @@
+{
+  "title": "Henry IV, Part I",
+  "author": "William Shakespeare",
+  "identifier": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i",
+    "published": "2021-06-29T23:48:19Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "http://shakespeare.mit.edu/1henryiv/full.html",
+    "https://catalog.hathitrust.org/Record/004135080"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-shakespeare/henry-iv-part-i"
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [
+    {
+      "name": "The Henriad",
+      "type": "set",
+      "position": "2"
+    },
+    {
+      "name": "Shakespeare’s Second Tetralogy",
+      "type": "set",
+      "position": "2"
+    },
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "5419d1f453b8f0d4dcac3e6d9c0526e05ad7152bf721faade610d6af28947042"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 24023,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

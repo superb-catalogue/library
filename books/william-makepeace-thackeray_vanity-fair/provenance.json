@@ -1,0 +1,65 @@
+{
+  "title": "Vanity Fair",
+  "author": "William Makepeace Thackeray",
+  "identifier": "https://standardebooks.org/ebooks/william-makepeace-thackeray/vanity-fair",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-makepeace-thackeray/vanity-fair",
+    "published": "2017-08-08T05:21:50Z",
+    "modified": "2026-07-14T15:32:28Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/599",
+    "https://books.google.com/books?id=PX6UFZ1NMBQC",
+    "https://archive.org/details/VanityFairNovel1848",
+    "https://archive.org/details/vanityfair01thacuoft",
+    "https://archive.org/details/vanityfair02thacuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-makepeace-thackeray/vanity-fair"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "14"
+    },
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "10"
+    },
+    {
+      "name": "Harvard Classics Shelf of Fiction",
+      "type": "set"
+    },
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "47"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "19"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-harvard-classics-shelf-of-fiction-epub.zip",
+    "epub_sha256": "f237c1660a6d53ea1811bdc56a9059816e78bfa532b1775acd9e4728c53ade7c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 68,
+    "words": 301842,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Short Fiction",
+  "author": "H. P. Lovecraft",
+  "identifier": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction",
+    "published": "2018-04-03T22:53:39Z",
+    "modified": "2026-07-27T21:31:01Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/30637",
+    "https://www.gutenberg.org/ebooks/64940",
+    "https://archive.org/details/WeirdTalesV02N03192310",
+    "https://archive.org/details/WeirdTalesV05N02192502",
+    "https://www.gutenberg.org/ebooks/46616",
+    "https://archive.org/details/WeirdTalesV03n04192404",
+    "https://archive.org/details/WeirdTalesV03N01192401",
+    "https://archive.org/details/WeirdTalesV05N05192505",
+    "https://archive.org/details/WeirdTales1924050607ATLPM",
+    "https://archive.org/details/WeirdTalesV03N02192402",
+    "https://archive.org/details/WeirdTalesV03n03192403",
+    "https://archive.org/details/WeirdTalesV05N01192501",
+    "https://archive.org/details/WeirdTalesV06N01192507",
+    "https://archive.org/details/WeirdTalesV06N03192509",
+    "https://en.wikisource.org/wiki/Weird_Tales/Volume_7/Issue_1/The_Tomb",
+    "https://archive.org/details/WeirdTalesV07N01192601",
+    "https://en.wikisource.org/wiki/Weird_Tales/Volume_7/Issue_2/The_Cats_of_Ulthar",
+    "https://archive.org/details/WeirdTalesV07N02192602",
+    "https://www.fadedpage.com/showbook.php?pid=20190945",
+    "https://archive.org/details/WeirdTalesV07N04192604",
+    "https://en.wikisource.org/wiki/The_Moon-Bog",
+    "https://archive.org/details/WeirdTalesV07N06192606",
+    "https://en.wikisource.org/wiki/Weird_Tales/Volume_8/Issue_2/The_Terrible_Old_Man",
+    "https://archive.org/details/WeirdTalesV08N02192608",
+    "https://en.wikisource.org/wiki/He",
+    "https://archive.org/details/WeirdTalesV08N03192609",
+    "https://en.wikisource.org/wiki/Weird_Tales/Volume_9/Issue_1/The_Horror_at_Red_Hook",
+    "https://archive.org/details/WeirdTalesV09N01192701",
+    "https://www.gutenberg.org/ebooks/68236",
+    "https://archive.org/details/Amazing_Stories_v02n06_1927-09",
+    "https://en.wikisource.org/wiki/Weird_Tales/Volume_10/Issue_4/Pickman%27s_Model",
+    "https://archive.org/details/WeirdTalesV10N04192710",
+    "https://www.gutenberg.org/ebooks/68283",
+    "https://archive.org/details/WeirdTalesV11N02192802",
+    "https://www.gutenberg.org/ebooks/50133",
+    "https://www.gutenberg.org/ebooks/46534",
+    "https://www.gutenberg.org/ebooks/64901",
+    "https://www.gutenberg.org/ebooks/31469",
+    "https://archive.org/details/wt_1937_10",
+    "https://www.gutenberg.org/ebooks/73181",
+    "https://archive.org/details/Weird_Tales_v36n03_1942-01_AT-sas",
+    "https://www.gutenberg.org/ebooks/73182",
+    "https://archive.org/details/Weird_Tales_v33n03_1939-03",
+    "https://www.gutenberg.org/ebooks/73177",
+    "https://archive.org/details/Weird_Tales_v34n03_1939-09",
+    "https://www.gutenberg.org/ebooks/73233",
+    "https://archive.org/details/WeirdTalesV28N05193612",
+    "https://www.gutenberg.org/ebooks/70486",
+    "https://archive.org/details/WeirdTalesV11N06192806",
+    "https://www.gutenberg.org/ebooks/70478",
+    "https://archive.org/details/WeirdTalesV13N01192901sasIbc",
+    "https://www.gutenberg.org/ebooks/73230",
+    "https://archive.org/details/weird-tales-v-29-n-01-1937-01",
+    "https://en.wikisource.org/wiki/Celepha%C3%AFs",
+    "https://archive.org/details/rainbow-2"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-p-lovecraft/short-fiction"
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror",
+    "Shorts"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [
+    {
+      "name": "The Telegraph’s Greatest Villains in Literature",
+      "type": "set",
+      "position": "26"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-telegraphs-greatest-villains-in-literature-epub.zip",
+    "epub_sha256": "9f2fa69a6b30622049ab9e9938790754866df89aa444e0f2ba6a021e4a090ce1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 41,
+    "words": 213400,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

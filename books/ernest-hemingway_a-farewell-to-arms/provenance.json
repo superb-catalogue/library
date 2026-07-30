@@ -1,0 +1,48 @@
+{
+  "title": "A Farewell to Arms",
+  "author": "Ernest Hemingway",
+  "identifier": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms",
+    "published": "2025-01-01T09:01:00Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20170312",
+    "https://archive.org/details/farewelltoarms0000unse_i0f1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Modern Library’s 100 Best Novels",
+      "type": "set",
+      "position": "74"
+    },
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "85"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-modern-librarys-100-best-novels-epub.zip",
+    "epub_sha256": "f064c7efacc84966e6833bcb9e4b06debac159d457e310c9409781e77f92cddf"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 46,
+    "words": 88461,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

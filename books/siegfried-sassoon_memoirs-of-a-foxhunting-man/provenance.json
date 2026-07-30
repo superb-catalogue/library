@@ -1,0 +1,54 @@
+{
+  "title": "Memoirs of a Foxhunting Man",
+  "author": "Siegfried Sassoon",
+  "identifier": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
+    "published": "2025-03-26T21:53:45Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20200205",
+    "https://archive.org/details/memoirsoffoxhunt0000sieg_u4c6"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man"
+  },
+  "genre": "Autobiography",
+  "genres": [
+    "Autobiography",
+    "Fiction"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [
+    {
+      "name": "Memoirs of George Sherston",
+      "type": "set",
+      "position": "1"
+    },
+    {
+      "name": "James Tait Black Memorial Fiction Prize Winners",
+      "type": "series",
+      "position": "10"
+    },
+    {
+      "name": "Hawthornden Prize Winners",
+      "type": "series",
+      "position": "10"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-james-tait-black-memorial-fiction-prize-winners-epub.zip",
+    "epub_sha256": "c5ee10b715044fb3fd7e47bbe50852ceb6e60611cb921bb17cade1dae97d2319"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 99753,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "In Search of Lost Time",
+  "author": "Marcel Proust",
+  "identifier": "https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff",
+    "published": "2023-06-08T17:20:08Z",
+    "modified": "2026-07-20T19:36:26Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/7178",
+    "https://www.gutenberg.org/ebooks/63532",
+    "https://www.gutenberg.org/ebooks/73425",
+    "https://archive.org/details/dli.bengal.10689.16985",
+    "https://archive.org/details/dli.bengal.10689.15615",
+    "https://archive.org/details/in.ernet.dli.2015.97529",
+    "https://archive.org/details/in.ernet.dli.2015.97530",
+    "https://archive.org/details/in.ernet.dli.2015.503998",
+    "https://archive.org/details/citiesofplain00prourich",
+    "https://archive.org/details/captive0000marc",
+    "https://archive.org/details/sweetcheatgone0000marc"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Le Monde’s 100 Books of the Century",
+      "type": "set",
+      "position": "2"
+    },
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    },
+    {
+      "name": "The Guardian’s 100 Best Novels of All Time (2026)",
+      "type": "set",
+      "position": "5"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "41"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "59354b96525d7d84076a5d988d50e46a8f535efef6d060be6a6ad218ccf35020"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 39,
+    "words": 1212767,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Twelfth Night",
+  "author": "William Shakespeare",
+  "identifier": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night",
+    "published": "2021-06-08T18:43:42Z",
+    "modified": "2026-06-30T02:48:56Z"
+  },
+  "made_from": [
+    "http://shakespeare.mit.edu/twelfth_night/full.html",
+    "https://catalog.hathitrust.org/Record/004135080",
+    "https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=12night"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-shakespeare/twelfth-night"
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "a41475451b8bd156886803d6f6265e33ab2be14b1bd79e0bc7d0fdd8a44bd379"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 19600,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

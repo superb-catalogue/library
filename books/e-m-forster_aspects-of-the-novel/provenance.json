@@ -1,0 +1,43 @@
+{
+  "title": "Aspects of the Novel",
+  "author": "E. M. Forster",
+  "identifier": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel",
+    "published": "2025-07-17T18:47:43Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/70492",
+    "https://archive.org/details/aspectsofnovel0000emfo"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-m-forster/aspects-of-the-novel"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction"
+  ],
+  "category": "Nonfiction",
+  "sets": [
+    {
+      "name": "Modern Library’s 100 Best Nonfiction",
+      "type": "set",
+      "position": "14"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-modern-librarys-100-best-nonfiction-epub.zip",
+    "epub_sha256": "9ebb2debefb52dec820e6501d07b49567b2d28d2464d58cc179916a794c39a0a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 44673,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

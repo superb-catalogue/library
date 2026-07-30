@@ -1,0 +1,43 @@
+{
+  "title": "His Family",
+  "author": "Ernest Poole",
+  "identifier": "https://standardebooks.org/ebooks/ernest-poole/his-family",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ernest-poole/his-family",
+    "published": "2021-11-15T02:14:00Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/14396",
+    "https://archive.org/details/hisfamily00poolgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ernest-poole/his-family"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Pulitzer Prize for Fiction Winners",
+      "type": "series",
+      "position": "1"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-pulitzer-prize-for-fiction-winners-epub.zip",
+    "epub_sha256": "00ae3f3caabe53999967d75af95c449e2cad48ce293173bd43460e7ba132b01f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 44,
+    "words": 96160,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

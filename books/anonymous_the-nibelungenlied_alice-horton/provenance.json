@@ -1,0 +1,37 @@
+{
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "identifier": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton",
+    "published": "2021-04-02T22:44:27Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://archive.org/details/nibelungslay00hortrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anonymous/the-nibelungenlied/alice-horton"
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Poetry"
+  ],
+  "category": "Adventure",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "fc1920f0fc90e74a0037431aa68ff733944b6b8a10593ea89103727d1bc9b4d1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 39,
+    "words": 98902,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

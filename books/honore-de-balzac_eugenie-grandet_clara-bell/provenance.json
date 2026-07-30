@@ -1,0 +1,45 @@
+{
+  "title": "Eugénie Grandet",
+  "author": "Honoré de Balzac",
+  "identifier": "https://standardebooks.org/ebooks/honore-de-balzac/eugenie-grandet/clara-bell",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/honore-de-balzac/eugenie-grandet/clara-bell",
+    "published": "2025-02-24T20:12:28Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://archive.org/details/worksbalzac03balz"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/honore-de-balzac/eugenie-grandet/clara-bell"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Human Comedy",
+      "type": "series"
+    },
+    {
+      "name": "The Human Comedy: Scenes from Provincial Life",
+      "type": "series"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-the-human-comedy-epub.zip",
+    "epub_sha256": "0706711fbca40671e433484c2c18e868e85adf44bcb2e7c8774459d8f30b1d59"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 1,
+    "words": 75709,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Memoirs of a Midget",
+  "author": "Walter de la Mare",
+  "identifier": "https://standardebooks.org/ebooks/walter-de-la-mare/memoirs-of-a-midget",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/walter-de-la-mare/memoirs-of-a-midget",
+    "published": "2022-04-04T21:08:40Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/39122",
+    "https://books.google.com/books?id=WlCwprVPSWUC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/walter-de-la-mare/memoirs-of-a-midget"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "James Tait Black Memorial Fiction Prize Winners",
+      "type": "series",
+      "position": "3"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-james-tait-black-memorial-fiction-prize-winners-epub.zip",
+    "epub_sha256": "73e91d164d849b34e9a9c2d415caf9b5958b6000154be235e0abd9e32c0f44bc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 63,
+    "words": 146904,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

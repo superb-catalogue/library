@@ -1,0 +1,62 @@
+{
+  "title": "The History of Tom Jones, a Foundling",
+  "author": "Henry Fielding",
+  "identifier": "https://standardebooks.org/ebooks/henry-fielding/the-history-of-tom-jones-a-foundling",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/henry-fielding/the-history-of-tom-jones-a-foundling",
+    "published": "2020-11-18T00:53:51Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6593",
+    "https://archive.org/details/historyoftomjone01fieluoft",
+    "https://archive.org/details/historyoftomjon02fieluoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/henry-fielding/the-history-of-tom-jones-a-foundling"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "5"
+    },
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "22"
+    },
+    {
+      "name": "Encyclopædia Britannica’s Great Books of the Western World",
+      "type": "set"
+    },
+    {
+      "name": "Harvard Classics Shelf of Fiction",
+      "type": "set"
+    },
+    {
+      "name": "The Guardian’s 100 Greatest Novels of All Time (2003)",
+      "type": "set",
+      "position": "5"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-encyclopaedia-britannicas-great-books-of-the-western-world-epub.zip",
+    "epub_sha256": "196cfe67966e3b53720bb447daffa81ba082af18180c69e0fb9db5921fb21285"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 226,
+    "words": 343475,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

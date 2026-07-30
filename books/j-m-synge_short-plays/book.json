@@ -1,0 +1,2643 @@
+{
+  "title": "Short Plays",
+  "author": "J. M. Synge",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": "In the Shadow of the Glen",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "drama"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "In the Shadow of the Glen"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Play in One Act"
+            }
+          ]
+        },
+        {
+          "type": "dramatis-personae",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Persons in the Play"
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Dan Burke, farmer and herd"
+                },
+                {
+                  "type": "item",
+                  "text": "Nora Burke, his wife"
+                },
+                {
+                  "type": "item",
+                  "text": "Micheal Dara, a young herd"
+                },
+                {
+                  "type": "item",
+                  "text": "A Tramp"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Scene: The last cottage at the head of a long glen in County Wicklow."
+            }
+          ]
+        },
+        {
+          "type": "bodymatter+scene",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "In the Shadow of the Glen"
+            },
+            {
+              "type": "paragraph",
+              "text": "Cottage kitchen; turf fire on the right; a bed near it against the wall with a body lying on it covered with a sheet. A door is at the other end of the room, with a low table near it, and stools, or wooden chairs. There are a couple of glasses on the table, and a bottle of whisky, as if for a wake, with two cups, a teapot, and a homemade cake. There is another small door near the bed. Nora Burke is moving about the room, settling a few things, and lighting candles on the table, looking now and then at the bed with an uneasy look. Someone knocks softly at the door. She takes up a stocking with money from the table and puts it in her pocket. Then she opens the door."
+            },
+            {
+              "type": "drama",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Outside."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Good evening, kindly stranger, it’s a wild night, God help you, to be out in the rain falling."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It is, surely, and I walking to Brittas from the Aughrim fair."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Is it walking on your feet, stranger?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "He looks in past her and sees the dead man."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It doesn’t matter anyway, stranger, come in out of the rain."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Coming in slowly and going towards the bed."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It is, stranger. He’s after dying on me, God forgive him, and there I am now with a hundred sheep beyond on the hills, and no turf drawn for the winter."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking closely at the dead man."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Half-humorously."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Isn’t it a great wonder you’re letting him lie there, and he not tidied, or laid out itself?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Coming to the bed."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking at her and nodding slowly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "She pulls back a bit of the sheet."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Is it getting the curse on me you’d be, woman of the house? I wouldn’t lay my hand on him for the Lough Nahanagan and it filled with gold."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking uneasily at the body."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "she covers up his face and comes away from the bed"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Crosses himself."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Pouring him out a glass of whisky."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "He drinks."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Giving him a pipe and tobacco."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Thank you kindly, lady of the house."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Sit down now, stranger, and be taking your rest."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Filling a pipe and looking about the room."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Didn’t you hear me say it was only after dying on me he was when the sun went down, and how would I go out into the glen and tell the neighbours, and I a lone woman with no house near me?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Drinking."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "No offence in life, stranger. How would the like of you, passing in the dark night, know the lonesome way I was with no house near me at all?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Sitting down."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "He lights his pipe so that there is a sharp light beneath his haggard face."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Slowly."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "She looks towards the window and lowers her voice."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking round with a half-shudder."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking at him for a moment with curiosity."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Speaking mournfully."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "With interest."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Wasn’t I the last one heard his living voice in the whole world?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "There were great stories of what was heard at that time, but would anyone believe the things they do be saying in the glen?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It was no lie, lady of the house.﻿ ﻿… I was passing below on a dark night the like of this night, and the sheep were lying under the ditch and every one of them coughing, and choking, like an old man, with the great rain and the fog. Then I heard a thing talking﻿—queer talk, you wouldn’t believe at all, and you out of your dreams﻿—and “Merciful God,” says I, “if I begin hearing the like of that voice out of the thick mist, I’m destroyed surely.” Then I run and I run till I was below in Rathvanna. I got drunk that night, I got drunk in the morning, and drunk the day after﻿—I was coming from the races beyond﻿—and the third day they found Darcy.﻿ ﻿… Then I knew it was himself I was after hearing, and I wasn’t afeard any more."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Speaking sorrowfully and slowly."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "she looks over at the bed and lowers her voice, speaking very clearly"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "A short pause; then she stands up."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Was there anyone on the last bit of the road, stranger, and you coming from Aughrim?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "There was a young man with a drift of mountain ewes, and he running after them this way and that."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "With a half-smile."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A piece only."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Maybe, if you’re not easy afeard, you’d stay here a short while alone with himself."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "I would surely. A man that’s dead can do no hurt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Speaking with a sort of constraint."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking at the body in the sheet."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "i",
+                              "text": "sluigs"
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "She puts a shawl over her head."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Moving uneasily."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Takes a needle and thread from the front of her dress and gives it to him."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Slowly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                },
+                                {
+                                  "type": "span",
+                                  "text": "De Profundis"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Dan Burke"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "With a hoarse voice."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Trembling."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "A long whistle is heard outside."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Sitting up in his bed and speaking fiercely."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "He looks at the table hurriedly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Doubtfully."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "text": "How would I be dead, and I as dry as a baked bone, stranger?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Pouring out the whisky."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "bitterly"
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "Crying out impatiently."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "After drinking."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Taking a stick from the cupboard."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It is, stranger; it’s a long time I’m keeping that stick, for I’ve a bad wife in the house."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "With a queer look."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "He takes the stick in his hand."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "He stops to listen."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Listening."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "He covers himself up hastily."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Covering his head."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "He goes back to the fire, sits down on a stool with his back to the bed and goes on stitching his coat."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Under the sheet, querulously."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Quickly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal Dara"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "I wasn’t long at all, stranger, for I met himself on the path."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "You were middling long, lady of the house."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "There was no sign from himself?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "No sign at all, lady of the house."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "I will not, Nora, I do be afeard of the dead."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "speaking more persuasively"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "He takes a drink from his glass which he has beside him."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "If it’s a poor tailor I am, I’m thinking it’s a poor herd does be running back and forward after a little handful of ewes the way I seen yourself running this day, young fellow, and you coming from the fair."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It’s no lie he’s telling, I was destroyed surely. They were that wilful they were running off into one man’s bit of oats, and another man’s bit of hay, and tumbling into the red bogs till it’s more like a pack of old goats than sheep they were.﻿ ﻿… Mountain ewes is a queer breed, Nora Burke, and I not used to them at all."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Settling the tea things."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Uneasily."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It is, surely."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Plaintively."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Turning round quickly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "It’s the truth I’m saying, God spare his soul."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Micheael’s"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking at her with a queer look."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "In a low voice."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "I’m thinking it’s a power of men you’re after knowing if it’s in a lonesome place you live itself."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Giving him his tea."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "she looks at him a little sternly"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "What way would I live, and I an old woman, if I didn’t marry a man with a bit of a farm, and cows on it, and sheep on the back hills?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Considering."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Taking the stocking with the money from her pocket, and putting it on the table."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Looking at her uneasily."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Putting out the money on the table."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "She puts up the money listlessly in little piles on the table."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "holding out her hand"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "She pauses."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Moving over three of the piles."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Continuing in the same voice."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "That’s five pounds and ten notes, a good sum, surely!﻿ ﻿… It’s not that way you’ll be talking when you marry a young man, Nora Burke, and they were saying in the fair my lambs were the best lambs, and I got a grand price, for I’m no fool now at making a bargain when my lambs are good."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "What was it you got?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Twenty pound for the lot, Nora Burke.﻿ ﻿… We’d do right to wait now till himself will be quiet awhile in the Seven Churches, and then you’ll marry me in the chapel of Rathvanna, and I’ll bring the sheep up on the bit of a hill you have on the back mountain, and we won’t have anything we’d be afeard to let our minds on when the mist is down."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Pouring him out some whisky."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Dan Burke"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "It’s a pitiful thing to be getting old, but it’s a queer thing surely. It’s a queer thing to see an old man sitting up there in his bed with no teeth in him, and a rough word in his mouth, and his chin the way it would take the bark from the edge of an oak board you’d have building a door.﻿ ﻿… God forgive me, Micheal Dara, we’ll all be getting old, but it’s a queer thing surely."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "he puts his arm round her"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Dan"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Dan"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Son of God deliver us!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Crosses himself, and goes backward across the room."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Holding up his hand at him."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Tramp"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Turning towards her."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "He opens the door."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Standing up."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Timidly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The like of her would never go there.﻿ ﻿… It’s lonesome roads she’ll be going and hiding herself away till the end will come, and they find her stretched like a dead sheep with the frost on her, or the big spiders maybe, and they putting their webs on her, in the butt of a ditch."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Angrily."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "text": "She looks at him a moment fiercely, then half turns away and speaks plaintively again."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Pointing to the door."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "What would he do with me now?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Give you the half of a dry bed, and good food in your mouth."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Is it a fool you think him, stranger, or is it a fool you were born yourself? Let her walk out of that door, and let you go along with her, stranger﻿—if it’s raining itself﻿—for it’s too much talk you have surely."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "text": "What good is a grand morning when I’m destroyed surely, and I going out to get my death walking the roads?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "text": "You’ll not be getting your death with myself, lady of the house, and I knowing all the ways a man can put food in his mouth.﻿ ﻿… We’ll be going now, I’m telling you, and the time you’ll be feeling the cold, and the frost, and the great rain, and the sun again, and the south wind blowing in the glens, you’ll not be sitting up on a wet ditch, the way you’re after sitting in this place, making yourself old with looking on each day, and it passing you by. You’ll be saying one time, “It’s a grand evening, by the grace of God,” and another time, “It’s a wild night, God help us, but it’ll pass surely.” You’ll be saying﻿ ﻿…"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Goes over to them, crying out impatiently."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Nora"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Tramp"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "At the door."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Nora"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Dan"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                },
+                                {
+                                  "type": "persona",
+                                  "text": "Dan"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Sit down now and take a little taste of the stuff, Micheal Dara. There’s a great drouth on me, and the night is young."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Coming back to the table."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Dan"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Throwing away his stick."
+                            },
+                            {
+                              "type": "stage-direction",
+                              "blocks": [
+                                {
+                                  "type": "persona",
+                                  "text": "Micheal"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "persona",
+                          "text": "Micheal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "God reward you, Daniel Burke, and may you have a long life, and a quiet life, and good health with it."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "They drink."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "stage-direction",
+                              "text": "Curtain."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

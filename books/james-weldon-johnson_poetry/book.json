@@ -1,0 +1,2646 @@
+{
+  "title": "Poetry",
+  "author": "James Weldon Johnson",
+  "language": "en-US",
+  "chapters": [
+    {
+      "label": "Lift Ev’ry Voice and Sing",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "hymn"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lift ev’ry voice and sing Till earth and heaven ring. Ring with the harmonies of Liberty; Let our rejoicing rise High as the list’ning skies, Let it resound loud as the rolling sea. Sing a song full of the faith that the dark past has taught us, Sing a song full of the hope that the present has brought us. Facing the rising sun of our new day begun, Let us march on till victory is won."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stony the road we trod, Bitter the chast’ning rod. Felt in the days when hope unborn had died; Yet with a steady beat, Have not our weary feet Come to the place for which our fathers sighed? We have come over a way that with tears has been watered, We have come, treading our path through the blood of the slaughtered, Out from the gloomy past, Till now we stand at last Where the white gleam of our bright star is cast."
+        },
+        {
+          "type": "paragraph",
+          "text": "God of our weary years, God of our silent tears, Thou who has brought us thus far on the way; Thou who has by Thy might Led us into the light. Keep us forever in the path, we pray. Lest our feet stray from the places, our God, where we met Thee, Lest our hearts, drunk with the wine of the world, we forget Thee, Shadowed beneath Thy hand, May we forever stand. True to our God True to our native land."
+        }
+      ]
+    },
+    {
+      "label": "Fifty Years",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "title",
+                  "text": "Fifty Years"
+                },
+                {
+                  "type": "subtitle",
+                  "text": "(1863﻿–﻿1913)"
+                }
+              ]
+            },
+            {
+              "type": "bridgehead",
+              "text": "On the Fiftieth Anniversary of the Signing of the Emancipation Proclamation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O brothers mine, today we stand Where half a century sweeps our ken, Since God, through Lincoln’s ready hand, Struck off our bonds and made us men."
+        },
+        {
+          "type": "paragraph",
+          "text": "Just fifty years﻿—a winter’s day﻿— As runs the history of a race; Yet, as we look back o’er the way, How distant seems our starting place!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Look farther back! Three centuries! To where a naked, shivering score, Snatched from their haunts across the seas, Stood, wild-eyed, on Virginia’s shore."
+        },
+        {
+          "type": "paragraph",
+          "text": "This land is ours by right of birth, This land is ours by right of toil; We helped to turn its virgin earth, Our sweat is in its fruitful soil."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where once the tangled forest stood﻿— Where flourished once rank weed and thorn﻿— Behold the path-traced, peaceful wood, The cotton white, the yellow corn."
+        },
+        {
+          "type": "paragraph",
+          "text": "To gain these fruits that have been earned, To hold these fields that have been won, Our arms have strained, our backs have burned, Bent bare beneath a ruthless sun."
+        },
+        {
+          "type": "paragraph",
+          "text": "That Banner which is now the type Of victory on field and flood﻿— Remember, its first crimson stripe Was dyed by Attucks’ willing blood."
+        },
+        {
+          "type": "paragraph",
+          "text": "And never yet has come the cry﻿— When that fair flag has been assailed﻿— For men to do, for men to die, That we have faltered or have failed."
+        },
+        {
+          "type": "paragraph",
+          "text": "We’ve helped to bear it, rent and torn, Through many a hot-breath’d battle breeze Held in our hands, it has been borne And planted far across the seas."
+        },
+        {
+          "type": "paragraph",
+          "text": "And never yet﻿—O haughty Land, Let us, at least, for this be praised﻿— Has one black, treason-guided hand Ever against that flag been raised."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then should we speak but servile words, Or shall we hang our heads in shame? Stand back of new-come foreign hordes, And fear our heritage to claim?"
+        },
+        {
+          "type": "paragraph",
+          "text": "No! stand erect and without fear, And for our foes let this suffice﻿— We’ve bought a rightful sonship here, And we have more than paid the price."
+        },
+        {
+          "type": "paragraph",
+          "text": "And yet, my brothers, well I know The tethered feet, the pinioned wings, The spirit bowed beneath the blow, The heart grown faint from wounds and stings;"
+        },
+        {
+          "type": "paragraph",
+          "text": "The staggering force of brutish might, That strikes and leaves us stunned and dazed; The long, vain waiting through the night To hear some voice for justice raised."
+        },
+        {
+          "type": "paragraph",
+          "text": "Full well I know the hour when hope Sinks dead, and ’round us everywhere Hangs stifling darkness, and we grope With hands uplifted in despair."
+        },
+        {
+          "type": "paragraph",
+          "text": "Courage! Look out, beyond, and see The far horizon’s beckoning span! Faith in your God-known destiny! We are a part of some great plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because the tongues of Garrison And Phillips now are cold in death, Think you their work can be undone? Or quenched the fires lit by their breath?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Think you that John Brown’s spirit stops? That Lovejoy was but idly slain? Or do you think those precious drops From Lincoln’s heart were shed in vain?"
+        },
+        {
+          "type": "paragraph",
+          "text": "That for which millions prayed and sighed, That for which tens of thousands fought, For which so many freely died, God cannot let it come to naught."
+        }
+      ]
+    },
+    {
+      "label": "To America",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How would you have us, as we are? Or sinking ’neath the load we bear? Our eyes fixed forward on a star? Or gazing empty at despair?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rising or falling? Men or things? With dragging pace or footsteps fleet? Strong, willing sinews in your wings? Or tightening chains about your feet?"
+        }
+      ]
+    },
+    {
+      "label": "O Black and Unknown Bards",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O black and unknown bards of long ago, How came your lips to touch the sacred fire? How, in your darkness, did you come to know The power and beauty of the minstrel’s lyre? Who first from midst his bonds lifted his eyes? Who first from out the still watch, lone and long, Feeling the ancient faith of prophets rise Within his dark-kept soul, burst into song?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Heart of what slave poured out such melody As “Steal away to Jesus”? On its strains His spirit must have nightly floated free, Though still about his hands he felt his chains. Who heard great “Jordan roll”? Whose starward eye Saw chariot “swing low”? And who was he That breathed that comforting, melodic sigh, “Nobody knows de trouble I see”?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What merely living clod, what captive thing, Could up toward God through all its darkness grope, And find within its deadened heart to sing These songs of sorrow, love and faith, and hope? How did it catch that subtle undertone, That note in music heard not with the ears? How sound the elusive reed so seldom blown, Which stirs the soul or melts the heart to tears."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not that great German master in his dream Of harmonies that thundered amongst the stars At the creation, ever heard a theme Nobler than “Go down, Moses.” Mark its bars How like a mighty trumpet-call they stir The blood. Such are the notes that men have sung Going to valorous deeds; such tones there were That helped make history when Time was young."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is a wide, wide wonder in it all, That from degraded rest and servile toil The fiery spirit of the seer should call These simple children of the sun and soil. O black slave singers, gone, forgot, unfamed, You﻿—you alone, of all the long, long line Of those who’ve sung untaught, unknown, unnamed, Have stretched out upward, seeking the divine."
+        },
+        {
+          "type": "paragraph",
+          "text": "You sang not deeds of heroes or of kings; No chant of bloody war, no exulting paean Of arms-won triumphs; but your humble strings You touched in chord with music empyrean. You sang far better than you knew; the songs That for your listeners’ hungry hearts sufficed Still live﻿—but more than this to you belongs: You sang a race from wood and stone to Christ."
+        }
+      ]
+    },
+    {
+      "label": "O Southland!",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O Southland! O Southland! Have you not heard the call, The trumpet blown, the word made known To the nations, one and all? The watchword, the hope-word, Salvation’s present plan? A gospel new, for all﻿—for you: Man shall be saved by man."
+        },
+        {
+          "type": "paragraph",
+          "text": "O Southland! O Southland! Do you not hear today The mighty beat of onward feet, And know you not their way? ’Tis forward, ’tis upward, On to the fair white arch Of Freedom’s dome, and there is room For each man who would march."
+        },
+        {
+          "type": "paragraph",
+          "text": "O Southland, fair Southland! Then why do you still cling To an idle age and a musty page, To a dead and useless thing? ’Tis springtime! ’Tis work-time! The world is young again! And God’s above, and God is love, And men are only men."
+        },
+        {
+          "type": "paragraph",
+          "text": "O Southland! my Southland! O birthland! do not shirk The toilsome task, nor respite ask, But gird you for the work. Remember, remember That weakness stalks in pride; That he is strong who helps along The faint one at his side."
+        }
+      ]
+    },
+    {
+      "label": "To Horace Bumstead",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Have you been sore discouraged in the fight, And even sometimes weighted by the thought That those with whom and those for whom you fought Lagged far behind, or dared but faintly smite? And that the opposing forces in their might Of blind inertia rendered as for naught All that throughout the long years had been wrought, And powerless each blow for Truth and Right?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If so, take new and greater courage then, And think no more withouten help you stand; For sure as God on His eternal throne Sits, mindful of the sinful deeds of men, —The awful Sword of Justice in His hand﻿— You shall not, no, you shall not, fight alone."
+        }
+      ]
+    },
+    {
+      "label": "The Color Sergeant",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "The Color Sergeant"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(On an Incident at the Battle of San Juan Hill)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Under a burning tropic sun, With comrades around him lying, A trooper of the sable Tenth Lay wounded, bleeding, dying."
+        },
+        {
+          "type": "paragraph",
+          "text": "First in the charge up the fort-crowned hill, His company’s guidon bearing, He had rushed where the leaden hail fell fast, Not death nor danger fearing."
+        },
+        {
+          "type": "paragraph",
+          "text": "He fell in the front where the fight grew fierce, Still faithful in life’s last labor; Black though his skin, yet his heart as true As the steel of his blood-stained saber."
+        },
+        {
+          "type": "paragraph",
+          "text": "And while the battle around him rolled, Like the roar of a sullen breaker, He closed his eyes on the bloody scene, And presented arms to his Maker."
+        },
+        {
+          "type": "paragraph",
+          "text": "There he lay, without honor or rank, But, still, in a grim-like beauty; Despised of men for his humble race, Yet true, in death, to his duty."
+        }
+      ]
+    },
+    {
+      "label": "The Black Mammy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O whitened head entwined in turban gay, O kind black face, O crude, but tender hand, O foster-mother in whose arms there lay The race whose sons are masters of the land! It was thine arms that sheltered in their fold, It was thine eyes that followed through the length Of infant days these sons. In times of old It was thy breast that nourished them to strength."
+        },
+        {
+          "type": "paragraph",
+          "text": "So often hast thou to thy bosom pressed The golden head, the face and brow of snow; So often has it ’gainst thy broad, dark breast Lain, set off like a quickened cameo. Thou simple soul, as cuddling down that babe With thy sweet croon, so plaintive and so wild, Came ne’er the thought to thee, swift like a stab, That it some day might crush thine own black child?"
+        }
+      ]
+    },
+    {
+      "label": "Father, Father Abraham",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Father, Father Abraham"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(On the Anniversary of Lincoln’s Birth)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Father, Father Abraham, Today look on us from above; On us, the offspring of thy faith, The children of thy Christ-like love."
+        },
+        {
+          "type": "paragraph",
+          "text": "For that which we have humbly wrought, Give us today thy kindly smile; Wherein we’ve failed or fallen short, Bear with us, Father, yet awhile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Father, Father Abraham, Today we lift our hearts to thee, Filled with the thought of what great price Was paid, that we might ransomed be."
+        },
+        {
+          "type": "paragraph",
+          "text": "Today we consecrate ourselves Anew in hand and heart and brain, To send this judgment down the years: The ransom was not paid in vain."
+        }
+      ]
+    },
+    {
+      "label": "Brothers",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "See! There he stands; not brave, but with an air Of sullen stupor. Mark him well! Is he Not more like brute than man? Look in his eye! No light is there; none, save the glint that shines In the now glaring, and now shifting orbs Of some wild animal caught in the hunter’s trap."
+        },
+        {
+          "type": "paragraph",
+          "text": "How came this beast in human shape and form? Speak, man!﻿—We call you man because you wear His shape﻿—How are you thus? Are you not from That docile, child-like, tender-hearted race Which we have known three centuries? Not from That more than faithful race which through three wars Fed our dear wives and nursed our helpless babes Without a single breach of trust? Speak out!"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am, and am not."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then who, why are you?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am a thing not new, I am as old As human nature. I am that which lurks, Ready to spring whenever a bar is loosed; The ancient trait which fights incessantly Against restraint, balks at the upward climb; The weight forever seeking to obey The law of downward pull;﻿—and I am more: The bitter fruit am I of planted seed; The resultant, the inevitable end Of evil forces and the powers of wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lessons in degradation, taught and learned, The memories of cruel sights and deeds, The pent-up bitterness, the unspent hate Filtered through fifteen generations have Sprung up and found in me sporadic life. In me the muttered curse of dying men, On me the stain of conquered women, and Consuming me the fearful fires of lust, Lit long ago, by other hands than mine. In me the down-crushed spirit, the hurled-back prayers Of wretches now long dead﻿—their dire bequests﻿— In me the echo of the stifled cry Of children for their bartered mothers’ breasts."
+        },
+        {
+          "type": "paragraph",
+          "text": "I claim no race, no race claims me; I am No more than human dregs; degenerate; The monstrous offspring of the monster, Sin; I am﻿—just what I am.﻿ ﻿… The race that fed Your wives and nursed your babes would do the same Today, but I﻿— Enough, the brute must die! Quick! Chain him to that oak! It will resist The fire much longer than this slender pine. Now bring the fuel! Pile it ’round him! Wait! Pile not so fast or high! or we shall lose The agony and terror in his face. And now the torch! Good fuel that! the flames Already leap head-high. Ha! hear that shriek! And there’s another! Wilder than the first. Fetch water! Water! Pour a little on The fire, lest it should burn too fast. Hold so! Now let it slowly blaze again. See there! He squirms! He groans! His eyes bulge wildly out, Searching around in vain appeal for help! Another shriek, the last! Watch how the flesh Grows crisp and hangs till, turned to ash, it sifts Down through the coils of chain that hold erect The ghastly frame against the bark-scorched tree."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stop! to each man no more than one man’s share. You take that bone, and you this tooth; the chain﻿— Let us divide its links; this skull, of course, In fair division, to the leader comes."
+        },
+        {
+          "type": "paragraph",
+          "text": "And now his fiendish crime has been avenged; Let us back to our wives and children.﻿—Say, What did he mean by those last muttered words, “Brothers in spirit, brothers in deed are we”?"
+        }
+      ]
+    },
+    {
+      "label": "Fragment",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The hand of Fate cannot be stayed, The course of Fate cannot be steered, By all the gods that man has made, Nor all the devils he has feared, Not by the prayers that might be prayed In all the temples he has reared."
+        },
+        {
+          "type": "paragraph",
+          "text": "See! In your very midst there dwell Ten thousand thousand blacks, a wedge Forged in the furnaces of hell, And sharpened to a cruel edge By wrong and by injustice fell, And driven by hatred as a sledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "A wedge so slender at the start﻿— Just twenty slaves in shackles bound﻿— And yet, which split the land apart With shrieks of war and battle sound, Which pierced the nation’s very heart, And still lies cankering in the wound."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not all the glory of your pride, Preserved in story and in song, Can from the judging future hide, Through all the coming ages long, That though you bravely fought and died, You fought and died for what was wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Tis fixed﻿—for them that violate The eternal laws, naught shall avail Till they their error expiate; Nor shall their unborn children fail To pay the full required weight Into God’s great, unerring scale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Think not repentance can redeem, That sin his wages can withdraw; No, think as well to change the scheme Of worlds that move in reverent awe; Forgiveness is an idle dream, God is not love, no, God is law."
+        }
+      ]
+    },
+    {
+      "label": "The White Witch",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O brothers mine, take care! Take care! The great white witch rides out to-night. Trust not your prowess nor your strength, Your only safety lies in flight; For in her glance there is a snare, And in her smile there is a blight."
+        },
+        {
+          "type": "paragraph",
+          "text": "The great white witch you have not seen? Then, younger brothers mine, forsooth, Like nursery children you have looked For ancient hag and snaggle-tooth; But no, not so; the witch appears In all the glowing charms of youth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her lips are like carnations, red, Her face like new-born lilies, fair, Her eyes like ocean waters, blue, She moves with subtle grace and air, And all about her head there floats The golden glory of her hair."
+        },
+        {
+          "type": "paragraph",
+          "text": "But though she always thus appears In form of youth and mood of mirth, Unnumbered centuries are hers, The infant planets saw her birth; The child of throbbing Life is she, Twin sister to the greedy earth."
+        },
+        {
+          "type": "paragraph",
+          "text": "And back behind those smiling lips, And down within those laughing eyes, And underneath the soft caress Of hand and voice and purring sighs, The shadow of the panther lurks, The spirit of the vampire lies."
+        },
+        {
+          "type": "paragraph",
+          "text": "For I have seen the great white witch, And she has led me to her lair, And I have kissed her red, red lips And cruel face so white and fair; Around me she has twined her arms, And bound me with her yellow hair."
+        },
+        {
+          "type": "paragraph",
+          "text": "I felt those red lips burn and sear My body like a living coal; Obeyed the power of those eyes As the needle trembles to the pole; And did not care although I felt The strength go ebbing from my soul."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh! she has seen your strong young limbs, And heard your laughter loud and gay, And in your voices she has caught The echo of a far-off day, When man was closer to the earth; And she has marked you for her prey."
+        },
+        {
+          "type": "paragraph",
+          "text": "She feels the old Antaean strength In you, the great dynamic beat Of primal passions, and she sees In you the last besieged retreat Of love relentless, lusty, fierce, Love pain-ecstatic, cruel-sweet."
+        },
+        {
+          "type": "paragraph",
+          "text": "O, brothers mine, take care! Take care! The great white witch rides out to-night. O, younger brothers mine, beware! Look not upon her beauty bright; For in her glance there is a snare, And in her smile there is a blight."
+        }
+      ]
+    },
+    {
+      "label": "Mother Night",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Eternities before the first-born day, Or ere the first sun fledged his wings of flame, Calm Night, the everlasting and the same, A brooding mother over chaos lay. And whirling suns shall blaze and then decay, Shall run their fiery courses and then claim The haven of the darkness whence they came; Back to Nirvanic peace shall grope their way."
+        },
+        {
+          "type": "paragraph",
+          "text": "So when my feeble sun of life burns out, And sounded is the hour for my long sleep, I shall, full weary of the feverish light, Welcome the darkness without fear or doubt, And heavy-lidded, I shall softly creep Into the quiet bosom of the Night."
+        }
+      ]
+    },
+    {
+      "label": "The Young Warrior",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mother, shed no mournful tears, But gird me on my sword; And give no utterance to thy fears, But bless me with thy word."
+        },
+        {
+          "type": "paragraph",
+          "text": "The lines are drawn! The fight is on! A cause is to be won! Mother, look not so white and wan; Give Godspeed to thy son."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now let thine eyes my way pursue Where’er my footsteps fare; And when they lead beyond thy view, Send after me a prayer."
+        },
+        {
+          "type": "paragraph",
+          "text": "But pray not to defend from harm, Nor danger to dispel; Pray, rather, that with steadfast arm I fight the battle well."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pray, mother of mine, that I always keep My heart and purpose strong, My sword unsullied and ready to leap Unsheathed against the wrong."
+        }
+      ]
+    },
+    {
+      "label": "The Glory of the Day Was in Her Face",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The glory of the day was in her face, The beauty of the night was in her eyes. And over all her loveliness, the grace Of Morning blushing in the early skies."
+        },
+        {
+          "type": "paragraph",
+          "text": "And in her voice, the calling of the dove; Like music of a sweet, melodious part. And in her smile, the breaking light of love; And all the gentle virtues in her heart."
+        },
+        {
+          "type": "paragraph",
+          "text": "And now the glorious day, the beauteous night, The birds that signal to their mates at dawn, To my dull ears, to my tear-blinded sight Are one with all the dead, since she is gone."
+        }
+      ]
+    },
+    {
+      "label": "From the Spanish",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Twenty years go by on noiseless feet, He returns, and once again they meet, She exclaims, “Good heavens! and is that he?” He mutters, “My God! and that is she!”"
+        }
+      ]
+    },
+    {
+      "label": "Before a Painting",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I knew not who had wrought with skill so fine What I beheld; nor by what laws of art He had created life and love and heart On canvas, from mere color, curve and line. Silent I stood and made no move or sign; Not with the crowd, but reverently apart; Nor felt the power my rooted limbs to start, But mutely gazed upon that face divine."
+        },
+        {
+          "type": "paragraph",
+          "text": "And over me the sense of beauty fell, As music over a raptured listener to The deep-voiced organ breathing out a hymn; Or as on one who kneels, his beads to tell, There falls the aureate glory filtered through The windows in some old cathedral dim."
+        }
+      ]
+    },
+    {
+      "label": "I Hear the Stars Still Singing",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I hear the stars still singing To the beautiful, silent night, As they speed with noiseless winging Their ever westward flight. I hear the waves still falling On the stretch of lonely shore, But the sound of a sweet voice calling I shall hear, alas! no more."
+        }
+      ]
+    },
+    {
+      "label": "Girl of Fifteen",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Girl of fifteen, I see you each morning from my window As you pass on your way to school. I do more than see, I watch you. I furtively draw the curtain aside. And my heart leaps through my eyes And follows you down the street; Leaving me behind, half-hid And wholly ashamed."
+        },
+        {
+          "type": "paragraph",
+          "text": "What holds me back, Half-hid behind the curtains and wholly ashamed, But my forty years beyond your fifteen?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Girl of fifteen, as you pass There passes, too, a lightning flash of time In which you lift those forty summers off my head, And take those forty winters out of my heart."
+        }
+      ]
+    },
+    {
+      "label": "The Suicide",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For fifty years, Cruel, insatiable Old World, You have punched me over the heart Till you made me cough blood. The few paltry things I gathered You snatched out of my hands. You have knocked the cup from my thirsty lips. You have laughed at my hunger of body and soul."
+        },
+        {
+          "type": "paragraph",
+          "text": "You look at me now and think, “He is still strong, There ought to be twenty more years of good punching there. At the end of that time he will be old and broken, Not able to strike back, But cringing and crying for leave To live a little longer.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Those twenty, pitiful, extra years Would please you more than the fifty past, Would they not, Old World? Well, I hold them up before your greedy eyes, And snatch them away as I laugh in your face, Ha! Ha! Bang﻿—!"
+        }
+      ]
+    },
+    {
+      "label": "Down by the Carib Sea",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "chapter",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "I"
+                },
+                {
+                  "type": "title",
+                  "text": "Sunrise in the Tropics"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Sol, Sol, mighty lord of the tropic zone, Here I wait with the trembling stars To see thee once more take thy throne."
+            },
+            {
+              "type": "paragraph",
+              "text": "There the patient palm tree watching Waits to say, “Good morn” to thee, And a throb of expectation Pulses through the earth and me."
+            },
+            {
+              "type": "paragraph",
+              "text": "Now, o’er nature falls a hush, Look! the East is all a-blush; And a growing crimson crest Dims the late stars in the west; Now, a flood of golden light Sweeps across the silver night, Swift the pale moon fades away Before the light-girt King of Day, See! the miracle is done! Once more behold! The Sun!"
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "II"
+                },
+                {
+                  "type": "title",
+                  "text": "Los Cigarillos"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "This is the land of the dark-eyed gente, Of the dolce far niente, Where we dream away Both the night and day, At night-time in sleep our dreams we invoke, Our dreams come by day through the redolent smoke, As it lazily curls, And slowly unfurls From our lips, And the tips Of our fragrant cigarillos. For life in the tropics is only a joke, So we pass it in dreams, and we pass it in smoke, Smoke﻿—smoke﻿—smoke."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tropical constitutions Call for occasional revolutions; But after that’s through, Why there’s nothing to do But smoke﻿—smoke;"
+            },
+            {
+              "type": "paragraph",
+              "text": "For life in the tropics is only a joke, So we pass it in dreams, and we pass it in smoke, Smoke﻿—smoke﻿—smoke."
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "III"
+                },
+                {
+                  "type": "title",
+                  "text": "Teestay"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Of tropic sensations, the worst Is, sin duda, the tropical thirst."
+            },
+            {
+              "type": "paragraph",
+              "text": "When it starts in your throat and constantly grows, Till you feel that it reaches down to your toes, When your mouth tastes like fur And your tongue turns to dust, There’s but one thing to do, And do it you must, Drink teestay."
+            },
+            {
+              "type": "paragraph",
+              "text": "Teestay, a drink with a history, A delicious, delectable mystery, “Cinco centavos el vaso, señor,” If you take one, you will surely want more."
+            },
+            {
+              "type": "paragraph",
+              "text": "Teestay, teestay, The national drink on a feast day; How it coolingly tickles, As downward it trickles, Teestay, teestay."
+            },
+            {
+              "type": "paragraph",
+              "text": "And you wish, as you take it down at a quaff, That your neck was constructed à la giraffe. Teestay, teestay."
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "IV"
+                },
+                {
+                  "type": "title",
+                  "text": "The Lottery Girl"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "“Lottery, lottery, Take a chance at the lottery? Take a ticket, Or, better, take two; Who knows what the future May hold for you? Lottery, lottery, Take a chance at the lottery?”"
+            },
+            {
+              "type": "paragraph",
+              "text": "Oh, limpid-eyed girl, I would take every chance, If only the prize Were a love-flashing glance From your fathomless eyes."
+            },
+            {
+              "type": "paragraph",
+              "text": "“Lottery, lottery, Try your luck at the lottery? Consider the size Of the capital prize, And take tickets For the lottery. Tickets, señor? Tickets, señor? Take a chance at the lottery?”"
+            },
+            {
+              "type": "paragraph",
+              "text": "Oh, crimson-lipped girl, With the magical smile, I would count that the gamble Were well worth the while, Not a chance would I miss, If only the prize Were a honey-bee kiss Gathered in sips From those full-ripened lips, And a love-flashing glance From your eyes."
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "V"
+                },
+                {
+                  "type": "title",
+                  "text": "The Dancing Girl"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Do you know what it is to dance? Perhaps, you do know, in a fashion; But by dancing I mean, Not what’s generally seen, But dancing of fire and passion, Of fire and delirious passion."
+            },
+            {
+              "type": "paragraph",
+              "text": "With a dusky-haired señorita, Her dark, misty eyes near your own, And her scarlet-red mouth, Like a rose of the south, The reddest that ever was grown, So close that you catch Her quick-panting breath As across your own face it is blown, With a sigh, and a moan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ah! that is dancing, As here by the Carib it’s known."
+            },
+            {
+              "type": "paragraph",
+              "text": "Now, whirling and twirling Like furies we go; Now, soft and caressing And sinuously slow; With an undulating motion, Like waves on a breeze-kissed ocean:﻿— And the scarlet-red mouth Is nearer your own, And the dark, misty eyes Still softer have grown."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ah! that is dancing, that is loving, As here by the Carib they’re known."
+            }
+          ]
+        },
+        {
+          "type": "chapter",
+          "blocks": [
+            {
+              "type": "hgroup",
+              "blocks": [
+                {
+                  "type": "ordinal+roman",
+                  "text": "VI"
+                },
+                {
+                  "type": "title",
+                  "text": "Sunset in the Tropics"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A silver flash from the sinking sun, Then a shot of crimson across the sky That, bursting, lets a thousand colors fly And riot among the clouds; they run, Deepening in purple, flaming in gold, Changing, and opening fold after fold, Then fading through all of the tints of the rose into gray, Till, taking quick fright at the coming night, They rush out down the west, In hurried quest Of the fleeing day."
+            },
+            {
+              "type": "paragraph",
+              "text": "Now above where the tardiest color flares a moment yet, One point of light, now two, now three are set To form the starry stairs﻿— And, in her fire-fly crown, Queen Night, on velvet slippered feet, comes softly down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "And the Greatest of These Is War",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Around the council-board of Hell, with Satan at their head, The Three Great Scourges of humanity sat. Gaunt Famine, with hollow cheek and voice, arose and spoke﻿— “O, Prince, I have stalked the earth, And my victims by ten thousands I have slain, I have smitten old and young. Mouths of the helpless old moaning for bread, I have filled with dust; And I have laughed to see a crying babe tug at the shriveling breast Of its mother, dead and cold. I have heard the cries and prayers of men go up to a tearless sky, And fall back upon an earth of ashes; But, heedless, I have gone on with my work. ’Tis thus, O, Prince, that I have scourged mankind.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And Satan nodded his head."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pale Pestilence, with stenchful breath, then spoke and said﻿— “Great Prince, my brother, Famine, attacks the poor. He is most terrible against the helpless and the old. But I have made a charnel-house of the mightiest cities of men. When I strike, neither their stores of gold or of grain avail. With a breath I lay low their strongest, and wither up their fairest. I come upon them without warning, lancing invisible death. From me they flee with eyes and mouths distended; I poison the air for which they gasp, and I strike them down fleeing. ’Tis thus, great Prince, that I have scourged mankind.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And Satan nodded his head."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the red monster, War, rose up and spoke﻿— His blood-shot eyes glared ’round him, and his thundering voice Echoed through the murky vaults of Hell.﻿— “O, mighty Prince, my brothers, Famine and Pestilence, Have slain their thousands and ten thousands﻿—true; But the greater their victories have been, The more have they wakened in Man’s breast The God-like attributes of sympathy, of brotherhood and love And made of him a searcher after wisdom. But I arouse in Man the demon and the brute, I plant black hatred in his heart and red revenge. From the summit of fifty thousand years of upward climb I haul him down to the level of the start, back to the wolf. I give him claws. I set his teeth into his brother’s throat. I make him drunk with his brother’s blood. And I laugh ho! ho! while he destroys himself. O, mighty Prince, not only do I slay, But I draw Man hellward.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And Satan smiled, stretched out his hand, and said﻿— “O War, of all the scourges of humanity, I crown you chief.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And Hell rang with the acclamation of the Fiends."
+        }
+      ]
+    },
+    {
+      "label": "A Mid-Day Dreamer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I love to sit alone, and dream, And dream, and dream; In fancy’s boat to softly glide Along some stream Where fairy palaces of gold And crystal bright Stand all along the glistening shore: A wondrous sight."
+        },
+        {
+          "type": "paragraph",
+          "text": "My craft is built of ivory, With silver oars, The sails are spun of golden threads, And priceless stores Of precious gems adorn its prow, And ’round its mast An hundred silken cords are set To hold it fast."
+        },
+        {
+          "type": "paragraph",
+          "text": "My galley-slaves are sprightly elves Who, as they row, And as their shining oars they swing Them to and fro, Keep time to music wafted on The scented air, Made by the mermaids as they comb Their golden hair."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I the while lie idly back, And dream, and dream, And let them row me where they will Adown the stream."
+        }
+      ]
+    },
+    {
+      "label": "The Temptress",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Old Devil, when you come with horns and tail, With diabolic grin and crafty leer; I say, such bogey-man devices wholly fail To waken in my heart a single fear."
+        },
+        {
+          "type": "paragraph",
+          "text": "But when you wear a form I know so well, A form so human, yet so near divine; ’Tis then I fall beneath the magic of your spell, ’Tis then I know the vantage is not mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah! when you take your horns from off your head, And soft and fragrant hair is in their place; I must admit I fear the tangled path I tread When that dear head is laid against my face."
+        },
+        {
+          "type": "paragraph",
+          "text": "And at what time you change your baleful eyes For stars that melt into the gloom of night, All of my courage, my dear fellow, quickly flies; I know my chance is slim to win the fight."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when, instead of charging down to wreck Me on a red-hot pitchfork in your hand, You throw a pair of slender arms about my neck, I dare not trust the ground on which I stand."
+        },
+        {
+          "type": "paragraph",
+          "text": "Whene’er in place of using patent wile, Or trying to frighten me with horrid grin, You tempt me with two crimson lips curved in a smile; Old Devil, I must really own, you win."
+        }
+      ]
+    },
+    {
+      "label": "Ghosts of the Old Year",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The snow has ceased its fluttering flight, The wind sunk to a whisper light, An ominous stillness fills the night, A pause﻿—a hush. At last, a sound that breaks the spell, Loud, clanging mouthings of a bell, That through the silence peal and swell, And roll, and rush."
+        },
+        {
+          "type": "paragraph",
+          "text": "What does this brazen tongue declare, That falling on the midnight air Brings to my heart a sense of care Akin to fright? ’Tis telling that the year is dead, The New Year come, the Old Year fled, Another leaf before me spread On which to write."
+        },
+        {
+          "type": "paragraph",
+          "text": "It tells the deeds that were not done, It tells of races never run, Of victories that were not won, Barriers unleaped. It tells of many a squandered day, Of slighted gems and treasured clay, Of precious stores not laid away, Of fields unreaped."
+        },
+        {
+          "type": "paragraph",
+          "text": "And so the years go swiftly by, Each, coming, brings ambitions high, And each, departing, leaves a sigh Linked to the past. Large resolutions, little deeds; Thus, filled with aims unreached, life speeds Until the blotted record reads, “Failure!” at last."
+        }
+      ]
+    },
+    {
+      "label": "The Ghost of Deacon Brown",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a backwoods town Lived Deacon Brown, And he was a miser old; He would trust no bank, So he dug, and sank In the ground a box of gold, Down deep in the ground a box of gold."
+        },
+        {
+          "type": "paragraph",
+          "text": "He hid his gold, As has been told, He remembered that he did it; But sad to say, On the very next day, He forgot just where he hid it: To find his gold he tried and tried Till he grew faint and sick, and died."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then on each dark and gloomy night A form in phosphorescent white, A genuine hair-raising sight, Would wander through the town. And as it slowly roamed around, With a spade it dug each foot of ground; So the folks about Said there was no doubt ’Twas the ghost of Deacon Brown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Around the church This Ghost would search, And whenever it would see The passers-by Take wings and fly It would laugh in ghostly glee, Hee, hee!﻿—it would laugh in ghostly glee."
+        },
+        {
+          "type": "paragraph",
+          "text": "And so the town Went quickly down, For they said that it was haunted; And doors and gates, So the story states, Bore a notice, “Tenants wanted.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the town is now for let, But the ghost is digging yet."
+        }
+      ]
+    },
+    {
+      "label": "“Lazy”",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some men enjoy the constant strife Of days with work and worry rife, But that is not my dream of life: I think such men are crazy. For me, a life with worries few, A job of nothing much to do, Just pelf enough to see me through: I fear that I am lazy."
+        },
+        {
+          "type": "paragraph",
+          "text": "On winter mornings cold and drear, When six o’clock alarms I hear, ’Tis then I love to shift my ear, And hug my downy pillows. When in the shade it’s ninety-three, No job in town looks good to me, I’d rather loaf down by the sea, And watch the foaming billows."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some people think the world’s a school, Where labor is the only rule; But I’ll not make myself a mule, And don’t you ever doubt it. I know that work may have its use, But still I feel that’s no excuse For turning it into abuse; What do you think about it?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Let others fume and sweat and boil, And scratch and dig for golden spoil, And live the life of work and toil, Their lives to labor giving. But what is gold when life is sped, And life is short, as has been said, And we are such a long time dead, I’ll spend my life in living."
+        }
+      ]
+    },
+    {
+      "label": "Omar",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Old Omar, jolly sceptic, it may be That, after all, you found the magic key To life and all its mystery, and I Must own you have almost persuaded me."
+        }
+      ]
+    },
+    {
+      "label": "Deep in the Quiet Wood",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Are you bowed down in heart? Do you but hear the clashing discords and the din of life? Then come away, come to the peaceful wood, Here bathe your soul in silence. Listen! Now, From out the palpitating solitude Do you not catch, yet faint, elusive strains? They are above, around, within you, everywhere. Silently listen! Clear, and still more clear, they come. They bubble up in rippling notes, and swell in singing tones. Now let your soul run the whole gamut of the wondrous scale Until, responsive to the tonic chord, It touches the diapason of God’s grand cathedral organ, Filling earth for you with heavenly peace And holy harmonies."
+        }
+      ]
+    },
+    {
+      "label": "Voluptas",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "To chase a never-reached mirage Across the hot, white sand, And choke and die, while gazing on Its green and watered strand."
+        }
+      ]
+    },
+    {
+      "label": "The Word of an Engineer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“She’s built of steel From deck to keel, And bolted strong and tight; In scorn she’ll sail The fiercest gale, And pierce the darkest night."
+        },
+        {
+          "type": "paragraph",
+          "text": "“The builder’s art Has proved each part Throughout her breadth and length; Deep in the hulk, Of her mighty bulk, Ten thousand Titans’ strength.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The tempest howls, The Ice Wolf prowls, The winds they shift and veer, But calm I sleep, And faith I keep In the word of an engineer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Along the trail Of the slender rail The train, like a nightmare, flies And dashes on Through the black-mouthed yawn Where the cavernous tunnel lies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the ridge, Across the bridge, Swung twixt the sky and hell, On an iron thread Spun from the head Of the man in a draughtsman’s cell."
+        },
+        {
+          "type": "paragraph",
+          "text": "And so we ride Over land and tide, Without a thought of fear﻿— Man never had The faith in God That he has in an engineer!"
+        }
+      ]
+    },
+    {
+      "label": "Life",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Out of the infinite sea of eternity To climb, and for an instant stand Upon an island speck of time."
+        },
+        {
+          "type": "paragraph",
+          "text": "From the impassible peace of the darkness To wake, and blink at the garish light Through one short hour of fretfulness."
+        }
+      ]
+    },
+    {
+      "label": "Sleep",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O Sleep, thou kindest minister to man, Silent distiller of the balm of rest, How wonderful thy power, when naught else can, To soothe the torn and sorrow-laden breast! When bleeding hearts no comforter can find, When burdened souls droop under weight of woe, When thought is torture to the troubled mind, When grief-relieving tears refuse to flow; ’Tis then thou comest on soft-beating wings, And sweet oblivion’s peace from them is shed; But ah, the old pain that the waking brings! That lives again so soon as thou art fled!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Man, why should thought of death cause thee to weep; Since death be but an endless, dreamless sleep?"
+        }
+      ]
+    },
+    {
+      "label": "Prayer at Sunrise",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "O mighty, powerful, dark-dispelling sun, Now thou art risen, and thy day begun. How shrink the shrouding mists before thy face, As up thou spring’st to thy diurnal race! How darkness chases darkness to the west, As shades of light on light rise radiant from thy crest! For thee, great source of strength, emblem of might, In hours of darkest gloom there is no night. Thou shinest on though clouds hide thee from sight, And through each break thou sendest down thy light."
+        },
+        {
+          "type": "paragraph",
+          "text": "O greater Maker of this Thy great sun, Give me the strength this one day’s race to run, Fill me with light, fill me with sun-like strength, Fill me with joy to rob the day its length. Light from within, light that will outward shine, Strength to make strong some weaker heart than mine, Joy to make glad each soul that feels its touch; Great Father of the sun, I ask this much."
+        }
+      ]
+    },
+    {
+      "label": "The Gift to Sing",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sometimes the mist overhangs my path, And blackening clouds about me cling; But, oh, I have a magic way To turn the gloom to cheerful day﻿— I softly sing."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if the way grows darker still, Shadowed by Sorrow’s somber wing, With glad defiance in my throat, I pierce the darkness with a note, And sing, and sing."
+        },
+        {
+          "type": "paragraph",
+          "text": "I brood not over the broken past, Nor dread whatever time may bring; No nights are dark, no days are long, While in my heart there swells a song, And I can sing."
+        }
+      ]
+    },
+    {
+      "label": "Morning, Noon and Night",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When morning shows her first faint flush, I think of the tender blush That crept so gently to your cheek When first my love I dared to speak; How, in your glance, a dawning ray Gave promise of love’s perfect day."
+        },
+        {
+          "type": "paragraph",
+          "text": "When, in the ardent breath of noon, The roses with passion swoon; There steals upon me from the air The scent that lurked within your hair; I touch your hand, I clasp your form﻿— Again your lips are close and warm."
+        },
+        {
+          "type": "paragraph",
+          "text": "When comes the night with beauteous skies, I think of your tear-dimmed eyes, Their mute entreaty that I stay, Although your lips sent me away; And then falls memory’s bitter blight, And dark﻿—so dark becomes the night."
+        }
+      ]
+    },
+    {
+      "label": "Her Eyes Twin Pools",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Her eyes, twin pools of mystic light, The blend of star-sheen and black night; O’er which, to sound their glamouring haze, A man might bend, and vainly gaze."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her eyes, twin pools so dark and deep, In which life’s ancient mysteries sleep; Wherein, to seek the quested goal, A man might plunge, and lose his soul."
+        }
+      ]
+    },
+    {
+      "label": "The Awakening",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I dreamed that I was a rose That grew beside a lonely way, Close by a path none ever chose, And there I lingered day by day. Beneath the sunshine and the show’r I grew and waited there apart, Gathering perfume hour by hour, And storing it within my heart, Yet, never knew, Just why I waited there and grew."
+        },
+        {
+          "type": "paragraph",
+          "text": "I dreamed that you were a bee That one day gaily flew along, You came across the hedge to me, And sang a soft, love-burdened song. You brushed my petals with a kiss, I woke to gladness with a start, And yielded up to you in bliss The treasured fragrance of my heart; And then I knew That I had waited there for you."
+        }
+      ]
+    },
+    {
+      "label": "Beauty That Is Never Old",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When buffeted and beaten by life’s storms, When by the bitter cares of life oppressed, I want no surer haven than your arms, I want no sweeter heaven than your breast."
+        },
+        {
+          "type": "paragraph",
+          "text": "When over my life’s way there falls the blight Of sunless days, and nights of starless skies; Enough for me, the calm and steadfast light That softly shines within your loving eyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The world, for me, and all the world can hold Is circled by your arms; for me there lies, Within the lights and shadows of your eyes, The only beauty that is never old."
+        }
+      ]
+    },
+    {
+      "label": "Venus in a Garden",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "’Twas at early morning, The dawn was blushing in her purple bed, When in a sweet, embowered garden She, the fairest of the goddesses, The lovely Venus, Roamed amongst the roses white and red. She sought for flowers To make a garland For her golden head."
+        },
+        {
+          "type": "paragraph",
+          "text": "Snow-white roses, blood-red roses, In that sweet garden close, Offered incense to the goddess: Both the white and the crimson rose."
+        },
+        {
+          "type": "paragraph",
+          "text": "White roses, red roses, blossoming: But the fair Venus knew The crimson roses had gained their hue From the hearts that for love had bled; And the goddess made a garland Gathered from the roses red."
+        }
+      ]
+    },
+    {
+      "label": "Vashti",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I sometimes take you in my dreams to a far-off land I used to know, Back in the ages long ago; a land of palms and languid streams."
+        },
+        {
+          "type": "paragraph",
+          "text": "A land, by night, of jeweled skies, by day, of shores that glistened bright, Within whose arms, outstretched and white, a sapphire sea lay crescent-wise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where twilight fell like silver floss, where rose the golden moon half-hid Behind a shadowy pyramid; a land beneath the Southern Cross."
+        },
+        {
+          "type": "paragraph",
+          "text": "And there the days dreamed in their flight, each one a poem chanted through, Which at its close was merged into the muted music of the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "And you were a princess in those days. And I﻿—I was your serving lad. But who ever served with heart so glad, or lived so for a word of praise?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if that word you chanced to speak, how all my senses swayed and reeled, Till low beside your feet I kneeled, with happiness o’erwrought and weak."
+        },
+        {
+          "type": "paragraph",
+          "text": "If, when your golden cup I bore, you deigned to lower your eyes to mine, Eyes cold, yet fervid, like the wine, I knew not how to wish for more."
+        },
+        {
+          "type": "paragraph",
+          "text": "I trembled at the thought to dare to gaze upon, to scrutinize The deep-sea mystery of your eyes, the sun-lit splendor of your hair."
+        },
+        {
+          "type": "paragraph",
+          "text": "To let my timid glances rest upon you long enough to note How fair and slender was your throat, how white the promise of your breast."
+        },
+        {
+          "type": "paragraph",
+          "text": "But though I did not dare to chance a lingering look, an open gaze Upon your beauty’s blinding rays, I ventured many a stolen glance."
+        },
+        {
+          "type": "paragraph",
+          "text": "I fancy, too, (but could not state what trick of mind the fancy caused) At times your eyes upon me paused, and marked my figure lithe and straight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once when my eyes met yours it seemed that in your cheek, despite your pride, A flush arose and swiftly died; or was it something that I dreamed?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Within your radiance like the star of morning, there I stood and served, Close by, unheeded, unobserved. You were so near, and, yet, so far."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ah! just to stretch my hand and touch the musky sandals on your feet!﻿— My breaking heart! of rapture sweet it never could have held so much."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, beauty-haunted memory! Your face so proud, your eyes so calm, Your body like a slim young palm, and sinuous as a willow tree."
+        },
+        {
+          "type": "paragraph",
+          "text": "Caught up beneath your slender arms, and girdled ’round your supple waist, A robe of curious silk that graced, but only scarce concealed your charms."
+        },
+        {
+          "type": "paragraph",
+          "text": "A golden band about your head, a crimson jewel at your throat Which, when the sunlight on it smote, turned to a living heart and bled."
+        },
+        {
+          "type": "paragraph",
+          "text": "But, oh, that mystic bleeding stone, that work of Nature’s magic art, Which mimicked so a wounded heart, could never bleed as did my own!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now after ages long and sad, in this stern land we meet anew; No more a princess proud are you, and I﻿—I am no serving lad."
+        },
+        {
+          "type": "paragraph",
+          "text": "And yet, dividing us, I meet a wider gulf than that which stood Between a princess of the blood and him who served low at her feet."
+        }
+      ]
+    },
+    {
+      "label": "The Reward",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "No greater earthly boon than this I crave, That those who some day gather ’round my grave, In place of tears, may whisper of me then, “He sang a song that reached the hearts of men.”"
+        }
+      ]
+    },
+    {
+      "label": "Sence You Went Away",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Seems lak to me de stars don’t shine so bright, Seems lak to me de sun done loss his light, Seems lak to me der’s nothin’ goin’ right, Sence you went away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seems lak to me de sky ain’t half so blue, Seems lak to me dat ev’ything wants you, Seems lak to me I don’t know what to do, Sence you went away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seems lak to me dat ev’ything is wrong, Seems lak to me de day’s jes twice as long, Seems lak to me de bird’s forgot his song, Sence you went away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seems lak to me I jes can’t he’p but sigh, Seems lak to me ma th’oat keeps gittin’ dry, Seems lak to me a tear stays in ma eye, Sence you went away."
+        }
+      ]
+    },
+    {
+      "label": "Ma Lady’s Lips Am Like de Honey",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Ma Lady’s Lips Am Like de Honey"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(Negro Love Song)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Breeze a-sighin’ and a-blowin’, Southern summer night. Stars a-gleamin’ and a-glowin’, Moon jes shinin’ right. Strollin’, like all lovers do, Down de lane wid Lindy Lou; Honey on her lips to waste; ’Speck I’m gwine to steal a taste."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, ma lady’s lips am like de honey, Ma lady’s lips am like de rose; An’ I’m jes like de little bee a-buzzin’ ’Round de flower wha’ de nectah grows. Ma lady’s lips dey smile so temptin’, Ma lady’s teeth so white dey shine, Oh, ma lady’s lips so tantalizin’, Ma lady’s lips so close to mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bird a-whistlin’ and a-swayin’ In de live-oak tree; Seems to me he keeps a-sayin’, “Kiss dat gal fo’ me.” Look heah, Mister Mockin’ Bird, Gwine to take you at yo’ word; If I meets ma Waterloo, Gwine to blame it all on you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, ma lady’s lips am like de honey, Ma lady’s lips am like de rose; An’ I’m jes like de little bee a-buzzin’ ’Round de flower wha’ de nectah grows. Ma lady’s lips dey smile so temptin’, Ma lady’s teeth so white dey shine, Oh, ma lady’s lips so tantalizin’, Ma lady’s lips so close to mine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honey in de rose, I spose, is Put der fo’ de bee; Honey on her lips, I knows, is Put der jes fo’ me. Seen a sparkle in her eye, Heard her heave a little sigh; Felt her kinder squeeze ma han’, ’Nuff to make me understan’."
+        }
+      ]
+    },
+    {
+      "label": "Tunk",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Tunk"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(A Lecture on Modern Education)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Look heah, Tunk!﻿—Now, ain’t dis awful! T’ought I sont you off to school. Don’t you know dat you is growin’ up to be a reg’lah fool?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Whah’s dem books dat I’s done bought you? Look heah, boy, you tell me quick, Whah’s dat Webster blue-back spellah an’ dat bran’ new ’rifmatic?"
+        },
+        {
+          "type": "paragraph",
+          "text": "W’ile I’m t’inkin’ you is lahnin’ in de school, why bless ma soul! You off in de woods a-playin’. Can’t you do like you is tole?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Boy, I tell you, it’s jes scan’lous d’way dat you is goin’ on. An’ you sholy go’n be sorry, jes as true as you is bo’n."
+        },
+        {
+          "type": "paragraph",
+          "text": "Heah I’m tryin’ hard to raise you as a credit to dis race, An’ you tryin’ heap much harder fu’ to come up in disgrace."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dese de days w’en men don’t git up to de top by hooks an’ crooks; Tell you now, dey’s got to git der standin’ on a pile o’ books."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en you sees a darkey goin’ to de fiel’ as soon as light, Followin’ a mule across it f’om de mawnin’ tel de night,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wukin’ all his life fu’ vittles, hoein’ ’tween de cott’n rows, W’en he knocks off ole an’ tiah’d, ownin’ nut’n but his clo’es,"
+        },
+        {
+          "type": "paragraph",
+          "text": "You kin put it down to ignunce, aftah all what’s done an’ said, You kin bet dat dat same darkey ain’t got nut’n in his head."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ain’t you seed dem w’ite men set’n in der awfice? Don’t you know Dey goes der ’bout nine each mawnin? Bless yo’ soul, dey’s out by fo’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dey jes does a little writin’; does dat by some easy means; Gals jes set an’ play piannah on dem printin’ press muchines."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chile, dem men knows how to figgah, how to use dat little pen, An’ dey knows dat blue-back spellah f’om beginnin’ to de en’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dat’s de ’fect of education; dat’s de t’ing what’s gwine to rule; Git dem books, you lazy rascal! Git back to yo’ place in school!"
+        }
+      ]
+    },
+    {
+      "label": "Nobody’s Lookin’ but de Owl and de Moon",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Nobody’s Lookin’ but de Owl and de Moon"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(A Negro Serenade)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "De river is a-glistenin’ in de moonlight, De owl is set’n high up in de tree; De little stars am twinklin’ wid a sof’ light, De night seems only jes fu’ you an’ me. Thoo de trees de breezes am a-sighin’, Breathin’ out a sort o’ lover’s croon, Der’s nobody lookin’ or a-spyin’, Nobody but de owl an’ de moon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nobody’s lookin’ but de owl an’ de moon, An’ de night is balmy; fu’ de month is June; Come den, Honey, won’t you? Come to meet me soon, Wile nobody’s lookin’ but de owl an’ de moon."
+        },
+        {
+          "type": "paragraph",
+          "text": "I feel so kinder lonely all de daytime, It seems I raly don’t know what to do; I jes keep sort a-longin’ fu’ de night-time, ’Cause den I know dat I can be wid you. An’ de thought jes sets my brain a-swayin’, An’ my heart a-beatin’ to a tune; Come, de owl won’t tell w’at we’s a-sayin’, An’ cose you know we kin trus’ de moon."
+        }
+      ]
+    },
+    {
+      "label": "You’s Sweet to Yo’ Mammy Jes de Same",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "You’s Sweet to Yo’ Mammy Jes de Same"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(Lullaby)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Shet yo’ eyes, ma little pickaninny, go to sleep Mammy’s watchin’ by you all de w’ile; Daddy is a-wukin’ down in de cott’n fiel’, Wukin’ fu’ his little honey child. An’ yo’ mammy’s heart is jes a-brimmin’ full o’ lub Fu’ you f’om yo’ head down to yo’ feet; Oh, no mattah w’at some othah folks may t’ink o’ you, To yo’ mammy’s heart you’s mighty sweet."
+        },
+        {
+          "type": "paragraph",
+          "text": "You’s sweet to yo’ mammy jes de same; Dat’s why she calls you Honey fu’ yo’ name. Yo’ face is black, dat’s true, An’ yo’ hair is woolly, too, But, you’s sweet to yo’ mammy jes de same."
+        },
+        {
+          "type": "paragraph",
+          "text": "Up der in de big house w’ere dey lib so rich an’ gran’ Dey’s got chillen dat dey lubs, I s’pose; Chillen dat is purty, oh, but dey can’t lub dem mo’ Dan yo’ mammy lubs you, heaben knows!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dey may t’ink you’s homely, an’ yo’ clo’es dey may be po’, But yo’ shinin’ eyes, dey hol’s a light Dat, my Honey, w’en you opens dem so big an’ roun’, Makes you lubly in yo’ mammy’s sight."
+        }
+      ]
+    },
+    {
+      "label": "A Plantation Bacchanal",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "W’en ole Mister Sun gits tiah’d a-hangin’ High up in de sky; W’en der ain’t no thunder and light’nin’ a-bangin’, An’ de crap’s done all laid by; W’en yo’ bones ain’t achin’ wid de rheumatics, Den yo’ ride de mule to town, Git a great big jug o’ de ole corn juice, An’ w’en you drink her down﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jes lay away ole Trouble, An’ dry up all yo’ tears; Yo’ pleasure sho’ to double An’ you bound to lose yo’ keers. Jes lay away ole Sorrer High upon de shelf; And never mind to-morrer, ’Twill take care of itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en ole Mister Age begins a-stealin’ Thoo yo’ back an’ knees, W’en yo’ bones an’ jints lose der limber feelin’, An’ am stiff’nin’ by degrees; Now der’s jes one way to feel young and spry, W’en you heah dem banjos soun’ Git a great big swig o’ de ole corn juice, An’ w’en you drink her down﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jes lay away ole Trouble, An’ dry up all yo’ tears; Yo’ pleasure sho’ to double An’ you bound to lose yo’ keers. Jes lay away ole Sorrer High upon de shelf; And never mind to-morrer, ’Twill take care of itself."
+        }
+      ]
+    },
+    {
+      "label": "July in Georgy",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I’m back down in ole Georgy w’ere de sun is shinin’ hot, W’ere de cawn it is a-tasslin’, gittin’ ready fu’ de pot;"
+        },
+        {
+          "type": "paragraph",
+          "text": "W’ere de cott’n is a-openin’ an’ a-w’itenin’ in de sun, An’ de ripenin’ o’ de sugah-cane is mighty nigh begun."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ de locus’ is a-singin’ f’om eveh bush an’ tree, An’ you kin heah de hummin’ o’ de noisy bumblebee;"
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ de mule he stan’s a-dreamin’ an’ a-dreamin’ in de lot, An’ de sun it is a-shinin’ mighty hot, hot, hot."
+        },
+        {
+          "type": "paragraph",
+          "text": "But evehbody is a-restin’, fu’ de craps is all laid by, An’ time fu’ de camp-meetin’ is a-drawin’ purty nigh;"
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ we’s put away de ploughshare, an’ we’s done hung up de spade, An’ we’s eatin’ watermelon, an’ a-layin’ in de shade."
+        }
+      ]
+    },
+    {
+      "label": "A Banjo Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "W’en de banjos wuz a-ringin’, An’ de darkies wuz a-singin’, Oh, wuzen dem de good times sho! All de ole folks would be chattin’, An’ de pickaninnies pattin’, As dey heah’d de feet a-shufflin’ ’cross de flo’."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ how we’d dance, an’ how we’d sing! Dance tel de day done break. An’ how dem banjos dey would ring, An’ de cabin flo’ would shake!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Come along, come along, Come along, come along, Don’t you heah dem banjos a-ringin’?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gib a song, gib a song, Gib a song, gib a song, Git yo’ feet fixed up fu’ a-wingin’."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’ile de banjos dey go plunka, plunka, plunk, We’ll dance tel de ole flo’ shake; W’ile de feet keep a-goin’ chooka, chooka, chook, We’ll dance tel de day done break."
+        }
+      ]
+    },
+    {
+      "label": "Answer to Prayer",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Der ain’t no use in sayin’ de Lawd won’t answer prah; If you knows how to ax Him, I knows He’s bound to heah."
+        },
+        {
+          "type": "paragraph",
+          "text": "De trouble is, some people don’t ax de proper way, Den w’en dey git’s no answer dey doubts de use to pray."
+        },
+        {
+          "type": "paragraph",
+          "text": "You got to use egzac’ly de ’spressions an’ de words To show dat ’tween yo’ faith an’ works, you ’pends on works two-thirds."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, one time I remember﻿—jes how long I won’t say﻿— I thought I’d like a turkey to eat on Chris’mus day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu’ weeks I dreamed ’bout turkeys, a-struttin’ in der pride; But seed no way to get one﻿—widout de Lawd pervide."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ so I went to prayin’, I pray’d wid all my might; “Lawd, sen’ to me a turkey.” I pray’d bofe day an’ night."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Lawd, sen’ to me a turkey, a big one if you please.” I ’clar to heaben I pray’d so much I mos’ wore out ma knees."
+        },
+        {
+          "type": "paragraph",
+          "text": "I pray’d dat prah so often, I pray’d dat prah so long, Yet didn’t git no turkey, I know’d ’twas sump’n wrong."
+        },
+        {
+          "type": "paragraph",
+          "text": "So on de night ’fore Chris’mus w’en I got down to pray, “Lawd, sen’ me to a turkey,” I had de sense to say."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Lawd, sen’ me to a turkey.” I know dat prah was right, An’ it was sholy answer’d; I got de bird dat night."
+        }
+      ]
+    },
+    {
+      "label": "Dat Gal o’ Mine",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Skin as black an’ jes as sof’ as a velvet dress, Teeth as white as ivory﻿—well dey is I guess."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eyes dat’s jes as big an’ bright as de evenin’ star; An’ dat hol’ some sort o’ light lublier by far."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hair don’t hang ’way down her back; plaited up in rows; Wid de two en’s dat’s behin’ tied wid ribben bows."
+        },
+        {
+          "type": "paragraph",
+          "text": "Han’s dat raly wuz’n made fu’ hard work, I’m sho’; Got a little bit o’ foot; weahs a numbah fo’."
+        },
+        {
+          "type": "paragraph",
+          "text": "You jes oughtah see dat gal Sunday’s w’en she goes To de Baptis’ meetin’ house, dressed in her bes’ clo’es."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en she puts her w’ite dress on an’ othah things so fine; Now, Su’, don’t you know I’m proud o’ dat gal o’ mine."
+        }
+      ]
+    },
+    {
+      "label": "The Seasons",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "W’en de leaves begin to fall, An’ de fros’ is on de ground, An’ de ’simmons is a-ripenin’ on de tree; W’en I heah de dinner call, An’ de chillen gadder ’round, ’Tis den de ’possum is de meat fu’ me."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en de wintertime am pas’ An’ de spring is come at las’, W’en de good ole summer sun begins to shine; Oh! my thoughts den tek a turn, An’ my heart begins to yearn Fo’ dat watermelon growin’ on de vine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, de yeah will sholy bring ’Round a season fu’ us all, Ev’y one kin pick his season f’om de res’; But de melon in de spring, An’ de ’possum in de fall, Mek it hard to tell which time o’ year am bes’."
+        }
+      ]
+    },
+    {
+      "label": "’Possum Song",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "song"
+      ],
+      "blocks": [
+        {
+          "type": "header",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "’Possum Song"
+            },
+            {
+              "type": "bridgehead",
+              "text": "(A Warning)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "’Simmons ripenin’ in de fall, You better run, Brudder ’Possum, run! Mockin’ bird commence to call, You better run, Brudder ’Possum, git out de way! You better run, Brudder ’Possum, git out de way! Run some whar an’ hide! Ole moon am sinkin’ Down behin’ de tree. Ole Eph am thinkin’ An’ chuckelin’ wid glee. Ole Tige am blinkin’ An’ frisky as kin be, Yo’ chances, Brudder ’Possum, Look mighty slim to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Run, run, run, I tell you, Run, Brudder ’Possum, run! Run, run, run, I tell you, Ole Eph’s got a gun. Pickaninnies grinnin’ Waitin’ fu’ to see de fun. You better run, Brudder ’Possum, git out de way! Run, Brudder ’Possum, run!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Brudder ’Possum take a tip; You better run, Brudder ’Possum, run! ’Tain’t no use in actin’ flip, You better run, Brudder ’Possum, git out de way! You better run, Brudder ’Possum, git out de way! Run some whar an’ hide. Dey’s gwine to houn’ you All along de line, W’en dey done foun’ you, Den what’s de use in sighin’? Wid taters roun’ you. You sholy would tase fine﻿— So listen, Brudder ’Possum, You better be a-flyin’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Run, run, run, I tell you, Run, Brudder ’Possum, run! Run, run, run, I tell you, Ole Eph’s got a gun. Pickaninnies grinnin’ Waitin’ fu’ to see de fun. You better run, Brudder ’Possum, git out de way! Run, Brudder ’Possum, run!"
+        }
+      ]
+    },
+    {
+      "label": "Brer Rabbit, You’s de Cutes’ of ’Em All",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Once der was a meetin’ in de wilderness, All de critters of creation dey was dar; Brer Rabbit, Brer ’Possum, Brer Wolf, Brer Fox, King Lion, Mister Terrapin, Mister B’ar. De question fu’ discussion was, “Who is de bigges’ man?” Dey ’pinted ole Jedge Owl to decide; He polished up his spectacles an’ put ’em on his nose, An’ to the question slowly he replied:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Brer Wolf am mighty cunnin’, Brer Fox am mighty sly, Brer Terrapin an’ ’Possum﻿—kinder small; Brer Lion’s mighty vicious, Brer B’ar he’s sorter ’spicious, Brer Rabbit, you’s de cutes’ of ’em all.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dis caused a great confusion ’mongst de animals, Ev’y critter claimed dat he had won de prize; Dey ’sputed an’ dey arg’ed, dey growled an’ dey roared, Den putty soon de dus’ begin to rise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brer Rabbit he jes’ stood aside an’ urged ’em on to fight. Brer Lion he mos’ tore Brer B’ar in two; W’en dey was all so tiahd dat dey couldn’t catch der bref Brer Rabbit he jes’ grabbed de prize an’ flew."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brer Wolf am mighty cunnin’, Brer Fox am mighty sly, Brer Terrapin an’ Possum﻿—kinder small; Brer Lion’s mighty vicious, Brer B’ar he’s sorter ’spicious, Brer Rabbit, you’s de cutes’ of ’em all."
+        }
+      ]
+    },
+    {
+      "label": "An Explanation",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Look heah! ’Splain to me de reason Why you said to Squire Lee, Der wuz twelve ole chicken thieves In dis heah town, includin’ me. Ef he tole you dat, my brudder, He said sump’n dat warn’t true; W’at I said wuz dis, dat der wuz Twelve, widout includin’ you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh!﻿ ﻿… !﻿—"
+        }
+      ]
+    },
+    {
+      "label": "De Little Pickaninny’s Gone to Sleep",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cuddle down, ma honey, in yo’ bed, Go to sleep an’ res’ yo’ little head, Been a-kind o’ ailin’ all de day? Didn’t have no sperit fu’ to play? Never min’; to-morrer, w’en you wek, Daddy’s gwine to ride you on his bek, ’Roun’ an’ roun’ de cabin flo’ so fas’﻿— Der! He’s closed his little eyes at las’."
+        },
+        {
+          "type": "paragraph",
+          "text": "De little pickaninny’s gone to sleep, Cuddled in his trundle bed so tiny, De little pickaninny’s gone to sleep, Closed his little eyes so bright an’ shiny. Hush! an’ w’en you walk across de flo’ Step across it very sof’ an’ slow. De shadders all aroun’ begin to creep, De little pickaninny’s gone to sleep."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mandy, w’at’s de matter wid dat chile? Keeps a-sighin’ ev’y little w’ile; Seems to me I heayhd him sorter groan, Lord! his little han’s am col’ as stone! W’at’s dat far-off light dat’s in his eyes? Dat’s a light dey’s borrow’d f’om de skies; Fol’ his little han’s across his breas’, Let de little pickaninny res’."
+        }
+      ]
+    },
+    {
+      "label": "The Rivals",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Look heah! Is I evah tole you ’bout de curious way I won Anna Liza? Say, I nevah? Well heah’s how de thing wuz done."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lize, you know, wuz mighty purty﻿—dat’s been forty yeahs ago﻿— ’N ’cos to look at her dis minit, you might’n spose dat it wuz so."
+        },
+        {
+          "type": "paragraph",
+          "text": "She wuz jes de greates’ ’traction in de county, ’n bless de lam’! Eveh darkey wuz a-co’tin, but it lay ’twix me an’ Sam."
+        },
+        {
+          "type": "paragraph",
+          "text": "You know Sam. We both wuz wukin’ on de ole John Tompkin’s place. ’N evehbody wuz a-watchin’ t’see who’s gwine to win de race."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hee! hee! hee! Now you mus’ raley ’scuse me fu’ dis snickering, But I jes can’t he’p f’om laffin’ eveh time I tells dis thing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ez I wuz a-sayin’, me an’ Sam wuked daily side by side, He a-studyin’, me a-studyin’, how to win Lize fu’ a bride."
+        },
+        {
+          "type": "paragraph",
+          "text": "Well, de race was kinder equal, Lize wuz sorter on de fence; Sam he had de mostes dollars, an’ I had de mostes sense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Things dey run along ’bout eben tel der come Big Meetin’ day; Sam den thought, to win Miss Liza, he had foun’ de shoest way."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ you talk about big meetin’s! None been like it ’fore nor sence; Der wuz sich a crowd o’ people dat we had to put up tents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Der wuz preachers f’om de Eas’, an’ ’der wuz preachers f’om de Wes’; Folks had kilt mos’ eveh chicken, an’ wuz fattenin’ up de res’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gals had all got new w’ite dresses, an’ bought ribbens fu’ der hair, Fixin’ fu’ de openin’ Sunday, prayin’ dat de day’d be fair."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dat de Reveren’ Jasper Jones of Mount Moriah, it wuz ’low’d, Wuz to preach de openin’ sermon; so you know der wuz a crowd."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu’ dat man wuz sho a preacher; had a voice jes like a bull; So der ain’t no use in sayin’ dat de meetin’ house wuz full."
+        },
+        {
+          "type": "paragraph",
+          "text": "Folks wuz der f’om Big Pine Hollow, some come ’way f’om Muddy Creek, Some come jes to stay fu’ Sunday, but de crowd stay’d thoo de week."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some come ridin’ in top-buggies wid de w’eels all painted red, Pulled by mules dat run like rabbits, each one tryin’ to git ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Othah po’rer folks come drivin’ mules dat leaned up ’ginst de shaf’, Hitched to broke-down, creaky wagons dat looked like dey’d drap in half."
+        },
+        {
+          "type": "paragraph",
+          "text": "But de bigges’ crowd come walkin’, wid der new shoes on der backs; ’Scuse wuz dat dey couldn’t weah em ’cause de heels wuz full o’ tacks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fact is, it’s a job for Job, a-trudgin’ in de sun an’ heat, Down a long an’ dusty clay road wid yo’ shoes packed full o’ feet."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Cose dey stopt an’ put dem shoes on w’en dey got mos’ to de do’; Den dey had to grin an’ bear it; dat tuk good religion sho."
+        },
+        {
+          "type": "paragraph",
+          "text": "But I mos’ forgot ma story﻿—well at las’ dat Sunday came And it seemed dat evehbody, blin’ an’ deef, an’ halt an’ lame,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wuz out in de grove a-waitin’ fu’ de meetin’ to begin; Ef dat crowd had got converted ’twould a been de end o’ sin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lize wuz der in all her glory, purty ez a big sunflowah, I kin ’member how she looked jes same ez ’twuz dis ve’y houah."
+        },
+        {
+          "type": "paragraph",
+          "text": "But to make ma story shorter, w’ile we wuz a-waitin’ der, Down de road we spied a cloud o’ dus’ dat filled up all de air."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ ez we kep’ on a-lookin’, out f’om ’mongst dat ve’y cloud, Sam, on Marse John’s big mule, Caesar, rode right slam up in de crowd."
+        },
+        {
+          "type": "paragraph",
+          "text": "You jes oughtah seed dat darkey, ’clar I like tah loss ma bref; Fu’ to use a common ’spression, he wuz ’bout nigh dressed to def."
+        },
+        {
+          "type": "paragraph",
+          "text": "He had slipped to town dat Sat’day, didn’t let nobody know, An’ had car’yd all his cash an’ lef it in de dry goods sto’."
+        },
+        {
+          "type": "paragraph",
+          "text": "He had on a bran’ new suit o’ sto’-bought clo’es, a high plug hat; He looked ’zactly like a gen’man, tain’t no use d’nyin’ dat."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en he got down off dat mule an’ bowed to Liza I could see How she looked at him so ’dmirin’, an’ jes kinder glanced at me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Den I know’d to win dat gal, I sho would need some othah means ’Sides a-hangin’ ’round big meetin’ in a suit o’ homespun jeans."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en dey blow’d de ho’n fu’ preachin’, an’ de crowd all went inside, I jes felt ez doh I’d like tah go off in de woods an’ hide."
+        },
+        {
+          "type": "paragraph",
+          "text": "So I stay’d outside de meetin’, set’n underneat’ de trees, Seemed to me I sot der ages, wid ma elbows on ma knees."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en dey sung dat hymn, “Nobody knows de trouble dat I see,” Seem’d to me dat dey wuz singin’ eveh word o’ it fu’ me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jes how long I might ha’ sot der, actin’ like a cussed fool, I don’t know, but it jes happen’d dat I look’d an’ saw Sam’s mule."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ de thought come slowly tricklin’ thoo ma brain right der an’ den, Dat, perhaps, wid some persuasion, I could make dat mule ma fren’."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ I jes kep’ on a-thinkin’, an’ I kep’ a-lookin’ ’roun’, Tel I spied two great big san’ spurs right close by me on de groun’."
+        },
+        {
+          "type": "paragraph",
+          "text": "Well, I took dem spurs an’ put em underneat’ o’ Caesar’s saddle, So dey’d press down in his backbone soon ez Sam had got a-straddle."
+        },
+        {
+          "type": "paragraph",
+          "text": "’Twuz a pretty ticklish job, an’ jes ez soon ez it wuz done, I went back w’ere I wuz set’n fu’ to wait an’ see de fun."
+        },
+        {
+          "type": "paragraph",
+          "text": "Purty soon heah come de people, jes a-swa’min’ out de do’, Talkin’ ’bout de “pow’ful sermon”﻿—“nevah heah’d de likes befo’.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "How de “monahs fell convicted” jes de same ez lumps o’ lead, How dat some wuz still a-layin’ same es if dey’d been struck dead."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ to rectly heah come Liza, Sam a-strollin’ by her side, An’ it seem’d to me dat darky’s smile wuz ’bout twelve inches wide."
+        },
+        {
+          "type": "paragraph",
+          "text": "Look to me like he had swelled up to ’bout twice his natchul size, An’ I heah’d him say, “I’d like to be yo’ ’scort to-night, Miss Lize.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Den he made a bow jes like he’s gwine to make a speech in school, An’ walk’d jes ez proud ez Marse John over to untie his mule,"
+        },
+        {
+          "type": "paragraph",
+          "text": "W’en Sam’s foot fust touched de stirrup he know’d der wuz sump’n wrong; ’Cuz de mule begin to tremble an’ to sorter side along."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wen Sam raised his weight to mount him, Caesar bristled up his ear, W’en Sam sot down in de saddle, den dat mule cummenced to rear."
+        },
+        {
+          "type": "paragraph",
+          "text": "An’ he reared an’ pitched an’ caper’d, only ez a mule kin pitch, Tel he flung Sam clean f’om off him, landed him squar’ in a ditch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wen dat darky riz, well raly, I felt kinder bad fu’ him; He had bust dem cheap sto’ britches f’om de center to de rim."
+        },
+        {
+          "type": "paragraph",
+          "text": "All de plug hat dat wuz lef’ him wuz de brim aroun’ his neck, Smear’d wid mud f’om top to bottom, well, he wuz a sight, I ’speck."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wuz de folks a-laffin’? Well, su’, I jes sholy thought dey’d bus’; Wuz Sam laffin’? ’Twuz de fus’ time dat I evah heah’d him cuss."
+        },
+        {
+          "type": "paragraph",
+          "text": "W’ile Sam slink’d off thoo de backwoods I walk’d slowly home wid Lize, W’en I axed her jes one question der wuz sump’n in her eyes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Made me know der wuz no need o’ any answer bein’ said, An’ I felt jes like de whole world wuz a-spinnin’ ’roun’ ma head."
+        },
+        {
+          "type": "paragraph",
+          "text": "So I said, “Lize, w’en we marry, mus’ I weah some sto’-bought clo’es?” She says, “Jeans is good enough fu’ any po’ folks, heaben knows!”"
+        }
+      ]
+    },
+    {
+      "label": "Listen Lord",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Listen Lord"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Prayer"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "O Lord, we come this morning Knee-bowed and body-bent Before thy throne of grace. O Lord﻿—this morning﻿— Bow our hearts beneath our knees, And our knees in some lonesome valley. We come this morning﻿— Like empty pitchers to a full fountain, With no merits of our own. O Lord﻿—open up a window of heaven, And lean out far over the battlements of glory, And listen this morning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lord, have mercy on proud and dying sinners﻿— Sinners hanging over the mouth of hell, Who seem to love their distance well. Lord﻿—ride by this morning﻿— Mount your milk-white horse, And ride-a this morning﻿— And in your ride, ride by old hell, Ride by the dingy gates of hell, And stop poor sinners in their headlong plunge."
+        },
+        {
+          "type": "paragraph",
+          "text": "And now, O Lord, this man of God, Who breaks the bread of life this morning﻿— Shadow him in the hollow of thy hand, And keep him out of the gunshot of the devil. Take him, Lord﻿—this morning﻿— Wash him with hyssop inside and out, Hang him up and drain him dry of sin. Pin his ear to the wisdom-post, And make his words sledge hammers of truth﻿— Beating on the iron heart of sin. Lord God, this morning﻿— Put his eye to the telescope of eternity, And let him look upon the paper walls of time. Lord, turpentine his imagination, Put perpetual motion in his arms, Fill him full of the dynamite of thy power, Anoint him all over with the oil of thy salvation, And set his tongue on fire."
+        },
+        {
+          "type": "paragraph",
+          "text": "And now, O Lord﻿— When I’ve done drunk my last cup of sorrow﻿— When I’ve been called everything but a child of God﻿— When I’m done travelling up the rough side of the mountain﻿— O﻿—Mary’s Baby﻿— When I start down the steep and slippery steps of death﻿— When this old world begins to rock beneath my feet﻿— Lower me to my dusty grave in peace To wait for that great gittin’ up morning﻿—Amen."
+        }
+      ]
+    },
+    {
+      "label": "The Creation",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And God stepped out on space, And he looked around and said: I’m lonely﻿— I’ll make me a world."
+        },
+        {
+          "type": "paragraph",
+          "text": "And far as the eye of God could see Darkness covered everything, Blacker than a hundred midnights Down in a cypress swamp."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God smiled, And the light broke, And the darkness rolled up on one side, And the light stood shining on the other, And God said: That’s good!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God reached out and took the light in his hands, And God rolled the light around in his hands Until he made the sun; And he set that sun a-blazing in the heavens. And the light that was left from making the sun God gathered it up in a shining ball And flung it against the darkness, Spangling the night with the moon and stars. Then down between The darkness and the light He hurled the world; And God said: That’s good!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God himself stepped down﻿— And the sun was on his right hand, And the moon was on his left; The stars were clustered about his head, And the earth was under his feet. And God walked, and where he trod His footsteps hollowed the valleys out And bulged the mountains up."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then he stopped and looked and saw That the earth was hot and barren. So God stepped over to the edge of the world And he spat out the seven seas﻿— He batted his eyes, and the lightnings flashed﻿— He clapped his hands, and the thunders rolled﻿— And the waters above the earth came down, The cooling waters came down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the green grass sprouted, And the little red flowers blossomed, The pine tree pointed his finger to the sky, And the oak spread out his arms, The lakes cuddled down in the hollows of the ground, And the rivers ran down to the sea; And God smiled again, And the rainbow appeared, And curled itself around his shoulder."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God raised his arm and he waved his hand Over the sea and over the land, And He said: Bring forth! Bring forth! And quicker than God could drop his hand, Fishes and fowls And beasts and birds Swam the rivers and the seas, Roamed the forests and the woods, And split the air with their wings. And God said, That’s good!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God walked around, And God looked around On all that he had made. He looked at his sun, And he looked at his moon, And he looked at his little stars; He looked on his world With all its living things, And God said: I’m lonely still."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God sat down﻿— On the side of a hill where he could think; By a deep, wide river he sat down; With his head in his hands, God thought and thought, Till he thought: I’ll make me a man!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Up from the bed of the river God scooped the clay; And by the bank of the river He kneeled him down; And there the great God Almighty Who lit the sun and fixed it in the sky, Who flung the stars to the most far corner of the night, Who rounded the earth in the middle of his hand; This Great God, Like a mammy bending over her baby, Kneeled down in the dust Toiling over a lump of clay Till he shaped it in his own image;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then into it he blew the breath of life, And man became a living soul. Amen. Amen."
+        }
+      ]
+    },
+    {
+      "label": "The Prodigal Son",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Young man﻿— Young man﻿— Your arm’s too short to box with God."
+        },
+        {
+          "type": "paragraph",
+          "text": "But Jesus spake in a parable, and he said: A certain man had two sons. Jesus didn’t give this man a name, But his name is God Almighty. And Jesus didn’t call these sons by name, But ev’ry young man, Ev’rywhere, Is one of these two sons."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the younger son said to his father, He said: Father, divide up the property, And give me my portion now. And the father with tears in his eyes said: Son, Don’t leave your father’s house. But the boy was stubborn in his head, And haughty in his heart, And he took his share of his father’s goods, And went into a far-off country."
+        },
+        {
+          "type": "paragraph",
+          "text": "There comes a time, There comes a time When ev’ry young man looks out from his father’s house, Longing for that far-off country."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the young man journeyed on his way, And he said to himself as he travelled along: This sure is an easy road, Nothing like the rough furrows behind my father’s plow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Young man﻿— Young man﻿— Smooth and easy is the road That leads to hell and destruction. Down grade all the way, The further you travel, the faster you go. No need to trudge and sweat and toil, Just slip and slide and slip and slide Till you bang up against hell’s iron gate."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the younger son kept travelling along, Till at night-time he came to a city. And the city was bright in the night-time like day, The streets all crowded with people, Brass bands and string bands a-playing, And ev’rywhere the young man turned There was singing and laughing and dancing. And he stopped a passer-by and he said: Tell me what city is this? And the passer-by laughed and said: Don’t you know? This is Babylon, Babylon, That great city of Babylon. Come on, my friend, and go along with me. And the young man joined the crowd."
+        },
+        {
+          "type": "paragraph",
+          "text": "Young man﻿— Young man﻿— You’re never lonesome in Babylon. You can always join a crowd in Babylon. Young man﻿— Young man﻿— You can never be alone in Babylon, Alone with your Jesus in Babylon. You can never find a place, a lonesome place, A lonesome place to go down on your knees, And talk with your God, in Babylon. You’re always in a crowd in Babylon."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the young man went with his new-found friend, And bought himself some brand new clothes, And he spent his days in the drinking dens, Swallowing the fires of hell. And he spent his nights in the gambling dens, Throwing dice with the devil for his soul. And he met up with the women of Babylon. Oh, the women of Babylon! Dressed in yellow and purple and scarlet, Loaded with rings and earrings and bracelets, Their lips like a honeycomb dripping with honey, Perfumed and sweet-smelling like a jasmine flower; And the jasmine smell of the Babylon women Got in his nostrils and went to his head, And he wasted his substance in riotous living, In the evening, in the black and dark of night, With the sweet-sinning women of Babylon. And they stripped him of his money, And they stripped him of his clothes, And they left him broke and ragged In the streets of Babylon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the young man joined another crowd﻿— The beggars and lepers of Babylon. And he went to feeding swine, And he was hungrier than the hogs; He got down on his belly in the mire and mud And ate the husks with the hogs. And not a hog was too low to turn up his nose At the man in the mire of Babylon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the young man came to himself﻿— He came to himself and said: In my father’s house are many mansions, Ev’ry servant in his house has bread to eat, Ev’ry servant in his house has a place to sleep; I will arise and go to my father."
+        },
+        {
+          "type": "paragraph",
+          "text": "And his father saw him afar off, And he ran up the road to meet him. He put clean clothes upon his back, And a golden chain around his neck, He made a feast and killed the fatted calf, And invited the neighbors in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh-o-oh, sinner, When you’re mingling with the crowd in Babylon﻿— Drinking the wine of Babylon﻿— Running with the women of Babylon﻿— You forget about God, and you laugh at Death. Today you’ve got the strength of a bull in your neck And the strength of a bear in your arms, But some o’ these days, some o’ these days, You’ll have a hand-to-hand struggle with bony Death, And Death is bound to win."
+        },
+        {
+          "type": "paragraph",
+          "text": "Young man, come away from Babylon, That hell-border city of Babylon. Leave the dancing and gambling of Babylon, The wine and whiskey of Babylon, The hot-mouthed women of Babylon; Fall down on your knees, And say in your heart: I will arise and go to my Father."
+        }
+      ]
+    },
+    {
+      "label": "Go Down Death",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "hgroup",
+          "blocks": [
+            {
+              "type": "title",
+              "text": "Go Down Death"
+            },
+            {
+              "type": "subtitle",
+              "text": "A Funeral Sermon"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Weep not, weep not, She is not dead; She’s resting in the bosom of Jesus. Heart-broken husband﻿—weep no more; Grief-stricken son﻿—weep no more; Left-lonesome daughter﻿—weep no more; She’s only just gone home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Day before yesterday morning, God was looking down from his great, high heaven Looking down on all his children, And his eye fell on Sister Caroline, Tossing on her bed of pain. And God’s big heart was touched with pity, With the everlasting pity."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God sat back on his throne, And he commanded that tall, bright angel standing at his right hand: Call me Death! And that tall, bright angel cried in a voice That broke like a clap of thunder: Call Death!﻿—Call Death! And the echo sounded down the streets of heaven Till it reached away back to that shadowy place, Where Death waits with his pale, white horses."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Death heard the summons, And he leaped on his fastest horse, Pale as a sheet in the moonlight. Up the golden street Death galloped, And the hoofs of his horse struck fire from the gold, But they didn’t make no sound. Up Death rode to the Great White Throne, And waited for God’s command."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God said: Go down, Death, go down, Go down to Savannah, Georgia, Down in Yamacraw, And find Sister Caroline. She’s borne the burden and heat of the day, She’s labored long in my vineyard, And she’s tired﻿— She’s weary﻿— Go down, Death, and bring her to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Death didn’t say a word, But he loosed the reins on his pale, white horse, And he clamped the spurs to his bloodless sides, And out and down he rode, Through heaven’s pearly gates, Past suns and moons and stars; On Death rode, And the foam from his horse was like a comet in the sky; On Death rode, Leaving the lightning’s flash behind; Straight on down he came."
+        },
+        {
+          "type": "paragraph",
+          "text": "While we were watching round her bed, She turned her eyes and looked away, She saw what we couldn’t see; She saw Old Death. She saw Old Death Coming like a falling star. But Death didn’t frighten Sister Caroline; He looked to her like a welcome friend. And she whispered to us: I’m going home, And she smiled and closed her eyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Death took her up like a baby, And she lay in his icy arms, But she didn’t feel no chill. And Death began to ride again﻿— Up beyond the evening star, Out beyond the morning star, Into the glittering light of glory, On to the Great White Throne. And there he laid Sister Caroline On the loving breast of Jesus."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Jesus took his own hand and wiped away her tears, And he smoothed the furrows from her face, And the angels sang a little song, And Jesus rocked her in his arms, And kept a-saying: Take your rest, Take your rest, take your rest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Weep not﻿—weep not, She is not dead; She’s resting in the bosom of Jesus."
+        }
+      ]
+    },
+    {
+      "label": "Noah Built the Ark",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the cool of the day﻿— God was walking﻿— Around in the Garden of Eden. And except for the beasts, eating in the fields, And except for the birds, flying through the trees, The garden looked like it was deserted. And God called out and said: Adam, Adam, where art thou? And Adam, with Eve behind his back, Came out from where he was hiding."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God said: Adam, What hast thou done? Thou hast eaten of the tree! And Adam, With his head hung down, Blamed it on the woman."
+        },
+        {
+          "type": "paragraph",
+          "text": "For after God made the first man Adam, He breathed a sleep upon him; Then he took out of Adam one of his ribs, And out of that rib made woman. And God put the man and woman together In the beautiful Garden of Eden, With nothing to do the whole day long But play all around in the garden. And God called Adam before him, And he said to him: Listen now, Adam, Of all the fruit in the garden you can eat, Except of the tree of knowledge; For the day thou eatest of that tree, Thou shalt surely die."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then pretty soon along came Satan. Old Satan came like a snake in the grass To try out his tricks on the woman. I imagine I can see Old Satan now A-sidling up to the woman. I imagine the first word Satan said was: Eve, you’re surely good looking. I imagine he brought her a present, too﻿— And, if there was such a thing in those ancient days, He brought her a looking-glass."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Eve and Satan got friendly﻿— Then Eve got to walking on shaky ground; Don’t ever get friendly with Satan.﻿— And they started to talk about the garden, And Satan said: Tell me, how do you like The fruit on the nice, tall, blooming tree Standing in the middle of the garden? And Eve said: That’s the forbidden fruit, Which if we eat we die."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Satan laughed a devilish little laugh, And he said to the woman: God’s fooling you, Eve; That’s the sweetest fruit in the garden. I know you can eat that forbidden fruit, And I know that you will not die."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Eve looked at the forbidden fruit, And it was red and ripe and juicy. And Eve took a taste, and she offered it to Adam, And Adam wasn’t able to refuse; So he took a bite, and they both sat down And ate the forbidden fruit.﻿— Back there, six thousand years ago, Man first fell by woman﻿— Lord, and he’s doing the same today."
+        },
+        {
+          "type": "paragraph",
+          "text": "And that’s how sin got into this world. And man, as he multiplied on the earth, Increased in wickedness and sin. He went on down from sin to sin, From wickedness to wickedness, Murder and lust and violence, All kinds of fornications, Till the earth was corrupt and rotten with flesh, An abomination in God’s sight."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God was angry at the sins of men. And God got sorry that he ever made man. And he said: I will destroy him. I’ll bring down judgment on him with a flood. I’ll destroy ev’rything on the face of the earth, Man, beasts and birds, and creeping things. And he did﻿— Ev’rything but the fishes."
+        },
+        {
+          "type": "paragraph",
+          "text": "But Noah was a just and righteous man. Noah walked and talked with God. And, one day, God said to Noah, He said: Noah, build thee an ark. Build it out of gopher wood. Build it good and strong. Pitch it within and pitch it without. And build it according to the measurements That I will give to thee. Build it for you and all your house, And to save the seeds of life on earth; For I’m going to send down a mighty flood To destroy this wicked world."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Noah commenced to work on the ark. And he worked for about one hundred years. And ev’ry day the crowd came round To make fun of Old Man Noah. And they laughed and they said: Tell us, old man, Where do you expect to sail that boat Up here amongst the hills?"
+        },
+        {
+          "type": "paragraph",
+          "text": "But Noah kept on a-working. And ev’ry once in a while Old Noah would stop, He’d lay down his hammer and lay down his saw, And take his staff in hand; And with his long, white beard a-flying in the wind, And the gospel light a-gleaming from his eye, Old Noah would preach God’s word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sinners, oh, sinners, Repent, for the judgment is at hand. Sinners, oh, sinners, Repent, for the time is drawing nigh. God’s wrath is gathering in the sky. God’s a-going to rain down rain on rain. God’s a-going to loosen up the bottom of the deep, And drown this wicked world. Sinners, repent while yet there’s time For God to change his mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some smart young fellow said: This old man’s Got water on the brain. And the crowd all laughed﻿—Lord, but didn’t they laugh; And they paid no mind to Noah, But kept on sinning just the same."
+        },
+        {
+          "type": "paragraph",
+          "text": "One bright and sunny morning, Not a cloud nowhere to be seen, God said to Noah: Get in the ark! And Noah and his folks all got in the ark, And all the animals, two by two, A he and a she marched in. Then God said: Noah, Bar the door! And Noah barred the door."
+        },
+        {
+          "type": "paragraph",
+          "text": "And a little black spot begun to spread, Like a bottle of ink spilling over the sky; And the thunder rolled like a rumbling drum; And the lightning jumped from pole to pole; And it rained down rain, rain, rain, Great God, but didn’t it rain! For forty days and forty nights Waters poured down and waters gushed up; And the dry land turned to sea. And the old ark-a she begun to ride; The old ark-a she begun to rock; Sinners came a-running down to the ark; Sinners came a-swimming all round the ark; Sinners pleaded and sinners prayed﻿— Sinners wept and sinners wailed﻿— But Noah’d done barred the door."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the trees and the hills and the mountain tops Slipped underneath the waters. And the old ark sailed that lonely sea﻿— For twelve long months she sailed that sea, A sea without a shore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the waters begun to settle down, And the ark touched bottom on the tallest peak Of old Mount Ararat. The dove brought Noah the olive leaf, And Noah when he saw that the grass was green, Opened up the ark, and they all climbed down, The folks, and the animals, two by two, Down from the mount to the valley. And Noah wept and fell on his face And hugged and kissed the dry ground."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "God hung out his rainbow cross the sky, And he said to Noah: That’s my sign! No more will I judge the world by flood﻿— Next time I’ll rain down fire."
+        }
+      ]
+    },
+    {
+      "label": "The Crucifixion",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jesus, my gentle Jesus, Walking in the dark of the Garden﻿— The Garden of Gethsemane, Saying to the three disciples: Sorrow is in my soul﻿— Even unto death; Tarry ye here a little while, And watch with me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesus, my burdened Jesus, Praying in the dark of the Garden﻿— The Garden of Gethsemane. Saying: Father, Oh, Father, This bitter cup, This bitter cup, Let it pass from me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesus, my sorrowing Jesus, The sweat like drops of blood upon his brow, Talking with his Father, While the three disciples slept, Saying: Father, Oh, Father, Not as I will, Not as I will, But let thy will be done."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, look at black-hearted Judas﻿— Sneaking through the dark of the Garden﻿— Leading his crucifying mob. Oh, God! Strike him down! Why don’t you strike him down, Before he plants his traitor’s kiss Upon my Jesus’ cheek?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And they take my blameless Jesus, And they drag him to the Governor, To the mighty Roman Governor. Great Pilate seated in his hall﻿— Great Pilate on his judgment seat, Said: In this man I find no fault. I find no fault in him. And Pilate washed his hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "But they cried out, saying: Crucify him!﻿— Crucify him!﻿— Crucify him!﻿— His blood be on our heads. And they beat my loving Jesus, They spit on my precious Jesus; They dressed him up in a purple robe, They put a crown of thorns upon his head, And they pressed it down﻿— Oh, they pressed it down﻿— And they mocked my sweet King Jesus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Up Golgotha’s rugged road I see my Jesus go. I see him sink beneath the load, I see my drooping Jesus sink. And then they laid hold on Simon, Black Simon, yes, black Simon; They put the cross on Simon, And Simon bore the cross."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Calvary, on Calvary, They crucified my Jesus. They nailed him to the cruel tree, And the hammer! The hammer! The hammer! Rang through Jerusalem’s streets. The hammer! The hammer! The hammer! Rang through Jerusalem’s streets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesus, my lamb-like Jesus, Shivering as the nails go through his hands; Jesus, my lamb-like Jesus, Shivering as the nails go through his feet. Jesus, my darling Jesus, Groaning as the Roman spear plunged in his side; Jesus, my darling Jesus, Groaning as the blood came spurting from his wound. Oh, look how they done my Jesus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mary, Weeping Mary, Sees her poor little Jesus on the cross. Mary, Weeping Mary, Sees her sweet, baby Jesus on the cruel cross, Hanging between two thieves."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Jesus, my lonesome Jesus, Called out once more to his Father, Saying: My God, My God, Why hast thou forsaken me? And he drooped his head and died."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the veil of the temple was split in two, The midday sun refused to shine, The thunder rumbled and the lightning wrote An unknown language in the sky. What a day! Lord, what a day! When my blessed Jesus died."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh, I tremble, yes, I tremble, It causes me to tremble, tremble, When I think how Jesus died; Died on the steeps of Calvary, How Jesus died for sinners, Sinners like you and me."
+        }
+      ]
+    },
+    {
+      "label": "Let My People Go",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And God called Moses from the burning bush, He called in a still, small voice, And he said: Moses﻿—Moses﻿— And Moses listened, And he answered and said: Lord, here am I."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the voice in the bush said: Moses, Draw not nigh, take off your shoes, For you’re standing on holy ground. And Moses stopped where he stood, And Moses took off his shoes, And Moses looked at the burning bush, And he heard the voice, But he saw no man."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God again spoke to Moses, And he spoke in a voice of thunder: I am the Lord God Almighty, I am the God of thy fathers, I am the God of Abraham, Of Isaac and of Jacob. And Moses hid his face."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God said to Moses: I’ve seen the awful suffering Of my people down in Egypt. I’ve watched their hard oppressors, Their overseers and drivers; The groans of my people have filled my ears And I can’t stand it no longer; So I’m come down to deliver them Out of the land of Egypt, And I will bring them out of that land Into the land of Canaan; Therefore, Moses, go down, Go down into Egypt, And tell Old Pharaoh To let my people go."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Moses said: Lord, who am I To make a speech before Pharaoh? For, Lord, you know I’m slow of tongue. But God said: I will be thy mouth and I will be thy tongue; Therefore, Moses, go down, Go down yonder into Egypt land, And tell Old Pharaoh To let my people go."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Moses with his rod in hand Went down and said to Pharaoh: Thus saith the Lord God of Israel, Let my people go."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Pharaoh looked at Moses, He stopped still and looked at Moses; And he said to Moses: Who is this Lord? I know all the gods of Egypt, But I know no God of Israel; So go back, Moses, and tell your God, I will not let this people go."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poor Old Pharaoh, He knows all the knowledge of Egypt, Yet never knew﻿— He never knew The one and the living God. Poor Old Pharaoh, He’s got all the power of Egypt, And he’s going to try To test his strength With the might of the great Jehovah, With the might of the Lord God of Hosts, The Lord mighty in battle. And God, sitting high up in his heaven, Laughed at poor Old Pharaoh."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Pharaoh called the overseers, And Pharaoh called the drivers, And he said: Put heavier burdens still On the backs of the Hebrew Children. Then the people chode with Moses, And they cried out: Look here, Moses, You’ve been to Pharaoh, but look and see What Pharaoh’s done to us now. And Moses was troubled in mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "But God said: Go again, Moses, You and your brother, Aaron, And say once more to Pharaoh, Thus saith the Lord God of the Hebrews, Let my people go. And Moses and Aaron with their rods in hand Worked many signs and wonders. But Pharaoh called for his magic men, And they worked wonders, too. So Pharaoh’s heart was hardened, And he would not, No, he would not Let God’s people go."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God rained down plagues on Egypt, Plagues of frogs and lice and locusts, Plagues of blood and boils and darkness, And other plagues besides. But ev’ry time God moved the plague Old Pharaoh’s heart was hardened, And he would not, No, he would not Let God’s people go. And Moses was troubled in mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the Lord said: Listen, Moses, The God of Israel will not be mocked, Just one more witness of my power I’ll give hard-hearted Pharaoh. This very night about midnight, I’ll pass over Egypt land, In my righteous wrath will I pass over, And smite their first-born dead."
+        },
+        {
+          "type": "paragraph",
+          "text": "And God that night passed over. And a cry went up out of Egypt. And Pharaoh rose in the middle of the night And he sent in a hurry for Moses; And he said: Go forth from among my people, You and all the Hebrew Children; Take your goods and take your flocks, And get away from the land of Egypt."
+        },
+        {
+          "type": "paragraph",
+          "text": "And, right then, Moses led them out, With all their goods and all their flocks; And God went on before, A guiding pillar of cloud by day, And a pillar of fire by night. And they journeyed on in the wilderness, And came down to the Red Sea."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the morning, Oh, in the morning, They missed the Hebrew Children. Four hundred years, Four hundred years They’d held them down in Egypt land. Held them under the driver’s lash, Working without money and without price. And it might have been Pharaoh’s wife that said: Pharaoh﻿—look what you’ve done. You let those Hebrew Children go, And who’s going to serve us now? Who’s going to make our bricks and mortar? Who’s going to plant and plow our corn? Who’s going to get up in the chill of the morning? And who’s going to work in the blazing sun? Pharaoh, tell me that!"
+        },
+        {
+          "type": "paragraph",
+          "text": "And Pharaoh called his generals, And the generals called the captains, And the captains called the soldiers. And they hitched up all the chariots, Six hundred chosen chariots of war, And twenty-four hundred horses. And the chariots all were full of men, With swords and shields And shiny spears And battle bows and arrows. And Pharaoh and his army Pursued the Hebrew Children To the edge of the Red Sea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, the Children of Israel, looking back, Saw Pharaoh’s army coming. And the rumble of the chariots was like a thunder storm, And the whirring of the wheels was like a rushing wind, And the dust from the horses made a cloud that darked the day, And the glittering of the spears was like lightnings in the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the Children of Israel all lost faith, The children of Israel all lost hope; Deep Red Sea in front of them And Pharaoh’s host behind. And they mumbled and grumbled among themselves: Were there no graves in Egypt? And they wailed aloud to Moses and said: Slavery in Egypt was better than to come To die here in this wilderness."
+        },
+        {
+          "type": "paragraph",
+          "text": "But Moses said: Stand still! Stand still! And see the Lord’s salvation. For the Lord God of Israel Will not forsake his people. The Lord will break the chariots, The Lord will break the horsemen, He’ll break great Egypt’s sword and shield, The battle bows and arrows; This day he’ll make proud Pharaoh know Who is the God of Israel."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Moses lifted up his rod Over the Red Sea; And God with a blast of his nostrils Blew the waters apart, And the waves rolled back and stood up in a pile, And left a path through the middle of the sea Dry as the sands of the desert. And the Children of Israel all crossed over On to the other side."
+        },
+        {
+          "type": "paragraph",
+          "text": "When Pharaoh saw them crossing dry, He dashed on in behind them﻿— Old Pharaoh got about half way cross, And God unlashed the waters, And the waves rushed back together, And Pharaoh and all his army got lost, And all his host got drownded. And Moses sang and Miriam danced, And the people shouted for joy, And God led the Hebrew Children on Till they reached the promised land."
+        },
+        {
+          "type": "paragraph",
+          "text": "Listen!﻿—Listen! All you sons of Pharaoh. Who do you think can hold God’s people When the Lord God himself has said, Let my people go?"
+        }
+      ]
+    },
+    {
+      "label": "The Judgment Day",
+      "types": [
+        "bodymatter",
+        "fiction",
+        "poem"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In that great day, People, in that great day, God’s a-going to rain down fire. God’s a-going to sit in the middle of the air To judge the quick and the dead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Early one of these mornings, God’s a-going to call for Gabriel, That tall, bright angel, Gabriel; And God’s a-going to say to him: Gabriel, Blow your silver trumpet, And wake the living nations."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Gabriel’s going to ask him: Lord, How loud must I blow it? And God’s a-going to tell him: Gabriel, Blow it calm and easy. Then putting one foot on the mountain top, And the other in the middle of the sea, Gabriel’s going to stand and blow his horn, To wake the living nations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then God’s a-going to say to him: Gabriel, Once more blow your silver trumpet, And wake the nations underground."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Gabriel’s going to ask him: Lord How loud must I blow it? And God’s a-going to tell him: Gabriel, Like seven peals of thunder. Then the tall, bright angel, Gabriel, Will put one foot on the battlements of heaven And the other on the steps of hell, And blow that silver trumpet Till he shakes old hell’s foundations."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I feel Old Earth a-shuddering﻿— And I see the graves a-bursting﻿— And I hear a sound, A blood-chilling sound. What sound is that I hear? It’s the clicking together of the dry bones, Bone to bone﻿—the dry bones. And I see coming out of the bursting graves, And marching up from the valley of death, The army of the dead. And the living and the dead in the twinkling of an eye Are caught up in the middle of the air, Before God’s judgment bar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oh-o-oh, sinner, Where will you stand, In that great day when God’s a-going to rain down fire? Oh, you gambling man﻿—where will you stand? You whore-mongering man﻿—where will you stand? Liars and backsliders﻿—where will you stand, In that great day when God’s a-going to rain down fire?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And God will divide the sheep from the goats, The one on the right, the other on the left. And to them on the right God’s a-going to say: Enter into my kingdom. And those who’ve come through great tribulations, And washed their robes in the blood of the Lamb, They will enter in﻿— Clothed in spotless white, With starry crowns upon their heads, And silver slippers on their feet, And harps within their hands;﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "And two by two they’ll walk Up and down the golden street, Feasting on the milk and honey Singing new songs of Zion, Chattering with the angels All around the Great White Throne."
+        },
+        {
+          "type": "paragraph",
+          "text": "And to them on the left God’s a-going to say: Depart from me into everlasting darkness, Down into the bottomless pit. And the wicked like lumps of lead will start to fall, Headlong for seven days and nights they’ll fall, Plumb into the big, black, red-hot mouth of hell, Belching out fire and brimstone. And their cries like howling, yelping dogs, Will go up with the fire and smoke from hell, But God will stop his ears."
+        },
+        {
+          "type": "paragraph",
+          "text": "Too late, sinner! Too late! Goodbye, sinner! Goodbye! In hell, sinner! In hell! Beyond the reach of the love of God."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I hear a voice, crying, crying: Time shall be no more! Time shall be no more! Time shall be no more! And the sun will go out like a candle in the wind, The moon will turn to dripping blood, The stars will fall like cinders, And the sea will burn like tar; And the earth shall melt away and be dissolved, And the sky will roll up like a scroll. With a wave of his hand God will blot out time, And start the wheel of eternity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sinner, oh, sinner, Where will you stand In that great day when God’s a-going to rain down fire?"
+        }
+      ]
+    }
+  ]
+}

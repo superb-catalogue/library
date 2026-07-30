@@ -1,0 +1,38 @@
+{
+  "title": "The Innocents Abroad",
+  "author": "Mark Twain",
+  "identifier": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad",
+    "published": "2025-04-08T18:37:50Z",
+    "modified": "2026-07-14T15:31:29Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/3176",
+    "https://archive.org/details/innocentsabroado0000mark_e4a2"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/mark-twain/the-innocents-abroad"
+  },
+  "genre": "Nonfiction",
+  "genres": [
+    "Nonfiction",
+    "Travel"
+  ],
+  "category": "Nonfiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-nonfiction-epub.zip",
+    "epub_sha256": "72cc7efdc94c44d3582aa4b5f7db5a2fc023a9ba9f15f26c2a4d80c287a2c9da"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 61,
+    "words": 190739,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

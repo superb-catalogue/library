@@ -1,0 +1,43 @@
+{
+  "title": "Death Comes for the Archbishop",
+  "author": "Willa Cather",
+  "identifier": "https://standardebooks.org/ebooks/willa-cather/death-comes-for-the-archbishop",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/willa-cather/death-comes-for-the-archbishop",
+    "published": "2023-01-01T20:45:19Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks02/0200491h.html",
+    "https://archive.org/details/aclmku00000577a2226"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/willa-cather/death-comes-for-the-archbishop"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Modern Library’s 100 Best Novels",
+      "type": "set",
+      "position": "61"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-modern-librarys-100-best-novels-epub.zip",
+    "epub_sha256": "d6442409a002feb9a2a9ed05f94d6ab8490da518e271f2c2de0fe26656ab998b"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 69588,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Poetry",
+  "author": "Taras Shevchenko",
+  "identifier": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators",
+    "published": "2022-08-13T18:12:00Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/68486",
+    "https://archive.org/details/kobzarofukraineb00shev_0",
+    "https://taras-shevchenko.storinka.org/ethel-lilian-voynich-and-her-translations-of-shevchenko%27s-poetry.html",
+    "https://catalog.hathitrust.org/Record/102837808",
+    "https://en.wikisource.org/wiki/Anthology_of_Modern_Slavonic_Literature_in_Prose_and_Verse",
+    "https://archive.org/details/anthologymodern00selvgoog",
+    "https://digital.library.upenn.edu/women/livesay/ukraina/ukraina.html",
+    "https://archive.org/details/in.ernet.dli.2015.209630"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators"
+  },
+  "genre": "Poetry",
+  "genres": [
+    "Poetry"
+  ],
+  "category": "Poetry",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-poetry-epub.zip",
+    "epub_sha256": "a0398ce10d8fa9e4e7a57c07dd6b6ed30b715f022f66d308851b70ca75fd95bc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 38,
+    "words": 14296,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}
