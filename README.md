@@ -19,7 +19,11 @@ Two sources to start with:
 
 - **[Standard Ebooks](https://standardebooks.org)** — carefully typeset editions
   of public-domain books. They put the whole file in the public domain, including
-  their own editing work, which is unusual and generous.
+  their own editing work. Most people who improve a free text keep something back
+  for the improving; they give it away, which is why their editions are the ones
+  worth building on and why anyone else can build on them too. Nearly everything
+  here starts as one of theirs. If you use them, consider
+  [supporting them](https://standardebooks.org/donate).
 - **[Project Gutenberg](https://www.gutenberg.org)** — a much larger collection.
   We add a selection rather than all of it, and we retypeset what we add.
 
