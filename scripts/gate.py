@@ -9,6 +9,21 @@ scans, no cross-library measurement. Kihea was explicit that a slow add
 path is a reason not to use the workflow at all, and a book is inert text
 with a citation: the two risks worth checking are "may we publish this" and
 "is the file intact," and both are answerable in seconds.
+
+What "may we publish this" means here, precisely: the book's own rights
+metadata cites a licence URI this library has agreed to accept
+(scripts/selib.py's ACCEPTED_LICENCE_URIS). That confirms the book SAYS it
+is free under a licence this library allows — it does not and cannot
+confirm the claim is true. No reading of a file's contents can do that; a
+forger can write a flawless dedication into a copyrighted book and no
+phrase list or pattern match would ever tell the difference, because the
+words would be exactly the words a genuine one uses. The claim itself is
+verified once, against the book's own public page at Standard Ebooks, when
+the book is chosen for the shelf (books/HOW-THE-FIRST-BOOK-WENT.md) — the
+same rule this library already applies to every other provenance citation.
+A book from a source this library doesn't already trust needs that
+page-level check before it is added; this gate is not, and was never meant
+to be, a substitute for it.
 """
 import glob
 import json
@@ -48,11 +63,11 @@ def check_book_folder(folder):
     if not prov.get("terms", {}).get("read_at"):
         reasons.append("no citable public page in provenance.terms.read_at")
 
-    # the licence dedication is a genuine one, not a restrictive notice that
-    # happens to contain the words "public domain" or "CC0"
+    # the recorded rights text cites a licence URI this library accepts —
+    # a structural check, not a reading of the prose around it
     stated = prov.get("terms", {}).get("as_stated_by_the_edition", "")
     if not selib.is_genuine_public_domain_dedication(stated):
-        reasons.append("no genuine public-domain / CC0 dedication recorded in provenance")
+        reasons.append("no accepted licence URI recorded in provenance.terms.as_stated_by_the_edition")
 
     # the file parses and its reading order resolves
     chapters = book.get("chapters", [])

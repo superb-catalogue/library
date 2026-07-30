@@ -34,16 +34,43 @@ def text_of(el):
     return "".join(el.itertext())
 
 
-# The door gate's licence check has to tell a real public-domain dedication
-# apart from a restrictive notice that happens to contain the words "public
-# domain" — a bare substring test can't, because a rights-reserved notice
-# can say "this book is not dedicated to the public domain" and
-# still contain the phrase it's being screened for. So this checks for the
-# actual dedication language Standard Ebooks uses (or the CC0 deed URL it
-# links to) as a genuine positive signal, and rejects outright if any
-# explicit restriction marker is present, regardless of what else is in the
-# text — a denial always overrides a matched phrase.
-_RESTRICTIVE_MARKERS = (
+# What the door gate's licence check does, and just as importantly does
+# not, establish. No reading of a file's contents can decide whether
+# someone is lying about a licence — a forger can write a flawless CC0
+# dedication into a copyrighted book, and no phrase list, regex or Unicode
+# normalisation would ever catch that, because the words on the page are
+# exactly the words a genuine dedication would use. Two earlier attempts at
+# this check tried to make prose carry that weight anyway (a substring
+# test, then a longer one), and both were defeated by writing a slightly
+# different sentence.
+#
+# So this checks something a sentence can't fake as cheaply: whether the
+# book's own rights metadata cites one of the licence URIs this library
+# has agreed to accept. A URI is a structural, machine-readable claim
+# rather than prose that happens to be about a licence, and a new licence
+# has to be added to the allow-list on purpose, by a person, rather than
+# pattern-matched into acceptance by accident.
+#
+# What this still does and does not prove: it confirms the book SAYS it
+# carries a licence this library allows, and that the metadata is there to
+# say it. It does not and cannot confirm the claim is true. That is
+# verified once, against the book's own public page, when the book is
+# chosen for the shelf — the same rule this library already applies to
+# every other provenance citation (books/HOW-THE-FIRST-BOOK-WENT.md) — not
+# by re-deriving it from the file every time the gate runs. A book from a
+# source this library doesn't already trust needs that page-level check
+# before it is added; this gate was never a substitute for it and isn't
+# built to be one.
+ACCEPTED_LICENCE_URIS = (
+    "creativecommons.org/publicdomain/zero/1.0",
+)
+
+# Phrases that read as restrictive to a human. These are advisory only —
+# they never decide whether a book passes the gate, precisely because a
+# phrase list is exactly the mechanism that failed twice already. Surface
+# them for a person to look at if a book's rights text contains one
+# alongside an accepted licence URI; do not act on them automatically.
+ADVISORY_RESTRICTIVE_PHRASES = (
     "all rights reserved",
     "reserves all rights",
     "copyright reserved",
@@ -59,23 +86,49 @@ _RESTRICTIVE_MARKERS = (
     "not dedicated to the public domain",
     "not in the public domain",
     "not be copied",
-)
-_DEDICATION_MARKERS = (
-    "creativecommons.org/publicdomain/zero",
-    "dedicate their contributions to the worldwide public domain",
-    "cc0 1.0 universal public domain dedication",
+    "requires a licence from",
+    "requires a license from",
 )
 
 
-def is_genuine_public_domain_dedication(rights_text):
-    """True only for text that actually dedicates the work, not text that
-    merely mentions the phrase "public domain" somewhere."""
+def licence_uris_in(rights_text):
+    """Every accepted licence URI cited in one dc:rights element's text.
+    Whitespace is normalised first (clean_text) so a genuine URI that
+    happens to wrap across a line break in the source XML isn't missed —
+    a check that falsely rejects a real dedication is its own kind of
+    broken, not a safer version of a check that falsely accepts one."""
     if not rights_text:
+        return []
+    t = clean_text(rights_text)
+    return [uri for uri in ACCEPTED_LICENCE_URIS if uri in t]
+
+
+def is_genuine_public_domain_dedication(rights_texts):
+    """`rights_texts` is every dc:rights element's text a book carries —
+    a book can have more than one, and every one of them has to cite an
+    accepted licence URI, not just the last one read, so a restrictive
+    statement sitting beside a genuine one in the same metadata can't ride
+    along unexamined."""
+    if isinstance(rights_texts, str):
+        rights_texts = [rights_texts]
+    rights_texts = [t for t in (rights_texts or []) if t]
+    if not rights_texts:
         return False
-    t = rights_text.lower()
-    if any(marker in t for marker in _RESTRICTIVE_MARKERS):
-        return False
-    return any(marker in t for marker in _DEDICATION_MARKERS)
+    return all(licence_uris_in(t) for t in rights_texts)
+
+
+def advisory_restrictive_phrases_in(rights_texts):
+    """Phrases worth a human's eye — never used to decide the gate. See
+    the module-level note above ADVISORY_RESTRICTIVE_PHRASES."""
+    if isinstance(rights_texts, str):
+        rights_texts = [rights_texts]
+    found = []
+    for t in rights_texts or []:
+        tl = clean_text(t).lower()
+        for phrase in ADVISORY_RESTRICTIVE_PHRASES:
+            if phrase in tl and phrase not in found:
+                found.append(phrase)
+    return found
 
 
 def is_standardebooks_identifier(identifier):
@@ -120,9 +173,11 @@ def parse_metadata(root):
     for e in md.findall("dc:date", OPF_NS):
         pub_date = (e.text or "").strip()
 
-    rights = None
-    for e in md.findall("dc:rights", OPF_NS):
-        rights = (e.text or "").strip()
+    # A book can carry more than one dc:rights element. Every one of them
+    # matters to the licence check (see is_genuine_public_domain_dedication),
+    # so all of them are kept — not just the last one read.
+    rights_list = [(e.text or "").strip() for e in md.findall("dc:rights", OPF_NS) if e.text and e.text.strip()]
+    rights = rights_list[-1] if rights_list else None
 
     sources = [(e.text or "").strip() for e in md.findall("dc:source", OPF_NS) if e.text]
 
@@ -162,6 +217,7 @@ def parse_metadata(root):
         "date": pub_date,
         "modified": modified,
         "rights": rights,
+        "rights_list": rights_list,
         "sources": sources,
         "genres": genres,
         "collections": list(collections.values()),

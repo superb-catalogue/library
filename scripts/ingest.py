@@ -45,8 +45,10 @@ def read_one_epub(zip_path, entry_name, data):
             "identifier is not a resolvable Standard Ebooks page in %s!%s: %r"
             % (zip_path, entry_name, meta["identifier"])
         )
-    if not selib.is_genuine_public_domain_dedication(meta["rights"]):
-        raise ValueError("no genuine public-domain / CC0 dedication in %s!%s" % (zip_path, entry_name))
+    if not selib.is_genuine_public_domain_dedication(meta["rights_list"]):
+        raise ValueError(
+            "no accepted licence URI in every dc:rights element in %s!%s" % (zip_path, entry_name)
+        )
 
     spine = selib.parse_manifest_spine(root)
     chapters = selib.extract_chapters(ez, opf_dir, spine)
@@ -63,13 +65,18 @@ def read_one_epub(zip_path, entry_name, data):
 
 
 def gate(record):
-    """The door gate: three checks, in seconds, nothing heavier.
+    """The door gate: three checks, in seconds, nothing heavier. This
+    confirms a book SAYS it carries a licence this library allows and
+    that the file is intact — it does not and cannot confirm the claim is
+    true. That's verified once against the book's own public page when
+    the book is chosen for the shelf (see selib.py's note above
+    ACCEPTED_LICENCE_URIS), not re-derived from the file on every run.
     Returns (passed, reason)."""
     meta = record["meta"]
     if not selib.is_standardebooks_identifier(meta.get("identifier")):
         return False, "identifier is not a resolvable Standard Ebooks page"
-    if not selib.is_genuine_public_domain_dedication(meta.get("rights")):
-        return False, "no genuine public-domain / CC0 dedication in metadata"
+    if not selib.is_genuine_public_domain_dedication(meta.get("rights_list")):
+        return False, "no accepted licence URI in every dc:rights element"
     if not record.get("chapters"):
         return False, "reading order did not resolve to any chapters"
     return True, "ok"
@@ -93,6 +100,11 @@ def build_book_and_provenance(record, sets):
     outer_zip_name = os.path.basename(record["zip_path"])
     genres = meta.get("genres") or []
     genre = genres[0] if genres else None
+    matched_uris = []
+    for t in meta.get("rights_list") or []:
+        for uri in selib.licence_uris_in(t):
+            if uri not in matched_uris:
+                matched_uris.append(uri)
     provenance = {
         "title": meta["title"],
         "author": ", ".join(meta["creators"]) if meta["creators"] else None,
@@ -106,6 +118,7 @@ def build_book_and_provenance(record, sets):
         "made_from": meta["sources"],
         "terms": {
             "licence": "CC0 1.0 Universal (public domain dedication)",
+            "licence_uri": matched_uris[0] if matched_uris else None,
             "as_stated_by_the_edition": meta["rights"],
             "read_at": meta["identifier"],
         },

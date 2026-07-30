@@ -62,6 +62,21 @@ what gets automated is the thing that actually happens rather than a guess at it
 Until it is here, do those steps by hand and say what was awkward — that is the
 useful part.
 
+**What the automated check before a book is added does, and does not, prove.**
+`scripts/gate.py` and the same check inside `scripts/ingest.py` confirm two
+things fast: that the book's own metadata says it carries a licence this
+library accepts, and that the file itself is intact — its reading order
+resolves and its identifier points at a real page. That is all a check on a
+file's contents can ever confirm. It cannot tell whether the claim in the
+metadata is true — nothing that only reads the file can, since a copy with a
+forged licence statement would read exactly like a genuine one. **The claim
+itself is checked once, against the book's own public page, when the book is
+chosen** — that's rule 3 above, and it is the actual line of defence, not the
+automated check. A book from a source this library doesn't already trust
+needs that page checked by a person before it goes in; the fast check that
+runs on every add is a safety net for mistakes (the wrong file, a corrupted
+download, a stray edit), not a substitute for reading the source.
+
 ## Licences
 
 The books each carry their own, recorded per book.
