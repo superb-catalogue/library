@@ -7,10 +7,10 @@
 
 books/HOW-THE-FIRST-BOOK-WENT.md named this as the thing that should exist
 before there are a thousand books, "because after that nobody reads them."
-This is that check. It is corpus-wide measurement, run on its own schedule
-(ADR-037 Amendment 3(a)) -- it never runs in the add path, and it never
-blocks a book from reaching the shelf. scripts/gate.py's door check is,
-deliberately, a different and much lighter thing.
+This is that check. It runs on its own schedule, separate from adding a
+book -- it never runs in the add path, and it never blocks a book from
+reaching the shelf. scripts/gate.py's door check is, deliberately, a
+different and much lighter thing.
 
 Where the EPUB comes from, in order:
 
@@ -63,9 +63,11 @@ import glob
 import io
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 import zipfile
 import xml.etree.ElementTree as ET
@@ -126,12 +128,41 @@ def fetch_epub_bytes(identifier, archives_dir=None, _archive_cache={}):
         raise SourceUnavailable("identifier is not a standardebooks.org page: %r" % identifier)
     slug = selib.slug_from_identifier(identifier)
     url = identifier.rstrip("/") + "/downloads/" + slug + ".epub"
+    return _download_epub(url)
+
+
+def _download_epub(url, _redirected=False):
+    """A first request to a book's own download URL returns an HTML
+    interstitial page ("Your Download Has Started!") with a
+    `<meta http-equiv="refresh" ...>` pointing at the same URL with
+    `?source=download` appended -- a browser follows that automatically;
+    `urllib` does not. Detected by content, not assumed: real EPUB bytes
+    start with the zip signature (`PK\\x03\\x04`); anything else is read as
+    text and its meta-refresh target followed, once."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
-            return resp.read()
+            data = resp.read()
     except (urllib.error.URLError, urllib.error.HTTPError) as exc:
         raise SourceUnavailable("could not download %s: %s" % (url, exc)) from exc
+
+    if data[:4] == b"PK\x03\x04":
+        return data
+
+    if _redirected:
+        raise SourceUnavailable(
+            "%s did not return an EPUB even after following its own meta-refresh once" % url
+        )
+
+    match = re.search(
+        r'<meta[^>]+http-equiv=["\']refresh["\'][^>]+content=["\'][^"\']*url=([^"\';]+)',
+        data.decode("utf-8", errors="replace"),
+        re.IGNORECASE,
+    )
+    if not match:
+        raise SourceUnavailable("%s returned non-EPUB content with no meta-refresh to follow" % url)
+    next_url = urllib.parse.urljoin(url, match.group(1).strip())
+    return _download_epub(next_url, _redirected=True)
 
 
 def derive_from_epub(data):
