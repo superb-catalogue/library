@@ -124,12 +124,19 @@ def write(catalogue: dict, version: str) -> tuple[str, str]:
     os.makedirs(DIST_DIR, exist_ok=True)
     json_path = os.path.join(DIST_DIR, f"catalogue-{version}.json")
     body = json.dumps(catalogue, ensure_ascii=False, indent=2, sort_keys=False) + "\n"
-    with open(json_path, "w", encoding="utf-8") as f:
+    body_bytes = body.encode("utf-8")
+    # newline="" is load-bearing: a plain text-mode open() on Windows
+    # silently rewrites every "\n" to "\r\n" on write, which changes the
+    # bytes actually on disk without changing `body` -- so a checksum taken
+    # from `body` (below) would describe a file that was never written. This
+    # was caught by rehashing the file this script had just written and
+    # finding it did not match the sha256 the script had itself just printed.
+    with open(json_path, "w", encoding="utf-8", newline="") as f:
         f.write(body)
 
-    digest = hashlib.sha256(body.encode("utf-8")).hexdigest()
+    digest = hashlib.sha256(body_bytes).hexdigest()
     sha_path = os.path.join(DIST_DIR, f"catalogue-{version}.sha256")
-    with open(sha_path, "w", encoding="utf-8") as f:
+    with open(sha_path, "w", encoding="utf-8", newline="") as f:
         f.write(f"{digest}  catalogue-{version}.json\n")
 
     return json_path, sha_path
