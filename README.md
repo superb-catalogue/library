@@ -93,7 +93,6 @@ takes real time to run across the whole shelf, and nobody should have to
 wait on that just to add one book. Run it yourself with
 `python scripts/check_source.py books/<the-book-you-added>` if you want the
 extra confidence before opening a pull request; it is not required.
-
 ## Licences
 
 The books each carry their own, recorded per book.
