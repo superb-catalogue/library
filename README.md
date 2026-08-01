@@ -84,6 +84,15 @@ additional per-book check against Standard Ebooks' website that runs today.
 If a per-book check-at-source is wanted later, it is separate work, not
 something this repository already does.
 
+**A second, slower check runs on its own schedule, not when a book is
+added.** `scripts/check_source.py` re-reads a committed book against the
+EPUB it says it came from — chapter count, reading order, the sections left
+out, word count, the licence dedication, and the page it's cited to — and
+reports any disagreement. It is not part of adding a book, on purpose: it
+takes real time to run across the whole shelf, and nobody should have to
+wait on that just to add one book. Run it yourself with
+`python scripts/check_source.py books/<the-book-you-added>` if you want the
+extra confidence before opening a pull request; it is not required.
 ## Licences
 
 The books each carry their own, recorded per book.
