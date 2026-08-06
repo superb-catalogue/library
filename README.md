@@ -105,6 +105,15 @@ The books each carry their own, recorded per book.
 This repository's own files, meaning the scripts and the notes and this page,
 are MIT.
 
+One kind of file here is neither. Beside each book's `book.json` sits a
+`glosses.json`: the word meanings for that book's own vocabulary, which the
+reading app fetches with the text so a tapped word can answer. Those
+definitions come from the English Wiktionary and carry Wiktionary's licence,
+**CC BY-SA 4.0 or the GFDL**, which asks for credit and for the same freedom
+to be passed on. [`NOTICE.md`](NOTICE.md) records that in full. The
+obligation binds those files and nothing else: the books beside them keep
+their own terms, and the scripts stay MIT.
+
 The app is source-available: free to read, use, change and pass along, but not to
 sell. That is the app's licence and it does not reach the books here.
 
