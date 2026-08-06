@@ -104,8 +104,11 @@ def curl_quotes(text):
 
 
 def typeset(paragraph):
-    # A transcriber's note is the source talking, not the book.
-    if re.match(r"^\[?Transcriber", paragraph.strip(), re.IGNORECASE):
+    # A transcriber's note or production credit is the source talking, not
+    # the book. (PG's own header carries the credit too; some texts repeat
+    # it after the START marker, where it would otherwise open the book.)
+    if re.match(r"^\[?(Transcriber|Produced by|E-?text prepared by|Transcribed from)",
+                paragraph.strip(), re.IGNORECASE):
         return ""
     p = re.sub(r"\[Illustration[^\]]*\]", "", paragraph)
     p = re.sub(r"_([^_]+)_", r"\1", p)          # underscore italics

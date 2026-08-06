@@ -35,9 +35,9 @@
     "fetched": "2026-08-06"
   },
   "text": {
-    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 0 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 6 words of front matter before the first chapter heading (title page, contents) were set aside",
     "file": "book.json",
     "chapters": 1,
-    "words": 11219
+    "words": 11197
   }
 }
