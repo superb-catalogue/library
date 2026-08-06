@@ -1,0 +1,39 @@
+{
+  "title": "Notes from Underground",
+  "author": "Fyodor Dostoevsky",
+  "identifier": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett",
+    "published": "2019-02-12T23:01:19Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/600",
+    "https://books.google.com/books?id=jQFgAAAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ce92c8b549bf2cc7acf854be76c76c3f74a5c5fd35aaca683c57f40b03ea2bfe"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 24,
+    "words": 43995,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

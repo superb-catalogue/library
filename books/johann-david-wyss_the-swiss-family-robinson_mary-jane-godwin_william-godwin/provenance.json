@@ -1,0 +1,41 @@
+{
+  "title": "The Swiss Family Robinson",
+  "author": "Johann David Wyss",
+  "identifier": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
+    "published": "2025-02-10T20:33:07Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/72813",
+    "https://archive.org/details/family-robinson-crusoe-v1",
+    "https://archive.org/details/family_robinson_crusoe_v2"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fiction"
+  ],
+  "category": "Children’s",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "12ee6720d259a6349483cefe159e45d58e873e8d240e3e76995e14fe325406df"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 38,
+    "words": 162980,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

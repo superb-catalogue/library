@@ -1,0 +1,40 @@
+{
+  "title": "The Midnight Guest",
+  "author": "Fred M. White",
+  "identifier": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
+    "published": "2023-12-27T17:06:58Z",
+    "modified": "2026-07-06T20:52:58Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/56960",
+    "https://archive.org/details/midnightguestad00whitgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/fred-m-white/the-midnight-guest",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "eda791d4f302368829715247b1ef23b0629a4bcae78dee3a60332cda85af413e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 47,
+    "words": 84276,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

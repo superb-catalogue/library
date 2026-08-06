@@ -6,7 +6,7 @@
     "publisher": "Standard Ebooks",
     "page": "https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man",
     "published": "2025-03-26T21:53:45Z",
-    "modified": "2026-06-30T02:48:54Z"
+    "modified": "2026-08-02T20:04:53Z"
   },
   "made_from": [
     "https://www.fadedpage.com/showbook.php?pid=20200205",
@@ -44,13 +44,14 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-james-tait-black-memorial-fiction-prize-winners-epub.zip",
-    "epub_sha256": "c5ee10b715044fb3fd7e47bbe50852ceb6e60611cb921bb17cade1dae97d2319"
+    "collection": "se-ebooks-autobiography-epub.zip",
+    "epub_sha256": "0b3a55d9498524c15729c9dd031b76dbcf114498833ae866aabc29a23897466d",
+    "superseded_build": "2 other build(s) of this identifier were seen across the archives; the newest (by dcterms:modified) was kept."
   },
   "text": {
     "file": "book.json",
     "chapters": 10,
-    "words": 99753,
+    "words": 99752,
     "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
   }
 }

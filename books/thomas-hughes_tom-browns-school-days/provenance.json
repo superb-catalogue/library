@@ -1,0 +1,39 @@
+{
+  "title": "Tom Brown’s School Days",
+  "author": "Thomas Hughes",
+  "identifier": "https://standardebooks.org/ebooks/thomas-hughes/tom-browns-school-days",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-hughes/tom-browns-school-days",
+    "published": "2025-01-27T17:36:49Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1480",
+    "https://archive.org/details/tombrownsschoold00hugh_1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-hughes/tom-browns-school-days",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "0543f9c06676c2f8d75ba3b204ec16d5031c4940ad8ba8ce17eb89595212bded"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 20,
+    "words": 105173,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

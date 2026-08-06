@@ -1,0 +1,44 @@
+{
+  "title": "Short Fiction",
+  "author": "E. M. Forster",
+  "identifier": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+    "published": "2024-11-12T17:47:12Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://archive.org/details/sim_temple-bar_1903-12_128_517",
+    "https://www.gutenberg.org/ebooks/34089",
+    "https://catalog.hathitrust.org/Record/005921720",
+    "https://www.gutenberg.org/ebooks/72890",
+    "https://catalog.hathitrust.org/Record/000390776"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-m-forster/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fantasy",
+  "genres": [
+    "Fantasy",
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fantasy-epub.zip",
+    "epub_sha256": "b6e33df39fc8babf8fba8866bd1ff5d28ae98e21c174a0d87ed1db782ffd40f7"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 77474,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

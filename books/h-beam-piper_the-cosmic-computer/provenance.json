@@ -1,0 +1,45 @@
+{
+  "title": "The Cosmic Computer",
+  "author": "H. Beam Piper",
+  "identifier": "https://standardebooks.org/ebooks/h-beam-piper/the-cosmic-computer",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-beam-piper/the-cosmic-computer",
+    "published": "2017-07-05T22:08:43Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/20727",
+    "https://archive.org/details/cosmiccomputer0000hbea"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-beam-piper/the-cosmic-computer",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [
+    {
+      "name": "Federation",
+      "type": "series",
+      "position": "3"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "826f2f7d4d76637112380aa84fd950e0c3629af58ea772bba3c99116c755f7ae"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 22,
+    "words": 63724,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

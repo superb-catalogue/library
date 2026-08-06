@@ -1,0 +1,50 @@
+{
+  "title": "Short Fiction",
+  "author": "P. G. Wodehouse",
+  "identifier": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+    "published": "2021-07-15T18:23:43Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6768",
+    "https://www.gutenberg.org/ebooks/7471",
+    "https://www.gutenberg.org/ebooks/8176",
+    "https://www.gutenberg.org/ebooks/8190",
+    "https://www.gutenberg.org/ebooks/8164",
+    "https://archive.org/details/dli.bengal.10689.9319",
+    "https://archive.org/details/TheManWithTwoLeftFeet",
+    "https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eb0a7dfcd96",
+    "https://www.pgdp.org/ols/tools/biblio.php?id=projectID3eacd403203fe",
+    "https://www.pgdp.org/ols/tools/display.php?id=projectID3ee94d6537a44",
+    "https://catalog.hathitrust.org/Record/100492999"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/p-g-wodehouse/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "2a5f8099deb529237aabc75e8939ad16df063543b2ecff29bddba0c41a467b88"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 40,
+    "words": 211320,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

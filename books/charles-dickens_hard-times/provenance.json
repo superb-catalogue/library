@@ -1,0 +1,39 @@
+{
+  "title": "Hard Times",
+  "author": "Charles Dickens",
+  "identifier": "https://standardebooks.org/ebooks/charles-dickens/hard-times",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-dickens/hard-times",
+    "published": "2018-10-02T00:05:33Z",
+    "modified": "2026-07-17T13:44:59Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/786",
+    "https://archive.org/details/hardtimes1854dick"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-dickens/hard-times",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "2738feb2894ab623a05513a55be2ef955fdb0fff6b28693e1e74447677ba1f40"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 40,
+    "words": 102848,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

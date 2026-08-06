@@ -1,0 +1,59 @@
+{
+  "title": "Short Fiction",
+  "author": "Thomas Hardy",
+  "identifier": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction",
+    "published": "2025-07-15T17:57:07Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/3058",
+    "https://archive.org/details/changedmanwaitin0000thom_t8q2",
+    "https://www.gutenberg.org/ebooks/3049",
+    "https://archive.org/details/agroupnobledame01hardgoog",
+    "https://www.gutenberg.org/ebooks/3047",
+    "https://archive.org/details/dli.ernet.13659",
+    "https://www.gutenberg.org/ebooks/3056",
+    "https://archive.org/details/wessextales00hard_2",
+    "https://books.google.com/books?id=wa_QAAAAMAAJ",
+    "https://archive.org/details/ruralcarolinians06char",
+    "https://archive.org/details/sim_independent_1891-03-26_43_2208",
+    "https://archive.org/details/sim_ladies-home-journal_1929-02_46_2",
+    "https://www.darlynthomas.com/bluejim.htm",
+    "https://archive.org/details/sim_cornhill-magazine_1911-02_30_176",
+    "https://www.darlynthomas.com/spectre.htm",
+    "https://archive.org/details/inscarletgreysto00hennrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-hardy/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Wessex",
+      "type": "series"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "d784cfdf25b5b14ea1cfaaafdee129f6f4a9ae9985e15cc09a16e10b4aca4486"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 46,
+    "words": 378213,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

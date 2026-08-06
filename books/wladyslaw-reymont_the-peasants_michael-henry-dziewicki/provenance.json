@@ -1,0 +1,45 @@
+{
+  "title": "The Peasants",
+  "author": "Władysław Reymont",
+  "identifier": "https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki",
+    "published": "2025-11-09T23:32:11Z",
+    "modified": "2026-07-14T15:32:31Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/75846",
+    "https://www.gutenberg.org/ebooks/76328",
+    "https://www.gutenberg.org/ebooks/76330",
+    "https://www.gutenberg.org/ebooks/76329",
+    "https://archive.org/details/peasantsautumn0000ladi",
+    "https://archive.org/details/peasantswinter0000ladi",
+    "https://archive.org/details/peasantsspring0000ladi",
+    "https://archive.org/details/peasantssummer0000ladi"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/wladyslaw-reymont/the-peasants/michael-henry-dziewicki",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "5098ad6b7c62fbb0ac4331c1e69843742e3a1af449598d9590d3a7f06ae81cd0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 53,
+    "words": 379529,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

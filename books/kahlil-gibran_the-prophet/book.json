@@ -1,0 +1,3857 @@
+{
+  "title": "The Prophet",
+  "author": "Kahlil Gibran",
+  "language": "en-US",
+  "chapters": [
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Almustafa, the chosen and the beloved, who was a dawn unto his own day, had waited twelve years in the city of Orphalese for his ship that was to return and bear him back to the isle of his birth."
+        },
+        {
+          "type": "paragraph",
+          "text": "And in the twelfth year, on the seventh day of Ielool, the month of reaping, he climbed the hill without the city walls and looked seaward; and he beheld his ship coming with the mist."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the gates of his heart were flung open, and his joy flew far over the sea. And he closed his eyes and prayed in the silences of his soul."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But as he descended the hill, a sadness came upon him, and he thought in his heart:"
+        },
+        {
+          "type": "paragraph",
+          "text": "How shall I go in peace and without sorrow? Nay, not without a wound in the spirit shall I leave this city. Long were the days of pain I have spent within its walls, and long were the nights of aloneness; and who can depart from his pain and his aloneness without regret?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Too many fragments of the spirit have I scattered in these streets, and too many are the children of my longing that walk naked among these hills, and I cannot withdraw from them without a burden and an ache."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not a garment I cast off this day, but a skin that I tear with my own hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nor is it a thought I leave behind me, but a heart made sweet with hunger and with thirst."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet I cannot tarry longer."
+        },
+        {
+          "type": "paragraph",
+          "text": "The sea that calls all things unto her calls me, and I must embark."
+        },
+        {
+          "type": "paragraph",
+          "text": "For to stay, though the hours burn in the night, is to freeze and crystallize and be bound in a mould."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fain would I take with me all that is here. But how shall I?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A voice cannot carry the tongue and the lips that gave it wings. Alone must it seek the ether."
+        },
+        {
+          "type": "paragraph",
+          "text": "And alone and without his nest shall the eagle fly across the sun."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now when he reached the foot of the hill, he turned again towards the sea, and he saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And his soul cried out to them, and he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sons of my ancient mother, you riders of the tides,"
+        },
+        {
+          "type": "paragraph",
+          "text": "How often have you sailed in my dreams. And now you come in my awakening, which is my deeper dream."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ready am I to go, and my eagerness with sails full set awaits the wind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Only another breath will I breathe in this still air, only another loving look cast backward,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And then I shall stand among you, a seafarer among seafarers. And you, vast sea, sleepless mother,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who alone are peace and freedom to the river and the stream,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Only another winding will this stream make, only another murmur in this glade,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And then shall I come to you, a boundless drop to a boundless ocean."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And as he walked he saw from afar men and women leaving their fields and their vineyards and hastening towards the city gates."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he heard their voices calling his name, and shouting from field to field telling one another of the coming of his ship."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said to himself:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Shall the day of parting be the day of gathering?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And shall it be said that my eve was in truth my dawn?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what shall I give unto him who has left his plough in midfurrow, or to him who has stopped the wheel of his winepress? Shall my heart become a tree heavy-laden with fruit that I may gather and give unto them?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And shall my desires flow like a fountain that I may fill their cups?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Am I a harp that the hand of the mighty may touch me, or a flute that his breath may pass through me?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A seeker of silences am I, and what treasure have I found in silences that I may dispense with confidence?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If this is my day of harvest, in what fields have I sowed the seed, and in what unremembered seasons?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If this indeed be the hour in which I lift up my lantern, it is not my flame that shall burn therein."
+        },
+        {
+          "type": "paragraph",
+          "text": "Empty and dark shall I raise my lantern,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the guardian of the night shall fill it with oil and he shall light it also."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "These things he said in words. But much in his heart remained unsaid. For he himself could not speak his deeper secret."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when he entered into the city all the people came to meet him, and they were crying out to him as with one voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the elders of the city stood forth and said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Go not yet away from us."
+        },
+        {
+          "type": "paragraph",
+          "text": "A noontide have you been in our twilight, and your youth has given us dreams to dream."
+        },
+        {
+          "type": "paragraph",
+          "text": "No stranger are you among us, nor a guest, but our son and our dearly beloved."
+        },
+        {
+          "type": "paragraph",
+          "text": "Suffer not yet our eyes to hunger for your face."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the priests and the priestesses said unto him:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Let not the waves of the sea separate us now, and the years you have spent in our midst become a memory."
+        },
+        {
+          "type": "paragraph",
+          "text": "You have walked among us a spirit, and your shadow has been a light upon our faces."
+        },
+        {
+          "type": "paragraph",
+          "text": "Much have we loved you. But speechless was our love, and with veils has it been veiled."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet now it cries aloud unto you, and would stand revealed before you."
+        },
+        {
+          "type": "paragraph",
+          "text": "And ever has it been that love knows not its own depth until the hour of separation."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And others came also and entreated him. But he answered them not. He only bent his head; and those who stood near saw his tears falling upon his breast."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he and the people proceeded towards the great square before the temple."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And there came out of the sanctuary a woman whose name was Almitra. And she was a seeress."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he looked upon her with exceeding tenderness, for it was she who had first sought and believed in him when he had been but a day in their city."
+        },
+        {
+          "type": "paragraph",
+          "text": "And she hailed him, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prophet of God, in quest of the uttermost, long have you searched the distances for your ship."
+        },
+        {
+          "type": "paragraph",
+          "text": "And now your ship has come, and you must needs go."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep is your longing for the land of your memories and the dwelling place of your greater desires; and our love would not bind you nor our needs hold you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet this we ask ere you leave us, that you speak to us and give us of your truth."
+        },
+        {
+          "type": "paragraph",
+          "text": "And we will give it unto our children, and they unto their children, and it shall not perish."
+        },
+        {
+          "type": "paragraph",
+          "text": "In your aloneness you have watched with our days, and in your wakefulness you have listened to the weeping and the laughter of our sleep."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now therefore disclose us to ourselves, and tell us all that has been shown you of that which is between birth and death."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered,"
+        },
+        {
+          "type": "paragraph",
+          "text": "People of Orphalese, of what can I speak save of that which is even now moving within your souls?"
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then said Almitra, Speak to us of Love."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he raised his head and looked upon the people, and there fell a stillness upon them. And with a great voice he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "When love beckons to you, follow him,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Though his ways are hard and steep."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when his wings enfold you yield to him,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Though the sword hidden among his pinions may wound you."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when he speaks to you believe in him,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Though his voice may shatter your dreams as the north wind lays waste the garden."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "For even as love crowns you so shall he crucify you. Even as he is for your growth so is he for your pruning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even as he ascends to your height and caresses your tenderest branches that quiver in the sun,"
+        },
+        {
+          "type": "paragraph",
+          "text": "So shall he descend to your roots and shake them in their clinging to the earth."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Like sheaves of corn he gathers you unto himself."
+        },
+        {
+          "type": "paragraph",
+          "text": "He threshes you to make you naked."
+        },
+        {
+          "type": "paragraph",
+          "text": "He sifts you to free you from your husks."
+        },
+        {
+          "type": "paragraph",
+          "text": "He grinds you to whiteness."
+        },
+        {
+          "type": "paragraph",
+          "text": "He kneads you until you are pliant;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And then he assigns you to his sacred fire, that you may become sacred bread for God’s sacred feast."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "All these things shall love do unto you that you may know the secrets of your heart, and in that knowledge become a fragment of Life’s heart."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But if in your fear you would seek only love’s peace and love’s pleasure,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it is better for you that you cover your nakedness and pass out of love’s threshing-floor,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Into the seasonless world where you shall laugh, but not all of your laughter, and weep, but not all of your tears."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Love gives naught but itself and takes naught but from itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "Love possesses not nor would it be possessed;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For love is sufficient unto love."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you love you should not say, “God is in my heart,” but rather, “I am in the heart of God.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And think not you can direct the course of love, for love, if it finds you worthy, directs your course."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Love has no other desire but to fulfil itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "But if you love and must needs have desires, let these be your desires:"
+        },
+        {
+          "type": "paragraph",
+          "text": "To melt and be like a running brook that sings its melody to the night. To know the pain of too much tenderness."
+        },
+        {
+          "type": "paragraph",
+          "text": "To be wounded by your own understanding of love;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to bleed willingly and joyfully."
+        },
+        {
+          "type": "paragraph",
+          "text": "To wake at dawn with a winged heart and give thanks for another day of loving;"
+        },
+        {
+          "type": "paragraph",
+          "text": "To rest at the noon hour and meditate love’s ecstasy;"
+        },
+        {
+          "type": "paragraph",
+          "text": "To return home at eventide with gratitude;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then Almitra spoke again and said, And what of Marriage master?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You were born together, and together you shall be forevermore."
+        },
+        {
+          "type": "paragraph",
+          "text": "You shall be together when the white wings of death scatter your days."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aye, you shall be together even in the silent memory of God."
+        },
+        {
+          "type": "paragraph",
+          "text": "But let there be spaces in your togetherness,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And let the winds of the heavens dance between you."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Love one another, but make not a bond of love:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Let it rather be a moving sea between the shores of your souls."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fill each other’s cup but drink not from one cup."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give one another of your bread but eat not from the same loaf."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sing and dance together and be joyous, but let each one of you be alone,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Even as the strings of a lute are alone though they quiver with the same music."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Give your hearts, but not into each other’s keeping."
+        },
+        {
+          "type": "paragraph",
+          "text": "For only the hand of Life can contain your hearts."
+        },
+        {
+          "type": "paragraph",
+          "text": "And stand together yet not too near together:"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the pillars of the temple stand apart,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the oak tree and the cypress grow not in each other’s shadow."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And a woman who held a babe against her bosom said, Speak to us of Children."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your children are not your children."
+        },
+        {
+          "type": "paragraph",
+          "text": "They are the sons and daughters of Life’s longing for itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "They come through you but not from you,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And though they are with you yet they belong not to you."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You may give them your love but not your thoughts,"
+        },
+        {
+          "type": "paragraph",
+          "text": "For they have their own thoughts."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may house their bodies but not their souls,"
+        },
+        {
+          "type": "paragraph",
+          "text": "For their souls dwell in the house of tomorrow, which you cannot visit, not even in your dreams."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may strive to be like them, but seek not to make them like you."
+        },
+        {
+          "type": "paragraph",
+          "text": "For life goes not backward nor tarries with yesterday."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are the bows from which your children as living arrows are sent forth."
+        },
+        {
+          "type": "paragraph",
+          "text": "The archer sees the mark upon the path of the infinite, and He bends you with His might that His arrows may go swift and far."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let your bending in the Archer’s hand be for gladness;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For even as he loves the arrow that flies, so He loves also the bow that is stable."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then said a rich man, Speak to us of Giving."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You give but little when you give of your possessions."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is when you give of yourself that you truly give."
+        },
+        {
+          "type": "paragraph",
+          "text": "For what are your possessions but things you keep and guard for fear you may need them tomorrow?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And tomorrow, what shall tomorrow bring to the overprudent dog burying bones in the trackless sand as he follows the pilgrims to the holy city?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is fear of need but need itself?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is not dread of thirst when your well is full, the thirst that is unquenchable?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are those who give little of the much which they have﻿—and they give it for recognition and their hidden desire makes their gifts unwholesome."
+        },
+        {
+          "type": "paragraph",
+          "text": "And there are those who have little and give it all."
+        },
+        {
+          "type": "paragraph",
+          "text": "These are the believers in life and the bounty of life, and their coffer is never empty."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are those who give with joy, and that joy is their reward."
+        },
+        {
+          "type": "paragraph",
+          "text": "And there are those who give with pain, and that pain is their baptism."
+        },
+        {
+          "type": "paragraph",
+          "text": "And there are those who give and know not pain in giving, nor do they seek joy, nor give with mindfulness of virtue;"
+        },
+        {
+          "type": "paragraph",
+          "text": "They give as in yonder valley the myrtle breathes its fragrance into space."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through the hands of such as these God speaks, and from behind their eyes He smiles upon the earth."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is well to give when asked, but it is better to give unasked, through understanding;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to the openhanded the search for one who shall receive is joy greater than giving."
+        },
+        {
+          "type": "paragraph",
+          "text": "And is there aught you would withhold?"
+        },
+        {
+          "type": "paragraph",
+          "text": "All you have shall some day be given;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore give now, that the season of giving may be yours and not your inheritors’."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You often say, “I would give, but only to the deserving.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The trees in your orchard say not so, nor the flocks in your pasture."
+        },
+        {
+          "type": "paragraph",
+          "text": "They give that they may live, for to withhold is to perish."
+        },
+        {
+          "type": "paragraph",
+          "text": "Surely he who is worthy to receive his days and his nights, is worthy of all else from you."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he who has deserved to drink from the ocean of life deserves to fill his cup from your little stream."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what desert greater shall there be, than that which lies in the courage and the confidence, nay the charity, of receiving?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And who are you that men should rend their bosom and unveil their pride, that you may see their worth naked and their pride unabashed?"
+        },
+        {
+          "type": "paragraph",
+          "text": "See first that you yourself deserve to be a giver, and an instrument of giving."
+        },
+        {
+          "type": "paragraph",
+          "text": "For in truth it is life that gives unto life﻿—while you, who deem yourself a giver, are but a witness."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And you receivers﻿—and you are all receivers﻿—assume no weight of gratitude, lest you lay a yoke upon yourself and upon him who gives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rather rise together with the giver on his gifts as on wings;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For to be overmindful of your debt, is to doubt his generosity who has the free-hearted earth for mother, and God for father."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then an old man, a keeper of an inn, said, Speak to us of Eating and Drinking."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Would that you could live on the fragrance of the earth, and like an air plant be sustained by the light."
+        },
+        {
+          "type": "paragraph",
+          "text": "But since you must kill to eat, and rob the newly born of its mother’s milk to quench your thirst, let it then be an act of worship,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And let your board stand an altar on which the pure and the innocent of forest and plain are sacrificed for that which is purer and still more innocent in man."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you kill a beast say to him in your heart,"
+        },
+        {
+          "type": "paragraph",
+          "text": "“By the same power that slays you, I too am slain; and I too shall be consumed."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the law that delivered you into my hand shall deliver me into a mightier hand."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your blood and my blood is naught but the sap that feeds the tree of heaven.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when you crush an apple with your teeth, say to it in your heart,"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Your seeds shall live in my body,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the buds of your tomorrow shall blossom in my heart,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And your fragrance shall be my breath,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And together we shall rejoice through all the seasons.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And in the autumn, when you gather the grapes of your vineyards for the winepress, say in your heart,"
+        },
+        {
+          "type": "paragraph",
+          "text": "“I too am a vineyard, and my fruit shall be gathered for the winepress,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And like new wine I shall be kept in eternal vessels.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And in winter, when you draw the wine, let there be in your heart a song for each cup;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And let there be in the song a remembrance for the autumn days, and for the vineyard, and for the winepress."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then a ploughman said, Speak to us of Work."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You work that you may keep pace with the earth and the soul of the earth."
+        },
+        {
+          "type": "paragraph",
+          "text": "For to be idle is to become a stranger unto the seasons, and to step out of life’s procession, that marches in majesty and proud submission towards the infinite."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you work you are a flute through whose heart the whispering of the hours turns to music."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which of you would be a reed, dumb and silent, when all else sings together in unison?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Always you have been told that work is a curse and labour a misfortune."
+        },
+        {
+          "type": "paragraph",
+          "text": "But I say to you that when you work you fulfil a part of earth’s furthest dream, assigned to you when that dream was born,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And in keeping yourself with labour you are in truth loving life,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to love life through labour is to be intimate with life’s inmost secret."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But if you in your pain call birth an affliction and the support of the flesh a curse written upon your brow, then I answer that naught but the sweat of your brow shall wash away that which is written."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You have been told also that life is darkness, and in your weariness you echo what was said by the weary."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I say that life is indeed darkness save when there is urge,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And all urge is blind save when there is knowledge,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And all knowledge is vain save when there is work,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And all work is empty save when there is love;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when you work with love you bind yourself to yourself, and to one another, and to God."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is it to work with love?"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is to weave the cloth with threads drawn from your heart, even as if your beloved were to wear that cloth."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is to build a house with affection, even as if your beloved were to dwell in that house."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is to sow seeds with tenderness and reap the harvest with joy, even as if your beloved were to eat the fruit."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is to charge all things you fashion with a breath of your own spirit,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to know that all the blessed dead are standing about you and watching."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Often have I heard you say, as if speaking in sleep, “He who works in marble, and finds the shape of his own soul in the stone, is nobler than he who ploughs the soil."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he who seizes the rainbow to lay it on a cloth in the likeness of man, is more than he who makes the sandals for our feet.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "But I say, not in sleep but in the overwakefulness of noontide, that the wind speaks not more sweetly to the giant oaks than to the least of all the blades of grass;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And he alone is great who turns the voice of the wind into a song made sweeter by his own loving."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Work is love made visible."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you cannot work with love but only with distaste, it is better that you should leave your work and sit at the gate of the temple and take alms of those who work with joy."
+        },
+        {
+          "type": "paragraph",
+          "text": "For if you bake bread with indifference, you bake a bitter bread that feeds but half man’s hunger."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you grudge the crushing of the grapes, your grudge distils a poison in the wine."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you sing though as angels, and love not the singing, you muffle man’s ears to the voices of the day and the voices of the night."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then a woman said, Speak to us of Joy and Sorrow."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your joy is your sorrow unmasked."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the selfsame well from which your laughter rises was oftentimes filled with your tears."
+        },
+        {
+          "type": "paragraph",
+          "text": "And how else can it be?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The deeper that sorrow carves into your being, the more joy you can contain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is not the cup that holds your wine the very cup that was burned in the potter’s oven?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And is not the lute that soothes your spirit, the very wood that was hollowed with knives?"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you are joyous, look deep into your heart and you shall find it is only that which has given you sorrow that is giving you joy."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of you say, “Joy is greater than sorrow,” and others say, “Nay, sorrow is the greater.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "But I say unto you, they are inseparable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Together they come, and when one sits alone with you at your board, remember that the other is asleep upon your bed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily you are suspended like scales between your sorrow and your joy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Only when you are empty are you at standstill and balanced."
+        },
+        {
+          "type": "paragraph",
+          "text": "When the treasure-keeper lifts you to weigh his gold and his silver, needs must your joy or your sorrow rise or fall."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then a mason came forth and said, Speak to us of Houses."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered and said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Build of your imaginings a bower in the wilderness ere you build a house within the city walls."
+        },
+        {
+          "type": "paragraph",
+          "text": "For even as you have homecomings in your twilight, so has the wanderer in you, the ever distant and alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your house is your larger body."
+        },
+        {
+          "type": "paragraph",
+          "text": "It grows in the sun and sleeps in the stillness of the night; and it is not dreamless. Does not your house dream? and dreaming, leave the city for grove or hilltop?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Would that I could gather your houses into my hand, and like a sower scatter them in forest and meadow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Would the valleys were your streets, and the green paths your alleys, that you might seek one another through vineyards, and come with the fragrance of the earth in your garments."
+        },
+        {
+          "type": "paragraph",
+          "text": "But these things are not yet to be."
+        },
+        {
+          "type": "paragraph",
+          "text": "In their fear your forefathers gathered you too near together. And that fear shall endure a little longer. A little longer shall your city walls separate your hearths from your fields."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And tell me, people of Orphalese, what have you in these houses? And what is it you guard with fastened doors?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Have you peace, the quiet urge that reveals your power?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Have you remembrances, the glimmering arches that span the summits of the mind?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Have you beauty, that leads the heart from things fashioned of wood and stone to the holy mountain?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tell me, have you these in your houses?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Or have you only comfort, and the lust for comfort, that stealthy thing that enters the house a guest, and then becomes a host, and then a master?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ay, and it becomes a tamer, and with hook and scourge makes puppets of your larger desires."
+        },
+        {
+          "type": "paragraph",
+          "text": "Though its hands are silken, its heart is of iron."
+        },
+        {
+          "type": "paragraph",
+          "text": "It lulls you to sleep only to stand by your bed and jeer at the dignity of the flesh."
+        },
+        {
+          "type": "paragraph",
+          "text": "It makes mock of your sound senses, and lays them in thistledown like fragile vessels."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily the lust for comfort murders the passion of the soul, and then walks grinning in the funeral."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But you, children of space, you restless in rest, you shall not be trapped nor tamed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your house shall be not an anchor but a mast."
+        },
+        {
+          "type": "paragraph",
+          "text": "It shall not be a glistening film that covers a wound, but an eyelid that guards the eye."
+        },
+        {
+          "type": "paragraph",
+          "text": "You shall not fold your wings that you may pass through doors, nor bend your heads that they strike not against a ceiling, nor fear to breathe lest walls should crack and fall down."
+        },
+        {
+          "type": "paragraph",
+          "text": "You shall not dwell in tombs made by the dead for the living."
+        },
+        {
+          "type": "paragraph",
+          "text": "And though of magnificence and splendour, your house shall not hold your secret nor shelter your longing."
+        },
+        {
+          "type": "paragraph",
+          "text": "For that which is boundless in you abides in the mansion of the sky, whose door is the morning mist, and whose windows are the songs and the silences of night."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And the weaver said, Speak to us of Clothes."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your clothes conceal much of your beauty, yet they hide not the unbeautiful."
+        },
+        {
+          "type": "paragraph",
+          "text": "And though you seek in garments the freedom of privacy you may find in them a harness and a chain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Would that you could meet the sun and the wind with more of your skin and less of your raiment,"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the breath of life is in the sunlight and the hand of life is in the wind."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of you say, “It is the north wind who has woven the clothes we wear.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And I say, Ay, it was the north wind,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But shame was his loom, and the softening of the sinews was his thread."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when his work was done he laughed in the forest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forget not that modesty is for a shield against the eye of the unclean."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when the unclean shall be no more, what were modesty but a fetter and a fouling of the mind?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And forget not that the earth delights to feel your bare feet and the winds long to play with your hair."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And a merchant said, Speak to us of Buying and Selling."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered and said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "To you the earth yields her fruit, and you shall not want if you but know how to fill your hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is in exchanging the gifts of the earth that you shall find abundance and be satisfied."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet unless the exchange be in love and kindly justice, it will but lead some to greed and others to hunger."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "When in the market place you toilers of the sea and fields and vineyards meet the weavers and the potters and the gatherers of spices﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "Invoke then the master spirit of the earth, to come into your midst and sanctify the scales and the reckoning that weighs value against value."
+        },
+        {
+          "type": "paragraph",
+          "text": "And suffer not the barren-handed to take part in your transactions, who would sell their words for your labour."
+        },
+        {
+          "type": "paragraph",
+          "text": "To such men you should say,"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Come with us to the field, or go with our brothers to the sea and cast your net;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the land and the sea shall be bountiful to you even as to us.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if there come the singers and the dancers and the flute players﻿—buy of their gifts also."
+        },
+        {
+          "type": "paragraph",
+          "text": "For they too are gatherers of fruit and frankincense, and that which they bring, though fashioned of dreams, is raiment and food for your soul."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And before you leave the market place, see that no one has gone his way with empty hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the master spirit of the earth shall not sleep peacefully upon the wind till the needs of the least of you are satisfied."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then one of the judges of the city stood forth and said, Speak to us of Crime and Punishment."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is when your spirit goes wandering upon the wind,"
+        },
+        {
+          "type": "paragraph",
+          "text": "That you, alone and unguarded, commit a wrong unto others and therefore unto yourself."
+        },
+        {
+          "type": "paragraph",
+          "text": "And for that wrong committed must you knock and wait a while unheeded at the gate of the blessed."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Like the ocean is your god-self;"
+        },
+        {
+          "type": "paragraph",
+          "text": "It remains for ever undefiled."
+        },
+        {
+          "type": "paragraph",
+          "text": "And like the ether it lifts but the winged."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even like the sun is your god-self;"
+        },
+        {
+          "type": "paragraph",
+          "text": "It knows not the ways of the mole nor seeks it the holes of the serpent."
+        },
+        {
+          "type": "paragraph",
+          "text": "But your god-self dwells not alone in your being."
+        },
+        {
+          "type": "paragraph",
+          "text": "Much in you is still man, and much in you is not yet man,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But a shapeless pygmy that walks asleep in the mist searching for its own awakening."
+        },
+        {
+          "type": "paragraph",
+          "text": "And of the man in you would I now speak."
+        },
+        {
+          "type": "paragraph",
+          "text": "For it is he and not your god-self nor the pygmy in the mist, that knows crime and the punishment of crime."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oftentimes have I heard you speak of one who commits a wrong as though he were not one of you, but a stranger unto you and an intruder upon your world."
+        },
+        {
+          "type": "paragraph",
+          "text": "But I say that even as the holy and the righteous cannot rise beyond the highest which is in each one of you,"
+        },
+        {
+          "type": "paragraph",
+          "text": "So the wicked and the weak cannot fall lower than the lowest which is in you also."
+        },
+        {
+          "type": "paragraph",
+          "text": "And as a single leaf turns not yellow but with the silent knowledge of the whole tree,"
+        },
+        {
+          "type": "paragraph",
+          "text": "So the wrongdoer cannot do wrong without the hidden will of you all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Like a procession you walk together towards your god-self."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are the way and the wayfarers."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when one of you falls down he falls for those behind him, a caution against the stumbling stone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ay, and he falls for those ahead of him, who though faster and surer of foot, yet removed not the stumbling stone."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And this also, though the word lie heavy upon your hearts:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The murdered is not unaccountable for his own murder,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the robbed is not blameless in being robbed."
+        },
+        {
+          "type": "paragraph",
+          "text": "The righteous is not innocent of the deeds of the wicked,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the white-handed is not clean in the doings of the felon."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yea, the guilty is oftentimes the victim of the injured,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And still more often the condemned is the burden bearer for the guiltless and unblamed."
+        },
+        {
+          "type": "paragraph",
+          "text": "You cannot separate the just from the unjust and the good from the wicked;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For they stand together before the face of the sun even as the black thread and the white are woven together."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when the black thread breaks, the weaver shall look into the whole cloth, and he shall examine the loom also."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "If any of you would bring to judgment the unfaithful wife,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Let him also weigh the heart of her husband in scales, and measure his soul with measurements."
+        },
+        {
+          "type": "paragraph",
+          "text": "And let him who would lash the offender look unto the spirit of the offended."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if any of you would punish in the name of righteousness and lay the ax unto the evil tree, let him see to its roots;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And verily he will find the roots of the good and the bad, the fruitful and the fruitless, all entwined together in the silent heart of the earth."
+        },
+        {
+          "type": "paragraph",
+          "text": "And you judges who would be just,"
+        },
+        {
+          "type": "paragraph",
+          "text": "What judgment pronounce you upon him who though honest in the flesh yet is a thief in spirit?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What penalty lay you upon him who slays in the flesh yet is himself slain in the spirit?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And how prosecute you him who in action is a deceiver and an oppressor,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet who also is aggrieved and outraged?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And how shall you punish those whose remorse is already greater than their misdeeds?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is not remorse the justice which is administered by that very law which you would fain serve?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet you cannot lay remorse upon the innocent nor lift it from the heart of the guilty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unbidden shall it call in the night, that men may wake and gaze upon themselves."
+        },
+        {
+          "type": "paragraph",
+          "text": "And you who would understand justice, how shall you unless you look upon all deeds in the fullness of light?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Only then shall you know that the erect and the fallen are but one man standing in twilight between the night of his pygmy-self and the day of his god-self,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And that the cornerstone of the temple is not higher than the lowest stone in its foundation."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then a lawyer said, But what of our Laws, master?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You delight in laying down laws,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet you delight more in breaking them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Like children playing by the ocean who build sand-towers with constancy and then destroy them with laughter."
+        },
+        {
+          "type": "paragraph",
+          "text": "But while you build your sand-towers the ocean brings more sand to the shore,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when you destroy them the ocean laughs with you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily the ocean laughs always with the innocent."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But what of those to whom life is not an ocean, and man-made laws are not sand-towers,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But to whom life is a rock, and the law a chisel with which they would carve it in their own likeness?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What of the cripple who hates dancers?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What of the ox who loves his yoke and deems the elk and deer of the forest stray and vagrant things?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What of the old serpent who cannot shed his skin, and calls all others naked and shameless?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And of him who comes early to the wedding-feast, and when overfed and tired goes his way saying that all feasts are violation and all feasters lawbreakers?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "What shall I say of these save that they too stand in the sunlight, but with their backs to the sun?"
+        },
+        {
+          "type": "paragraph",
+          "text": "They see only their shadows, and their shadows are their laws."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is the sun to them but a caster of shadows?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is it to acknowledge the laws but to stoop down and trace their shadows upon the earth?"
+        },
+        {
+          "type": "paragraph",
+          "text": "But you who walk facing the sun, what images drawn on the earth can hold you?"
+        },
+        {
+          "type": "paragraph",
+          "text": "You who travel with the wind, what weathervane shall direct your course?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What man’s law shall bind you if you break your yoke but upon no man’s prison door?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What laws shall you fear if you dance but stumble against no man’s iron chains?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And who is he that shall bring you to judgment if you tear off your garment yet leave it in no man’s path?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "People of Orphalese, you can muffle the drum, and you can loosen the strings of the lyre, but who shall command the skylark not to sing?"
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And an orator said, Speak to us of Freedom."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "At the city gate and by your fireside I have seen you prostrate yourself and worship your own freedom,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Even as slaves humble themselves before a tyrant and praise him though he slays them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ay, in the grove of the temple and in the shadow of the citadel I have seen the freest among you wear their freedom as a yoke and a handcuff."
+        },
+        {
+          "type": "paragraph",
+          "text": "And my heart bled within me; for you can only be free when even the desire of seeking freedom becomes a harness to you, and when you cease to speak of freedom as a goal and a fulfilment."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You shall be free indeed when your days are not without a care nor your nights without a want and a grief,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But rather when these things girdle your life and yet you rise above them naked and unbound."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And how shall you rise beyond your days and nights unless you break the chains which you at the dawn of your understanding have fastened around your noon hour?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In truth that which you call freedom is the strongest of these chains, though its links glitter in the sun and dazzle your eyes."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is it but fragments of your own self you would discard that you may become free?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If it is an unjust law you would abolish, that law was written with your own hand upon your own forehead."
+        },
+        {
+          "type": "paragraph",
+          "text": "You cannot erase it by burning your law books nor by washing the foreheads of your judges, though you pour the sea upon them."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if it is a despot you would dethrone, see first that his throne erected within you is destroyed."
+        },
+        {
+          "type": "paragraph",
+          "text": "For how can a tyrant rule the free and the proud, but for a tyranny in their own freedom and a shame in their own pride?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if it is a care you would cast off, that care has been chosen by you rather than imposed upon you."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if it is a fear you would dispel, the seat of that fear is in your heart and not in the hand of the feared."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily all things move within your being in constant half embrace, the desired and the dreaded, the repugnant and the cherished, the pursued and that which you would escape."
+        },
+        {
+          "type": "paragraph",
+          "text": "These things move within you as lights and shadows in pairs that cling."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when the shadow fades and is no more, the light that lingers becomes a shadow to another light."
+        },
+        {
+          "type": "paragraph",
+          "text": "And thus your freedom when it loses its fetters becomes itself the fetter of a greater freedom."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And the priestess spoke again and said: Speak to us of Reason and Passion."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your soul is oftentimes a battlefield, upon which your reason and your judgment wage war against your passion and your appetite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Would that I could be the peacemaker in your soul, that I might turn the discord and the rivalry of your elements into oneness and melody."
+        },
+        {
+          "type": "paragraph",
+          "text": "But how shall I, unless you yourselves be also the peacemakers, nay, the lovers of all your elements?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your reason and your passion are the rudder and the sails of your seafaring soul."
+        },
+        {
+          "type": "paragraph",
+          "text": "If either your sails or your rudder be broken, you can but toss and drift, or else be held at a standstill in mid-seas."
+        },
+        {
+          "type": "paragraph",
+          "text": "For reason, ruling alone, is a force confining; and passion, unattended, is a flame that burns to its own destruction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore let your soul exalt your reason to the height of passion, that it may sing;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And let it direct your passion with reason, that your passion may live through its own daily resurrection, and like the phoenix rise above its own ashes."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "I would have you consider your judgment and your appetite even as you would two loved guests in your house."
+        },
+        {
+          "type": "paragraph",
+          "text": "Surely you would not honour one guest above the other; for he who is more mindful of one loses the love and the faith of both."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Among the hills, when you sit in the cool shade of the white poplars, sharing the peace and serenity of distant fields and meadows﻿—then let your heart say in silence, “God rests in reason.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when the storm comes, and the mighty wind shakes the forest, and thunder and lightning proclaim the majesty of the sky﻿—then let your heart say in awe, “God moves in passion.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And since you are a breath in God’s sphere, and a leaf in God’s forest, you too should rest in reason and move in passion."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And a woman spoke, saying, Tell us of Pain."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your pain is the breaking of the shell that encloses your understanding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even as the stone of the fruit must break, that its heart may stand in the sun, so must you know pain."
+        },
+        {
+          "type": "paragraph",
+          "text": "And could you keep your heart in wonder at the daily miracles of your life, your pain would not seem less wondrous than your joy;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And you would accept the seasons of your heart, even as you have always accepted the seasons that pass over your fields."
+        },
+        {
+          "type": "paragraph",
+          "text": "And you would watch with serenity through the winters of your grief."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Much of your pain is self-chosen."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is the bitter potion by which the physician within you heals your sick self."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore trust the physician, and drink his remedy in silence and tranquillity:"
+        },
+        {
+          "type": "paragraph",
+          "text": "For his hand, though heavy and hard, is guided by the tender hand of the Unseen,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the cup he brings, though it burn your lips, has been fashioned of the clay which the Potter has moistened with His own sacred tears."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And a man said, Speak to us of Self-Knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your hearts know in silence the secrets of the days and the nights."
+        },
+        {
+          "type": "paragraph",
+          "text": "But your ears thirst for the sound of your heart’s knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "You would know in words that which you have always known in thought."
+        },
+        {
+          "type": "paragraph",
+          "text": "You would touch with your fingers the naked body of your dreams."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And it is well you should."
+        },
+        {
+          "type": "paragraph",
+          "text": "The hidden wellspring of your soul must needs rise and run murmuring to the sea;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the treasure of your infinite depths would be revealed to your eyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "But let there be no scales to weigh your unknown treasure;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And seek not the depths of your knowledge with staff or sounding line."
+        },
+        {
+          "type": "paragraph",
+          "text": "For self is a sea boundless and measureless."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say not, “I have found the truth,” but rather, “I have found a truth.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Say not, “I have found the path of the soul.” Say rather, “I have met the soul walking upon my path.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the soul walks upon all paths."
+        },
+        {
+          "type": "paragraph",
+          "text": "The soul walks not upon a line, neither does it grow like a reed."
+        },
+        {
+          "type": "paragraph",
+          "text": "The soul unfolds itself, like a lotus of countless petals."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then said a teacher, Speak to us of Teaching."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "No man can reveal to you aught but that which already lies half asleep in the dawning of your knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "The teacher who walks in the shadow of the temple, among his followers, gives not of his wisdom but rather of his faith and his lovingness."
+        },
+        {
+          "type": "paragraph",
+          "text": "If he is indeed wise he does not bid you enter the house of his wisdom, but rather leads you to the threshold of your own mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "The astronomer may speak to you of his understanding of space, but he cannot give you his understanding."
+        },
+        {
+          "type": "paragraph",
+          "text": "The musician may sing to you of the rhythm which is in all space, but he cannot give you the ear which arrests the rhythm nor the voice that echoes it."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he who is versed in the science of numbers can tell of the regions of weight and measure, but he cannot conduct you thither."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the vision of one man lends not its wings to another man."
+        },
+        {
+          "type": "paragraph",
+          "text": "And even as each one of you stands alone in God’s knowledge, so must each one of you be alone in his knowledge of God and in his understanding of the earth."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And a youth said, Speak to us of Friendship."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your friend is your needs answered."
+        },
+        {
+          "type": "paragraph",
+          "text": "He is your field which you sow with love and reap with thanksgiving."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he is your board and your fireside."
+        },
+        {
+          "type": "paragraph",
+          "text": "For you come to him with your hunger, and you seek him for peace."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "When your friend speaks his mind you fear not the “nay” in your own mind, nor do you withhold the “ay.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when he is silent your heart ceases not to listen to his heart;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For without words, in friendship, all thoughts, all desires, all expectations are born and shared, with joy that is unacclaimed."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you part from your friend, you grieve not;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For that which you love most in him may be clearer in his absence, as the mountain to the climber is clearer from the plain."
+        },
+        {
+          "type": "paragraph",
+          "text": "And let there be no purpose in friendship save the deepening of the spirit."
+        },
+        {
+          "type": "paragraph",
+          "text": "For love that seeks aught but the disclosure of its own mystery is not love but a net cast forth: and only the unprofitable is caught."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And let your best be for your friend."
+        },
+        {
+          "type": "paragraph",
+          "text": "If he must know the ebb of your tide, let him know its flood also."
+        },
+        {
+          "type": "paragraph",
+          "text": "For what is your friend that you should seek him with hours to kill?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seek him always with hours to live."
+        },
+        {
+          "type": "paragraph",
+          "text": "For it is his to fill your need, but not your emptiness."
+        },
+        {
+          "type": "paragraph",
+          "text": "And in the sweetness of friendship let there be laughter, and sharing of pleasures."
+        },
+        {
+          "type": "paragraph",
+          "text": "For in the dew of little things the heart finds its morning and is refreshed."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And then a scholar said, Speak of Talking."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You talk when you cease to be at peace with your thoughts;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And when you can no longer dwell in the solitude of your heart you live in your lips, and sound is a diversion and a pastime."
+        },
+        {
+          "type": "paragraph",
+          "text": "And in much of your talking, thinking is half murdered."
+        },
+        {
+          "type": "paragraph",
+          "text": "For thought is a bird of space, that in a cage of words may indeed unfold its wings but cannot fly."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are those among you who seek the talkative through fear of being alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "The silence of aloneness reveals to their eyes their naked selves and they would escape."
+        },
+        {
+          "type": "paragraph",
+          "text": "And there are those who talk, and without knowledge or forethought reveal a truth which they themselves do not understand."
+        },
+        {
+          "type": "paragraph",
+          "text": "And there are those who have the truth within them, but they tell it not in words."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the bosom of such as these the spirit dwells in rhythmic silence."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you meet your friend on the roadside or in the market place, let the spirit in you move your lips and direct your tongue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let the voice within your voice speak to the ear of his ear;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For his soul will keep the truth of your heart as the taste of the wine is remembered"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the colour is forgotten and the vessel is no more."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And an astronomer said, Master, what of Time?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You would measure time the measureless and the immeasurable."
+        },
+        {
+          "type": "paragraph",
+          "text": "You would adjust your conduct and even direct the course of your spirit according to hours and seasons."
+        },
+        {
+          "type": "paragraph",
+          "text": "Of time you would make a stream upon whose bank you would sit and watch its flowing."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet the timeless in you is aware of life’s timelessness,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And knows that yesterday is but today’s memory and tomorrow is today’s dream."
+        },
+        {
+          "type": "paragraph",
+          "text": "And that that which sings and contemplates in you is still dwelling within the bounds of that first moment which scattered the stars into space."
+        },
+        {
+          "type": "paragraph",
+          "text": "Who among you does not feel that his power to love is boundless?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And yet who does not feel that very love, though boundless, encompassed within the centre of his being, and moving not from love thought to love thought, nor from love deeds to other love deeds?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And is not time even as love is, undivided and paceless?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But if in your thought you must measure time into seasons, let each season encircle all the other seasons,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And let today embrace the past with remembrance and the future with longing."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And one of the elders of the city said, Speak to us of Good and Evil."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Of the good in you I can speak, but not of the evil."
+        },
+        {
+          "type": "paragraph",
+          "text": "For what is evil but good tortured by its own hunger and thirst?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily when good is hungry it seeks food even in dark caves, and when it thirsts it drinks even of dead waters."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You are good when you are one with yourself."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet when you are not one with yourself you are not evil."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a divided house is not a den of thieves; it is only a divided house."
+        },
+        {
+          "type": "paragraph",
+          "text": "And a ship without rudder may wander aimlessly among perilous isles yet sink not to the bottom."
+        },
+        {
+          "type": "paragraph",
+          "text": "You are good when you strive to give of yourself."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet you are not evil when you seek gain for yourself."
+        },
+        {
+          "type": "paragraph",
+          "text": "For when you strive for gain you are but a root that clings to the earth and sucks at her breast."
+        },
+        {
+          "type": "paragraph",
+          "text": "Surely the fruit cannot say to the root, “Be like me, ripe and full and ever giving of your abundance.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "For to the fruit giving is a need, as receiving is a need to the root."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You are good when you are fully awake in your speech,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet you are not evil when you sleep while your tongue staggers without purpose."
+        },
+        {
+          "type": "paragraph",
+          "text": "And even stumbling speech may strengthen a weak tongue."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You are good when you walk to your goal firmly and with bold steps."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet you are not evil when you go thither limping."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even those who limp go not backward."
+        },
+        {
+          "type": "paragraph",
+          "text": "But you who are strong and swift, see that you do not limp before the lame, deeming it kindness."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You are good in countless ways, and you are not evil when you are not good,"
+        },
+        {
+          "type": "paragraph",
+          "text": "You are only loitering and sluggard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pity that the stags cannot teach swiftness to the turtles."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "In your longing for your giant self lies your goodness: and that longing is in all of you."
+        },
+        {
+          "type": "paragraph",
+          "text": "But in some of you that longing is a torrent rushing with might to the sea, carrying the secrets of the hillsides and the songs of the forest."
+        },
+        {
+          "type": "paragraph",
+          "text": "And in others it is a flat stream that loses itself in angles and bends and lingers before it reaches the shore."
+        },
+        {
+          "type": "paragraph",
+          "text": "But let not him who longs much say to him who longs little, “Wherefore are you slow and halting?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the truly good ask not the naked, “Where is your garment?” nor the houseless, “What has befallen your house?”"
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then a priestess said, Speak to us of Prayer."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You pray in your distress and in your need; would that you might pray also in the fullness of your joy and in your days of abundance."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "For what is prayer but the expansion of yourself into the living ether?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if it is for your comfort to pour your darkness into space, it is also for your delight to pour forth the dawning of your heart."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you cannot but weep when your soul summons you to prayer, she should spur you again and yet again, though weeping, until you shall come laughing."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you pray you rise to meet in the air those who are praying at that very hour, and whom save in prayer you may not meet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore let your visit to that temple invisible be for naught but ecstasy and sweet communion."
+        },
+        {
+          "type": "paragraph",
+          "text": "For if you should enter the temple for no other purpose than asking you shall not receive:"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you should enter into it to humble yourself you shall not be lifted:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Or even if you should enter into it to beg for the good of others you shall not be heard."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is enough that you enter the temple invisible."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "I cannot teach you how to pray in words."
+        },
+        {
+          "type": "paragraph",
+          "text": "God listens not to your words save when He Himself utters them through your lips."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I cannot teach you the prayer of the seas and the forests and the mountains."
+        },
+        {
+          "type": "paragraph",
+          "text": "But you who are born of the mountains and the forests and the seas can find their prayer in your heart,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you but listen in the stillness of the night you shall hear them saying in silence,"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Our God, who art our winged self, it is thy will in us that willeth."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is thy desire in us that desireth."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is thy urge in us that would turn our nights, which are thine, into days which are thine also."
+        },
+        {
+          "type": "paragraph",
+          "text": "We cannot ask thee for aught, for thou knowest our needs before they are born in us:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thou art our need; and in giving us more of thyself thou givest us all.”"
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then a hermit, who visited the city once a year, came forth and said, Speak to us of Pleasure."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, saying:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pleasure is a freedom-song,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But it is not freedom."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is the blossoming of your desires,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But it is not their fruit."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a depth calling unto a height,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But it is not the deep nor the high."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is the caged taking wing,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But it is not space encompassed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ay, in very truth, pleasure is a freedom-song."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I fain would have you sing it with fullness of heart; yet I would not have you lose your hearts in the singing."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of your youth seek pleasure as if it were all, and they are judged and rebuked."
+        },
+        {
+          "type": "paragraph",
+          "text": "I would not judge nor rebuke them. I would have them seek."
+        },
+        {
+          "type": "paragraph",
+          "text": "For they shall find pleasure, but not her alone;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seven are her sisters, and the least of them is more beautiful than pleasure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Have you not heard of the man who was digging in the earth for roots and found a treasure?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And some of your elders remember pleasures with regret like wrongs committed in drunkenness."
+        },
+        {
+          "type": "paragraph",
+          "text": "But regret is the beclouding of the mind and not its chastisement."
+        },
+        {
+          "type": "paragraph",
+          "text": "They should remember their pleasures with gratitude, as they would the harvest of a summer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet if it comforts them to regret, let them be comforted."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And there are among you those who are neither young to seek nor old to remember;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And in their fear of seeking and remembering they shun all pleasures, lest they neglect the spirit or offend against it."
+        },
+        {
+          "type": "paragraph",
+          "text": "But even in their foregoing is their pleasure."
+        },
+        {
+          "type": "paragraph",
+          "text": "And thus they too find a treasure though they dig for roots with quivering hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "But tell me, who is he that can offend the spirit?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Shall the nightingale offend the stillness of the night, or the firefly the stars?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And shall your flame or your smoke burden the wind?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Think you the spirit is a still pool which you can trouble with a staff?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oftentimes in denying yourself pleasure you do but store the desire in the recesses of your being."
+        },
+        {
+          "type": "paragraph",
+          "text": "Who knows but that which seems omitted today, waits for tomorrow?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Even your body knows its heritage and its rightful need and will not be deceived."
+        },
+        {
+          "type": "paragraph",
+          "text": "And your body is the harp of your soul,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And it is yours to bring forth sweet music from it or confused sounds."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And now you ask in your heart, “How shall we distinguish that which is good in pleasure from that which is not good?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Go to your fields and your gardens, and you shall learn that it is the pleasure of the bee to gather honey of the flower,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But it is also the pleasure of the flower to yield its honey to the bee."
+        },
+        {
+          "type": "paragraph",
+          "text": "For to the bee a flower is a fountain of life,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to the flower a bee is a messenger of love,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And to both, bee and flower, the giving and the receiving of pleasure is a need and an ecstasy."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "People of Orphalese, be in your pleasures like the flowers and the bees."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And a poet said, Speak to us of Beauty."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where shall you seek beauty, and how shall you find her unless she herself be your way and your guide?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And how shall you speak of her except she be the weaver of your speech?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "The aggrieved and the injured say, “Beauty is kind and gentle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Like a young mother half-shy of her own glory she walks among us.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the passionate say, “Nay, beauty is a thing of might and dread."
+        },
+        {
+          "type": "paragraph",
+          "text": "Like the tempest she shakes the earth beneath us and the sky above us.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "The tired and the weary say, “Beauty is of soft whisperings. She speaks in our spirit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her voice yields to our silences like a faint light that quivers in fear of the shadow.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "But the restless say, “We have heard her shouting among the mountains,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And with her cries came the sound of hoofs, and the beating of wings and the roaring of lions.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "At night the watchmen of the city say, “Beauty shall rise with the dawn from the east.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And at noontide the toilers and the wayfarers say, “We have seen her leaning over the earth from the windows of the sunset.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "In winter say the snowbound, “She shall come with the spring leaping upon the hills.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "And in the summer heat the reapers say, “We have seen her dancing with the autumn leaves, and we saw a drift of snow in her hair.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "All these things have you said of beauty,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet in truth you spoke not of her but of needs unsatisfied,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And beauty is not a need but an ecstasy."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not a mouth thirsting nor an empty hand stretched forth,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But rather a heart enflamed and a soul enchanted."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not the image you would see nor the song you would hear,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But rather an image you see though you close your eyes and a song you hear though you shut your ears."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not the sap within the furrowed bark, nor a wing attached to a claw,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But rather a garden for ever in bloom and a flock of angels for ever in flight."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "People of Orphalese, beauty is life when life unveils her holy face."
+        },
+        {
+          "type": "paragraph",
+          "text": "But you are life and you are the veil."
+        },
+        {
+          "type": "paragraph",
+          "text": "Beauty is eternity gazing at itself in a mirror."
+        },
+        {
+          "type": "paragraph",
+          "text": "But you are eternity and you are the mirror."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And an old priest said, Speak to us of Religion."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Have I spoken this day of aught else?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Is not religion all deeds and all reflection,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And that which is neither deed nor reflection, but a wonder and a surprise ever springing in the soul, even while the hands hew the stone or tend the loom?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who can separate his faith from his actions, or his belief from his occupations?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Who can spread his hours before him, saying, “This for God and this for myself; This for my soul, and this other for my body?”"
+        },
+        {
+          "type": "paragraph",
+          "text": "All your hours are wings that beat through space from self to self."
+        },
+        {
+          "type": "paragraph",
+          "text": "He who wears his morality but as his best garment were better naked."
+        },
+        {
+          "type": "paragraph",
+          "text": "The wind and the sun will tear no holes in his skin."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he who defines his conduct by ethics imprisons his songbird in a cage."
+        },
+        {
+          "type": "paragraph",
+          "text": "The freest song comes not through bars and wires."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he to whom worshipping is a window, to open but also to shut, has not yet visited the house of his soul whose windows are from dawn to dawn."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your daily life is your temple and your religion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Whenever you enter into it take with you your all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Take the plough and the forge and the mallet and the lute,"
+        },
+        {
+          "type": "paragraph",
+          "text": "The things you have fashioned in necessity or for delight."
+        },
+        {
+          "type": "paragraph",
+          "text": "For in revery you cannot rise above your achievements nor fall lower than your failures."
+        },
+        {
+          "type": "paragraph",
+          "text": "And take with you all men:"
+        },
+        {
+          "type": "paragraph",
+          "text": "For in adoration you cannot fly higher than their hopes nor humble yourself lower than their despair."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you would know God be not therefore a solver of riddles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rather look about you and you shall see Him playing with your children."
+        },
+        {
+          "type": "paragraph",
+          "text": "And look into space; you shall see Him walking in the cloud, outstretching His arms in the lightning and descending in rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "You shall see Him smiling in flowers, then rising and waving His hands in trees."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Then Almitra spoke, saying, We would ask now of Death."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You would know the secret of death."
+        },
+        {
+          "type": "paragraph",
+          "text": "But how shall you find it unless you seek it in the heart of life?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The owl whose night-bound eyes are blind unto the day cannot unveil the mystery of light."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you would indeed behold the spirit of death, open your heart wide unto the body of life."
+        },
+        {
+          "type": "paragraph",
+          "text": "For life and death are one, even as the river and the sea are one."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the depth of your hopes and desires lies your silent knowledge of the beyond;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And like seeds dreaming beneath the snow your heart dreams of spring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trust the dreams, for in them is hidden the gate to eternity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Your fear of death is but the trembling of the shepherd when he stands before the king whose hand is to be laid upon him in honour."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is the shepherd not joyful beneath his trembling, that he shall wear the mark of the king?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet is he not more mindful of his trembling?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "For what is it to die but to stand naked in the wind and to melt into the sun?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is it to cease breathing, but to free the breath from its restless tides, that it may rise and expand and seek God unencumbered?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Only when you drink from the river of silence shall you indeed sing."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when you have reached the mountain top, then you shall begin to climb."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when the earth shall claim your limbs, then shall you truly dance."
+        }
+      ]
+    },
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction",
+        "short-story"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "And now it was evening."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Almitra the seeress said, Blessed be this day and this place and your spirit that has spoken."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he answered, Was it I who spoke? Was I not also a listener?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then he descended the steps of the Temple and all the people followed him."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he reached his ship and stood upon the deck."
+        },
+        {
+          "type": "paragraph",
+          "text": "And facing the people again, he raised his voice and said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "People of Orphalese, the wind bids me leave you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Less hasty am I than the wind, yet I must go."
+        },
+        {
+          "type": "paragraph",
+          "text": "We wanderers, ever seeking the lonelier way, begin no day where we have ended another day; and no sunrise finds us where sunset left us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even while the earth sleeps we travel."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are the seeds of the tenacious plant, and it is in our ripeness and our fullness of heart that we are given to the wind and are scattered."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Brief were my days among you, and briefer still the words I have spoken."
+        },
+        {
+          "type": "paragraph",
+          "text": "But should my voice fade in your ears, and my love vanish in your memory, then I will come again,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And with a richer heart and lips more yielding to the spirit will I speak."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yea, I shall return with the tide,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And though death may hide me, and the greater silence enfold me, yet again will I seek your understanding."
+        },
+        {
+          "type": "paragraph",
+          "text": "And not in vain will I seek."
+        },
+        {
+          "type": "paragraph",
+          "text": "If aught I have said is truth, that truth shall reveal itself in a clearer voice, and in words more kin to your thoughts."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "I go with the wind, people of Orphalese, but not down into emptiness;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if this day is not a fulfilment of your needs and my love, then let it be a promise till another day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Man’s needs change, but not his love, nor his desire that his love should satisfy his needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Know therefore, that from the greater silence I shall return."
+        },
+        {
+          "type": "paragraph",
+          "text": "The mist that drifts away at dawn, leaving but dew in the fields, shall rise and gather into a cloud and then fall down in rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "And not unlike the mist have I been."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the stillness of the night I have walked in your streets, and my spirit has entered your houses,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And your heartbeats were in my heart, and your breath was upon my face, and I knew you all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ay, I knew your joy and your pain, and in your sleep your dreams were my dreams."
+        },
+        {
+          "type": "paragraph",
+          "text": "And oftentimes I was among you a lake among the mountains."
+        },
+        {
+          "type": "paragraph",
+          "text": "I mirrored the summits in you and the bending slopes, and even the passing flocks of your thoughts and your desires."
+        },
+        {
+          "type": "paragraph",
+          "text": "And to my silence came the laughter of your children in streams, and the longing of your youths in rivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when they reached my depth the streams and the rivers ceased not yet to sing."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But sweeter still than laughter and greater than longing came to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was the boundless in you;"
+        },
+        {
+          "type": "paragraph",
+          "text": "The vast man in whom you are all but cells and sinews;"
+        },
+        {
+          "type": "paragraph",
+          "text": "He in whose chant all your singing is but a soundless throbbing."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is in the vast man that you are vast,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And in beholding him that I beheld you and loved you."
+        },
+        {
+          "type": "paragraph",
+          "text": "For what distances can love reach that are not in that vast sphere?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What visions, what expectations and what presumptions can outsoar that flight?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Like a giant oak tree covered with apple blossoms is the vast man in you."
+        },
+        {
+          "type": "paragraph",
+          "text": "His might binds you to the earth, his fragrance lifts you into space, and in his durability you are deathless."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "You have been told that, even like a chain, you are as weak as your weakest link."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is but half the truth. You are also as strong as your strongest link."
+        },
+        {
+          "type": "paragraph",
+          "text": "To measure you by your smallest deed is to reckon the power of ocean by the frailty of its foam."
+        },
+        {
+          "type": "paragraph",
+          "text": "To judge you by your failures is to cast blame upon the seasons for their inconstancy."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ay, you are like an ocean,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And though heavy-grounded ships await the tide upon your shores, yet, even like an ocean, you cannot hasten your tides."
+        },
+        {
+          "type": "paragraph",
+          "text": "And like the seasons you are also,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And though in your winter you deny your spring,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet spring, reposing within you, smiles in her drowsiness and is not offended."
+        },
+        {
+          "type": "paragraph",
+          "text": "Think not I say these things in order that you may say the one to the other, “He praised us well. He saw but the good in us.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "I only speak to you in words of that which you yourselves know in thought."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what is word knowledge but a shadow of wordless knowledge?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Your thoughts and my words are waves from a sealed memory that keeps records of our yesterdays,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And of the ancient days when the earth knew not us nor herself,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And of nights when earth was up-wrought with confusion."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wise men have come to you to give you of their wisdom. I came to take of your wisdom:"
+        },
+        {
+          "type": "paragraph",
+          "text": "And behold I have found that which is greater than wisdom."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a flame spirit in you ever gathering more of itself,"
+        },
+        {
+          "type": "paragraph",
+          "text": "While you, heedless of its expansion, bewail the withering of your days."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is life in quest of life in bodies that fear the grave."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are no graves here."
+        },
+        {
+          "type": "paragraph",
+          "text": "These mountains and plains are a cradle and a stepping-stone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Whenever you pass by the field where you have laid your ancestors look well thereupon, and you shall see yourselves and your children dancing hand in hand."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily you often make merry without knowing."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Others have come to you to whom for golden promises made unto your faith you have given but riches and power and glory."
+        },
+        {
+          "type": "paragraph",
+          "text": "Less than a promise have I given, and yet more generous have you been to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "You have given me my deeper thirsting after life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Surely there is no greater gift to a man than that which turns all his aims into parching lips and all life into a fountain."
+        },
+        {
+          "type": "paragraph",
+          "text": "And in this lies my honour and my reward﻿—"
+        },
+        {
+          "type": "paragraph",
+          "text": "That whenever I come to the fountain to drink I find the living water itself thirsty;"
+        },
+        {
+          "type": "paragraph",
+          "text": "And it drinks me while I drink it."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of you have deemed me proud and over-shy to receive gifts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Too proud indeed am I to receive wages, but not gifts."
+        },
+        {
+          "type": "paragraph",
+          "text": "And though I have eaten berries among the hills when you would have had me sit at your board,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And slept in the portico of the temple when you would gladly have sheltered me,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet was it not your loving mindfulness of my days and my nights that made food sweet to my mouth and girdled my sleep with visions?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "For this I bless you most:"
+        },
+        {
+          "type": "paragraph",
+          "text": "You give much and know not that you give at all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verily the kindness that gazes upon itself in a mirror turns to stone,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And a good deed that calls itself by tender names becomes the parent to a curse."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And some of you have called me aloof, and drunk with my own aloneness,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And you have said, “He holds council with the trees of the forest, but not with men."
+        },
+        {
+          "type": "paragraph",
+          "text": "He sits alone on hilltops and looks down upon our city.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "True it is that I have climbed the hills and walked in remote places."
+        },
+        {
+          "type": "paragraph",
+          "text": "How could I have seen you save from a great height or a great distance?"
+        },
+        {
+          "type": "paragraph",
+          "text": "How can one be indeed near unless he be far?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And others among you called unto me, not in words, and they said,"
+        },
+        {
+          "type": "paragraph",
+          "text": "“Stranger, stranger, lover of unreachable heights, why dwell you among the summits where eagles build their nests?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Why seek you the unattainable?"
+        },
+        {
+          "type": "paragraph",
+          "text": "What storms would you trap in your net,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what vaporous birds do you hunt in the sky?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Come and be one of us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Descend and appease your hunger with our bread and quench your thirst with our wine.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the solitude of their souls they said these things;"
+        },
+        {
+          "type": "paragraph",
+          "text": "But were their solitude deeper they would have known that I sought but the secret of your joy and your pain,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And I hunted only your larger selves that walk the sky."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But the hunter was also the hunted;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For many of my arrows left my bow only to seek my own breast."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the flier was also the creeper;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For when my wings were spread in the sun their shadow upon the earth was a turtle."
+        },
+        {
+          "type": "paragraph",
+          "text": "And I the believer was also the doubter;"
+        },
+        {
+          "type": "paragraph",
+          "text": "For often have I put my finger in my own wound that I might have the greater belief in you and the greater knowledge of you."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "And it is with this belief and this knowledge that I say,"
+        },
+        {
+          "type": "paragraph",
+          "text": "You are not enclosed within your bodies, nor confined to houses or fields."
+        },
+        {
+          "type": "paragraph",
+          "text": "That which is you dwells above the mountain and roves with the wind."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is not a thing that crawls into the sun for warmth or digs holes into darkness for safety,"
+        },
+        {
+          "type": "paragraph",
+          "text": "But a thing free, a spirit that envelops the earth and moves in the ether."
+        },
+        {
+          "type": "paragraph",
+          "text": "If these be vague words, then seek not to clear them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vague and nebulous is the beginning of all things, but not their end,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And I fain would have you remember me as a beginning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Life, and all that lives, is conceived in the mist and not in the crystal."
+        },
+        {
+          "type": "paragraph",
+          "text": "And who knows but a crystal is mist in decay?"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "This would I have you remember in remembering me:"
+        },
+        {
+          "type": "paragraph",
+          "text": "That which seems most feeble and bewildered in you is the strongest and most determined."
+        },
+        {
+          "type": "paragraph",
+          "text": "Is it not your breath that has erected and hardened the structure of your bones?"
+        },
+        {
+          "type": "paragraph",
+          "text": "And is it not a dream which none of you remember having dreamt, that builded your city and fashioned all there is in it?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Could you but see the tides of that breath you would cease to see all else,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if you could hear the whispering of the dream you would hear no other sound."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "But you do not see, nor do you hear, and it is well."
+        },
+        {
+          "type": "paragraph",
+          "text": "The veil that clouds your eyes shall be lifted by the hands that wove it,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the clay that fills your ears shall be pierced by those fingers that kneaded it."
+        },
+        {
+          "type": "paragraph",
+          "text": "And you shall see."
+        },
+        {
+          "type": "paragraph",
+          "text": "And you shall hear."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet you shall not deplore having known blindness, nor regret having been deaf."
+        },
+        {
+          "type": "paragraph",
+          "text": "For in that day you shall know the hidden purposes in all things,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And you shall bless darkness as you would bless light."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "After saying these things he looked about him, and he saw the pilot of his ship standing by the helm and gazing now at the full sails and now at the distance."
+        },
+        {
+          "type": "paragraph",
+          "text": "And he said:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Patient, over patient, is the captain of my ship."
+        },
+        {
+          "type": "paragraph",
+          "text": "The wind blows, and restless are the sails;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Even the rudder begs direction;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yet quietly my captain awaits my silence."
+        },
+        {
+          "type": "paragraph",
+          "text": "And these my mariners, who have heard the choir of the greater sea, they too have heard me patiently."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now they shall wait no longer."
+        },
+        {
+          "type": "paragraph",
+          "text": "I am ready."
+        },
+        {
+          "type": "paragraph",
+          "text": "The stream has reached the sea, and once more the great mother holds her son against her breast."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fare you well, people of Orphalese."
+        },
+        {
+          "type": "paragraph",
+          "text": "This day has ended."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is closing upon us even as the water-lily upon its own tomorrow."
+        },
+        {
+          "type": "paragraph",
+          "text": "What was given us here we shall keep,"
+        },
+        {
+          "type": "paragraph",
+          "text": "And if it suffices not, then again must we come together and together stretch our hands unto the giver."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forget not that I shall come back to you."
+        },
+        {
+          "type": "paragraph",
+          "text": "A little while, and my longing shall gather dust and foam for another body."
+        },
+        {
+          "type": "paragraph",
+          "text": "A little while, a moment of rest upon the wind, and another woman shall bear me."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Farewell to you and the youth I have spent with you."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was but yesterday we met in a dream."
+        },
+        {
+          "type": "paragraph",
+          "text": "You have sung to me in my aloneness, and I of your longings have built a tower in the sky."
+        },
+        {
+          "type": "paragraph",
+          "text": "But now our sleep has fled and our dream is over, and it is no longer dawn."
+        },
+        {
+          "type": "paragraph",
+          "text": "The noontide is upon us and our half waking has turned to fuller day, and we must part."
+        },
+        {
+          "type": "paragraph",
+          "text": "If in the twilight of memory we should meet once more, we shall speak again together and you shall sing to me a deeper song."
+        },
+        {
+          "type": "paragraph",
+          "text": "And if our hands should meet in another dream we shall build another tower in the sky."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "So saying he made a signal to the seamen, and straightway they weighed anchor and cast the ship loose from its moorings, and they moved eastward."
+        },
+        {
+          "type": "paragraph",
+          "text": "And a cry came from the people as from a single heart, and it rose into the dusk and was carried out over the sea like a great trumpeting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Only Almitra was silent, gazing after the ship until it had vanished into the mist."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when all the people were dispersed she still stood alone upon the seawall, remembering in her heart his saying,"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "“A little while, a moment of rest upon the wind, and another woman shall bear me.”"
+        }
+      ]
+    }
+  ]
+}

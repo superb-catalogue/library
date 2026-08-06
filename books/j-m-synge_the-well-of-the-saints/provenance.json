@@ -1,0 +1,39 @@
+{
+  "title": "The Well of the Saints",
+  "author": "J. M. Synge",
+  "identifier": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints",
+    "published": "2024-03-15T16:04:01Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1241",
+    "https://catalog.hathitrust.org/Record/001024645"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/j-m-synge/the-well-of-the-saints",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-drama-epub.zip",
+    "epub_sha256": "1d5df0e066722ce194951af373a2181b9e97b6aba097ab3b4b5fe8466e41b0ce"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 5457,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Short Fiction",
+  "author": "Catherine Louisa Pirkis",
+  "identifier": "https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction",
+    "published": "2026-05-26T21:57:13Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/65012",
+    "https://archive.org/details/disappearedfrom00pirkgoog",
+    "https://archive.org/details/12641-cc-26-001",
+    "https://archive.org/details/sim_all-the-year-round_1889-12-28_2_52",
+    "https://archive.org/details/sim_ludgate_november-1893-april-1894_6",
+    "https://archive.org/details/jackmendicant01pirk"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/catherine-louisa-pirkis/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "532e9cfac4c7b8f7bc614347c4000926a71da554d8b4b224a92333ebbbcb9fcd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 6,
+    "words": 84602,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

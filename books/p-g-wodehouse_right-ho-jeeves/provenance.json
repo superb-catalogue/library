@@ -1,0 +1,40 @@
+{
+  "title": "Right Ho, Jeeves",
+  "author": "P. G. Wodehouse",
+  "identifier": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
+    "published": "2016-01-05T22:17:49Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/10554",
+    "https://archive.org/details/RightHoJeeves"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/p-g-wodehouse/right-ho-jeeves",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "d224cd755792389f0670b15e30e44da61e8253a69e9225bc577f2c12cbaf7444"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 23,
+    "words": 73865,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

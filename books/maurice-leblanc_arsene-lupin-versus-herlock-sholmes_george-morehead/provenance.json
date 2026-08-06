@@ -1,0 +1,46 @@
+{
+  "title": "Arsène Lupin Versus Herlock Sholmes",
+  "author": "Maurice Leblanc",
+  "identifier": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead",
+    "published": "2018-04-08T23:54:13Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/40203",
+    "https://archive.org/details/arsenelupin00leblrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/maurice-leblanc/arsene-lupin-versus-herlock-sholmes/george-morehead",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Arsène Lupin",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "e60644e4aef1380a290ebe18f26e8c7282e2e79e4d0a89b72db417556a56da40"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 8,
+    "words": 61256,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

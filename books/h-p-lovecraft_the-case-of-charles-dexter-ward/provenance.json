@@ -1,0 +1,40 @@
+{
+  "title": "The Case of Charles Dexter Ward",
+  "author": "H. P. Lovecraft",
+  "identifier": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+    "published": "2024-07-16T19:09:04Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/73547",
+    "https://archive.org/details/Weird_Tales_v35n09_1941-05",
+    "https://archive.org/details/Weird_Tales_v35n10_1941-07_sas"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-p-lovecraft/the-case-of-charles-dexter-ward",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-horror-epub.zip",
+    "epub_sha256": "2d4945235293cb48ae4cc2716e2ab1788c172c98061b7e76a23ad073d27bb5e8"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 44337,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

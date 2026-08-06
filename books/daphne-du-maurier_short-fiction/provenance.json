@@ -1,0 +1,45 @@
+{
+  "title": "Short Fiction",
+  "author": "Daphne du Maurier",
+  "identifier": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction",
+    "published": "2026-01-01T16:00:23Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://archive.org/details/the-bystander/1920-1929/1928/The%20Bystander%20%231306v100%20%281928-12-26%29%20%28BNA%29/page/678/mode/2up",
+    "https://archive.org/details/the-bystander/1920-1929/1929/The%20Bystander%20%231332v102%20%281929-06-26%29%20%28BNA%29/page/708/mode/2up",
+    "https://archive.org/details/the-bystander/1920-1929/1929/The%20Bystander%20%231355v104%20%281929-11-27%29%20%28BNA%29/page/482/mode/2up",
+    "https://archive.org/details/the-bystander/1930-1939/1930/The%20Bystander%20%231376v106%20%281930-04-23%29%20%28BNA%29/page/184/mode/2up",
+    "https://archive.org/details/the-bystander/1930-1939/1930/The%20Bystander%20%231384v106%20%281930-06-18%29%20%28BNA%29/page/624/mode/2up",
+    "https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1930-10-04_150_3910/page/400/mode/2up",
+    "https://archive.org/details/the-bystander/1930-1939/1930/The%20Bystander%20%231406Av108%20%281930-11-28%29%20-%20Christmas%20Issue%20%28BNA%29/page/60/mode/2up"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "7cfbe10dfa5e1a179385c0a7d33873caa448e270b8737d08b355032207dadca0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 19385,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

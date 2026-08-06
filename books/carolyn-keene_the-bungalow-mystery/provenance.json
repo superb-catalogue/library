@@ -1,0 +1,45 @@
+{
+  "title": "The Bungalow Mystery",
+  "author": "Carolyn Keene",
+  "identifier": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+    "published": "2026-01-01T16:00:20Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://archive.org/details/bungalowmystery0000caro"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/carolyn-keene/the-bungalow-mystery",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Mystery"
+  ],
+  "category": "Children’s",
+  "sets": [
+    {
+      "name": "Nancy Drew Mystery Stories",
+      "type": "series",
+      "position": "3"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "69a8305881cc05126f91e919cf0e331ac34c87e96a368503449e2b154f827fb3"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 25,
+    "words": 37992,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

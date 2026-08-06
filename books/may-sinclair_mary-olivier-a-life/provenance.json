@@ -29,7 +29,7 @@
   "sets": [],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-philosophy-epub.zip",
+    "collection": "se-ebooks-fiction-epub.zip",
     "epub_sha256": "355ddbb090bae6b4ba6020f8fde332a1884efdde2d54fefad5e0bfd98c0409f7"
   },
   "text": {

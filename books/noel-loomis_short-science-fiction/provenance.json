@@ -1,0 +1,56 @@
+{
+  "title": "Short Science Fiction",
+  "author": "Noel Loomis",
+  "identifier": "https://standardebooks.org/ebooks/noel-loomis/short-science-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/noel-loomis/short-science-fiction",
+    "published": "2026-07-06T21:06:57Z",
+    "modified": "2026-07-06T21:07:44Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/63638",
+    "https://archive.org/details/Planet_Stories_v03n02_1946-Spring",
+    "https://www.gutenberg.org/ebooks/70387",
+    "https://archive.org/details/Future_Science_Fiction_v01n01_1950-05-06",
+    "https://www.gutenberg.org/ebooks/64063",
+    "https://archive.org/details/Planet_Stories_v04n12_1951-05",
+    "https://www.gutenberg.org/ebooks/70388",
+    "https://archive.org/details/Future_Science_Fiction_v02n02_1951-07",
+    "https://www.gutenberg.org/ebooks/65861",
+    "https://archive.org/details/Imagination_v03n04_1952-07_LennyS-cape1736",
+    "https://www.gutenberg.org/ebooks/31326",
+    "https://archive.org/details/Planet_Stories_v05n07_1952-07_ATLPM",
+    "https://www.gutenberg.org/ebooks/32907",
+    "https://archive.org/details/1952-11_IF",
+    "https://www.gutenberg.org/ebooks/33872",
+    "https://archive.org/details/Science_Fiction_Stories_01_1953",
+    "https://www.gutenberg.org/ebooks/78935",
+    "https://archive.org/details/Rocket_Stories_v01n03_1953-09_oak"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/noel-loomis/short-science-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "9c1c95a11fd639c49f64d9562365d1ca038f9af37f67a6a47b22434affb28966"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 45836,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

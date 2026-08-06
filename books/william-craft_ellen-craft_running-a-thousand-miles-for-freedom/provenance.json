@@ -30,7 +30,7 @@
   "sets": [],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-nonfiction-epub.zip",
+    "collection": "se-ebooks-adventure-epub.zip",
     "epub_sha256": "2e2f6bca0a846c2fe657aded371eab3b7de91f9eb5c14bffd6e253146dd1c74c"
   },
   "text": {

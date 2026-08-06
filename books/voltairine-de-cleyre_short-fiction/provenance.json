@@ -1,0 +1,45 @@
+{
+  "title": "Short Fiction",
+  "author": "Voltairine de Cleyre",
+  "identifier": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
+    "published": "2022-07-26T16:09:40Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/43098",
+    "https://archive.org/details/selectedworksvo01havegoog",
+    "https://theanarchistlibrary.org/library/rosa-slobodinsky-and-voltairine-de-cleyre-the-individualist-and-the-communist",
+    "https://www.google.com/books/edition/Twentieth_Century/NTlFAQAAMAAJ",
+    "https://archive.org/details/some_nihilists_i_have_met",
+    "https://theanarchistlibrary.org/library/voltairine-de-cleyre-some-nihilists-i-have-met",
+    "https://archive.org/details/mother-earth/Mother%20Earth%20v01n08%20%281906-10%29%20%28c2c%20Harvard%20DSR%29"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/voltairine-de-cleyre/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "3e62afa78483c7bfdb6a395a2dd98f6662f75482643dc620226c641dbf1e98f7"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 25549,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

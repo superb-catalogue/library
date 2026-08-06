@@ -1,0 +1,39 @@
+{
+  "title": "The Coming of Bill",
+  "author": "P. G. Wodehouse",
+  "identifier": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+    "published": "2024-06-30T00:54:16Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6880",
+    "https://archive.org/details/in.ernet.dli.2015.247933"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Satire",
+  "genres": [
+    "Satire"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-satire-epub.zip",
+    "epub_sha256": "c67d5e981eccec79783172e86978d1ea2b5d17cf782372f3b8674de69f6bf16a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 30,
+    "words": 84468,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

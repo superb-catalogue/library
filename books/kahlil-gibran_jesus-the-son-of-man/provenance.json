@@ -1,0 +1,41 @@
+{
+  "title": "Jesus the Son of Man",
+  "author": "Kahlil Gibran",
+  "identifier": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
+    "published": "2026-07-02T03:16:54Z",
+    "modified": "2026-07-14T15:31:16Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks03/0301451h.html",
+    "https://archive.org/details/dli.bengal.10689.13367"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/kahlil-gibran/jesus-the-son-of-man",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts",
+    "Spirituality"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "cf3a84c0d7a3d1b4093aaf694fe7eef3aea77e7383532b98073df2f99c3b8fd1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 79,
+    "words": 39819,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

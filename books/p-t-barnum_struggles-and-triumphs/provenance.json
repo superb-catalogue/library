@@ -28,7 +28,7 @@
   "sets": [],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-nonfiction-epub.zip",
+    "collection": "se-ebooks-autobiography-epub.zip",
     "epub_sha256": "279f207c019d1c1a0bd96fd82e0baf39a59a37a9bdc51907e63e2f56e3874ed9"
   },
   "text": {

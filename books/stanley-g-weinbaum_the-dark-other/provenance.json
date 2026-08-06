@@ -1,0 +1,39 @@
+{
+  "title": "The Dark Other",
+  "author": "Stanley G. Weinbaum",
+  "identifier": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+    "published": "2019-10-26T23:10:18Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/50561",
+    "https://www.pgdp.org/ols/tools/biblio.php?id=projectID5601d5e408008"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-horror-epub.zip",
+    "epub_sha256": "817e0a7b8482acc9e3013edfdba7a00a82d086628fe2f91ec9c778132065139c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 32,
+    "words": 49977,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

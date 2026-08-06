@@ -1,0 +1,40 @@
+{
+  "title": "The Apple Cart",
+  "author": "George Bernard Shaw",
+  "identifier": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
+    "published": "2026-01-05T22:14:34Z",
+    "modified": "2026-07-14T15:30:14Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks03/0300431h.html",
+    "https://archive.org/details/dli.ernet.504120"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/george-bernard-shaw/the-apple-cart",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "8f0e106a32af63e15504f01713f5429b6385a2777fe67f74a53b408cccdb557c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 15647,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

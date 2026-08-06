@@ -1,0 +1,47 @@
+{
+  "title": "The Law of the Four Just Men",
+  "author": "Edgar Wallace",
+  "identifier": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men",
+    "published": "2024-03-14T03:39:32Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks07/0701061h.html",
+    "https://www.google.com/books/edition/The_Law_of_the_Four_Just_Men/9soTAAAAQAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "The Four Just Men",
+      "type": "series",
+      "position": "4"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "7412a386ad59bbe9da0b818b882bbe21d242a5524125c9d3cd2f50f5e0bc70f1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 54111,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

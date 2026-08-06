@@ -1,0 +1,45 @@
+{
+  "title": "Psmith in the City",
+  "author": "P. G. Wodehouse",
+  "identifier": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
+    "published": "2019-01-23T23:33:50Z",
+    "modified": "2026-07-06T20:53:24Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6753",
+    "https://catalog.hathitrust.org/Record/102499762"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "Psmith",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "efb00dbb639f76ae432509669c8967b25f08a4230a1a8d7b06571cfcceabc800"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 30,
+    "words": 52792,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

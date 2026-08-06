@@ -1,0 +1,45 @@
+{
+  "title": "Winnie-the-Pooh",
+  "author": "A. A. Milne",
+  "identifier": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh",
+    "published": "2022-01-01T23:35:25Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20150606",
+    "https://books.google.com/books?id=XB7hAAAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s"
+  ],
+  "category": "Children’s",
+  "sets": [
+    {
+      "name": "Winnie-the-Pooh",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "fb2ec0572f5fce95f569b512518878d5b9e86b6df1ceb2e2218e3f487489e619"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 22080,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -33,7 +33,7 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-voyages-extraordinaires-epub.zip",
+    "collection": "se-ebooks-fiction-epub.zip",
     "epub_sha256": "fc3a9f5ac0517be18cd1209615a0c3891c9e18e7a001b57e812d77afd0da3791"
   },
   "text": {

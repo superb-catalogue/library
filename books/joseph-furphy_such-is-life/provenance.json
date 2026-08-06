@@ -1,0 +1,39 @@
+{
+  "title": "Such Is Life",
+  "author": "Joseph Furphy",
+  "identifier": "https://standardebooks.org/ebooks/joseph-furphy/such-is-life",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/joseph-furphy/such-is-life",
+    "published": "2019-05-15T00:43:58Z",
+    "modified": "2026-07-14T15:31:12Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/3470",
+    "https://archive.org/details/joseph-furphy_such-is-life"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/joseph-furphy/such-is-life",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "1af339cfe547dc6f501058253f8694ebc846a7c052f9443a57d2e5531d44b15c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 158947,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

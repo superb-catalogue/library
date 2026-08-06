@@ -33,7 +33,7 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-the-trilogy-epub.zip",
+    "collection": "se-ebooks-fiction-epub.zip",
     "epub_sha256": "30a6e5c9b8cbd79f6ea6547782d9292cbcc0f129369728d8d448017ffef82c1c"
   },
   "text": {

@@ -6,7 +6,7 @@
     "publisher": "Standard Ebooks",
     "page": "https://standardebooks.org/ebooks/theodore-dreiser/the-titan",
     "published": "2024-08-05T18:04:04Z",
-    "modified": "2026-06-30T02:48:55Z"
+    "modified": "2026-07-31T15:06:05Z"
   },
   "made_from": [
     "https://www.gutenberg.org/ebooks/3629",
@@ -33,8 +33,9 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-trilogy-of-desire-epub.zip",
-    "epub_sha256": "d7330d8645f2248d17401fd2586cbd886009529fee8e6a7ff5d7edc98eb61b9f"
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "3a366066c48124777d12f99e20b985cb24915b5200df009ecd7920c0bfdf76b7",
+    "superseded_build": "1 other build(s) of this identifier were seen across the archives; the newest (by dcterms:modified) was kept."
   },
   "text": {
     "file": "book.json",

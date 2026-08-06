@@ -1,0 +1,40 @@
+{
+  "title": "June Moon",
+  "author": "Ring Lardner, George S. Kaufman",
+  "identifier": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+    "published": "2026-06-23T20:09:47Z",
+    "modified": "2026-07-06T20:53:28Z"
+  },
+  "made_from": [
+    "https://archive.org/details/junemoon0000ring"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Satire"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "186a70e1e05b63d94c2257ea532f278ec3b4d0235b6286916108bdd711a6ab04"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 4,
+    "words": 15703,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

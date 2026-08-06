@@ -6,7 +6,7 @@
     "publisher": "Standard Ebooks",
     "page": "https://standardebooks.org/ebooks/henry-james/the-portrait-of-a-lady",
     "published": "2023-02-14T22:51:10Z",
-    "modified": "2026-07-29T20:06:58Z"
+    "modified": "2026-07-30T15:23:37Z"
   },
   "made_from": [
     "https://www.gutenberg.org/ebooks/2833",
@@ -44,8 +44,9 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-harvard-classics-shelf-of-fiction-epub.zip",
-    "epub_sha256": "d964d4c377f23f6affd594cf1caacbdc73d35a9cc009c9c008c1f8f8588dd3dc"
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "7a2f9f809a3aba4fab8aeeacc9bcb7ef275e498952a5f1aaca3e5f6e43687504",
+    "superseded_build": "3 other build(s) of this identifier were seen across the archives; the newest (by dcterms:modified) was kept."
   },
   "text": {
     "file": "book.json",

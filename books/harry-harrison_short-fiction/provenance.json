@@ -1,0 +1,54 @@
+{
+  "title": "Short Fiction",
+  "author": "Harry Harrison",
+  "identifier": "https://standardebooks.org/ebooks/harry-harrison/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/harry-harrison/short-fiction",
+    "published": "2026-06-25T19:02:26Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/78693",
+    "https://archive.org/details/Rocket_Stories_v01n03_1953-09_oak",
+    "https://www.gutenberg.org/ebooks/30019",
+    "https://archive.org/details/1954-01_IF",
+    "https://www.gutenberg.org/ebooks/29471",
+    "https://archive.org/details/Fantastic_Universe_v06n04_1956-11",
+    "https://www.gutenberg.org/ebooks/22073",
+    "https://archive.org/details/galaxymagazine-1958-02",
+    "https://www.gutenberg.org/ebooks/29204",
+    "https://archive.org/details/Fantastic_Universe_v10n02_1958-08",
+    "https://www.gutenberg.org/ebooks/22540",
+    "https://archive.org/details/analog-v-116n-01-02-1996-01-unz.org/1960-1969/1960/Analog%20v066n04%20%281960-12%29%20%28unz.org%29",
+    "https://www.gutenberg.org/ebooks/22966",
+    "https://archive.org/details/analog-v-116n-01-02-1996-01-unz.org/1960-1969/1962/Analog%20v068n06%20%281962-02%29%20%28unz.org%29",
+    "https://www.gutenberg.org/ebooks/72431",
+    "https://archive.org/details/Amazing_Stories_v37n11_1963-11"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/harry-harrison/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "c30608e233f0d1245f6c0e9a9f13950f7db7823a2615a6d79a54548ad0174968"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 8,
+    "words": 46689,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

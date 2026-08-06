@@ -1,0 +1,39 @@
+{
+  "title": "The Virginian",
+  "author": "Owen Wister",
+  "identifier": "https://standardebooks.org/ebooks/owen-wister/the-virginian",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/owen-wister/the-virginian",
+    "published": "2025-01-13T18:08:09Z",
+    "modified": "2026-07-17T14:20:18Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1298",
+    "https://archive.org/details/virginianhorsema00wistuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/owen-wister/the-virginian",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ed50143c292c59e8f765a81b0af0a943a1bf99bd54950e6b03bced05a03477c8"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 36,
+    "words": 128412,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

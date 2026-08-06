@@ -1,0 +1,40 @@
+{
+  "title": "While the Billy Boils",
+  "author": "Henry Lawson",
+  "identifier": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
+    "published": "2019-08-26T20:28:09Z",
+    "modified": "2026-07-13T16:31:32Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/7144",
+    "https://archive.org/details/whilebillyboils00lawsuoft",
+    "https://en.wikisource.org/wiki/While_the_Billy_Boils"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/henry-lawson/while-the-billy-boils",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Shorts",
+  "genres": [
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-shorts-epub.zip",
+    "epub_sha256": "080911e90e0eceaad8b704da4de9390eab18566460cd0e2d1bc5a8925af20755"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 52,
+    "words": 82238,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

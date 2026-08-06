@@ -1,0 +1,43 @@
+{
+  "title": "Short Fiction",
+  "author": "Tanizaki Jun’ichirō",
+  "identifier": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators",
+    "published": "2024-07-09T16:59:05Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.google.com/books/edition/The_Herald_of_Asia/0WE8AQAAIAAJ",
+    "https://www.google.com/books/edition/The_Herald_of_Asia/Kkc8AQAAIAAJ",
+    "https://www.gutenberg.org/ebooks/73132",
+    "https://catalog.hathitrust.org/Record/009658322",
+    "https://en.wikisource.org/wiki/Eminent_Authors_of_Contemporary_Japan/Volume_1/The_White_Fox"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ce86899f720e8f1672b080f2704c0a28969ebc957a56422a72eaae02702852d0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 37905,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

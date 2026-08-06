@@ -1,0 +1,46 @@
+{
+  "title": "The Phoenix and the Carpet",
+  "author": "E. Nesbit",
+  "identifier": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+    "published": "2021-03-07T17:17:11Z",
+    "modified": "2026-06-30T03:19:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/836",
+    "https://archive.org/details/nesbittheenchantedcastle190607"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fantasy"
+  ],
+  "category": "Children’s",
+  "sets": [
+    {
+      "name": "Psammead Trilogy",
+      "type": "set",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "1fae04bc5f6e9a1c236f804db2c0c201b2640fbd976b76d3553ebb91ea3622fe"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 61206,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

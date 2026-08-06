@@ -1,0 +1,50 @@
+{
+  "title": "Short Fiction",
+  "author": "Aleksandr Kuprin",
+  "identifier": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators",
+    "published": "2021-10-11T18:14:09Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/58406",
+    "https://archive.org/details/riveroflifeother00kupr",
+    "https://www.gutenberg.org/ebooks/57036",
+    "https://archive.org/details/aslavsoulotherst00kupr",
+    "https://archive.org/details/braceletofgarnet00kupr",
+    "https://archive.org/details/sashabyalexander00kuprrich",
+    "https://catalog.hathitrust.org/Record/006792296",
+    "https://www.gutenberg.org/ebooks/33444",
+    "https://archive.org/details/sulamithprosepoe00kupr",
+    "https://archive.org/details/sim_our-world_1923-04_3_1",
+    "https://archive.org/details/sim_our-world_1923-12_4_3",
+    "https://catalog.hathitrust.org/Record/001059695"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/aleksandr-kuprin/short-fiction/various-translators",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "09e8af5e7b3d4fa9311db88566aac826409b127543ef76aafbd9b1dde848a0fa"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 47,
+    "words": 280417,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

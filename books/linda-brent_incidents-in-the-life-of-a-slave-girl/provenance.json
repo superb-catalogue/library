@@ -28,7 +28,7 @@
   "sets": [],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-nonfiction-epub.zip",
+    "collection": "se-ebooks-memoir-epub.zip",
     "epub_sha256": "cfa3d02ee19c4c2032e6c51278d93759a47c5b8cb448a913fc3cb3ec079f3b47"
   },
   "text": {

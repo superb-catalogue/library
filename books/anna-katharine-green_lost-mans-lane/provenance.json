@@ -1,0 +1,51 @@
+{
+  "title": "Lost Man’s Lane",
+  "author": "Anna Katharine Green",
+  "identifier": "https://standardebooks.org/ebooks/anna-katharine-green/lost-mans-lane",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anna-katharine-green/lost-mans-lane",
+    "published": "2026-01-27T19:00:47Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/33305",
+    "https://archive.org/details/lostmanslane00greerich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anna-katharine-green/lost-mans-lane",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Mr. Gryce",
+      "type": "series",
+      "position": "8"
+    },
+    {
+      "name": "Amelia Butterworth",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "77caab9b5b82cef1994152f4409a2c50fc28a27e57bb94fa2e4b940f9129e0fc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 45,
+    "words": 92740,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

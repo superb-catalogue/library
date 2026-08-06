@@ -1,0 +1,39 @@
+{
+  "title": "North and South",
+  "author": "Elizabeth Gaskell",
+  "identifier": "https://standardebooks.org/ebooks/elizabeth-gaskell/north-and-south",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/elizabeth-gaskell/north-and-south",
+    "published": "2023-08-09T23:40:25Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/4276",
+    "https://archive.org/details/novelsandtales02gaskuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/elizabeth-gaskell/north-and-south",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "b4eb81b235ca10196aa14a6c43e4226dbae2dfb20e9ff9bb0adbb53bee836fe1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 52,
+    "words": 180637,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

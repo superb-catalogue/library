@@ -1,0 +1,40 @@
+{
+  "title": "Lost Face",
+  "author": "Jack London",
+  "identifier": "https://standardebooks.org/ebooks/jack-london/lost-face",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jack-london/lost-face",
+    "published": "2017-07-01T19:42:14Z",
+    "modified": "2026-07-06T20:53:09Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2429",
+    "https://books.google.com/books?id=YGYZAAAAYAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jack-london/lost-face",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "f5e3d980d3c07920d43cb9f71543fa6ba16d4044692b011d4a9cf02d5f8f0dce"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 40905,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

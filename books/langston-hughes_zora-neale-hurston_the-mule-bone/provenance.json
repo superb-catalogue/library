@@ -1,0 +1,39 @@
+{
+  "title": "The Mule-Bone",
+  "author": "Langston Hughes, Zora Neale Hurston",
+  "identifier": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
+    "published": "2023-07-19T19:34:05Z",
+    "modified": "2026-07-14T15:31:19Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/19435",
+    "https://www.loc.gov/item/hurston000004"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/langston-hughes_zora-neale-hurston/the-mule-bone",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-drama-epub.zip",
+    "epub_sha256": "a32201e71ee78ea90147b203de386db9d3edf5b8fccfe9056903a26780a839ab"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 9810,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Candida",
+  "author": "George Bernard Shaw",
+  "identifier": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+    "published": "2024-03-28T15:39:26Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/4023",
+    "https://archive.org/details/playspleasantunp0002shaw"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/george-bernard-shaw/candida",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-drama-epub.zip",
+    "epub_sha256": "2029f5f81f0db8152169cb8cda388ed485fbfabcc853406f628d6b0192921eb5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 8145,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "The Skylark of Space",
+  "author": "E. E. Smith",
+  "identifier": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
+    "published": "2022-01-09T00:12:33Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/20869",
+    "https://archive.org/details/Amazing_Stories_v03n05_1928-08_ATLPM-Urf",
+    "https://archive.org/details/Amazing_Stories_v03n06_1928-09",
+    "https://archive.org/details/Amazing_Stories_v03n07_1928-10_missing_ifc_ibc_bc"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-e-smith/the-skylark-of-space",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [
+    {
+      "name": "Skylark",
+      "type": "series",
+      "position": "1"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "1cc5102ffb7eb0a730fe9c1e624731dfcb4ad7b199a285855400a73efcee0fed"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 84025,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

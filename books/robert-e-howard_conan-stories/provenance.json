@@ -1,0 +1,67 @@
+{
+  "title": "Conan Stories",
+  "author": "Robert E. Howard",
+  "identifier": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories",
+    "published": "2026-01-10T19:08:16Z",
+    "modified": "2026-07-16T16:18:24Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/42188",
+    "https://archive.org/details/WeirdTales193404damagedIBCATLPM",
+    "https://www.gutenberg.org/ebooks/42183",
+    "https://archive.org/details/Weird_Tales_v23n05_1934-05_sas",
+    "https://www.gutenberg.org/ebooks/42209",
+    "https://archive.org/details/Weird_Tales_v24n02_1934-08_LPM-URF-AT",
+    "https://www.gutenberg.org/ebooks/42259",
+    "https://archive.org/details/Weird_Tales_v24n03_1934-09",
+    "https://archive.org/details/WeirdTalesV24N04193410saspages4856Damaged",
+    "https://archive.org/details/WeirdTales193411ATLPM",
+    "https://www.gutenberg.org/ebooks/42227",
+    "https://archive.org/details/Weird_Tales_v24n06_1934-12_sas",
+    "https://www.gutenberg.org/ebooks/42236",
+    "https://archive.org/details/Weird_Tales_v25n03_1935-03_AT-sas",
+    "https://www.gutenberg.org/ebooks/42254",
+    "https://archive.org/details/Weird_Tales_v25n05_1935-05_sas",
+    "https://archive.org/details/Weird_Tales_v25n06_1935-06_sas",
+    "https://www.gutenberg.org/ebooks/42196",
+    "https://archive.org/details/WeirdTales193511ATLPM",
+    "https://www.gutenberg.org/ebooks/32759",
+    "https://archive.org/details/Weird_Tales_v28n01_1936-07_sas",
+    "https://archive.org/details/Weird_Tales_v28n02_1936-08-09",
+    "https://archive.org/details/Weird_Tales_v28n03_1936-10",
+    "https://www.gutenberg.org/ebooks/42182"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-e-howard/conan-stories",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Conan the Barbarian",
+      "type": "series"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "99b0a8f5de38207f4d17d5567f40e1899c843ffa5c3139e0376e8ab6fb3abe4a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 173845,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

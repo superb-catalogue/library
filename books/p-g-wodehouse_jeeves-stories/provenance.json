@@ -1,0 +1,54 @@
+{
+  "title": "Jeeves Stories",
+  "author": "P. G. Wodehouse",
+  "identifier": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
+    "published": "2019-09-19T21:46:14Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/8176",
+    "https://www.gutenberg.org/ebooks/7471",
+    "https://www.gutenberg.org/ebooks/8164",
+    "https://www.gutenberg.org/ebooks/8190",
+    "https://www.gutenberg.org/ebooks/59254",
+    "https://archive.org/details/TheManWithTwoLeftFeet",
+    "https://archive.org/details/in.ernet.dli.2015.509243",
+    "https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1916bVol.LiiJul-dec",
+    "https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1916aVol.LiJan-jun",
+    "https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1917bVol.LivJul-dec",
+    "https://archive.org/stream/TheStrandMagazineAnIllustratedMonthly/TheStrandMagazine1917aVol.LiiiJan-jun",
+    "https://archive.org/details/sim_saturday-evening-post_1916-11-18_189_21/page/n13",
+    "https://catalog.hathitrust.org/Record/100492999",
+    "https://archive.org/details/in.ernet.dli.2015.225321",
+    "https://catalog.hathitrust.org/Record/000642318"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/p-g-wodehouse/jeeves-stories",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "6ab4d562597c16a5ea49a04be6b9d247a95757e7a37f3d1726a09f10a0af3a2a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 25,
+    "words": 169233,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

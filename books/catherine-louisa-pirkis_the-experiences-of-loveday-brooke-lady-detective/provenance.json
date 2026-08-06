@@ -1,0 +1,42 @@
+{
+  "title": "The Experiences of Loveday Brooke, Lady Detective",
+  "author": "Catherine Louisa Pirkis",
+  "identifier": "https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective",
+    "published": "2026-03-23T02:45:33Z",
+    "modified": "2026-07-06T21:32:52Z"
+  },
+  "made_from": [
+    "https://digital.library.upenn.edu/women/pirkis/brooke/brooke.html",
+    "https://archive.org/details/sim_ludgate_november-1892-april-1893_4",
+    "https://archive.org/details/sim_ludgate_may-october-1983_5",
+    "https://archive.org/details/sim_ludgate_november-1893-april-1894_6"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/catherine-louisa-pirkis/the-experiences-of-loveday-brooke-lady-detective",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ffa47b6db7986e8b0aa7fa41669e88a267c8584cea9b737a1509f27b506e07ce"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 63088,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

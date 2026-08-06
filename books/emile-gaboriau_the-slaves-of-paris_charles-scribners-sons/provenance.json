@@ -1,0 +1,48 @@
+{
+  "title": "The Slaves of Paris",
+  "author": "Émile Gaboriau",
+  "identifier": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+    "published": "2019-08-07T22:42:16Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2451",
+    "https://www.gutenberg.org/ebooks/2736",
+    "https://books.google.com/books?id=QHgCu1AJCEQC",
+    "https://books.google.com/books?id=iPOPh_68aEIC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/emile-gaboriau/the-slaves-of-paris/charles-scribners-sons",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Monsieur Lecoq",
+      "type": "series",
+      "position": "4"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "f14e8acb135ca975d07471b1302b62f84e27555f166a428f4634e71cb9fda1a9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 64,
+    "words": 203923,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

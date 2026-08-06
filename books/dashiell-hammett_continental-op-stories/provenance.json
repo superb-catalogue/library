@@ -1,0 +1,42 @@
+{
+  "title": "Continental Op Stories",
+  "author": "Dashiell Hammett",
+  "identifier": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories",
+    "published": "2026-02-11T21:15:55Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/dashiell-hammett/continental-op-stories",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Continental Op",
+      "type": "series"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "70fa21da99973de82c210efe8fdd0b9704c7a6c0e674e6b4f737157fed5d6add"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 27,
+    "words": 296421,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

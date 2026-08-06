@@ -1,0 +1,46 @@
+{
+  "title": "The Road to Oz",
+  "author": "L. Frank Baum",
+  "identifier": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+    "published": "2025-09-01T19:39:21Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/485",
+    "https://archive.org/details/roadtooz0000lfra_i8y9"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fantasy"
+  ],
+  "category": "Children’s",
+  "sets": [
+    {
+      "name": "Oz",
+      "type": "series",
+      "position": "5"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "a23f490d28276398ca9dfd2c0c0ee754b1989d856b738c2a36fd8709079a410d"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 24,
+    "words": 38855,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

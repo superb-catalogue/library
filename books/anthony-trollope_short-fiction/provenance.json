@@ -1,0 +1,51 @@
+{
+  "title": "Short Fiction",
+  "author": "Anthony Trollope",
+  "identifier": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
+    "published": "2023-04-10T21:51:57Z",
+    "modified": "2026-06-30T03:25:03Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/55147",
+    "https://archive.org/details/36270918.80858.emory.edu",
+    "https://www.gutenberg.org/ebooks/54424",
+    "https://archive.org/details/lottschmidtandot00troluoft",
+    "https://www.gutenberg.org/ebooks/54783",
+    "https://archive.org/details/marygresleyanded00troluoft",
+    "https://www.gutenberg.org/ebooks/55212",
+    "https://archive.org/details/whyfraufrohmann00trolgoog",
+    "https://books.google.com/books?id=0LVNAQAAMAAJ",
+    "https://catalog.hathitrust.org/Record/100781909",
+    "https://www.google.co.uk/books?id=sTQFAAAAQAAJ",
+    "http://www.jimandellen.org/trollope/never.bretharte.html",
+    "https://archive.org/details/trollope-never-never-never-never"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anthony-trollope/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "5c21e30b466f139738e798d0e1156180b25005439a480b2a69af6ea87f33fa06"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 41,
+    "words": 485677,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

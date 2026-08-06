@@ -1,0 +1,39 @@
+{
+  "title": "Home to Harlem",
+  "author": "Claude McKay",
+  "identifier": "https://standardebooks.org/ebooks/claude-mckay/home-to-harlem",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/claude-mckay/home-to-harlem",
+    "published": "2026-02-25T15:23:43Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-home-to-harlem-full-text-1928",
+    "https://catalog.hathitrust.org/Record/000629420"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/claude-mckay/home-to-harlem",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "c4c2cd73ae9d628a6778039fc02b8fdd1fbc96389cdbe2d78eecf4e0657cc68d"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 24,
+    "words": 53156,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

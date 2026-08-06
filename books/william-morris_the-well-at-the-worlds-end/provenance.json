@@ -1,0 +1,40 @@
+{
+  "title": "The Well at the World’s End",
+  "author": "William Morris",
+  "identifier": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
+    "published": "2025-01-06T22:18:48Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/169",
+    "https://archive.org/details/wellatworldsendt01morruoft",
+    "https://archive.org/details/wellatworldsendt00morruoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-morris/the-well-at-the-worlds-end",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fantasy",
+  "genres": [
+    "Fantasy"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fantasy-epub.zip",
+    "epub_sha256": "494ff16313cc73c6c0933f3dc14331928f1332ba9b279eabc7d49805dd29de15"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 123,
+    "words": 224393,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

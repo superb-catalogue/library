@@ -1,0 +1,40 @@
+{
+  "title": "Mark Rutherford’s Deliverance",
+  "author": "Mark Rutherford",
+  "identifier": "https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance",
+    "published": "2024-03-14T04:11:48Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/5338",
+    "https://catalog.hathitrust.org/Record/001776005",
+    "https://books.google.com/books?id=RHRbAAAAQAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "f3e6e183faecfc3c19e30e4810d82fbd281b9a445d7c231815e33f5e47a2bebc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 38358,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dr. Mabuse, the Gambler",
+  "author": "Norbert Jacques",
+  "identifier": "https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare",
+    "published": "2025-06-30T16:32:25Z",
+    "modified": "2026-06-30T02:48:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/75967",
+    "https://archive.org/details/mabuse-norbert-jacques-1921-eng"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/norbert-jacques/dr-mabuse-the-gambler/lilian-a-clare",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "67ee8626dc6b0a748f9b2beafc9f9ea6814aae55e6630931e099c16670d3d1fb"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 21,
+    "words": 80903,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

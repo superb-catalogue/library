@@ -1,0 +1,45 @@
+{
+  "title": "The Splendid Fairing",
+  "author": "Constance Holme",
+  "identifier": "https://standardebooks.org/ebooks/constance-holme/the-splendid-fairing",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/constance-holme/the-splendid-fairing",
+    "published": "2025-05-05T16:54:03Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/40545",
+    "https://archive.org/details/splendidfairing00holmuoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/constance-holme/the-splendid-fairing",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Prix Femina—Vie Heureuse Winners",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "eedddad9e9b4750c49370faf0905e9b414120a1718ae2a4b89ac9a2e44fd7fe4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 25,
+    "words": 68192,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

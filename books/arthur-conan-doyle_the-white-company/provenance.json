@@ -1,0 +1,45 @@
+{
+  "title": "The White Company",
+  "author": "Arthur Conan Doyle",
+  "identifier": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company",
+    "published": "2025-10-15T23:35:37Z",
+    "modified": "2026-07-02T18:40:33Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/903",
+    "https://www.google.com/books/edition/The_White_Company/enAoAAAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-white-company",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Sir Nigel Loring",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "dc99ca14d680afa685b79d7ebea8b3384afd31b2a807f872f1f4081148c386ca"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 38,
+    "words": 150630,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

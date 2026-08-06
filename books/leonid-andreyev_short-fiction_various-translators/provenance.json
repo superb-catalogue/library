@@ -1,0 +1,55 @@
+{
+  "title": "Short Fiction",
+  "author": "Leonid Andreyev",
+  "identifier": "https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators",
+    "published": "2019-10-21T21:19:38Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://archive.org/details/redlaughfragment00andr",
+    "https://www.gutenberg.org/ebooks/6722",
+    "https://archive.org/details/cu31924026685812",
+    "https://archive.org/details/adilemmaastorym00andrgoog",
+    "https://archive.org/details/silenceotherstor00andruoft",
+    "https://www.gutenberg.org/ebooks/5779",
+    "https://archive.org/details/cu31924026685085",
+    "https://www.gutenberg.org/ebooks/49598",
+    "https://archive.org/details/littleangelother00andr",
+    "https://catalog.hathitrust.org/Record/007908346",
+    "https://archive.org/details/confessionsoflit00andr",
+    "https://www.gutenberg.org/ebooks/49595",
+    "https://archive.org/details/kingloseshishead00andrrich",
+    "https://archive.org/details/hisexcellencygov00andruoft",
+    "https://www.gutenberg.org/ebooks/49594",
+    "https://archive.org/details/thedark00andr",
+    "https://catalog.hathitrust.org/Record/006791014"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/leonid-andreyev/short-fiction/various-translators",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ad5f7ded2d99514895bb4162fbf47702e345fb683f75b2cf002cead6d8050436"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 38,
+    "words": 342179,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

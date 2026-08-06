@@ -1,0 +1,52 @@
+{
+  "title": "Short Fiction",
+  "author": "H. G. Wells",
+  "identifier": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+    "published": "2019-02-15T21:08:50Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/11870",
+    "https://www.gutenberg.org/ebooks/27365",
+    "https://www.gutenberg.org/ebooks/42989",
+    "https://www.gutenberg.org/ebooks/12750",
+    "https://www.gutenberg.org/ebooks/1743",
+    "https://www.gutenberg.net.au/ebooks06/0601951h.html",
+    "https://www.gutenberg.net.au/ebooks06/0604041h.html",
+    "https://archive.org/details/countryofblindot00welluoft",
+    "https://archive.org/details/talesofspacetime00well",
+    "https://archive.org/details/plattnerstoryoth00wellrich",
+    "https://archive.org/details/twelvestoriesand00well",
+    "https://archive.org/details/stolenbacillusan00welluoft",
+    "https://archive.org/details/sim_strand-magazine_1903-12_26_156",
+    "https://catalog.hathitrust.org/Record/000642318"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-g-wells/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "deb553ae1c7391be2b391aa7840cb4939fed533049581517e672316baa460335"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 57,
+    "words": 301514,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

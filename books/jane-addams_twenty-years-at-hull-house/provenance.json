@@ -1,0 +1,39 @@
+{
+  "title": "Twenty Years at Hull House",
+  "author": "Jane Addams",
+  "identifier": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+    "published": "2021-07-07T21:42:37Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1325",
+    "https://www.google.com/books/edition/Twenty_Years_at_Hull_House/RVQpAAAAYAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/jane-addams/twenty-years-at-hull-house",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Autobiography",
+  "genres": [
+    "Autobiography"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-autobiography-epub.zip",
+    "epub_sha256": "53c85ea0cbecdb4af141c8c77f39c4566801ad7caea8e40f0b263639cbcae955"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 18,
+    "words": 103195,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

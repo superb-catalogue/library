@@ -1,0 +1,39 @@
+{
+  "title": "Mary, Mary",
+  "author": "James Stephens",
+  "identifier": "https://standardebooks.org/ebooks/james-stephens/mary-mary",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-stephens/mary-mary",
+    "published": "2023-08-26T14:42:14Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks07/0700221h.html",
+    "https://archive.org/details/charwomansdaught01step"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-stephens/mary-mary",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "17fa0a39d1c2f3cbfe4c9b54cddee5a5da1d2165ef9d610c35fae80d0f3ca2a6"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 32,
+    "words": 41461,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

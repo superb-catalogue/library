@@ -1,0 +1,48 @@
+{
+  "title": "Short Science Fiction",
+  "author": "Isaac Asimov",
+  "identifier": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+    "published": "2025-10-05T16:47:09Z",
+    "modified": "2026-06-30T02:48:51Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/76871",
+    "https://archive.org/details/FutureV01N03194007",
+    "https://www.gutenberg.org/ebooks/31547",
+    "https://archive.org/details/Space_Science_Fiction_v01n01_1952-05_cape1736",
+    "https://www.gutenberg.org/ebooks/77254",
+    "https://archive.org/details/Universe_03_1953-12_cape1736",
+    "https://www.gutenberg.org/ebooks/68377",
+    "https://archive.org/details/Infinity_v02n01_1957-02_slpn",
+    "https://www.gutenberg.org/ebooks/78751",
+    "https://archive.org/details/Future_Science_Fiction_35_1958-02"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "0889f6eef7c4bd801350bcfbf369e681f2023de701960dc5d7a7b52679fa5edc"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 23394,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

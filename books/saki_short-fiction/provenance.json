@@ -1,0 +1,57 @@
+{
+  "title": "Short Fiction",
+  "author": "Saki",
+  "identifier": "https://standardebooks.org/ebooks/saki/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/saki/short-fiction",
+    "published": "2025-10-27T20:15:49Z",
+    "modified": "2026-06-30T03:19:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2830",
+    "https://www.gutenberg.org/ebooks/1870",
+    "https://www.gutenberg.org/ebooks/3688",
+    "https://www.gutenberg.org/ebooks/1477",
+    "https://www.gutenberg.org/ebooks/269",
+    "https://www.annotated-saki.info/dogged",
+    "https://papyrocentricperformativity.wordpress.com/six-uncollected-stories-by-saki/the-almanack",
+    "https://www.annotated-saki.info/the-romance-of-business-a-newly-rediscovered-clovis-story",
+    "https://archive.org/details/reginald00sakirich",
+    "https://archive.org/details/reginaldinrussia00sakirich",
+    "https://archive.org/details/bwb_S0-AHX-354",
+    "https://archive.org/details/beastssuperbeast00saki_0",
+    "https://archive.org/details/ofpeaceothertoys00sakirich",
+    "https://archive.org/details/squareeggothersk0007saki",
+    "https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230501v039%20%281913-07-09%29%20%28BNA%29",
+    "https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230515v040%20%281913-10-15%29%20%28BNA%29",
+    "https://archive.org/details/the-bystander/1910-1919/1913/The%20Bystander%20%230522v040%20%281913-12-03%29%20%28BNA%29",
+    "https://archive.org/details/methuensannual0000evlu",
+    "https://www.google.com/books/edition/The_Odd_Volume/g5YXAQAAIAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/saki/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "76e6a6c2a0c09cff6dc839ac0d6a19c0dae7ed78a2e50df7a0a87b56410b6032"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 142,
+    "words": 225149,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Short Fiction",
+  "author": "Robert Sheckley",
+  "identifier": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+    "published": "2021-10-08T00:02:49Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/65838",
+    "https://archive.org/details/Imagination_v03n03_1952-05_LennyS-cape1736",
+    "https://www.gutenberg.org/ebooks/50844",
+    "https://archive.org/details/galaxymagazine-1952-08",
+    "https://www.gutenberg.org/ebooks/29548",
+    "https://archive.org/details/galaxymagazine-1952-11",
+    "https://www.gutenberg.org/ebooks/29458",
+    "https://archive.org/details/galaxymagazine-1952-12",
+    "https://www.gutenberg.org/ebooks/29525",
+    "https://archive.org/details/galaxymagazine-1952-12",
+    "https://www.gutenberg.org/ebooks/65952",
+    "https://archive.org/details/Imagination_v03n07_1952-12_LennyS-cape1736",
+    "https://www.gutenberg.org/ebooks/29579",
+    "https://archive.org/details/galaxymagazine-1953-02",
+    "https://www.gutenberg.org/ebooks/33854",
+    "https://archive.org/details/Science_Fiction_Stories_01_1953",
+    "https://www.gutenberg.org/ebooks/29509",
+    "https://archive.org/details/galaxymagazine-1953-06",
+    "https://www.gutenberg.org/ebooks/32040",
+    "https://archive.org/details/galaxymagazine-1953-08",
+    "https://www.gutenberg.org/ebooks/29445",
+    "https://archive.org/details/Space_Science_Fiction_v02n02_1953-09_UnkSc-cape1736",
+    "https://www.gutenberg.org/ebooks/29446",
+    "https://archive.org/details/Amazing_Stories_v27n07_1953-10-11_Gorgon776",
+    "https://www.gutenberg.org/ebooks/32346",
+    "https://archive.org/details/galaxymagazine-1953-11",
+    "https://www.gutenberg.org/ebooks/32041",
+    "https://archive.org/details/galaxymagazine-1953-12",
+    "https://www.gutenberg.org/ebooks/29876",
+    "https://archive.org/details/galaxymagazine-1956-06",
+    "https://www.gutenberg.org/ebooks/29487",
+    "https://archive.org/details/galaxymagazine-1959-02",
+    "https://www.gutenberg.org/ebooks/51545",
+    "https://archive.org/details/Galaxy_v17n04_1959-04",
+    "https://www.gutenberg.org/ebooks/51768",
+    "https://archive.org/details/Galaxy_v18n02_1959-12",
+    "https://www.gutenberg.org/ebooks/51833",
+    "https://archive.org/details/Galaxy_v18n03_1960-02"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "7f9bdce74cb5e877869a98c3edd5392899e57d9befe2b01170c3cf462b6973bd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 87861,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

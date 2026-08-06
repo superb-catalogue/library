@@ -35,7 +35,7 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-encyclopaedia-britannicas-gateway-to-the-great-books-epub.zip",
+    "collection": "se-ebooks-childrens-epub.zip",
     "epub_sha256": "3b8e8720a7650d2c7af5949112d3155f471ee19af56e1086cc01bd771c413aed"
   },
   "text": {

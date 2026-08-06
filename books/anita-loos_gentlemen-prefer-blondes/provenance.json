@@ -1,0 +1,46 @@
+{
+  "title": "Gentlemen Prefer Blondes",
+  "author": "Anita Loos",
+  "identifier": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
+    "published": "2022-01-20T18:46:06Z",
+    "modified": "2026-07-14T15:29:24Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/66829",
+    "https://archive.org/details/gentlemenpreferb0000unse"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anita-loos/gentlemen-prefer-blondes",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "49"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "5796560405e129dd055403e0f6aa3dfaead46e1e9f44a1062661d1df9b47c3f1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 6,
+    "words": 38770,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

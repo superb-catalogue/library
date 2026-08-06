@@ -1,0 +1,45 @@
+{
+  "title": "Deadlock",
+  "author": "Dorothy M. Richardson",
+  "identifier": "https://standardebooks.org/ebooks/dorothy-m-richardson/deadlock",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/dorothy-m-richardson/deadlock",
+    "published": "2026-07-07T21:04:18Z",
+    "modified": "2026-07-08T13:03:24Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/56925",
+    "https://archive.org/details/deadlock00rich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/dorothy-m-richardson/deadlock",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Pilgrimage",
+      "type": "set",
+      "position": "6"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "3f0b06a70a4d0645dc4811b4f104d99ae2708c56ce04ab6dd75991357c682cb5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 78225,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

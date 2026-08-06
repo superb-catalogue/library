@@ -1,0 +1,39 @@
+{
+  "title": "The Black Moth",
+  "author": "Georgette Heyer",
+  "identifier": "https://standardebooks.org/ebooks/georgette-heyer/the-black-moth",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/georgette-heyer/the-black-moth",
+    "published": "2025-11-24T18:50:10Z",
+    "modified": "2026-07-17T14:12:39Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/38703",
+    "https://archive.org/details/blackmoth0000geor"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/georgette-heyer/the-black-moth",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "e5f9cdf6a015f3d4b1b74c00237eb102f27c9d6aedee4a39ef9b33ca0294c3d9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 31,
+    "words": 92957,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

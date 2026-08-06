@@ -1,0 +1,39 @@
+{
+  "title": "The Perfume of Eros",
+  "author": "Edgar Saltus",
+  "identifier": "https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros",
+    "published": "2026-07-09T19:34:45Z",
+    "modified": "2026-07-09T19:39:25Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/33207",
+    "https://archive.org/details/perfumeoferosfif00saltrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "17666514938b7f4e3b60b1a56081b89b1aff3e98f1b42ee40bf2ae3ae2658d4b"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 22,
+    "words": 41069,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

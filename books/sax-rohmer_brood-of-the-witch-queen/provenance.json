@@ -1,0 +1,40 @@
+{
+  "title": "Brood of the Witch-Queen",
+  "author": "Sax Rohmer",
+  "identifier": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+    "published": "2019-09-10T23:52:50Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/19706",
+    "https://archive.org/details/broodofwitchquee00rohm"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/sax-rohmer/brood-of-the-witch-queen",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Horror"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "1857bc0f82bdd15178a89f6ec9e1f11f6650d4c362f1cd5cfb11195e65b218fa"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 31,
+    "words": 64077,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

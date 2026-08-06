@@ -37,7 +37,7 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-harvard-classics-shelf-of-fiction-epub.zip",
+    "collection": "se-ebooks-fiction-epub.zip",
     "epub_sha256": "0a080d2d846159dfdc4d7357286a4301c244d6160b092b04ae0e677c55a9c7c0"
   },
   "text": {

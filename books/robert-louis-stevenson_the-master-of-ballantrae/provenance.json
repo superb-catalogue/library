@@ -1,0 +1,40 @@
+{
+  "title": "The Master of Ballantrae",
+  "author": "Robert Louis Stevenson",
+  "identifier": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+    "published": "2023-02-05T06:09:44Z",
+    "modified": "2026-07-14T15:31:59Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/30939",
+    "https://archive.org/details/worksofrobertlou12stev"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-louis-stevenson/the-master-of-ballantrae",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "c6f01aea346078412dfe074685234804ac162966a204df41b0c5c149e3d8eb7e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 85200,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

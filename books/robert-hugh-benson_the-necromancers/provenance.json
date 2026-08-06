@@ -1,0 +1,41 @@
+{
+  "title": "The Necromancers",
+  "author": "Robert Hugh Benson",
+  "identifier": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
+    "published": "2026-06-10T02:17:45Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/14275",
+    "https://archive.org/details/TheNecromancers1917"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-hugh-benson/the-necromancers",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Horror",
+    "Spirituality"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "27922f2618586f8bde39091e03d4a08334129ab2cbb14a8c0494b06c72cb9ee0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 80211,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

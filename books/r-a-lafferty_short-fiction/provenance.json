@@ -1,0 +1,59 @@
+{
+  "title": "Short Fiction",
+  "author": "R. A. Lafferty",
+  "identifier": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+    "published": "2021-01-27T00:30:30Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/31663",
+    "https://www.gutenberg.org/ebooks/60940",
+    "https://www.gutenberg.org/ebooks/60955",
+    "https://www.gutenberg.org/ebooks/61007",
+    "https://www.gutenberg.org/ebooks/51603",
+    "https://www.gutenberg.org/ebooks/51774",
+    "https://www.gutenberg.org/ebooks/51596",
+    "https://www.gutenberg.org/ebooks/61128",
+    "https://www.gutenberg.org/ebooks/51668",
+    "https://www.gutenberg.org/ebooks/23161",
+    "https://archive.org/details/1960-09_IF",
+    "https://archive.org/details/1960-11_IF",
+    "https://archive.org/details/1961-01_IF",
+    "https://archive.org/details/1961-03_IF",
+    "https://archive.org/details/Galaxy_v19n04_1961-04",
+    "https://archive.org/details/Galaxy_v19n05_1961-06_modified",
+    "https://archive.org/details/Galaxy_v19n06_1961-08",
+    "https://archive.org/details/1962-03_IF_modified",
+    "https://archive.org/details/Galaxy_v20n05_1962-06",
+    "https://archive.org/details/Galaxy_v21n02_1962.12"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/r-a-lafferty/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fantasy",
+  "genres": [
+    "Fantasy",
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fantasy-epub.zip",
+    "epub_sha256": "68474702aa907e71aa5ac545ced2d7ec80e479bfacc77cd9b5f803986b991bd0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 38319,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

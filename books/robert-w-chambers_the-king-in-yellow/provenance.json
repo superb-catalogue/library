@@ -1,0 +1,40 @@
+{
+  "title": "The King in Yellow",
+  "author": "Robert W. Chambers",
+  "identifier": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+    "published": "2017-01-19T01:04:23Z",
+    "modified": "2026-07-20T18:47:25Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/8492",
+    "https://books.google.com/books?id=qHgKEqjdy-wC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-w-chambers/the-king-in-yellow",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror",
+    "Shorts"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-horror-epub.zip",
+    "epub_sha256": "6fe8925cd8e8ded6110b0d1a830d285649c879278c58c927dad3715297d501df"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 71466,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

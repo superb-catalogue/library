@@ -1,0 +1,43 @@
+{
+  "title": "The Breaking of the Storm",
+  "author": "Friedrich Spielhagen",
+  "identifier": "https://standardebooks.org/ebooks/friedrich-spielhagen/the-breaking-of-the-storm/s-e-a-h-stephenson",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/friedrich-spielhagen/the-breaking-of-the-storm/s-e-a-h-stephenson",
+    "published": "2026-01-20T04:40:48Z",
+    "modified": "2026-07-31T15:02:03Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/34657",
+    "https://www.gutenberg.org/ebooks/34658",
+    "https://www.gutenberg.org/ebooks/34659",
+    "https://archive.org/details/breakingstormtr00spiegoog",
+    "https://archive.org/details/breakingstormtr01spiegoog",
+    "https://archive.org/details/breakingstormtr02spiegoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/friedrich-spielhagen/the-breaking-of-the-storm/s-e-a-h-stephenson",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "81eeafed06e98708a99bec611a1b07aefe0e533d25458ff8ef6a4bdd99ef7dd3"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 80,
+    "words": 242572,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Plague Ship",
+  "author": "Andre Norton",
+  "identifier": "https://standardebooks.org/ebooks/andre-norton/plague-ship",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/andre-norton/plague-ship",
+    "published": "2020-02-26T00:18:02Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/16921",
+    "https://archive.org/details/plagueship00nort"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/andre-norton/plague-ship",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [
+    {
+      "name": "Solar Queen",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "e455e22c24959bb6933fdf4c16bcb5f0b5fa0f0d8253858e5e555f9eb8ac9c60"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 18,
+    "words": 59924,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

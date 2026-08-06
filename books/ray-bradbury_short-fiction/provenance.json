@@ -1,0 +1,70 @@
+{
+  "title": "Short Fiction",
+  "author": "Ray Bradbury",
+  "identifier": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
+    "published": "2021-08-18T00:32:29Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/41622",
+    "https://www.gutenberg.org/ebooks/41624",
+    "https://www.gutenberg.org/ebooks/41627",
+    "https://www.gutenberg.org/ebooks/41651",
+    "https://www.gutenberg.org/ebooks/63430",
+    "https://www.gutenberg.org/ebooks/62569",
+    "https://www.gutenberg.org/ebooks/63041",
+    "https://www.gutenberg.org/ebooks/63648",
+    "https://www.gutenberg.org/ebooks/63874",
+    "https://www.gutenberg.org/ebooks/64181",
+    "https://www.gutenberg.org/ebooks/64264",
+    "https://www.gutenberg.org/ebooks/63827",
+    "https://www.gutenberg.org/ebooks/64420",
+    "https://www.gutenberg.org/ebooks/64673",
+    "https://www.gutenberg.org/ebooks/51171",
+    "https://www.gutenberg.org/ebooks/76857",
+    "https://archive.org/details/Futuria_Fantasia_v01n01_1939-Summer_UnkSc-cape1736edit",
+    "https://archive.org/details/Futuria_Fantasia_v01n02_1939-Fall_UnkSc-cape1736edit",
+    "https://archive.org/details/Futuria_Fantasia_v01n03_1940-Winter_UnkSc-cape1736edit",
+    "https://archive.org/details/Futuria_Fantasia_v01n04_1940_UnkSc-cape1736edit",
+    "https://archive.org/details/Planet_Stories_v02n09_1944-Wi_sas",
+    "https://archive.org/details/Planet_Stories_v02n06_1944-Spring",
+    "https://archive.org/details/Planet_Stories_v02n07_1944-Summer",
+    "https://archive.org/details/Planet_Stories_v03n02_1946-Spring",
+    "https://archive.org/details/Planet_Stories_v03n04_1946-Fall",
+    "https://archive.org/details/Planet_Stories_v03n06_1947-Spring",
+    "https://archive.org/details/Planet_Stories_v03n08_1947-Fall",
+    "https://archive.org/details/Planet_Stories_v04n01_1948-Winter",
+    "https://archive.org/details/Planet_Stories_v03n10_1948-Spring",
+    "https://archive.org/details/Planet_Stories_v03n11_1948-Summer",
+    "https://archive.org/details/galaxymagazine-1951-08",
+    "https://archive.org/details/Super_Science_Stories_v05n02_1949-04"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ray-bradbury/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "28a0b05f3824bf4dc0155f5fb0c4c57b85826e2f4d01c9daed9a18df14e56e6a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 16,
+    "words": 74499,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

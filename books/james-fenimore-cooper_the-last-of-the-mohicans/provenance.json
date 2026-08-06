@@ -1,0 +1,46 @@
+{
+  "title": "The Last of the Mohicans",
+  "author": "James Fenimore Cooper",
+  "identifier": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
+    "published": "2015-12-05T03:18:27Z",
+    "modified": "2026-07-14T15:30:53Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/940",
+    "https://archive.org/details/lastmohicansana03coopgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-fenimore-cooper/the-last-of-the-mohicans",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Leatherstocking Tales",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "7f263c933eb7f209dd17458317b8e5d4198f96aa1f5a7033403985b45fae3799"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 33,
+    "words": 145370,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

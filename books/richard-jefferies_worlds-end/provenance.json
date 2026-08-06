@@ -1,0 +1,41 @@
+{
+  "title": "World’s End",
+  "author": "Richard Jefferies",
+  "identifier": "https://standardebooks.org/ebooks/richard-jefferies/worlds-end",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/richard-jefferies/worlds-end",
+    "published": "2024-03-15T18:45:04Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/37079",
+    "https://archive.org/details/worldsendastory02jeffgoog",
+    "https://archive.org/details/worldsendastory05jeffgoog",
+    "https://archive.org/details/worldsendastory01jeffgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/richard-jefferies/worlds-end",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "15d28cd429a77459c3fb57785e7b6f87af1610f14c66d22a45a18f99ce316a67"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 47,
+    "words": 125403,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

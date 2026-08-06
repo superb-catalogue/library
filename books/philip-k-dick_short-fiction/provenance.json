@@ -1,0 +1,51 @@
+{
+  "title": "Short Fiction",
+  "author": "Philip K. Dick",
+  "identifier": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+    "published": "2015-11-27T21:53:59Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/31516",
+    "https://www.gutenberg.org/ebooks/32032",
+    "https://www.gutenberg.org/ebooks/28644",
+    "https://www.gutenberg.org/ebooks/28554",
+    "https://www.gutenberg.org/ebooks/32522",
+    "https://www.gutenberg.org/ebooks/28767",
+    "https://www.gutenberg.org/ebooks/30255",
+    "https://www.gutenberg.org/ebooks/28698",
+    "https://www.gutenberg.org/ebooks/32832",
+    "https://www.gutenberg.org/ebooks/29132",
+    "https://www.gutenberg.org/ebooks/41562",
+    "https://www.gutenberg.org/ebooks/40964",
+    "https://www.gutenberg.org/ebooks/32154"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/philip-k-dick/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "a8a211b46eacd8c7d854632ec548578a65a7fc30f54c502a023558c0ddcaafd9"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 102148,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

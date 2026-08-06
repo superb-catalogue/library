@@ -1,0 +1,58 @@
+{
+  "title": "Short Fiction",
+  "author": "Clifford D. Simak",
+  "identifier": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+    "published": "2025-09-11T19:05:22Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/27013",
+    "https://archive.org/details/astounding-v-010-n-03-1932-06",
+    "https://www.gutenberg.org/ebooks/22218",
+    "https://archive.org/details/Comet_v01n05_1941-07",
+    "https://www.gutenberg.org/ebooks/62357",
+    "https://archive.org/details/Planet_Stories_v02n04_1943-Fall",
+    "https://www.gutenberg.org/ebooks/63046",
+    "https://archive.org/details/Planet_Stories_v02n07_1944-Summer",
+    "https://www.gutenberg.org/ebooks/63130",
+    "https://archive.org/details/Planet_Stories_v02n08_1944-Fall",
+    "https://www.gutenberg.org/ebooks/69308",
+    "https://archive.org/details/Super_Science_Stories_v06n04_1950-05_oak-wmfs",
+    "https://www.gutenberg.org/ebooks/51037",
+    "https://archive.org/details/Galaxy_v01n05_1951-02",
+    "https://www.gutenberg.org/ebooks/22216",
+    "https://archive.org/details/Galaxy_v09n06_1955-03",
+    "https://www.gutenberg.org/ebooks/32026",
+    "https://archive.org/details/Galaxy_v15n03_1958-01",
+    "https://www.gutenberg.org/ebooks/61333",
+    "https://archive.org/details/1963-01_IF"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/clifford-d-simak/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "7e52d96b225537c63d333c3be39e0177d1da233a57b2038e05e6e8aab0e5eeb1"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 92430,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

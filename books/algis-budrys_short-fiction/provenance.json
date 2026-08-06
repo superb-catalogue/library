@@ -1,0 +1,57 @@
+{
+  "title": "Short Fiction",
+  "author": "Algis Budrys",
+  "identifier": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+    "published": "2015-11-07T21:40:08Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/34420",
+    "https://archive.org/details/Science_Fiction_Stories_01_1953",
+    "https://www.gutenberg.org/ebooks/68674",
+    "https://archive.org/details/Rocket_Stories_v01n02_1953-07_slpn",
+    "https://www.gutenberg.org/ebooks/68529",
+    "https://www.gutenberg.org/ebooks/40968",
+    "https://archive.org/details/Dynamic_Science_Fiction_Volume_1_Number_6_",
+    "https://www.gutenberg.org/ebooks/26191",
+    "https://archive.org/details/sim_astounding-science-fiction_1955-02_54_6",
+    "https://www.gutenberg.org/ebooks/30828",
+    "https://archive.org/details/If_Worlds_Of_Science_Fiction_v08n02_1958-02.Quinn_AKv1.0",
+    "https://www.gutenberg.org/ebooks/22967",
+    "https://archive.org/details/sim_astounding-science-fiction_1959-02_62_6",
+    "https://www.gutenberg.org/ebooks/51726",
+    "https://archive.org/details/Galaxy_v20n02_1961-12_modified",
+    "https://www.gutenberg.org/ebooks/51589",
+    "https://archive.org/details/Galaxy_v20n02_1962-02",
+    "https://www.gutenberg.org/ebooks/61389",
+    "https://archive.org/details/1963-05_IF_modified"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/algis-budrys/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "3b5e0ad34e4165dfcbdfa27bd84e8d8be789cd25c44adb22aa5ac1a606e07b73"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 66010,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Villette",
+  "author": "Charlotte Brontë",
+  "identifier": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
+    "published": "2020-06-16T19:28:12Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/9182",
+    "https://archive.org/details/villette131bron",
+    "https://catalog.hathitrust.org/Record/008661548",
+    "https://catalog.hathitrust.org/Record/008661548",
+    "https://archive.org/details/dli.bengal.10689.11810",
+    "https://archive.org/details/completeworksofr0003burn"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charlotte-bronte/villette",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "The BBC’s 100 Greatest British Novels (2015)",
+      "type": "set",
+      "position": "28"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "b29e009d67a6c16c3d7dd98c98184104c45328eefe4fedc42aac4a6d80596ba4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 42,
+    "words": 192461,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

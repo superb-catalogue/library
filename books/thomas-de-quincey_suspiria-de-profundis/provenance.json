@@ -1,0 +1,44 @@
+{
+  "title": "Suspiria de Profundis",
+  "author": "Thomas De Quincey",
+  "identifier": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis",
+    "published": "2016-10-27T20:04:39Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/23788",
+    "https://catalog.hathitrust.org/Record/000539859",
+    "https://archive.org/details/collectedwritin02massgoog",
+    "https://archive.org/details/collectedwritin07quingoog",
+    "https://books.google.com/books?id=e4BKAAAAYAAJ",
+    "https://www.gutenberg.org/ebooks/6359"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "d4613eb50b3460f6209f1a933a7c68feeaa70ae9b9a45084cefd6d01f06c9133"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 14,
+    "words": 56861,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

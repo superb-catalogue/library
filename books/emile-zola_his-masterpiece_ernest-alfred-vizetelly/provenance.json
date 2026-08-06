@@ -1,0 +1,45 @@
+{
+  "title": "His Masterpiece",
+  "author": "Émile Zola",
+  "identifier": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly",
+    "published": "2016-09-28T19:24:48Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/15900",
+    "https://archive.org/details/hismasterpiecel00vizegoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Rougon-Macquart",
+      "type": "series",
+      "position": "14"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "8cf472a81371cf17de6018bae4ccaefecdca182686187775bfe0043c3254c502"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 12,
+    "words": 142510,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

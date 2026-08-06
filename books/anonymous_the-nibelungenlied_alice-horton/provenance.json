@@ -27,7 +27,7 @@
   "sets": [],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-poetry-epub.zip",
+    "collection": "se-ebooks-adventure-epub.zip",
     "epub_sha256": "fc1920f0fc90e74a0037431aa68ff733944b6b8a10593ea89103727d1bc9b4d1"
   },
   "text": {

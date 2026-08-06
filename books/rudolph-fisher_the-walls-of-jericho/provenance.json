@@ -1,0 +1,40 @@
+{
+  "title": "The Walls of Jericho",
+  "author": "Rudolph Fisher",
+  "identifier": "https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho",
+    "published": "2026-05-06T20:17:56Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://nealcaren.github.io/crisis-and-opportunity-books/the-walls-of-jericho.html",
+    "https://catalog.hathitrust.org/Record/006533594"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/rudolph-fisher/the-walls-of-jericho",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Satire"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "9aeba5b335ec52098c9c510102f0dccdd13c9f14a1ca038b796c56fee5d8d7b4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 32,
+    "words": 43651,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

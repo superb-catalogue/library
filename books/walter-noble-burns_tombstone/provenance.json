@@ -1,0 +1,40 @@
+{
+  "title": "Tombstone",
+  "author": "Walter Noble Burns",
+  "identifier": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+    "published": "2023-01-01T20:43:10Z",
+    "modified": "2026-07-14T15:32:18Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20220711",
+    "https://archive.org/details/tombstoneiliadof00burn"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/walter-noble-burns/tombstone",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Biography",
+  "genres": [
+    "Biography",
+    "Fiction"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-biography-epub.zip",
+    "epub_sha256": "f4b24797b653697fcfcb05cfdc2791ca16a4115036bcb126ab351f8868c89539"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 22,
+    "words": 108851,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

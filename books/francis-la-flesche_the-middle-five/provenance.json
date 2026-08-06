@@ -1,0 +1,40 @@
+{
+  "title": "The Middle Five",
+  "author": "Francis La Flesche",
+  "identifier": "https://standardebooks.org/ebooks/francis-la-flesche/the-middle-five",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/francis-la-flesche/the-middle-five",
+    "published": "2023-03-16T17:12:18Z",
+    "modified": "2026-07-14T15:30:05Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/62094",
+    "https://archive.org/details/themiddlefiveboy00laflrich"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/francis-la-flesche/the-middle-five",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fiction"
+  ],
+  "category": "Children’s",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "07c4df874dc3a3d75979cb7cea6e7a84daf212f638ae0e6ade9cba4c1749d9e7"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 16,
+    "words": 40721,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

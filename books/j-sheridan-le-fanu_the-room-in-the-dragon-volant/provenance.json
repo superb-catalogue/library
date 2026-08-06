@@ -1,0 +1,40 @@
+{
+  "title": "The Room in the Dragon Volant",
+  "author": "J. Sheridan Le Fanu",
+  "identifier": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+    "published": "2025-07-03T18:15:13Z",
+    "modified": "2026-07-09T19:39:33Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/37172",
+    "https://books.google.com/books?id=0FLQAAAAMAAJ"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-room-in-the-dragon-volant",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-horror-epub.zip",
+    "epub_sha256": "76d8770969c98b158377b738c4629b614e155e7e8f00b618745a104e64385c65"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 26,
+    "words": 44448,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

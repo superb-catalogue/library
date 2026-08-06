@@ -33,7 +33,7 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-pulitzer-prize-for-fiction-winners-epub.zip",
+    "collection": "se-ebooks-fiction-epub.zip",
     "epub_sha256": "53483451b1446c52bbec9084f6b1691f631ce21c0b4a5098d3e68aed067aa04d"
   },
   "text": {

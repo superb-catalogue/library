@@ -1,0 +1,5189 @@
+{
+  "title": "English as She Is Spoke",
+  "author": "Pedro Carolino, José da Fonseca",
+  "language": "en-GB",
+  "chapters": [
+    {
+      "label": null,
+      "types": [
+        "bodymatter",
+        "fiction"
+      ],
+      "blocks": [
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Of the Man"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The Brain"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The inferior lip"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The brains"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The superior lip"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The fat of the leg"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The marrow"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The ham"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The reins"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Defects of the body"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A blind"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A left handed"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A lame"
+                        },
+                        {
+                          "type": "td",
+                          "text": "An ugly"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A bald"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A squint-eyed"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A deaf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Degrees of kindred"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The gossip"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The quater-grandfather"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The gossip mistress"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The quater-grandmother"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The nurse"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A guardian"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A relation"
+                        },
+                        {
+                          "type": "td",
+                          "text": "An guardian"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "An relation"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A widower"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "An widow"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Trades"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Starch-maker"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Porter"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Barber"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Chinaman"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Coffeeman"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Founder"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Porkshop-keeper"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Grave-digger"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Cartwright"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Tradesman"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Tinker, a brasier"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Stockingmender"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Nailer"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Lochsmith"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Objects of man"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The boots"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The lining"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The buckles"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The clogs"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The buttons-holes"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The wig"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The buskins"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The morning-gown, night-gown"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Woman objects"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The busk"
+                        },
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "i",
+                              "text": "or"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The sash"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The spindle"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The cornet"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The patches"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The pumps"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The skate"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Servants"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Coochmann"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Spendth"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Running footman"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Business-man"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Groome"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Diseases"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The apoplexy"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The megrime"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The scrofulas"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The whitlow"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The melancholy"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The rheumatisme"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The vomitory"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Parties a Town"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The butchery"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The low eating house"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The cause-way"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The obelis-ks"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The sink"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The prison, geol"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Kitchen utensils"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The skimming-dish"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The spark"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The potlid"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The fire"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The pothanger"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The smoke"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The spunge"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The clout"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The jack"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Of the bed"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The bed wood"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The feet’s bed"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The bed battom"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The pillar’s bed"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The head’s bed"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For the table"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some knifes"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Some groceries"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some crumb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Eatings"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some black pudding"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A little mine"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some sugar-plum"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Hog fat"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some wigs"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Some marchpanes"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A chitterling sausages"
+                        },
+                        {
+                          "type": "td",
+                          "text": "An amelet"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A dainty-dishes"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A slice, steak"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A mutton shoulder"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Vegetables boiled to a pap"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Seasonings"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some wing"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Some pinions"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some cinnamon"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Some hog’slard"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some oranges"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Some verjuice"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Drinkings"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Some orgeat"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Some paltry wine"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "blocks": [
+                            {
+                              "type": "i",
+                              "text": "or"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Quadruped’s beasts"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Lamb"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Rocbuck"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Ass"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Dragon"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Shi ass"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Wild sow"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Ass-colt"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Lioness"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Ram, aries"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Dormouse"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Birds"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Becafico"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Heuth-cock"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Calander"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Whoop"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Stor"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Pea cock"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Yeung turkey"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Pinch"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Red-breast, a robin"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Insects-reptiles"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Asp, aspic"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Fly"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Morpion"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Butter fly"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Serpent"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Fishes and shell-fishes"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Calamary"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Large lobster"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Dorado"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Snail"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A sorte of fish"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Wolf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Hedge hog"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Torpedo"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Sea-calf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Trees"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Lote-tree lotos"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Service-tree"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Chest nut-tree"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Jujube-tree"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Linden-tree"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Flowers"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Anemony"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Mil-foils"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Blue-bottle"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Hink"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Turnsol"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Hunting"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Hunting dog"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Picker"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Relay dog"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Gun-powder"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Hound dog"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Priming-powder"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Hound’s fee"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Hunts man"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Colours"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "White"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Gridelin"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Cray"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Musk"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Red"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Metals and minerals"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Starch"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Latten"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Cooper"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Plaster"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Vitriole"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Common stones"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Loadstones"
+                        },
+                        {
+                          "type": "td",
+                          "text": "White lead"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Brick"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Gum-stone"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Weights"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Counterpoise"
+                        },
+                        {
+                          "type": "td",
+                          "text": "An obole"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A pound an half"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A quater ounce"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Games"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Foot-ball"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Pile"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Bar"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Mall"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Gleek"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Even or non even"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Carousal"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Keel"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Perfumes"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Benzion"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Pomatum"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Perfume paw"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Storax"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "On the church"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The sides of the nef"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The little cellal"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The holywater-pot"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The boby of the church"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Solemn-feasts"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The Deads-day"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The Vigil"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The Twelfth-Day"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The Visitation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Ecclesiastical dignities"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Incumbent"
+                        },
+                        {
+                          "type": "td",
+                          "text": "General of an order"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Canon"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Penitentiary"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Canoness"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Theologist"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Chanter, a clerk"
+                        },
+                        {
+                          "type": "td",
+                          "text": "General curate"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Chivalry orders"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Black eagle"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Elephant"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Avis, advice"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Honour Legion"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Calatrava"
+                        },
+                        {
+                          "type": "td",
+                          "text": "Saint Michaelmas"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Very-merit"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Degrees"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A cannoneer"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A general to galeries"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A vessel captain"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A great admiral"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A harbinger"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A king a lieutenant"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A parapet"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A quater master"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A army general"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A vice admiral’s ship"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Military objects"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "The bait"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The fire pan"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "An arquebuse"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A bomb ketch"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A bandoleer"
+                        },
+                        {
+                          "type": "td",
+                          "text": "The military case"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A fusil, a gun"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Music’s instruments"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A flagelet"
+                        },
+                        {
+                          "type": "td",
+                          "text": "A dreum"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A hurdy-gurdy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Chastisements"
+                }
+              ]
+            },
+            {
+              "type": "table",
+              "blocks": [
+                {
+                  "type": "tbody",
+                  "blocks": [
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "A fine"
+                        },
+                        {
+                          "type": "td",
+                          "text": "To break upon"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "Honourable fine"
+                        },
+                        {
+                          "type": "td",
+                          "text": "To tear off the flesh"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "tr",
+                      "blocks": [
+                        {
+                          "type": "td",
+                          "text": "To draw to four horses"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Familiar Phrases",
+      "types": [
+        "bodymatter",
+        "non-fiction"
+      ],
+      "blocks": [
+        {
+          "type": "ul",
+          "blocks": [
+            {
+              "type": "item",
+              "text": "Go to send for."
+            },
+            {
+              "type": "item",
+              "text": "Have you say that?"
+            },
+            {
+              "type": "item",
+              "text": "Have you understand that he says?"
+            },
+            {
+              "type": "item",
+              "text": "At what purpose have say so?"
+            },
+            {
+              "type": "item",
+              "text": "Put your confidence at my."
+            },
+            {
+              "type": "item",
+              "text": "At what o’clock dine him?"
+            },
+            {
+              "type": "item",
+              "text": "Apply you at the study during that you are young."
+            },
+            {
+              "type": "item",
+              "text": "Dress your hairs."
+            },
+            {
+              "type": "item",
+              "text": "Sing an area."
+            },
+            {
+              "type": "item",
+              "text": "These apricots and these peaches make me and to come water in mouth."
+            },
+            {
+              "type": "item",
+              "text": "How do you can it to deny?"
+            },
+            {
+              "type": "item",
+              "text": "Wax my shoes."
+            },
+            {
+              "type": "item",
+              "text": "That is that I have think."
+            },
+            {
+              "type": "item",
+              "text": "That are the dishes whose you must be and to abstain."
+            },
+            {
+              "type": "item",
+              "text": "This meat ist not too over do."
+            },
+            {
+              "type": "item",
+              "text": "This ink is white."
+            },
+            {
+              "type": "item",
+              "text": "This room is filled of bugs."
+            },
+            {
+              "type": "item",
+              "text": "This girl have a beauty edge."
+            },
+            {
+              "type": "item",
+              "text": "It is a noise which to cleave the head."
+            },
+            {
+              "type": "item",
+              "text": "This wood is fill of thief’s."
+            },
+            {
+              "type": "item",
+              "text": "Tell me, it can one to know?"
+            },
+            {
+              "type": "item",
+              "text": "Give me some good milk newly get out."
+            },
+            {
+              "type": "item",
+              "text": "To morrow hi shall be entirely (her master) or unoccupied."
+            },
+            {
+              "type": "item",
+              "text": "She do not that to talk and to cackle."
+            },
+            {
+              "type": "item",
+              "text": "Dry this wine."
+            },
+            {
+              "type": "item",
+              "text": "He laughs at my nose, he jest by me."
+            },
+            {
+              "type": "item",
+              "text": "He has spit in my coat."
+            },
+            {
+              "type": "item",
+              "text": "He has me take out my hairs."
+            },
+            {
+              "type": "item",
+              "text": "He does me some kicks."
+            },
+            {
+              "type": "item",
+              "text": "He has scratch the face with hers nails."
+            },
+            {
+              "type": "item",
+              "text": "He burns one’s self the brains."
+            },
+            {
+              "type": "item",
+              "text": "He is valuable his weight’s gold."
+            },
+            {
+              "type": "item",
+              "text": "He has the word for to laugh."
+            },
+            {
+              "type": "item",
+              "text": "He do the devil at four."
+            },
+            {
+              "type": "item",
+              "text": "He make to weep the room."
+            },
+            {
+              "type": "item",
+              "text": "He was fighted in duel."
+            },
+            {
+              "type": "item",
+              "text": "They fight one’s selfs together."
+            },
+            {
+              "type": "item",
+              "text": "He do want to fall."
+            },
+            {
+              "type": "item",
+              "text": "It must never to laugh of the unhappies."
+            },
+            {
+              "type": "item",
+              "text": "He was wanting to be killed."
+            },
+            {
+              "type": "item",
+              "text": "I am confused all yours civilities."
+            },
+            {
+              "type": "item",
+              "text": "I am catched cold."
+            },
+            {
+              "type": "item",
+              "text": "I not make what to coughand spit."
+            },
+            {
+              "type": "item",
+              "text": "Never I have feeld a such heat"
+            },
+            {
+              "type": "item",
+              "text": "Till say-us?"
+            },
+            {
+              "type": "item",
+              "text": "Till hither."
+            },
+            {
+              "type": "item",
+              "text": "I have put my stockings outward."
+            },
+            {
+              "type": "item",
+              "text": "I have croped the candle."
+            },
+            {
+              "type": "item",
+              "text": "I have mind to vomit."
+            },
+            {
+              "type": "item",
+              "text": "I will not to sleep on street."
+            },
+            {
+              "type": "item",
+              "text": "I am catched cold in the brain."
+            },
+            {
+              "type": "item",
+              "text": "I am pinking me with a pin."
+            },
+            {
+              "type": "item",
+              "text": "I dead myself in envy to see her."
+            },
+            {
+              "type": "item",
+              "text": "I take a broth all morning."
+            },
+            {
+              "type": "item",
+              "text": "I shall not tell you than two woods."
+            },
+            {
+              "type": "item",
+              "text": "Have you understanded?"
+            },
+            {
+              "type": "item",
+              "text": "Let him have know?"
+            },
+            {
+              "type": "item",
+              "text": "Have you understand they?"
+            },
+            {
+              "type": "item",
+              "text": "Do you know they?"
+            },
+            {
+              "type": "item",
+              "text": "Do you know they to?"
+            },
+            {
+              "type": "item",
+              "text": "The storm is go over."
+            },
+            {
+              "type": "item",
+              "text": "The sun begins to dissipe it."
+            },
+            {
+              "type": "item",
+              "text": "Witch prefer you?"
+            },
+            {
+              "type": "item",
+              "text": "The paving stone is sliphery."
+            },
+            {
+              "type": "item",
+              "text": "The thunderbolt is falling down."
+            },
+            {
+              "type": "item",
+              "text": "The rose-trees begins to button."
+            },
+            {
+              "type": "item",
+              "text": "The ears are too length."
+            },
+            {
+              "type": "item",
+              "text": "The hands itch at him."
+            },
+            {
+              "type": "item",
+              "text": "Have you forgeted me?"
+            },
+            {
+              "type": "item",
+              "text": "Lay him hir apron."
+            },
+            {
+              "type": "item",
+              "text": "Help-to a little most the better yours terms."
+            },
+            {
+              "type": "item",
+              "text": "Dont you are awaken yet?"
+            },
+            {
+              "type": "item",
+              "text": "That should must me to cost my life."
+            },
+            {
+              "type": "item",
+              "text": "We are in the canicule."
+            },
+            {
+              "type": "item",
+              "text": "No budge you there."
+            },
+            {
+              "type": "item",
+              "text": "Do not might one’s understand to speak."
+            },
+            {
+              "type": "item",
+              "text": "Where are their stockings, their shoes, her shirt and her petlicot?"
+            },
+            {
+              "type": "item",
+              "text": "One’s can to believe you?"
+            },
+            {
+              "type": "item",
+              "text": "One’s find-modest the young men rarely."
+            },
+            {
+              "type": "item",
+              "text": "If can’t to please at every one’s."
+            },
+            {
+              "type": "item",
+              "text": "Take that boy and whip him to much."
+            },
+            {
+              "type": "item",
+              "text": "Take attention to cut you self."
+            },
+            {
+              "type": "item",
+              "text": "Take care to dirt you self."
+            },
+            {
+              "type": "item",
+              "text": "Dress my horse."
+            },
+            {
+              "type": "item",
+              "text": "Since you not go out, I shall go out nor I neither."
+            },
+            {
+              "type": "item",
+              "text": "That may dead if I lie you."
+            },
+            {
+              "type": "item",
+              "text": "What is it who want you?"
+            },
+            {
+              "type": "item",
+              "text": "Why you no helps me to?"
+            },
+            {
+              "type": "item",
+              "text": "Upon my live."
+            },
+            {
+              "type": "item",
+              "text": "All trees have very deal bear."
+            },
+            {
+              "type": "item",
+              "text": "A throat’s ill."
+            },
+            {
+              "type": "item",
+              "text": "You shall catch cold one’s."
+            },
+            {
+              "type": "item",
+              "text": "You make grins."
+            },
+            {
+              "type": "item",
+              "text": "Will some mutton?"
+            },
+            {
+              "type": "item",
+              "text": "Will you fat or slight?"
+            },
+            {
+              "type": "item",
+              "text": "Will you this?"
+            },
+            {
+              "type": "item",
+              "text": "Will you a bon?"
+            },
+            {
+              "type": "item",
+              "text": "You not make who to babble."
+            },
+            {
+              "type": "item",
+              "text": "You not make that to prate all day’s work."
+            },
+            {
+              "type": "item",
+              "text": "You interompt me."
+            },
+            {
+              "type": "item",
+              "text": "You mistake you self heavily."
+            },
+            {
+              "type": "item",
+              "text": "You come too rare."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "End First Part’s"
+        }
+      ]
+    },
+    {
+      "label": "Familiar Dialogues",
+      "types": [
+        "bodymatter",
+        "non-fiction"
+      ],
+      "blocks": [
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Wish the Good Morning"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "How does your father do?"
+                },
+                {
+                  "type": "item",
+                  "text": "He is very well."
+                },
+                {
+                  "type": "item",
+                  "text": "I am very delight of it. Were is it?"
+                },
+                {
+                  "type": "item",
+                  "text": "I shall come back soon, I was no came that to know how you are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For Make a Visit in the Morning"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Is your master at home?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, sir."
+                },
+                {
+                  "type": "item",
+                  "text": "Is it up."
+                },
+                {
+                  "type": "item",
+                  "text": "No, sir, he sleep yet."
+                },
+                {
+                  "type": "item",
+                  "text": "I go make that he get up."
+                },
+                {
+                  "type": "item",
+                  "text": "It come in one’s? How is it, you are in bed yet?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yesterday at evening, I was to bed so late that I may not rising me soon that morning."
+                },
+                {
+                  "type": "item",
+                  "text": "Well! what you have done after the supper?"
+                },
+                {
+                  "type": "item",
+                  "text": "We have sung, danced, laugh and played."
+                },
+                {
+                  "type": "item",
+                  "text": "What game?"
+                },
+                {
+                  "type": "item",
+                  "text": "To the picket."
+                },
+                {
+                  "type": "item",
+                  "text": "Whom I am sorry do not have know it!"
+                },
+                {
+                  "type": "item",
+                  "text": "Who have prevailed upon?"
+                },
+                {
+                  "type": "item",
+                  "text": "I had gained ten lewis."
+                },
+                {
+                  "type": "item",
+                  "text": "Till at what o’clock its had play one?"
+                },
+                {
+                  "type": "item",
+                  "text": "Un till two o’clock after mid night."
+                },
+                {
+                  "type": "item",
+                  "text": "At what o’clock are you go to bed."
+                },
+                {
+                  "type": "item",
+                  "text": "Half pass three."
+                },
+                {
+                  "type": "item",
+                  "text": "I am no astonished if you get up so late."
+                },
+                {
+                  "type": "item",
+                  "text": "What o’clock is it?"
+                },
+                {
+                  "type": "item",
+                  "text": "What o’clock you think is it?"
+                },
+                {
+                  "type": "item",
+                  "text": "I think is not yet eight o’clock."
+                },
+                {
+                  "type": "item",
+                  "text": "How is that, eight ’clock! it is ten ’clock struck."
+                },
+                {
+                  "type": "item",
+                  "text": "It must then what I rise me quickly."
+                },
+                {
+                  "type": "item",
+                  "text": "Adieu, my deer, I leave you. If can to see you at six clock to the hotel from —﻿—﻿—, we swill dine togetter."
+                },
+                {
+                  "type": "item",
+                  "text": "Willingly. Good by."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Dress Him Self"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "John, make haste, lighted the fire and dress-me."
+                },
+                {
+                  "type": "item",
+                  "text": "Give me my shirt."
+                },
+                {
+                  "type": "item",
+                  "text": "There is it sir."
+                },
+                {
+                  "type": "item",
+                  "text": "Is it no hot, it is too cold yet."
+                },
+                {
+                  "type": "item",
+                  "text": "If you like, I will hot it."
+                },
+                {
+                  "type": "item",
+                  "text": "No, no, bring me my silk stocking’s."
+                },
+                {
+                  "type": "item",
+                  "text": "Its are make holes."
+                },
+                {
+                  "type": "item",
+                  "text": "Make its a point, or make to mend them."
+                },
+                {
+                  "type": "item",
+                  "text": "Comb me, take another comb. Give me my handkarchief."
+                },
+                {
+                  "type": "item",
+                  "text": "There is a clean, sir."
+                },
+                {
+                  "type": "item",
+                  "text": "What coat dress you to day?"
+                },
+                {
+                  "type": "item",
+                  "text": "Those that I had yesterday."
+                },
+                {
+                  "type": "item",
+                  "text": "The tailor do owe to bring soon that of cloth."
+                },
+                {
+                  "type": "item",
+                  "text": "Have you wexed my shoes?"
+                },
+                {
+                  "type": "item",
+                  "text": "I go wex its now."
+                },
+                {
+                  "type": "item",
+                  "text": "It must that I may wash my hands, the mouth and my face."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Walk"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Will you and take a walk with me?"
+                },
+                {
+                  "type": "item",
+                  "text": "Wait for that the warm be out."
+                },
+                {
+                  "type": "item",
+                  "text": "Go through that meadow. Who the country is beautiful! who the trees are thick!"
+                },
+                {
+                  "type": "item",
+                  "text": "Take the bloom’s perfume."
+                },
+                {
+                  "type": "item",
+                  "text": "It seems me that the corn does push alredy."
+                },
+                {
+                  "type": "item",
+                  "text": "You hear the bird’s gurgling?"
+                },
+                {
+                  "type": "item",
+                  "text": "Which pleasure! which charm!"
+                },
+                {
+                  "type": "item",
+                  "text": "The field has by me a thousand charms."
+                },
+                {
+                  "type": "item",
+                  "text": "Are you hunter? will you go to the hunting in one day this week?"
+                },
+                {
+                  "type": "item",
+                  "text": "Willingly; I have not a most pleasure in the world. There is some game on they cantons?"
+                },
+                {
+                  "type": "item",
+                  "text": "We have done a great walk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Weather"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "We shall have a fine weather to day."
+                },
+                {
+                  "type": "item",
+                  "text": "There is some foggy."
+                },
+                {
+                  "type": "item",
+                  "text": "I fear of the thunderbolt."
+                },
+                {
+                  "type": "item",
+                  "text": "The sun rise on."
+                },
+                {
+                  "type": "item",
+                  "text": "The sun lie down."
+                },
+                {
+                  "type": "item",
+                  "text": "It is light moon’s."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Write"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "It is to day courier day’s; I have a letter to write."
+                },
+                {
+                  "type": "item",
+                  "text": "At which does you write?"
+                },
+                {
+                  "type": "item",
+                  "text": "Is not that? look one is that."
+                },
+                {
+                  "type": "item",
+                  "text": "This letter is arrears."
+                },
+                {
+                  "type": "item",
+                  "text": "It shall stay to the post. This pen are good for notting. During I finish that letter, do me the goodness to scal this packet; it is by my cousin."
+                },
+                {
+                  "type": "item",
+                  "text": "How is the day of month?"
+                },
+                {
+                  "type": "item",
+                  "text": "The two, the three, the four, etc."
+                },
+                {
+                  "type": "item",
+                  "text": "That is some letter to me."
+                },
+                {
+                  "type": "item",
+                  "text": "Go to bear they letter to the post."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Gaming"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Do you like the gaming?"
+                },
+                {
+                  "type": "item",
+                  "text": "At what pack will you that we does play?"
+                },
+                {
+                  "type": "item",
+                  "text": "To the cards."
+                },
+                {
+                  "type": "item",
+                  "text": "Waiter, give us a card’s game."
+                },
+                {
+                  "type": "item",
+                  "text": "What is the trump?"
+                },
+                {
+                  "type": "item",
+                  "text": "The club’s king."
+                },
+                {
+                  "type": "item",
+                  "text": "Play, if you please."
+                },
+                {
+                  "type": "item",
+                  "text": "The heart’s aces."
+                },
+                {
+                  "type": "item",
+                  "text": "We do ought."
+                },
+                {
+                  "type": "item",
+                  "text": "This time I have a great deal pack."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With the Tailor"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Can you do me a coat?"
+                },
+                {
+                  "type": "item",
+                  "text": "What cloth will you do to?"
+                },
+                {
+                  "type": "item",
+                  "text": "From a stuff what be of season."
+                },
+                {
+                  "type": "item",
+                  "text": "How much wants the ells for coat, waist coat, and breeches?"
+                },
+                {
+                  "type": "item",
+                  "text": "Six ells."
+                },
+                {
+                  "type": "item",
+                  "text": "What will you to double the coat?"
+                },
+                {
+                  "type": "item",
+                  "text": "From some thing of duration. I believe to you that."
+                },
+                {
+                  "type": "item",
+                  "text": "When do you bring me my coat?"
+                },
+                {
+                  "type": "item",
+                  "text": "The rather that be possible."
+                },
+                {
+                  "type": "item",
+                  "text": "Bring you my coat?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, sir, there is it."
+                },
+                {
+                  "type": "item",
+                  "text": "You have me done to expect too."
+                },
+                {
+                  "type": "item",
+                  "text": "I did can’t to come rather."
+                },
+                {
+                  "type": "item",
+                  "text": "It don’t are finished?"
+                },
+                {
+                  "type": "item",
+                  "text": "The lining war not sewd."
+                },
+                {
+                  "type": "item",
+                  "text": "It is so that do one’s now."
+                },
+                {
+                  "type": "item",
+                  "text": "Button me."
+                },
+                {
+                  "type": "item",
+                  "text": "It pinches me too much upon stomack."
+                },
+                {
+                  "type": "item",
+                  "text": "The sleeves have not them great deal wideness?"
+                },
+                {
+                  "type": "item",
+                  "text": "No, sir, they are well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Hair Dresser"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Your razors, are them well?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, Sir."
+                },
+                {
+                  "type": "item",
+                  "text": "Comb-me quickly; don’t put me so much pomatum. What news tell me? all hairs dresser are newsmonger."
+                },
+                {
+                  "type": "item",
+                  "text": "Sir, I have no heared any thing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Breakfast"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "John bring us some thing for to breakfast."
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, Sir; there is some sousages. Will you than I bring the ham?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, bring-him, we will cup a steak put a nappe clothe upon this table."
+                },
+                {
+                  "type": "item",
+                  "text": "I you do not eat?"
+                },
+                {
+                  "type": "item",
+                  "text": "How you like the tea."
+                },
+                {
+                  "type": "item",
+                  "text": "It is excellent."
+                },
+                {
+                  "type": "item",
+                  "text": "Still a not her cup."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Ask Some News"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "It is true what is told of master M﻿—﻿—?"
+                },
+                {
+                  "type": "item",
+                  "text": "Then what is told of him?"
+                },
+                {
+                  "type": "item",
+                  "text": "I have heard that he is hurt mortally."
+                },
+                {
+                  "type": "item",
+                  "text": "I shall be sowow of it, because he is a honestman."
+                },
+                {
+                  "type": "item",
+                  "text": "Which have wounden him?"
+                },
+                {
+                  "type": "item",
+                  "text": "Do know it why?"
+                },
+                {
+                  "type": "item",
+                  "text": "The noise run that is by to have given a box on the ear to a of them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Buy"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "I won’t have a good and fine cloth to make a coat."
+                },
+                {
+                  "type": "item",
+                  "text": "How much do you sell it the ell?"
+                },
+                {
+                  "type": "item",
+                  "text": "We thout overcharge you from a halfpenny, it cost twenty franks."
+                },
+                {
+                  "type": "item",
+                  "text": "Sir, I am not accustomed to cheapen: tell me the last price."
+                },
+                {
+                  "type": "item",
+                  "text": "I have told you, sir, it is valuable in that."
+                },
+                {
+                  "type": "item",
+                  "text": "It is too much dear, I give at it, eighteen franks."
+                },
+                {
+                  "type": "item",
+                  "text": "You shall not have what you have wished."
+                },
+                {
+                  "type": "item",
+                  "text": "You did beg me my last word, I told you them."
+                },
+                {
+                  "type": "item",
+                  "text": "Well, well, cut them two ells."
+                },
+                {
+                  "type": "item",
+                  "text": "Don’t you will not more?"
+                },
+                {
+                  "type": "item",
+                  "text": "No, at present."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Dine"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Go to dine, the dinner is ready."
+                },
+                {
+                  "type": "item",
+                  "text": "Cut some bread; here is it, I don’t know that boiled meat is good."
+                },
+                {
+                  "type": "item",
+                  "text": "Gentilman, will you have some beans?"
+                },
+                {
+                  "type": "item",
+                  "text": "Peter, uncork a Porto wine bottle."
+                },
+                {
+                  "type": "item",
+                  "text": "Sir, what will you to?"
+                },
+                {
+                  "type": "item",
+                  "text": "Some pears, and apples, what wilt you?"
+                },
+                {
+                  "type": "item",
+                  "text": "Taste us rather that liquor, it is good for the stomach."
+                },
+                {
+                  "type": "item",
+                  "text": "I am too much obliged to you, is done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Speak French"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "How is the french? Are you too learned now?"
+                },
+                {
+                  "type": "item",
+                  "text": "I could to tell some word’s that I know by heart."
+                },
+                {
+                  "type": "item",
+                  "text": "Not apprehend you, the french language is not difficult."
+                },
+                {
+                  "type": "item",
+                  "text": "I know it, and she have great deal of agreeableness. Who I would be. If I was know it!"
+                },
+                {
+                  "type": "item",
+                  "text": "It must to study for to learn it. How long there is it what you learn it?"
+                },
+                {
+                  "type": "item",
+                  "text": "It is not yet a month."
+                },
+                {
+                  "type": "item",
+                  "text": "How is called your master?"
+                },
+                {
+                  "type": "item",
+                  "text": "It is called N﻿—﻿—﻿"
+                },
+                {
+                  "type": "item",
+                  "text": "I know him it is long; he has teached a many of my friends. Don’t he tell you that it must to speak french?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to See the Town"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Anthony, go to accompany they gentilsmen, do they see the town."
+                },
+                {
+                  "type": "item",
+                  "text": "We won’t to see all that is it remarquable here."
+                },
+                {
+                  "type": "item",
+                  "text": "Admire this master piece gothic architecture’s."
+                },
+                {
+                  "type": "item",
+                  "text": "The chasing of all they figures is astonishing indeed."
+                },
+                {
+                  "type": "item",
+                  "text": "The streets are very layed out by line and too paved."
+                },
+                {
+                  "type": "item",
+                  "text": "There is it also hospitals here?"
+                },
+                {
+                  "type": "item",
+                  "text": "It not fail them."
+                },
+                {
+                  "type": "item",
+                  "text": "What are then the edifices the worthest to have seen?"
+                },
+                {
+                  "type": "item",
+                  "text": "It is the arsnehal, the spectacle’s hall, the cusiom-house and the Purse."
+                },
+                {
+                  "type": "item",
+                  "text": "We are going too see the others monuments such that the public pawnbroker’s office, the plants garden’s the money office’s, the library."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "To Inform One’self of a Person"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "How is that gentilman who you did speak by and by."
+                },
+                {
+                  "type": "item",
+                  "text": "Is a German."
+                },
+                {
+                  "type": "item",
+                  "text": "Tongh he is German, he speak so much well italyan, french, spanish, and english, that among the Italyans, they believe him Italyan, he speak the frenche as the Frenches himselves. The Spanishesmen belie ve him Spanishing, and the Englishes, Englisman."
+                },
+                {
+                  "type": "item",
+                  "text": "It is difficult to enjoy well so much several langages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Ride a Horse"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Here is a horse who have a bad looks. Give me another; I will not that. He not sall know to march, he is pursy, he is foundered. Don’t you are ashamed to give me a jade as like? he is undshoed, he is with nails up; it want to lead to the farrier."
+                },
+                {
+                  "type": "item",
+                  "text": "Your pistols are its loads?"
+                },
+                {
+                  "type": "item",
+                  "text": "No; I forgot to buy gun-powder and balls. Let us prick. Go us more fast never I was seen a so much bad beast; she will not nor to bring forward neither put back."
+                },
+                {
+                  "type": "item",
+                  "text": "Strek him the bridle, hold him the reins sharters. Pique stron gly, make to marsh him."
+                },
+                {
+                  "type": "item",
+                  "text": "I have pricked him enough. But I can’t to make march him."
+                },
+                {
+                  "type": "item",
+                  "text": "Go down, I shall make march."
+                },
+                {
+                  "type": "item",
+                  "text": "Take care that he not give you a foot kick’s."
+                },
+                {
+                  "type": "item",
+                  "text": "Then he kicks for that I look? Sook here if I knew to tame hix."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Watch Maker"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "I bring you a watch that want to be ordered."
+                },
+                {
+                  "type": "item",
+                  "text": "I had the misfortune to leave fall down the instant where I did mounted, it must to put again a glass."
+                },
+                {
+                  "type": "item",
+                  "text": "I want not a pendulum? I have them here some very good."
+                },
+                {
+                  "type": "item",
+                  "text": "Don’t you live me her proof againts? I shall not accept that this condition."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Visit a Sick"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "How have you passed the night?"
+                },
+                {
+                  "type": "item",
+                  "text": "Very bad. I have not sleeped; I have had the fever during all night. I fell some pain every where body."
+                },
+                {
+                  "type": "item",
+                  "text": "Live me see your tongue. Have you pain to the heart?"
+                },
+                {
+                  "type": "item",
+                  "text": "Are you altered?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, I have thursty often."
+                },
+                {
+                  "type": "item",
+                  "text": "Your stat have nothing from trouble some."
+                },
+                {
+                  "type": "item",
+                  "text": "What I may to eat?"
+                },
+                {
+                  "type": "item",
+                  "text": "You can take a broth."
+                },
+                {
+                  "type": "item",
+                  "text": "Can I to get up my self?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, during a hour or two."
+                },
+                {
+                  "type": "item",
+                  "text": "Let me have another thing to do?"
+                },
+                {
+                  "type": "item",
+                  "text": "Take care to hold you warme ly, and in two or three days you shall be cured."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Travel"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Where you go so?"
+                },
+                {
+                  "type": "item",
+                  "text": "I am going to Cadiz."
+                },
+                {
+                  "type": "item",
+                  "text": "Have you already arrested a coach?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, sir, and very cheap."
+                },
+                {
+                  "type": "item",
+                  "text": "There is it some danger on the highway?"
+                },
+                {
+                  "type": "item",
+                  "text": "It is not spoken that."
+                },
+                {
+                  "type": "item",
+                  "text": "They speak not that may have some robbers on the woods?"
+                },
+                {
+                  "type": "item",
+                  "text": "It have nothing to fear, or in day neither the night."
+                },
+                {
+                  "type": "item",
+                  "text": "Don’t we does pass for a﻿—﻿—?"
+                },
+                {
+                  "type": "item",
+                  "text": "No, sir, they leave it to left."
+                },
+                {
+                  "type": "item",
+                  "text": "Let us take patience, still some o’clock, and we shall be in the end of our voyage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Inn Keeper"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "What you give us for to take supper."
+                },
+                {
+                  "type": "item",
+                  "text": "Gentlemen, what you will have."
+                },
+                {
+                  "type": "item",
+                  "text": "Give us a pigeon couple, a piece of ham and a salad."
+                },
+                {
+                  "type": "item",
+                  "text": "What have us expended?"
+                },
+                {
+                  "type": "item",
+                  "text": "The accout mount in little the supper, the bed and the breakfast, shall get up at thirty franks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "From the House-Keeping"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "I don’t know more what I won’t with they servants."
+                },
+                {
+                  "type": "item",
+                  "text": "I tell the same, it is not more some good servants. Any one take care to sweep neither to make fire at what I may be up."
+                },
+                {
+                  "type": "item",
+                  "text": "How the times are changed! Anciently I had some servants who were divine my thought. The duty was done at the instant, all things were cleanly hold one may look on the furnitures now as you do see. It is too different, whole is covered from dust; the pier-glasses, side-boards, the pantries, the chests of drawers, the walls selves, are changed of colours."
+                },
+                {
+                  "type": "item",
+                  "text": "Believe me, send again whole the people; I take upon my self to find you some good servants for to succeed them."
+                },
+                {
+                  "type": "item",
+                  "text": "Ah! what I shall be oblige to you of it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For the Comedy"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Were you go to the theatre yesterday?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, sir; I won’t to see the new play in which did owed to play and actress which has not appeared on any theatre."
+                },
+                {
+                  "type": "item",
+                  "text": "How you think her?"
+                },
+                {
+                  "type": "item",
+                  "text": "She has very much grace in the deeds great deal of exactness on the declamation, a constitution very agreable, and a delightful voice."
+                },
+                {
+                  "type": "item",
+                  "text": "What you say of the comedy? Have her succeded? It was a drama; it was whistted to the third scene of the last act."
+                },
+                {
+                  "type": "item",
+                  "text": "Because that?"
+                },
+                {
+                  "type": "item",
+                  "text": "It whant the vehicle, and the intrigue it was bad conducted."
+                },
+                {
+                  "type": "item",
+                  "text": "So that they won’t waited even the upshot?"
+                },
+                {
+                  "type": "item",
+                  "text": "No, it was divined. In the mean time them did diliver justice to the players which generaly have play very well."
+                },
+                {
+                  "type": "item",
+                  "text": "At the exception by a one’s self, who had land very much hir’s part."
+                },
+                {
+                  "type": "item",
+                  "text": "It want to have not any indulgence towards the bat buffoons."
+                },
+                {
+                  "type": "item",
+                  "text": "Have you seen already the new tragedy? They praise her very much."
+                },
+                {
+                  "type": "item",
+                  "text": "It is multitude already."
+                },
+                {
+                  "type": "item",
+                  "text": "Never I had seen the parlour so full."
+                },
+                {
+                  "type": "item",
+                  "text": "This actor he make very well her part."
+                },
+                {
+                  "type": "item",
+                  "text": "That piece is full of interest."
+                },
+                {
+                  "type": "item",
+                  "text": "It have wondered the spectadors."
+                },
+                {
+                  "type": "item",
+                  "text": "The curtains let down."
+                },
+                {
+                  "type": "item",
+                  "text": "Go out us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Hunting"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "There is it some game in this wood?"
+                },
+                {
+                  "type": "item",
+                  "text": "Another time there was plenty some black beasts and thin game, but the poachers have killed almost all."
+                },
+                {
+                  "type": "item",
+                  "text": "Look a hare who run! let do him to pursue for the hounds! it go one’s self in the ploughed land."
+                },
+                {
+                  "type": "item",
+                  "text": "Here that it rouse. Let aim it! let make fire him!"
+                },
+                {
+                  "type": "item",
+                  "text": "I have put down killed."
+                },
+                {
+                  "type": "item",
+                  "text": "Me, I have failed it; my gun have miss fixe."
+                },
+                {
+                  "type": "item",
+                  "text": "I see a hind."
+                },
+                {
+                  "type": "item",
+                  "text": "Let leave to pass away, don’t disturte it."
+                },
+                {
+                  "type": "item",
+                  "text": "I have heard that it is plenty pardridges this year."
+                },
+                {
+                  "type": "item",
+                  "text": "Have you killed also some thrushes."
+                },
+                {
+                  "type": "item",
+                  "text": "Here certainly a very good hunting."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Fishing"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "That pond it seems me many multiplied of fishes. Let us amuse rather to the fishing."
+                },
+                {
+                  "type": "item",
+                  "text": "I do like-it too much."
+                },
+                {
+                  "type": "item",
+                  "text": "Here, there is a wand and some hooks."
+                },
+                {
+                  "type": "item",
+                  "text": "Silence! there is a superb perch! Give me quick the rod. Ah! there is, it is a lamprey."
+                },
+                {
+                  "type": "item",
+                  "text": "You mistake you, it is a frog! dip again it in the water."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Furniture Tradesman"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "It seems no me new."
+                },
+                {
+                  "type": "item",
+                  "text": "Pardon me, it comes workman’s hands."
+                },
+                {
+                  "type": "item",
+                  "text": "Which hightness want you its?"
+                },
+                {
+                  "type": "item",
+                  "text": "I want almost four feet six thumbs wide’s, over seven of long."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For Embarking One’s Self"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Don’t you fear the privateers!"
+                },
+                {
+                  "type": "item",
+                  "text": "I jest of them; my vessel is armed in man of war, I have a vigilant and courageous equipage, and the ammunitions don’t want me its."
+                },
+                {
+                  "type": "item",
+                  "text": "Never have you not done wreck?"
+                },
+                {
+                  "type": "item",
+                  "text": "That it is arrived me twice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Gardener"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Shall I eat some plums soon?"
+                },
+                {
+                  "type": "item",
+                  "text": "It is not the season yet; but here is some peaches what does ripen at the eye sight."
+                },
+                {
+                  "type": "item",
+                  "text": "It delay me to eat some wal nuts-kernels; take care not leave to pass the season."
+                },
+                {
+                  "type": "item",
+                  "text": "Be tranquil, I shall throw you any nuts during the shell is green yet."
+                },
+                {
+                  "type": "item",
+                  "text": "The artichoks grow its?"
+                },
+                {
+                  "type": "item",
+                  "text": "I have a particular care of its, because I know you like the bottoms."
+                },
+                {
+                  "type": "item",
+                  "text": "It must to cup the trees."
+                },
+                {
+                  "type": "item",
+                  "text": "It should pull the bad grasses up."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Books and of the Reading"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Do you like the reading good deal too many which seem me?"
+                },
+                {
+                  "type": "item",
+                  "text": "That is to me a amusement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Field"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "All the fields that you see thither were been neglected; it must I shall grub up and to plough its."
+                },
+                {
+                  "type": "item",
+                  "text": "The ground seems me a little scour with sand and yet it may one make it bring up; I want be fumed time by time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Writing"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Your pens have any notches, and its spit."
+                },
+                {
+                  "type": "item",
+                  "text": "How do you like its? will you its are fine or broad?"
+                },
+                {
+                  "type": "item",
+                  "text": "I won’t me also a wafer or some sealing wax and a seal."
+                },
+                {
+                  "type": "item",
+                  "text": "In this drawer, there is all that, falding stick, rule, scraper, saud, etc."
+                },
+                {
+                  "type": "item",
+                  "text": "There is the postman I go to put it him again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Bookseller"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "What is there in new’s litterature?"
+                },
+                {
+                  "type": "item",
+                  "text": "Little or almost nothing, it not appears any thing of note."
+                },
+                {
+                  "type": "item",
+                  "text": "And yet one imprint many deal."
+                },
+                {
+                  "type": "item",
+                  "text": "But why, you and another book seller, you does not to imprint some good wooks?"
+                },
+                {
+                  "type": "item",
+                  "text": "There is a reason for that, it is that you cannot to sell its. The actual-liking of the public is depraved they does not read who for to amuse one’s self ant but to instruct one’s."
+                },
+                {
+                  "type": "item",
+                  "text": "But the letter’s men who cultivate the arts and the sciences they can’t to pass without the books."
+                },
+                {
+                  "type": "item",
+                  "text": "A little learneds are happies enough for to may to satisfy their fancies on the literature."
+                },
+                {
+                  "type": "item",
+                  "text": "Have you found the Buffon who I had call for?"
+                },
+                {
+                  "type": "item",
+                  "text": "I have only been able to procure the octo-decimo edition, which is embellished with plates beautifully coloured."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Dentist"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "I have the teetht-ache."
+                },
+                {
+                  "type": "item",
+                  "text": "Is it a fluxion, or have you a bad tooth?"
+                },
+                {
+                  "type": "item",
+                  "text": "I think that is a bad tooth; please you to examine my mouth?"
+                },
+                {
+                  "type": "item",
+                  "text": "You have a bad tooth; will you pull out this tooth?"
+                },
+                {
+                  "type": "item",
+                  "text": "I can’t to decide me it, that make me many great deal pain."
+                },
+                {
+                  "type": "item",
+                  "text": "Your tooth is absolutely roted; if you leave it; shall spoil the others."
+                },
+                {
+                  "type": "item",
+                  "text": "In such case draw it."
+                },
+                {
+                  "type": "item",
+                  "text": "I shall you neat also your mouth, and you could care entertain it clean, for to preserve the mamel of the teeth; I could give you a opiate for to strengthen the gums."
+                },
+                {
+                  "type": "item",
+                  "text": "I thank you; I prefer the only means, which is to rinse the mouth with some water, or a little brandy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "With a Laundress"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Who lhat be too washed, too many soaped, and the shirts put through the buck."
+                },
+                {
+                  "type": "item",
+                  "text": "You may be sure; never I do else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For to Swim"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "I row upon the belly on the back and between two waters."
+                },
+                {
+                  "type": "item",
+                  "text": "I am not so dexte rous that you."
+                },
+                {
+                  "type": "item",
+                  "text": "Nothing is more easy than to swim; it do not what don’t to be afraid of."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The French Language"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "blocks": [
+                {
+                  "type": "item",
+                  "text": "Do you study?"
+                },
+                {
+                  "type": "item",
+                  "text": "Yes, sir, I attempts to translate of french by portuguese."
+                },
+                {
+                  "type": "item",
+                  "text": "Do you know already the principal grammars rules?"
+                },
+                {
+                  "type": "item",
+                  "text": "I am appleed my self at to learn its by heart."
+                },
+                {
+                  "type": "item",
+                  "text": "Do speak french alwais?"
+                },
+                {
+                  "type": "item",
+                  "text": "Some times; though I flay it yet."
+                },
+                {
+                  "type": "item",
+                  "text": "You jest, you does express you self very well."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Familiar Letters",
+      "types": [
+        "bodymatter",
+        "non-fiction"
+      ],
+      "blocks": [
+        {
+          "type": "letter",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Racine to M. Vitart"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "My uncle what will to treat her beshop in a great sumptuouness, he was go Avignon for to buy what one not should find there, and he had leave me the charge to provide all things. I have excellent business, as you see, and I know some thing more than to eat my soup, since I know do to prepare it. I did learn that it must give to the first, to second, and to the third service, by dishes that want to join, and yet some thing more; because we does pretend make a feast at four services without to account the dessert."
+            },
+            {
+              "type": "footer",
+              "blocks": [
+                {
+                  "type": "valediction",
+                  "text": "Good bye, my dear sir, etc."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "letter",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mothe to the duchess of the Maine"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "My lady, I have a complaint to present you. So much happy that might be one’s self, one have not all theirs eases in this world. Your letters are shortest. You have plaied wonderfully all sentiments; less her prattle, etc."
+            }
+          ]
+        },
+        {
+          "type": "letter",
+          "blocks": [
+            {
+              "type": "header",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Montesquieu to the abbot Nicolini"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Allow me, my dear abbot, who I remind me of your friendship. I recommend you M. of the Condamine. I shall tell you nothing, else he is a of my friends. Her great celebrity may tell you from others things, and her presence will say you the remains. My dear abbot, I will love you even the death."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Anecdotes",
+      "types": [
+        "bodymatter",
+        "non-fiction"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cuttler, a very rich man too many avaricious, commonly he was travel at a horse, and single for to avoid all expenses. In the evening at to arrive at the inn did feign to be indispose, to the end that one bring him the supper. He did ordered to the stable knave to bring in their room some straw, for to put in their boots he made to warm her bed and was go lo sleep. When the servant was draw again, he come up again, and with the straw of their boots, and the candle what was leave him he made a small fire where he was roast a herring what he did keep of her pocket. He was always the precaution one to provide him self of a small of bread and one bring up a water bottle, and thus with a little money."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A blind did hide five hundred crowns in a corner of their garden; but a neighbour, which was perceive it, did dig up and took its. The blind not finding more her money, was suspect that might be the robed, but one work for take again it? He was going find the neighbour, and told him that he came to get him a council; than he was a thousand crowns which the half was hided into a sure part and I don’t know if want, if to put the remains to the same part. The neighbour was council him so and was hasten to carry back that sum, in the hope soon to draw out a thousand. But the blind having finded the money, was seized it, having called her neighbour, he told him: “Gossip, the blind saw clearer than this that may have two eyes.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A man one’s was presented at a magistrate which had a considerable library. “What you make?” beg him the magistrate. “I do some books,” he was answered. “But any of your books I did not seen its.﻿—I believe it so, was answered the author; I mak nothing for Paris. From a of my works is imprinted, I send the edition for America; I don’t compose what to colonies.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "One eyed was laied against a man which had good eyes that he saw better than him. The party was accepted. “I had gain, over said the one eyed; why I see you two eyes, and you not look me who one.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A english lord was in their bed tormented, cruelly of the gout, when was announced him a pretended physician, which had a remedy sure against that illness. “That doctor came in coach or on foot?” was request the lord. “On foot,” was answered him the servant. “Well, was replied the sick, go tell to the knave what go back one’s self, because if he was the remedy, which he exalt him self, he should roll a coach at six horses, and I would be send for him my self and to offer him the half part of my lands for to be delivered of my sickness.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A duchess accused of magic being interrogated for a commissary extremely unhandsome, this was beg him selve one she had look the devil. “Yes, sir, I did see him, was answer the duchess, and he was like you as two water’s drops.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Lady, which was to dine, chid to her servant that she not had used butter enough. This girl, for to excuse him selve, was bing a little cat on the hand, and told that she came to take him in the crime, finishing to eat the two pounds from butter who remain. The Lady took immediately the cat, was put into the balances it had not weighted that one an half pound."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A countryman which came through to Paris upon the bridge to the change, not had perceived merchandises in several shops. The curiosity take him, he come near of a exchange desk:﻿—“Sir, had he beg from a look simple, tell me what you sell.” The loader though that he may to divert of the personage:﻿—“I sell, was answered him asse’s heads.”﻿—“Indeed, reply to him the countryman, you make of it a great sale, because it not remains more but one in your shop.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "The commander Forbin of Janson, being at a repast with a celebrated Boileau, had undertaken to pun him upon her name:﻿—“What name, told him, carry you thither? Boileau: I would wish better to call me Drink wine.” The poet was answered him in the same tune:﻿—“And you, sir, what name have you choice? Janson: I should prefer to be named John-Meal. The meal don’t is valuable better than the furfur?”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A physician eighty years of age had enjoied of a health unalterable. Theirs friends did him of it compliments every days: “Mister doctor, they said to him, you are admirable man. What you make then for to bear you as well?﻿—I shall tell you it, gentlemen he was answered them, and I exhort you in same time at to follow my exemple. I live of the product of my ordering without take any remedy who I command to my sicks.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A countryman was confessed to the parson to have robbed a mutton at a farmer of her neighbourhood. “My friend, told him the confessor, it must to return, or you shall not have the absolution.﻿—But repply the villager, I had eated him.﻿—So much worse, told him the pastor; you vill be the devil sharing; because in the wide vale where me ought to appear we before God every one shall spoken against you, even the mutton. How! repply the countryman, the mutton will find in that part? I am very glad of that; then the restitution shall be easy, since I shall not have to tell to the farmer: “Neighbour take your mutton again.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "Plato walking one’s self a day to the field with some of their friends. They were to see him Diogenes who was in to water untill the chin. The superficies of the water was snowed, for the reserve of the hole that Diogenes was made. “Don’t look it more told them Plato, and he shall get out soon.”"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "A day came a man consult this philosopher for to know at o’clock it was owe to eat. If thou art rich, told him eat when you shall wish; if you are poor, when you may do."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "paragraph",
+          "text": "At the middle of a night very dark, a blind was walk in the streets with a light on the hand and a full jar upon the back. Some one which ran do meet him, and surprised of that light: “Simple that you are, told him, what serve you this light? The night and the day are not them the same thing by you!﻿—It is not for me, was answering the blind, that I bring this light, it is to the and that the giddie swhich seem to you do not come to run against me, and make to break my jar.”"
+        }
+      ]
+    },
+    {
+      "label": "Idiotisms and Proverbs",
+      "types": [
+        "bodymatter",
+        "non-fiction"
+      ],
+      "blocks": [
+        {
+          "type": "ul",
+          "blocks": [
+            {
+              "type": "item",
+              "text": "The necessity don’t know the low."
+            },
+            {
+              "type": "item",
+              "text": "Few, few the bird make her nest."
+            },
+            {
+              "type": "item",
+              "text": "He is not valuable to breat that he eat."
+            },
+            {
+              "type": "item",
+              "text": "Its are some blu stories."
+            },
+            {
+              "type": "item",
+              "text": "Nothing some money, nothing of Swiss."
+            },
+            {
+              "type": "item",
+              "text": "He sin in trouble water."
+            },
+            {
+              "type": "item",
+              "text": "A bad arrangement is better than a process."
+            },
+            {
+              "type": "item",
+              "text": "He has a good beak."
+            },
+            {
+              "type": "item",
+              "text": "In the country of blinds, the one eyed men are kings."
+            },
+            {
+              "type": "item",
+              "text": "To build castles in Espagnish."
+            },
+            {
+              "type": "item",
+              "text": "Cat scalded fear the cold water."
+            },
+            {
+              "type": "item",
+              "text": "To do the fine spirit."
+            },
+            {
+              "type": "item",
+              "text": "With a tongue one go to Roma."
+            },
+            {
+              "type": "item",
+              "text": "There is not any ruler without a exception."
+            },
+            {
+              "type": "item",
+              "text": "Take out the live coals with the hand of the cat."
+            },
+            {
+              "type": "item",
+              "text": "A horse baared don’t look him the tooth."
+            },
+            {
+              "type": "item",
+              "text": "Take the occasion for the hairs."
+            },
+            {
+              "type": "item",
+              "text": "To do a wink to some body."
+            },
+            {
+              "type": "item",
+              "text": "So many go the jar to spring, than at last rest there."
+            },
+            {
+              "type": "item",
+              "text": "He eat untill to can’t more."
+            },
+            {
+              "type": "item",
+              "text": "Which like Bertram, love hir dog."
+            },
+            {
+              "type": "item",
+              "text": "It want to beat the iron during it is hot."
+            },
+            {
+              "type": "item",
+              "text": "He is not so devil as he is black."
+            },
+            {
+              "type": "item",
+              "text": "It is better be single as a bad company."
+            },
+            {
+              "type": "item",
+              "text": "The stone as roll not heap up not foam."
+            },
+            {
+              "type": "item",
+              "text": "They shurt him the doar in face."
+            },
+            {
+              "type": "item",
+              "text": "He has fond the knuckle of the business."
+            },
+            {
+              "type": "item",
+              "text": "He turns as a weath turcocl."
+            },
+            {
+              "type": "item",
+              "text": "There is not better sauce who the appetite."
+            },
+            {
+              "type": "item",
+              "text": "The pains come at horse and turn one’s self at foot."
+            },
+            {
+              "type": "item",
+              "text": "He is beggar as a church rat."
+            },
+            {
+              "type": "item",
+              "text": "So much go the jar to spring that at last it break there."
+            },
+            {
+              "type": "item",
+              "text": "To force to forge, becomes smith."
+            },
+            {
+              "type": "item",
+              "text": "Keep the chestnut of the fire with the cat foot."
+            },
+            {
+              "type": "item",
+              "text": "Friendship of a child is water into a basket."
+            },
+            {
+              "type": "item",
+              "text": "At some thing the misforte is good."
+            },
+            {
+              "type": "item",
+              "text": "Burn the politeness."
+            },
+            {
+              "type": "item",
+              "text": "Tell me whom thou frequent, I will tell you which you are."
+            },
+            {
+              "type": "item",
+              "text": "After the paunch comes the dance."
+            },
+            {
+              "type": "item",
+              "text": "Of the hand to mouth, one lose often the soup."
+            },
+            {
+              "type": "item",
+              "text": "To look for a needle in a hay bundle."
+            },
+            {
+              "type": "item",
+              "text": "To craunch the marmoset."
+            },
+            {
+              "type": "item",
+              "text": "To buy cat in pocket."
+            },
+            {
+              "type": "item",
+              "text": "To be as a fish into the water."
+            },
+            {
+              "type": "item",
+              "text": "To make paps for the cats."
+            },
+            {
+              "type": "item",
+              "text": "To fatten the foot."
+            },
+            {
+              "type": "item",
+              "text": "To come back at their muttons."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

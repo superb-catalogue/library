@@ -1,0 +1,45 @@
+{
+  "title": "At the Earth’s Core",
+  "author": "Edgar Rice Burroughs",
+  "identifier": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
+    "published": "2020-06-13T20:18:47Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/123",
+    "https://archive.org/details/atearthscore00burrgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [
+    {
+      "name": "Pellucidar",
+      "type": "series",
+      "position": "1"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "17c20d7aa9f34e1189b6a940e62f4fb279a242bdc37dd73d15914a57e97cbefb"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 16,
+    "words": 49448,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Short Fiction",
+  "author": "Robert E. Howard",
+  "identifier": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
+    "published": "2018-04-13T21:40:20Z",
+    "modified": "2026-07-16T16:18:40Z"
+  },
+  "made_from": [
+    "https://archive.org/details/WeirdTalesV06N01192507",
+    "https://archive.org/details/WeirdTalesV06N02192508",
+    "https://www.gutenberg.org/ebooks/42664",
+    "https://www.gutenberg.net.au/ebooks06/0601801h.html",
+    "https://archive.org/details/WeirdTalesV07N04192604",
+    "https://en.wikisource.org/wiki/Sleeping_Beauty_(Howard)",
+    "https://en.wikisource.org/wiki/Weekly_Short_Story",
+    "https://en.wikisource.org/wiki/After_the_Game",
+    "https://www.gutenberg.org/ebooks/73793",
+    "https://archive.org/details/WeirdTalesV09N01192701",
+    "https://www.gutenberg.org/ebooks/71052",
+    "https://archive.org/details/WeirdTalesV11N02192802",
+    "https://www.gutenberg.org/ebooks/71065",
+    "https://archive.org/details/WeirdTalesV11N03192803",
+    "https://www.gutenberg.org/ebooks/70830",
+    "https://archive.org/details/Weird_Tales_v14n02_1929-08_sas",
+    "https://www.gutenberg.org/ebooks/70879",
+    "https://archive.org/details/Weird_Tales_v14n03_1929-09_sas",
+    "https://www.gutenberg.org/ebooks/70653",
+    "https://archive.org/details/Weird_Tales_v13n06_1929-06_AT-sas",
+    "https://www.gutenberg.org/ebooks/71268",
+    "https://archive.org/details/WeirdTalesV14N04192910",
+    "https://archive.org/details/weird-tales-v-14-n-05-1929-11-sas",
+    "https://archive.org/details/Weird_Tales_v14n06_1929-12_sas",
+    "https://www.gutenberg.org/ebooks/70540",
+    "https://archive.org/details/WeirdTalesV13N01192901sasIbc",
+    "https://www.gutenberg.org/ebooks/71197",
+    "https://archive.org/details/Weird_Tales_v23n06_1934-06_sas",
+    "https://www.gutenberg.org/ebooks/71180",
+    "https://archive.org/details/WeirdTalesV25N02193502",
+    "https://www.gutenberg.org/ebooks/71168",
+    "https://archive.org/details/WeirdTalesV27N06193606",
+    "https://www.gutenberg.org/ebooks/71109",
+    "https://archive.org/details/WeirdTalesV28N04193611",
+    "https://www.gutenberg.org/ebooks/71085",
+    "https://archive.org/details/WeirdTalesV28N05193612",
+    "https://www.gutenberg.org/ebooks/71066",
+    "https://archive.org/details/WeirdTalesV29N02193702",
+    "https://www.gutenberg.org/ebooks/72707",
+    "https://archive.org/details/WeirdTalesV11N05192805",
+    "https://www.gutenberg.org/ebooks/70570",
+    "https://archive.org/details/WeirdTalesV12N02192808sasIfcIbc",
+    "https://www.gutenberg.org/ebooks/71139",
+    "https://archive.org/details/Weird_Tales_v15n02_1930-02"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-e-howard/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "40528dbd1d5ca0a02449a141b2db71d4f70d3c822ebd8566f8ed5cbdbf23d6f2"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 28,
+    "words": 204622,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Blue Hand",
+  "author": "Edgar Wallace",
+  "identifier": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand",
+    "published": "2023-07-19T19:13:39Z",
+    "modified": "2026-06-30T02:48:48Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20160213",
+    "https://archive.org/details/bluehand0000unse"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/edgar-wallace/blue-hand",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "f69c6ac9f78c3e894eb8645714278f4cce9738e701d91847fdcd4df1c394eb20"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 49,
+    "words": 80308,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

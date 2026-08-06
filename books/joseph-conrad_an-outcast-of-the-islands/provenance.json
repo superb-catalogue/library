@@ -1,0 +1,45 @@
+{
+  "title": "An Outcast of the Islands",
+  "author": "Joseph Conrad",
+  "identifier": "https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands",
+    "published": "2025-07-17T18:06:11Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/638",
+    "https://archive.org/details/outcastofislands00conr_0"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/joseph-conrad/an-outcast-of-the-islands",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Lingard Trilogy",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "0f538c9b9588a32f29d1df242ab49784d37092d87b166010aaa1631e147d1a9e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 31,
+    "words": 103728,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Box Office Murders",
+  "author": "Freeman Wills Crofts",
+  "identifier": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
+    "published": "2025-08-17T23:11:05Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/75488",
+    "https://archive.org/details/bwb_KU-296-936"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Inspector French",
+      "type": "series",
+      "position": "5"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "0e39b68ae6b40bb940e51d479ca12cef57fc313651ceb2a629ee30048a0b6a49"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 69085,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

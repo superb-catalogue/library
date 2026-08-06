@@ -1,0 +1,45 @@
+{
+  "title": "Fred Gross Stories",
+  "author": "Ring Lardner",
+  "identifier": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
+    "published": "2026-06-17T21:04:44Z",
+    "modified": "2026-06-30T02:48:54Z"
+  },
+  "made_from": [
+    "https://web.archive.org/web/20041019234945/http://www.tridget.com/lardnermania/oyoh/index.htm",
+    "https://archive.org/details/ownyourownhome00unkngoog",
+    "https://archive.org/details/sim_redbook_1916-04_26",
+    "https://archive.org/details/sim_redbook_1916-07_27",
+    "https://archive.org/details/sim_redbook_1917-05_29"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ring-lardner/fred-gross-stories",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction",
+    "Satire",
+    "Shorts"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "5e7d5ff198f26fd629726d28e520fcaa5a0c508d9a4186ba8fe6a0eef71877f3"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 56441,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

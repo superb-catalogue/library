@@ -1,0 +1,46 @@
+{
+  "title": "The Black Gang",
+  "author": "H. C. McNeile",
+  "identifier": "https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang",
+    "published": "2026-07-31T14:22:54Z",
+    "modified": "2026-07-31T17:40:08Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.net.au/ebooks08/0800501h.html",
+    "https://archive.org/details/bwb_P8-BIQ-641"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/h-c-mcneile/the-black-gang",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "Bulldog Drummond",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "1498a2073a3e17d9b98818f4220f6c136c9dd7786ec3a697b3c7622de615857e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 18,
+    "words": 75928,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

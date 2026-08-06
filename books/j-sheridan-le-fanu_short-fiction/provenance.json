@@ -1,0 +1,58 @@
+{
+  "title": "Short Fiction",
+  "author": "J. Sheridan Le Fanu",
+  "identifier": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/short-fiction",
+    "published": "2025-07-02T18:00:03Z",
+    "modified": "2026-07-13T16:31:42Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/37172",
+    "https://www.gutenberg.org/ebooks/509",
+    "https://www.gutenberg.org/ebooks/510",
+    "https://www.gutenberg.org/ebooks/511",
+    "https://www.gutenberg.org/ebooks/11699",
+    "https://www.gutenberg.org/ebooks/11700",
+    "https://www.gutenberg.org/ebooks/12592",
+    "https://www.gutenberg.org/ebooks/12647",
+    "https://www.gutenberg.org/ebooks/11610",
+    "https://www.gutenberg.net.au/ebooks09/0900451h.html",
+    "https://catalog.hathitrust.org/Record/000529297",
+    "https://books.google.ie/books?id=iaU6AQAAMAAJ",
+    "https://books.google.com/books?id=0FLQAAAAMAAJ",
+    "https://archive.org/details/purcellpapers01lefa",
+    "https://archive.org/details/purcellpapers02lefa",
+    "https://archive.org/details/purcellpapers03fanugoog",
+    "https://catalog.hathitrust.org/Record/103102106",
+    "https://catalog.hathitrust.org/Record/012466628",
+    "https://www.google.com/books/edition/Once_a_Week/GthMAAAAMAAJ",
+    "https://catalog.hathitrust.org/Record/000500041"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/j-sheridan-le-fanu/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "94e0866931e5d0c672c4479acc30c1c2cbd0b4e80b66e072e4736b5563c15990"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 39,
+    "words": 361891,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "The Importance of Being Earnest",
+  "author": "Oscar Wilde",
+  "identifier": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+    "published": "2014-05-25T00:00:00Z",
+    "modified": "2026-07-14T15:31:43Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/844",
+    "https://archive.org/details/ladywindermeresf00wild"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/oscar-wilde/the-importance-of-being-earnest",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Satire"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "5b66b94933641c93042e6b7fde9c9530ead772ff53f25b8f267cf2753c136afd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 12209,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

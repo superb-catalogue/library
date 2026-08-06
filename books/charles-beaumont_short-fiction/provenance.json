@@ -1,0 +1,44 @@
+{
+  "title": "Short Fiction",
+  "author": "Charles Beaumont",
+  "identifier": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
+    "published": "2025-09-25T00:28:38Z",
+    "modified": "2026-06-30T02:48:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/67341",
+    "https://archive.org/details/Infinity_v01n02_1956-02_slpn",
+    "https://www.gutenberg.org/ebooks/36258",
+    "https://archive.org/details/1952-09_IF",
+    "https://www.gutenberg.org/ebooks/32819",
+    "https://archive.org/details/Imagination_v04n02_1953-02_UnkSc-cape1736"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-beaumont/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "acfa95be6decbd9afbc3231aa05911568c08244be36a9dbb6ba01f792ed54924"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 12951,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

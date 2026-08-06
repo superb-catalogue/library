@@ -1,0 +1,40 @@
+{
+  "title": "Plague of Pythons",
+  "author": "Frederik Pohl",
+  "identifier": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
+    "published": "2024-03-07T20:41:23Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/51804",
+    "https://archive.org/details/Galaxy_v21n01_1962-10",
+    "https://archive.org/details/Galaxy_v21n02_1962.12"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "20521494d8c1f2be9673df387d13b02e2b2f349f86d175f8c20b5a1564b33d39"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 15,
+    "words": 39351,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

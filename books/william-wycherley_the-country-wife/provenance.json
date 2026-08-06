@@ -1,0 +1,39 @@
+{
+  "title": "The Country Wife",
+  "author": "William Wycherley",
+  "identifier": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife",
+    "published": "2021-08-14T00:38:45Z",
+    "modified": "2026-06-30T02:48:56Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/55426",
+    "https://archive.org/details/williamwycherle00macagoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/william-wycherley/the-country-wife",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-drama-epub.zip",
+    "epub_sha256": "15c01e69a9efa1485b50f9ab8f5a69e690d83700a32c657d9e8720ef4aff4621"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 24237,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Short Fiction",
+  "author": "Frank Belknap Long",
+  "identifier": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+    "published": "2024-10-29T02:26:50Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/73575",
+    "https://archive.org/details/Weird_Tales_v13n03_1929-03_sas",
+    "https://www.gutenberg.org/ebooks/73604",
+    "https://archive.org/details/Weird_Tales_v15n01_1930-01_-ibc_LPM-URF-AT-SAS",
+    "https://www.gutenberg.org/ebooks/64820",
+    "https://archive.org/details/Comet_v01n02_1941-01_ufikus-DPP",
+    "https://www.gutenberg.org/ebooks/24151",
+    "https://archive.org/details/Comet_v01n05_1941-07",
+    "https://www.gutenberg.org/ebooks/62034",
+    "https://archive.org/details/Planet_Stories_v01n09_1941-Wi_sas",
+    "https://www.gutenberg.org/ebooks/68836",
+    "https://archive.org/details/Startling_Stories_v17n01_1948-03",
+    "https://www.gutenberg.org/ebooks/63838",
+    "https://archive.org/details/Planet_Stories_v04n01_1948-Winter",
+    "https://www.gutenberg.org/ebooks/70403",
+    "https://archive.org/details/Future_Science_Fiction_v01n01_1950-05-06",
+    "https://www.gutenberg.org/ebooks/23568",
+    "https://archive.org/details/Weird_Tales_v43n03_1951-03",
+    "https://www.gutenberg.org/ebooks/64072",
+    "https://archive.org/details/Planet_Stories_v04n12_1951-05",
+    "https://www.gutenberg.org/ebooks/64072",
+    "https://archive.org/details/Planet_Stories_v05n01_1951-07",
+    "https://www.gutenberg.org/ebooks/72517",
+    "https://archive.org/details/Fantastic_Universe_v01n01_1953-06-07",
+    "https://www.gutenberg.org/ebooks/29432",
+    "https://archive.org/details/Fantastic_Universe_v01n04_1954-01",
+    "https://www.gutenberg.org/ebooks/29418",
+    "https://archive.org/details/Fantastic_Universe_v01n05_1954-03",
+    "https://www.gutenberg.org/ebooks/28583",
+    "https://archive.org/details/Fantastic_Universe_v01n06_1954-05",
+    "https://www.gutenberg.org/ebooks/73326",
+    "https://archive.org/details/Fantastic_Universe_v02n01_1954-07",
+    "https://www.gutenberg.org/ebooks/74074",
+    "https://archive.org/details/Fantastic_Universe_v02n02_1954-09",
+    "https://www.gutenberg.org/ebooks/74288",
+    "https://archive.org/details/Fantastic_Universe_v02n03_1954-10",
+    "https://www.gutenberg.org/ebooks/78072",
+    "https://archive.org/details/Fantastic_Universe_v04n06_1956-01",
+    "https://www.gutenberg.org/ebooks/77664",
+    "https://archive.org/details/Fantastic_Universe_v05n01_1956-02"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/frank-belknap-long/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-horror-epub.zip",
+    "epub_sha256": "ae162019c92ac612dfa4213b302395a74df09b7592d4ef69525ed3b1615c1f73"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 20,
+    "words": 107178,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Basil",
+  "author": "Wilkie Collins",
+  "identifier": "https://standardebooks.org/ebooks/wilkie-collins/basil",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/wilkie-collins/basil",
+    "published": "2026-07-06T21:42:02Z",
+    "modified": "2026-07-06T21:47:47Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/4605",
+    "https://archive.org/details/bub_gb_PfW4qWihA1IC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/wilkie-collins/basil",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "6dff8fd0a45d370e6784172f850f143bd143b02060af498cc61be9c06a3dbe1e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 32,
+    "words": 113699,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

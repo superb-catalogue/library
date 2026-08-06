@@ -1,0 +1,45 @@
+{
+  "title": "The Cream of the Jest",
+  "author": "James Branch Cabell",
+  "identifier": "https://standardebooks.org/ebooks/james-branch-cabell/the-cream-of-the-jest",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/james-branch-cabell/the-cream-of-the-jest",
+    "published": "2020-05-15T22:35:17Z",
+    "modified": "2026-07-23T17:44:55Z"
+  },
+  "made_from": [
+    "https://docsouth.unc.edu/southlit/cabell/menu.html",
+    "https://books.google.com/books?id=d2yn3fm8sfgC"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/james-branch-cabell/the-cream-of-the-jest",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Biography of the Life of Manuel",
+      "type": "series",
+      "position": "16"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "18028514a4d4481eb583876052f3f16d821ca7c7d5d6c07e6500a787bcd1f18f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 46,
+    "words": 44805,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

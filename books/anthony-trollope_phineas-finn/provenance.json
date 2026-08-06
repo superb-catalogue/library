@@ -1,0 +1,45 @@
+{
+  "title": "Phineas Finn",
+  "author": "Anthony Trollope",
+  "identifier": "https://standardebooks.org/ebooks/anthony-trollope/phineas-finn",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anthony-trollope/phineas-finn",
+    "published": "2022-11-26T05:02:11Z",
+    "modified": "2026-07-14T15:29:27Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/18000",
+    "https://archive.org/details/phineasfinnirish00troluoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anthony-trollope/phineas-finn",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Palliser",
+      "type": "series",
+      "position": "2"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "70665a578cfa0e8f0a08a77a12f3e12a34686880d46781be23b7d26ee10bcc17"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 76,
+    "words": 260648,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

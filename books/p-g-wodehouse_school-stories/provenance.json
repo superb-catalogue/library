@@ -1,0 +1,44 @@
+{
+  "title": "School Stories",
+  "author": "P. G. Wodehouse",
+  "identifier": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+    "published": "2020-02-20T21:37:48Z",
+    "modified": "2026-07-06T20:53:24Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/6980",
+    "https://www.gutenberg.org/ebooks/8178",
+    "https://archive.org/details/talesofstaustins00wodeuoft",
+    "https://archive.org/details/swoopotherstorie00wode",
+    "https://archive.org/details/uncollectedwodeh0000wode"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/p-g-wodehouse/school-stories",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "55ec2b7fdfe729d9b8cd6bcdbb3132caef0c9ddebf8194a17ee477a022ec51f0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 23,
+    "words": 72909,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

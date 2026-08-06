@@ -1,0 +1,48 @@
+{
+  "title": "Kidnapped",
+  "author": "Robert Louis Stevenson",
+  "identifier": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+    "published": "2018-04-24T02:59:23Z",
+    "modified": "2026-07-14T15:31:57Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/421",
+    "https://archive.org/details/kidnapped00stev",
+    "https://archive.org/details/in.ernet.dli.2015.27827"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Children’s",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "The Guardian’s Best 100 Novels in English (2015)",
+      "type": "set",
+      "position": "24"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "6913ed6161a4bc0d798806fbda121bea33ff3414a252dc6c9a500957700d3181"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 30,
+    "words": 79854,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

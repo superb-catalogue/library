@@ -1,0 +1,40 @@
+{
+  "title": "The Borough Treasurer",
+  "author": "J. S. Fletcher",
+  "identifier": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+    "published": "2024-08-08T16:55:03Z",
+    "modified": "2026-08-02T20:04:21Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/20630",
+    "https://archive.org/details/boroughtreasurer0000jsfl"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Mystery"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ea9224bfa7bd17979ef1464aa054f2393b90e8e609c88619c4f3acc4b6805af4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 31,
+    "words": 74570,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

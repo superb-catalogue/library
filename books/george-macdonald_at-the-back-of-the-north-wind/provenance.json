@@ -1,0 +1,40 @@
+{
+  "title": "At the Back of the North Wind",
+  "author": "George MacDonald",
+  "identifier": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
+    "published": "2023-03-15T22:44:19Z",
+    "modified": "2026-07-18T11:33:16Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/225",
+    "https://archive.org/details/atbackofnorthwin00macd_1"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fantasy"
+  ],
+  "category": "Children’s",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "6f7228f59ca86e9f4958e0812400392eda9287b0a846f5f97c66337b3172aa42"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 38,
+    "words": 88486,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

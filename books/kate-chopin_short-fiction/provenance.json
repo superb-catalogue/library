@@ -1,0 +1,45 @@
+{
+  "title": "Short Fiction",
+  "author": "Kate Chopin",
+  "identifier": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
+    "published": "2019-06-05T22:06:53Z",
+    "modified": "2026-06-30T02:48:52Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/46650",
+    "https://archive.org/details/bayoufolk00chopgoog",
+    "https://archive.org/details/nightinacadie00chop",
+    "https://catalog.hathitrust.org/Record/009563304",
+    "https://catalog.hathitrust.org/Record/008697500",
+    "https://catalog.hathitrust.org/Record/006057384",
+    "https://catalog.hathitrust.org/Record/012304530"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/kate-chopin/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "e522e606d414a63376df09f6d0e665affee31e8643a5fcc47fe18f2686bab35c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 49,
+    "words": 131323,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Short Fiction",
+  "author": "Ring Lardner",
+  "identifier": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
+    "published": "2026-04-02T18:53:17Z",
+    "modified": "2026-08-02T20:02:43Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20190233",
+    "https://archive.org/details/Y0-BTG-093",
+    "https://archive.org/details/sim_saturday-evening-post_1914-07-25_187_4",
+    "https://archive.org/details/sim_redbook_1914-11_24",
+    "https://catalog.hathitrust.org/Record/003111120",
+    "https://archive.org/details/sim_saturday-evening-post_1915-02-13_187_33",
+    "https://archive.org/details/sim_saturday-evening-post_1915-02-20_187_34",
+    "https://archive.org/details/sim_saturday-evening-post_1915-09-11_188_11",
+    "https://archive.org/details/sim_saturday-evening-post_1915-10-23_188_17",
+    "https://archive.org/details/sim_saturday-evening-post_1915-10-30_188_18",
+    "https://archive.org/details/sim_saturday-evening-post_1916-03-25_188_39",
+    "https://archive.org/details/sim_redbook_1916-11_28",
+    "https://catalog.hathitrust.org/Record/000057192",
+    "https://archive.org/details/sim_saturday-evening-post_1917-03-24_189_39",
+    "https://archive.org/details/sim_saturday-evening-post_1917-05-12_189_46",
+    "https://archive.org/details/milestones-1917-06",
+    "https://archive.org/details/sim_saturday-evening-post_1917-06-23_189_52",
+    "https://archive.org/details/sim_redbook_1917-11_30_1",
+    "https://en.wikisource.org/wiki/The_Red_Book_Magazine/Volume_30/Number_4/The_Clubby_Roadster",
+    "https://archive.org/details/sim_redbook_1918-02_30_4",
+    "https://en.wikisource.org/wiki/The_Red_Book_Magazine/Volume_31/Number_5/A_Chip_of_the_Old_Block",
+    "https://archive.org/details/sim_redbook_1918-09_31_5",
+    "https://archive.org/details/bwb_P9-ASN-561",
+    "https://www.gutenberg.org/ebooks/77676",
+    "https://archive.org/details/sim_saturday-evening-post_1921-10-29_194_18",
+    "https://archive.org/details/whatofit0000ring_h9e3",
+    "https://archive.org/details/sim_cosmopolitan_1926-11_81_5",
+    "https://archive.org/details/bwb_S0-AKP-357",
+    "https://archive.org/details/sim_cosmopolitan_1927-07_83_1",
+    "https://archive.org/details/sim_cosmopolitan_1927-09_83_3",
+    "https://archive.org/details/sim_cosmopolitan_1928-07_85_1",
+    "https://archive.org/details/sim_cosmopolitan_1929-03_86_3",
+    "https://archive.org/details/sim_cosmopolitan_1929-06_86_6",
+    "https://archive.org/details/sim_cosmopolitan_1929-07_87_1",
+    "https://archive.org/details/sim_cosmopolitan_1929-09_87_3",
+    "https://archive.org/details/sim_cosmopolitan_1929-11_87_5",
+    "https://archive.org/details/sim_cosmopolitan_1929-12_87_6",
+    "https://catalog.hathitrust.org/Record/000045638",
+    "https://archive.org/details/sim_good-housekeeping_1930-06_90_6",
+    "https://archive.org/details/sim_good-housekeeping_1930-08_91_2",
+    "https://github.com/homestar92/ring-lardner-transcriptions"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/ring-lardner/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Comedy",
+  "genres": [
+    "Comedy",
+    "Fiction",
+    "Satire",
+    "Shorts"
+  ],
+  "category": "Comedy & Satire",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-comedy-epub.zip",
+    "epub_sha256": "5975dcdb71afc99b20e9021a0d9187386d4a58dfa0560d7f096dd1bac3e23d4f"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 74,
+    "words": 455838,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Life of Lazarillo de Tormes",
+  "author": "Anonymous",
+  "identifier": "https://standardebooks.org/ebooks/anonymous/the-life-of-lazarillo-de-tormes/clements-markham",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anonymous/the-life-of-lazarillo-de-tormes/clements-markham",
+    "published": "2026-03-02T22:16:44Z",
+    "modified": "2026-07-14T15:29:27Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/53489",
+    "https://archive.org/details/lifeoflazarillod00markiala"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anonymous/the-life-of-lazarillo-de-tormes/clements-markham",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "fbde7ad53d20f4ae9e627522e17319c051eb765b0568f309ba4dd3ed33c5c98c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 17693,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Short Fiction",
+  "author": "Henry Kuttner",
+  "identifier": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+    "published": "2024-09-09T18:58:34Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/32584",
+    "https://archive.org/details/Weird_Tales_v28n03_1936-10",
+    "https://www.gutenberg.org/ebooks/68726",
+    "https://www.gutenberg.org/ebooks/61978",
+    "https://archive.org/details/Planet_Stories_v01n12_1942-Fa_sas",
+    "https://www.gutenberg.org/ebooks/68253",
+    "https://www.gutenberg.org/ebooks/62713",
+    "https://archive.org/details/Planet_Stories_v02n05_1943-Wi_sas",
+    "https://www.gutenberg.org/ebooks/63123",
+    "https://archive.org/details/Planet_Stories_v02n08_1944-Fall",
+    "https://www.gutenberg.org/ebooks/63796",
+    "https://archive.org/details/Planet_Stories_v03n02_1946-Spring_v1.0_fixed",
+    "https://www.gutenberg.org/ebooks/68170",
+    "https://archive.org/details/Startling_Stories_v15n03_1947-07",
+    "https://www.gutenberg.org/ebooks/68203",
+    "https://archive.org/details/Startling_Stories_v17n01_1948-03",
+    "https://www.gutenberg.org/ebooks/32108",
+    "https://archive.org/details/Space_Science_Fiction_v01n01_1952-05_cape1736",
+    "https://www.gutenberg.org/ebooks/31207",
+    "https://archive.org/details/Fantastic_Universe_v01n06_1954-05"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/henry-kuttner/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Horror",
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-horror-epub.zip",
+    "epub_sha256": "c2295697f19cde69dbd9fed5ff818e26cca291c060efe6c22260504bd3d0d14c"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 11,
+    "words": 107652,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Clerambault",
+  "author": "Romain Rolland",
+  "identifier": "https://standardebooks.org/ebooks/romain-rolland/clerambault/katherine-miller",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/romain-rolland/clerambault/katherine-miller",
+    "published": "2025-08-07T16:25:29Z",
+    "modified": "2026-07-14T15:32:01Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/10868",
+    "https://archive.org/details/clerambault0000roma_o9i0"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/romain-rolland/clerambault/katherine-miller",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "b0e1826276ba86512834fd18d69ff5899283a53cb4026e5f3e05efc8af7516d5"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 81183,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

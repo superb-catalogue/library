@@ -1,0 +1,44 @@
+{
+  "title": "Short Fiction",
+  "author": "Andre Norton",
+  "identifier": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
+    "published": "2025-01-27T01:14:25Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/30960",
+    "https://archive.org/details/Fantasy_Book_v01n01_1947_UnkSc-cape1736",
+    "https://www.gutenberg.org/ebooks/19029",
+    "https://archive.org/details/Fantasy_Book_v01n03_1948",
+    "https://www.gutenberg.org/ebooks/29019",
+    "https://archive.org/details/Fantastic_Universe_v01n02_1953-08-09"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/andre-norton/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "2b2a36778fb7373a0c7826a29fd532c2eebb00ff697fced1206637bffab64edd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 23725,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

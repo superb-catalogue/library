@@ -1,0 +1,52 @@
+{
+  "title": "Short Fiction",
+  "author": "Walter M. Miller Jr.",
+  "identifier": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+    "published": "2024-07-15T18:40:48Z",
+    "modified": "2026-06-30T02:48:55Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/51651",
+    "https://archive.org/details/Galaxy_v03n05_1952-02",
+    "https://www.gutenberg.org/ebooks/58673",
+    "https://archive.org/details/If_Worlds_Of_Science_Fiction_v01n02_Quinn_May_1952_Gorgon776",
+    "https://www.gutenberg.org/ebooks/32837",
+    "https://archive.org/details/If_Worlds_Of_Science_Fiction_v01n06_Quinn_Jan_1953_Gorgon776",
+    "https://www.gutenberg.org/ebooks/29643",
+    "https://archive.org/details/Amazing_Stories_v28n01_March_1954",
+    "https://www.gutenberg.org/ebooks/32416",
+    "https://archive.org/details/If_Worlds_Of_Science_Fiction_v03n02_Quinn_Apr_1954_Gorgon776",
+    "https://www.gutenberg.org/ebooks/32775",
+    "https://archive.org/details/1954-05_IF",
+    "https://www.gutenberg.org/ebooks/29170",
+    "https://archive.org/details/Fantastic_Universe_v04n02_1955-09"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/walter-m-miller-jr/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "1cf1c8b4b30c5e0bf0784bbcbacc4c5465d826eccdebe8280b2eb9092679a608"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 53590,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

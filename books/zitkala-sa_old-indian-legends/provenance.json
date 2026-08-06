@@ -1,0 +1,41 @@
+{
+  "title": "Old Indian Legends",
+  "author": "Zitkála-Šá",
+  "identifier": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+    "published": "2022-09-23T17:12:38Z",
+    "modified": "2026-06-30T02:48:56Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/338",
+    "https://archive.org/details/oldindianlegend00zitkgoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Children’s",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "fa986f8825f99c4b6d0c72fa1aa36963f62aaaf0366394c5a64f9e53937d74a4"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 14,
+    "words": 18019,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Short Fiction",
+  "author": "Frederik Pohl",
+  "identifier": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+    "published": "2023-08-03T16:53:07Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/30399",
+    "https://archive.org/details/Galaxy_v09n05_1955-02",
+    "https://www.gutenberg.org/ebooks/63304",
+    "https://archive.org/details/Planet_Stories_v02n09_1944-Wi_sas",
+    "https://www.gutenberg.org/ebooks/29503",
+    "https://archive.org/details/Galaxy_v15n03_1958-01",
+    "https://www.gutenberg.org/ebooks/67343",
+    "https://archive.org/details/Infinity_v01n02_1956-02_slpn",
+    "https://www.gutenberg.org/ebooks/62168",
+    "https://archive.org/details/Planet_Stories_v01n11_1942-Su_sas",
+    "https://www.gutenberg.org/ebooks/64631",
+    "https://archive.org/details/Planet_Stories_v04n05_1949-Winter",
+    "https://www.gutenberg.org/ebooks/22559",
+    "https://archive.org/details/fut-1956-2",
+    "https://www.gutenberg.org/ebooks/62476",
+    "https://archive.org/details/Planet_Stories_v02n05_1943-Wi_sas",
+    "https://www.gutenberg.org/ebooks/31979",
+    "https://archive.org/details/Galaxy_v09n04_1955-01",
+    "https://www.gutenberg.org/ebooks/61380",
+    "https://archive.org/details/1963-01_IF",
+    "https://www.gutenberg.org/ebooks/51809",
+    "https://archive.org/details/Galaxy_v14n01_1957-05",
+    "https://www.gutenberg.org/ebooks/51310",
+    "https://archive.org/details/Galaxy_v13n04_1957-02",
+    "https://www.gutenberg.org/ebooks/32004",
+    "https://archive.org/details/Galaxy_v15n03_1958-01",
+    "https://www.gutenberg.org/ebooks/51845",
+    "https://archive.org/details/Galaxy_v14n06_1957-10",
+    "https://archive.org/details/Galaxy_v15n01_1957-11"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/frederik-pohl/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction",
+    "Shorts"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "5522c37f7ca6abf1d5e9dd15eaf994f0261eafbc9163aacb22f82c2f6fdbb2e3"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 14,
+    "words": 136928,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "The Tenant of Wildfell Hall",
+  "author": "Anne Brontë",
+  "identifier": "https://standardebooks.org/ebooks/anne-bronte/the-tenant-of-wildfell-hall",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/anne-bronte/the-tenant-of-wildfell-hall",
+    "published": "2020-02-18T04:42:13Z",
+    "modified": "2026-06-30T02:48:46Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/969",
+    "https://archive.org/details/tenantwildfellha00broniala",
+    "https://archive.org/details/tenantofwildfell01bron",
+    "https://archive.org/details/tenantofwildfell02bron"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/anne-bronte/the-tenant-of-wildfell-hall",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "79d3f06c28852fde40271d4186ff4e513deda7ae7d873e316dfdb74214df2d66"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 53,
+    "words": 164404,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

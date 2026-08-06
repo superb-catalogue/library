@@ -6,7 +6,7 @@
     "publisher": "Standard Ebooks",
     "page": "https://standardebooks.org/ebooks/benjamin-disraeli/sybil",
     "published": "2018-09-07T22:16:36Z",
-    "modified": "2026-07-14T15:29:34Z"
+    "modified": "2026-07-31T15:05:48Z"
   },
   "made_from": [
     "https://www.gutenberg.org/ebooks/3760",
@@ -43,8 +43,9 @@
   ],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-the-guardians-100-greatest-novels-of-all-time-2003-epub.zip",
-    "epub_sha256": "61c92dacce13a164c96d8de3388a3a28ab48e64446ffb964a5a3eb659d3db471"
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "cf81fe7aa8ac6e13c0dd03c0eb4e7d2ca37d358e34ef52668b3f0e885df4510b",
+    "superseded_build": "1 other build(s) of this identifier were seen across the archives; the newest (by dcterms:modified) was kept."
   },
   "text": {
     "file": "book.json",

@@ -1,0 +1,47 @@
+{
+  "title": "The Three Musketeers",
+  "author": "Alexandre Dumas",
+  "identifier": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson",
+    "published": "2019-12-09T23:34:13Z",
+    "modified": "2026-06-30T03:19:43Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/1257",
+    "https://archive.org/details/threemusketeers02dumagoog",
+    "https://archive.org/details/threemusketeers01maqugoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Adventure",
+  "genres": [
+    "Adventure",
+    "Fiction"
+  ],
+  "category": "Adventure",
+  "sets": [
+    {
+      "name": "D’Artagnan Romances",
+      "type": "series",
+      "position": "1"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-adventure-epub.zip",
+    "epub_sha256": "374655dd7153c5b5e3a79cb4a68cd9a6c990ff5bdfff88bc37b5a0331035f32a"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 67,
+    "words": 227832,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

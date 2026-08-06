@@ -1,0 +1,39 @@
+{
+  "title": "Last and First Men",
+  "author": "Olaf Stapledon",
+  "identifier": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
+    "published": "2026-03-31T17:26:12Z",
+    "modified": "2026-07-14T15:31:40Z"
+  },
+  "made_from": [
+    "https://www.fadedpage.com/showbook.php?pid=20200531",
+    "https://archive.org/details/bwb_ks-384-312"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Science Fiction",
+  "genres": [
+    "Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-science-fiction-epub.zip",
+    "epub_sha256": "a1656df307bc46c4f8d4f6502c6c2bf2e9f5d0bcd66f3971668644ee5e5a3097"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 17,
+    "words": 114032,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Women",
+  "author": "Zofia Nałkowska",
+  "identifier": "https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki",
+    "published": "2025-08-31T20:23:47Z",
+    "modified": "2026-07-14T15:32:34Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/61618",
+    "https://archive.org/details/kobietywomennove00nakouoft"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "66252a8d97602c6f55713f806a67fdeeadf3e7b0c7cb9c82835816d7d29c71a0"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 62348,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

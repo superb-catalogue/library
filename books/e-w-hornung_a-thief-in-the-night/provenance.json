@@ -1,0 +1,46 @@
+{
+  "title": "A Thief in the Night",
+  "author": "E. W. Hornung",
+  "identifier": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
+    "published": "2021-11-15T21:57:17Z",
+    "modified": "2026-06-30T02:48:49Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2098",
+    "https://archive.org/details/athiefinnightfu01horngoog"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/e-w-hornung/a-thief-in-the-night",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "A. J. Raffles",
+      "type": "series",
+      "position": "3"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "dbe6ced6eb693a4483cfd9281deb0dd7766f7fc6d1939f6a0c91519610255a71"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 10,
+    "words": 63610,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

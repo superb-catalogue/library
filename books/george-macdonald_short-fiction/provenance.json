@@ -1,0 +1,55 @@
+{
+  "title": "Short Fiction",
+  "author": "George MacDonald",
+  "identifier": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+    "published": "2026-02-18T15:47:44Z",
+    "modified": "2026-06-30T02:48:50Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/5676",
+    "https://www.gutenberg.org/ebooks/8913",
+    "https://www.gutenberg.org/ebooks/8955",
+    "https://www.gutenberg.org/ebooks/9191",
+    "https://www.gutenberg.org/ebooks/18811",
+    "https://www.gutenberg.org/ebooks/18859",
+    "https://www.george-macdonald.com/etexts/the_carasoyn.html",
+    "https://archive.org/details/doublestory00macduoft",
+    "https://archive.org/details/FarAboveRubies",
+    "https://archive.org/details/stephenarcheroth00macd",
+    "https://archive.org/details/worksoffancyimag08macduoft",
+    "https://archive.org/details/worksoffancyimag09macduoft",
+    "https://catalog.hathitrust.org/Record/103397959",
+    "https://catalog.hathitrust.org/Record/006155842"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/george-macdonald/short-fiction",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s",
+    "Fantasy",
+    "Horror",
+    "Shorts",
+    "Spirituality"
+  ],
+  "category": "Children’s",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-childrens-epub.zip",
+    "epub_sha256": "655d5ff2ee48075b176369fd40ae331a65b2e68e4dc908f449a88516292a9283"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 19,
+    "words": 221081,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

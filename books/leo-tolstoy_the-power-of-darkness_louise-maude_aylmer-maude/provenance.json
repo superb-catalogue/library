@@ -1,0 +1,39 @@
+{
+  "title": "The Power of Darkness",
+  "author": "Leo Tolstoy",
+  "identifier": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+    "published": "2022-01-20T19:35:39Z",
+    "modified": "2026-07-14T15:31:19Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/26661",
+    "https://catalog.hathitrust.org/Record/011726247"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/leo-tolstoy/the-power-of-darkness/louise-maude_aylmer-maude",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Drama",
+  "genres": [
+    "Drama"
+  ],
+  "category": "Drama",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-drama-epub.zip",
+    "epub_sha256": "6b898f023a535e4897eb7426f334dc62f9eb1072af79ec2d6a3c4c598061bf0e"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 5,
+    "words": 17381,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

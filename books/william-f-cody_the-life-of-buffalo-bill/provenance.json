@@ -6,7 +6,7 @@
     "publisher": "Standard Ebooks",
     "page": "https://standardebooks.org/ebooks/william-f-cody/the-life-of-buffalo-bill",
     "published": "2021-04-20T20:39:45Z",
-    "modified": "2026-07-14T15:32:24Z"
+    "modified": "2026-07-31T15:04:23Z"
   },
   "made_from": [
     "https://www.gutenberg.org/ebooks/10030",
@@ -28,8 +28,9 @@
   "sets": [],
   "how_we_got_it": {
     "route": "Standard Ebooks bulk download (Patrons Circle)",
-    "collection": "se-ebooks-nonfiction-epub.zip",
-    "epub_sha256": "ea4725edf3bbd7ffc77fe164845c65d306b21cc083c703d1003691cb72ebb43e"
+    "collection": "se-ebooks-memoir-epub.zip",
+    "epub_sha256": "40004f3b67beda1508f61bfdd81ae2c856a636d0649cdb1198d6561ee24dd017",
+    "superseded_build": "1 other build(s) of this identifier were seen across the archives; the newest (by dcterms:modified) was kept."
   },
   "text": {
     "file": "book.json",

@@ -1,0 +1,39 @@
+{
+  "title": "Nicholas Nickleby",
+  "author": "Charles Dickens",
+  "identifier": "https://standardebooks.org/ebooks/charles-dickens/nicholas-nickleby",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/charles-dickens/nicholas-nickleby",
+    "published": "2024-08-29T20:55:08Z",
+    "modified": "2026-07-14T15:29:43Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/967",
+    "https://archive.org/details/cu31924013472562"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/charles-dickens/nicholas-nickleby",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "0be83f49ce67c50262c31521f0cbc7d8d4f7f9a5c1c9c33a7c4ae639ddfa5ecd"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 65,
+    "words": 320490,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}

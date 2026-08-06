@@ -1,0 +1,42 @@
+{
+  "title": "Short Fiction",
+  "author": "Akutagawa Ryūnosuke",
+  "identifier": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators",
+  "edition": {
+    "publisher": "Standard Ebooks",
+    "page": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators",
+    "published": "2026-03-19T19:50:13Z",
+    "modified": "2026-06-30T02:48:45Z"
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/78105",
+    "https://www.google.com/books/edition/Tales_Grotesque_and_Curious/np8ac_JiSV4C",
+    "https://en.wikisource.org/wiki/Eminent_Authors_of_Contemporary_Japan/Volume_1",
+    "https://en.wikisource.org/wiki/File:Eminent_Authors_of_Contemporary_Japan.pdf"
+  ],
+  "terms": {
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "as_stated_by_the_edition": "The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).",
+    "read_at": "https://standardebooks.org/ebooks/akutagawa-ryunosuke/short-fiction/various-translators",
+    "advisory_restrictive_phrases": []
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction",
+    "Shorts"
+  ],
+  "category": "Fiction",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Standard Ebooks bulk download (Patrons Circle)",
+    "collection": "se-ebooks-fiction-epub.zip",
+    "epub_sha256": "ac3cf794038c00e97376329ebd233f077b6c0a33b913557cd05e8d545f23b528"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 13,
+    "words": 38197,
+    "front_and_back_matter": "not included — the publisher's title page, imprint and colophon are theirs, not the book's"
+  }
+}
