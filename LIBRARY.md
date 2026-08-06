@@ -386,7 +386,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Sybil](books/benjamin-disraeli_sybil/provenance.json) | Benjamin Disraeli | 2018-09-07 | The Guardian’s Best 100 Novels in English (2015), The Guardian’s 100 Greatest Novels of All Time (2003), Young England Trilogy |
 | [Tess of the d’Urbervilles](books/thomas-hardy_tess-of-the-durbervilles/provenance.json) | Thomas Hardy | 2019-01-11 | The BBC’s 100 Greatest British Novels (2015), The Telegraph’s Greatest Villains in Literature, Wessex |
 | [That Affair Next Door](books/anna-katharine-green_that-affair-next-door/provenance.json) | Anna Katharine Green | 2025-09-15 | Mr. Gryce, Amelia Butterworth |
-| [That Which Hath Wings: A Novel of the Day](books/anonymous_that-which-hath-wings-a-novel-of-the-day/provenance.json) | — | — | Project Gutenberg top 100 |
+| [That Which Hath Wings: A Novel of the Day](books/anonymous_that-which-hath-wings-a-novel-of-the-day/provenance.json) | Richard Dehan | — | Project Gutenberg top 100 |
 | [The Able McLaughlins](books/margaret-wilson_the-able-mclaughlins/provenance.json) | Margaret Wilson | 2022-01-13 | Pulitzer Prize for Fiction Winners, Harper Novel Prize Winners |
 | [The Adventures of Captain Hatteras](books/jules-verne_the-adventures-of-captain-hatteras_james-r-osgood-and-company/provenance.json) | Jules Verne | 2024-09-12 | Voyages Extraordinaires |
 | [The Adventures of Sherlock Holmes](books/arthur-conan-doyle_the-adventures-of-sherlock-holmes/provenance.json) | Arthur Conan Doyle | 2018-05-08 | Sherlock Holmes, Haycraft-Queen Cornerstones, The Crime Writers’ Association Top 100 Crime Novels of All Time, Mystery Writers of America Top 100 Mysteries of All Time |
@@ -767,7 +767,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Lorna Doone](books/r-d-blackmore_lorna-doone/provenance.json) | R. D. Blackmore | 2023-09-05 | — |
 | [Maiwa’s Revenge](books/h-rider-haggard_maiwas-revenge/provenance.json) | H. Rider Haggard | 2025-06-02 | Allan Quatermain |
 | [Mr. Standfast](books/john-buchan_mr-standfast/provenance.json) | John Buchan | 2019-09-18 | Richard Hannay |
-| [One of the Six Hundred: A Novel](books/anonymous_one-of-the-six-hundred-a-novel/provenance.json) | — | — | Project Gutenberg top 100 |
+| [One of the Six Hundred: A Novel](books/anonymous_one-of-the-six-hundred-a-novel/provenance.json) | James Grant | — | Project Gutenberg top 100 |
 | [Perishable Goods](books/dornford-yates_perishable-goods/provenance.json) | Dornford Yates | 2026-05-13 | Richard Chandos |
 | [Pimpernel and Rosemary](books/baroness-orczy_pimpernel-and-rosemary/provenance.json) | Baroness Orczy | 2021-01-22 | Scarlet Pimpernel |
 | [Pirates of Venus](books/edgar-rice-burroughs_pirates-of-venus/provenance.json) | Edgar Rice Burroughs | 2026-07-16 | Venus |
