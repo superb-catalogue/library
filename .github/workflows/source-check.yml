@@ -1,0 +1,43 @@
+name: source-check
+
+# A separate, slower check, on its own schedule -- never in the add path.
+# gate.yml's door-gate job is the fast, light check that actually blocks a
+# book from being added; this workflow never gates a pull request or a
+# push, and it never runs on every commit.
+#
+# scripts/check_source.py verifies a committed book against the EPUB it
+# says it came from -- chapter count, reading order, the excluded
+# publisher apparatus, word count within tolerance, the licence dedication,
+# and the identifier. It reads each book's own public per-book download
+# (never a patron zip -- no bulk archive exists in CI, and none should).
+
+on:
+  workflow_dispatch:
+    inputs:
+      books:
+        description: 'Space-separated books/<slug> paths to check (default: every book)'
+        required: false
+        default: ''
+  schedule:
+    # Weekly rather than per-push: 600+ individual, polite downloads from
+    # standardebooks.org is not something to run on every commit to this
+    # repository, and nothing about this check needs to be that fresh.
+    - cron: '17 6 * * 1'
+
+jobs:
+  verify-against-source:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: verify every committed book against its own public EPUB
+        run: |
+          if [ -n "${{ inputs.books }}" ]; then
+            python scripts/check_source.py ${{ inputs.books }}
+          else
+            python scripts/check_source.py books/*
+          fi

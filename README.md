@@ -81,12 +81,22 @@ from Standard Ebooks, whose editions each carry a public-domain dedication in
 their own metadata. The check confirms that dedication is present in
 machine-readable form and that the file parses. Nobody has independently
 re-verified each of the 1,478 works' copyright status against an outside
-source. Rule 3 above, "the terms
-were read, not assumed", was applied when Standard Ebooks was chosen as a source
-and when a book's own metadata is read. It is not a separate, additional
-per-book check against Standard Ebooks' website that runs today. If a per-book
-check at source is wanted later, that is separate work, not something this
-repository already does.
+source. Rule 3 above, "the terms were read, not assumed", was applied when
+Standard Ebooks was chosen as a source and when a book's own metadata is read.
+It is not a separate, additional per-book check against Standard Ebooks'
+website that runs today. If a per-book check at source is wanted later, that is
+separate work, not something this repository already does.
+
+### The slower check, and why it is not part of adding a book
+
+`scripts/check_source.py` re-reads a committed book against the EPUB it says it
+came from and reports any disagreement: chapter count, reading order, the
+sections left out, word count, the licence dedication, and the page it is cited
+to. It runs on its own schedule rather than when a book is added, and that is
+deliberate. It takes real time across the whole shelf, and nobody should have to
+wait on that to add one book. Run it yourself with
+`python scripts/check_source.py books/<the-book-you-added>` if you want the
+extra confidence before opening a pull request. It is not required.
 
 ## Licences
 
