@@ -1,0 +1,43 @@
+{
+  "title": "Cynthia's Chauffeur",
+  "author": "Louis Tracy",
+  "identifier": "https://www.gutenberg.org/ebooks/31472",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/31472",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/31472",
+    "https://www.gutenberg.org/cache/epub/31472/pg31472.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www. Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/31472"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/cache/epub/31472/pg31472.txt",
+    "sha256": "a048ca960618e3903fd1ffa73c9d9269aeec39bf66deb81c3f434ed5c7f78f36",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 236 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 17,
+    "words": 81836
+  }
+}

@@ -491,6 +491,23 @@
       "words": 104414
     },
     {
+      "slug": "malory-thomas-sir-1471_king-arthur-and-the-knights-of-the-round-table",
+      "title": "King Arthur and the Knights of the Round Table",
+      "author": "Malory, Thomas, Sir, -1471",
+      "edition_published": null,
+      "category": "Adventure",
+      "genre": "Adventure",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/36462",
+      "book": "books/malory-thomas-sir-1471_king-arthur-and-the-knights-of-the-round-table/book.json",
+      "provenance": "books/malory-thomas-sir-1471_king-arthur-and-the-knights-of-the-round-table/provenance.json",
+      "chapters": 15,
+      "words": 93994,
+      "route": "hand"
+    },
+    {
       "slug": "h-rider-haggard_king-solomons-mines",
       "title": "King Solomon’s Mines",
       "author": "H. Rider Haggard",
@@ -567,6 +584,23 @@
       "provenance": "books/john-buchan_mr-standfast/provenance.json",
       "chapters": 24,
       "words": 128247
+    },
+    {
+      "slug": "anonymous_one-of-the-six-hundred-a-novel",
+      "title": "One of the Six Hundred: A Novel",
+      "author": null,
+      "edition_published": null,
+      "category": "Adventure",
+      "genre": "Adventure",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/55179",
+      "book": "books/anonymous_one-of-the-six-hundred-a-novel/book.json",
+      "provenance": "books/anonymous_one-of-the-six-hundred-a-novel/provenance.json",
+      "chapters": 55,
+      "words": 162434,
+      "route": "hand"
     },
     {
       "slug": "dornford-yates_perishable-goods",
@@ -1968,6 +2002,23 @@
       "words": 72479
     },
     {
+      "slug": "george-w-gough_the-yeoman-adventurer",
+      "title": "The Yeoman Adventurer",
+      "author": "George W. Gough",
+      "edition_published": null,
+      "category": "Adventure",
+      "genre": "Adventure",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/7326",
+      "book": "books/george-w-gough_the-yeoman-adventurer/book.json",
+      "provenance": "books/george-w-gough_the-yeoman-adventurer/provenance.json",
+      "chapters": 27,
+      "words": 123662,
+      "route": "hand"
+    },
+    {
       "slug": "robert-louis-stevenson_treasure-island",
       "title": "Treasure Island",
       "author": "Robert Louis Stevenson",
@@ -2156,6 +2207,23 @@
       "words": 212675
     },
     {
+      "slug": "austin-bidwell_bidwell-s-travels-from-wall-street-to-london-prison",
+      "title": "Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude",
+      "author": "Austin Bidwell",
+      "edition_published": null,
+      "category": "Biography & Memoir",
+      "genre": "Biography & Memoir",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/24739",
+      "book": "books/austin-bidwell_bidwell-s-travels-from-wall-street-to-london-prison/book.json",
+      "provenance": "books/austin-bidwell_bidwell-s-travels-from-wall-street-to-london-prison/provenance.json",
+      "chapters": 100,
+      "words": 135401,
+      "route": "hand"
+    },
+    {
       "slug": "julius-caesar_commentaries-on-the-gallic-war_w-a-mcdevitte_w-s-bohn",
       "title": "Commentaries on the Gallic War",
       "author": "Julius Caesar",
@@ -2270,6 +2338,23 @@
       "provenance": "books/linda-brent_incidents-in-the-life-of-a-slave-girl/provenance.json",
       "chapters": 41,
       "words": 81244
+    },
+    {
+      "slug": "mark-twain_life-on-the-mississippi",
+      "title": "Life on the Mississippi",
+      "author": "Mark Twain",
+      "edition_published": null,
+      "category": "Biography & Memoir",
+      "genre": "Biography & Memoir",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/245",
+      "book": "books/mark-twain_life-on-the-mississippi/book.json",
+      "provenance": "books/mark-twain_life-on-the-mississippi/provenance.json",
+      "chapters": 86,
+      "words": 143207,
+      "route": "hand"
     },
     {
       "slug": "siegfried-sassoon_memoirs-of-a-foxhunting-man",
@@ -2765,6 +2850,23 @@
       "words": 178390
     },
     {
+      "slug": "mary-wollstonecraft_the-love-letters-of-mary-wollstonecraft-to-gilbert-imlay",
+      "title": "The Love Letters of Mary Wollstonecraft to Gilbert Imlay",
+      "author": "Mary Wollstonecraft",
+      "edition_published": null,
+      "category": "Biography & Memoir",
+      "genre": "Biography & Memoir",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/34413",
+      "book": "books/mary-wollstonecraft_the-love-letters-of-mary-wollstonecraft-to-gilbert-imlay/book.json",
+      "provenance": "books/mary-wollstonecraft_the-love-letters-of-mary-wollstonecraft-to-gilbert-imlay/provenance.json",
+      "chapters": 78,
+      "words": 32978,
+      "route": "hand"
+    },
+    {
       "slug": "joseph-conrad_the-mirror-of-the-sea",
       "title": "The Mirror of the Sea",
       "author": "Joseph Conrad",
@@ -2963,6 +3065,23 @@
       "provenance": "books/frances-hodgson-burnett_a-little-princess/provenance.json",
       "chapters": 19,
       "words": 66205
+    },
+    {
+      "slug": "lewis-carroll_alice-s-adventures-in-wonderland",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "edition_published": null,
+      "category": "Children’s",
+      "genre": "Children’s",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/11",
+      "book": "books/lewis-carroll_alice-s-adventures-in-wonderland/book.json",
+      "provenance": "books/lewis-carroll_alice-s-adventures-in-wonderland/provenance.json",
+      "chapters": 13,
+      "words": 25885,
+      "route": "hand"
     },
     {
       "slug": "lewis-carroll_alices-adventures-in-wonderland_john-tenniel",
@@ -6398,6 +6517,23 @@
       "words": 117084
     },
     {
+      "slug": "george-chetwynd-griffith_a-honeymoon-in-space",
+      "title": "A Honeymoon in Space",
+      "author": "George Chetwynd Griffith",
+      "edition_published": null,
+      "category": "Fantasy & Science Fiction",
+      "genre": "Fantasy & Science Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/19476",
+      "book": "books/george-chetwynd-griffith_a-honeymoon-in-space/book.json",
+      "provenance": "books/george-chetwynd-griffith_a-honeymoon-in-space/provenance.json",
+      "chapters": 21,
+      "words": 63226,
+      "route": "hand"
+    },
+    {
       "slug": "edgar-rice-burroughs_a-princess-of-mars",
       "title": "A Princess of Mars",
       "author": "Edgar Rice Burroughs",
@@ -7683,6 +7819,23 @@
       "words": 52966
     },
     {
+      "slug": "harry-harrison_the-misplaced-battleship",
+      "title": "The Misplaced Battleship",
+      "author": "Harry Harrison",
+      "edition_published": null,
+      "category": "Fantasy & Science Fiction",
+      "genre": "Fantasy & Science Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/22541",
+      "book": "books/harry-harrison_the-misplaced-battleship/book.json",
+      "provenance": "books/harry-harrison_the-misplaced-battleship/provenance.json",
+      "chapters": 1,
+      "words": 11219,
+      "route": "hand"
+    },
+    {
       "slug": "edgar-rice-burroughs_the-moon-maid",
       "title": "The Moon Maid",
       "author": "Edgar Rice Burroughs",
@@ -8065,6 +8218,23 @@
       "words": 45290
     },
     {
+      "slug": "sewell-peaslee-wright_trial-by-water",
+      "title": "Trial by water",
+      "author": "Sewell Peaslee Wright",
+      "edition_published": null,
+      "category": "Fantasy & Science Fiction",
+      "genre": "Fantasy & Science Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/76668",
+      "book": "books/sewell-peaslee-wright_trial-by-water/book.json",
+      "provenance": "books/sewell-peaslee-wright_trial-by-water/provenance.json",
+      "chapters": 1,
+      "words": 1428,
+      "route": "hand"
+    },
+    {
       "slug": "e-e-smith_triplanetary",
       "title": "Triplanetary",
       "author": "E. E. Smith",
@@ -8095,6 +8265,23 @@
       "provenance": "books/h-beam-piper_uller-uprising/provenance.json",
       "chapters": 16,
       "words": 50262
+    },
+    {
+      "slug": "la-motte-fouque-friedrich-heinrich-karl-freiherr-de_undine",
+      "title": "Undine",
+      "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
+      "edition_published": null,
+      "category": "Fantasy & Science Fiction",
+      "genre": "Fantasy & Science Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/2825",
+      "book": "books/la-motte-fouque-friedrich-heinrich-karl-freiherr-de_undine/book.json",
+      "provenance": "books/la-motte-fouque-friedrich-heinrich-karl-freiherr-de_undine/provenance.json",
+      "chapters": 11,
+      "words": 31503,
+      "route": "hand"
     },
     {
       "slug": "william-beckford_vathek_samuel-henley",
@@ -9280,6 +9467,23 @@
       "words": 81365
     },
     {
+      "slug": "alexandre-dumas_camille-la-dame-aux-camilias",
+      "title": "Camille (La Dame aux Camilias)",
+      "author": "Alexandre Dumas",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/1608",
+      "book": "books/alexandre-dumas_camille-la-dame-aux-camilias/book.json",
+      "provenance": "books/alexandre-dumas_camille-la-dame-aux-camilias/provenance.json",
+      "chapters": 30,
+      "words": 66211,
+      "route": "hand"
+    },
+    {
       "slug": "ambrose-bierce_can-such-things-be",
       "title": "Can Such Things Be?",
       "author": "Ambrose Bierce",
@@ -9350,6 +9554,23 @@
       "provenance": "books/rudyard-kipling_captains-courageous/provenance.json",
       "chapters": 10,
       "words": 52474
+    },
+    {
+      "slug": "prosper-merimee_carmen",
+      "title": "Carmen",
+      "author": "Prosper Mérimée",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/2465",
+      "book": "books/prosper-merimee_carmen/book.json",
+      "provenance": "books/prosper-merimee_carmen/provenance.json",
+      "chapters": 4,
+      "words": 23763,
+      "route": "hand"
     },
     {
       "slug": "maria-edgeworth_castle-rackrent",
@@ -9610,6 +9831,23 @@
       "provenance": "books/john-steinbeck_cup-of-gold/provenance.json",
       "chapters": 5,
       "words": 68801
+    },
+    {
+      "slug": "louis-tracy_cynthia-s-chauffeur",
+      "title": "Cynthia's Chauffeur",
+      "author": "Louis Tracy",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/31472",
+      "book": "books/louis-tracy_cynthia-s-chauffeur/book.json",
+      "provenance": "books/louis-tracy_cynthia-s-chauffeur/provenance.json",
+      "chapters": 17,
+      "words": 81836,
+      "route": "hand"
     },
     {
       "slug": "rose-macaulay_dangerous-ages",
@@ -10012,6 +10250,23 @@
       "provenance": "books/sinclair-lewis_elmer-gantry/provenance.json",
       "chapters": 33,
       "words": 151778
+    },
+    {
+      "slug": "jean-jacques-rousseau_eloisa-or-a-series-of-original-letters",
+      "title": "Eloisa :  or, A series of original letters",
+      "author": "Jean-Jacques Rousseau",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/76639",
+      "book": "books/jean-jacques-rousseau_eloisa-or-a-series-of-original-letters/book.json",
+      "provenance": "books/jean-jacques-rousseau_eloisa-or-a-series-of-original-letters/provenance.json",
+      "chapters": 165,
+      "words": 316796,
+      "route": "hand"
     },
     {
       "slug": "jane-austen_emma",
@@ -11137,6 +11392,23 @@
       "words": 83911
     },
     {
+      "slug": "grant-allen_linnet-a-romance",
+      "title": "Linnet: A Romance",
+      "author": "Grant Allen",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/48296",
+      "book": "books/grant-allen_linnet-a-romance/book.json",
+      "provenance": "books/grant-allen_linnet-a-romance/provenance.json",
+      "chapters": 53,
+      "words": 139824,
+      "route": "hand"
+    },
+    {
       "slug": "w-r-burnett_little-caesar",
       "title": "Little Caesar",
       "author": "W. R. Burnett",
@@ -11404,6 +11676,23 @@
       "provenance": "books/john-dos-passos_manhattan-transfer/provenance.json",
       "chapters": 21,
       "words": 129854
+    },
+    {
+      "slug": "abbe-prevost_manon-lescaut",
+      "title": "Manon Lescaut",
+      "author": "abbé Prévost",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/468",
+      "book": "books/abbe-prevost_manon-lescaut/book.json",
+      "provenance": "books/abbe-prevost_manon-lescaut/provenance.json",
+      "chapters": 13,
+      "words": 61930,
+      "route": "hand"
     },
     {
       "slug": "jane-austen_mansfield-park",
@@ -13847,6 +14136,23 @@
       "provenance": "books/anna-katharine-green_that-affair-next-door/provenance.json",
       "chapters": 46,
       "words": 104386
+    },
+    {
+      "slug": "anonymous_that-which-hath-wings-a-novel-of-the-day",
+      "title": "That Which Hath Wings: A Novel of the Day",
+      "author": null,
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/51428",
+      "book": "books/anonymous_that-which-hath-wings-a-novel-of-the-day/book.json",
+      "provenance": "books/anonymous_that-which-hath-wings-a-novel-of-the-day/provenance.json",
+      "chapters": 72,
+      "words": 182078,
+      "route": "hand"
     },
     {
       "slug": "margaret-wilson_the-able-mclaughlins",
@@ -17149,6 +17455,23 @@
       "words": 60172
     },
     {
+      "slug": "anatole-france_the-red-lily-complete",
+      "title": "The Red Lily — Complete",
+      "author": "Anatole France",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/3922",
+      "book": "books/anatole-france_the-red-lily-complete/book.json",
+      "provenance": "books/anatole-france_the-red-lily-complete/provenance.json",
+      "chapters": 40,
+      "words": 75150,
+      "route": "hand"
+    },
+    {
       "slug": "august-strindberg_the-red-room_ellie-schleussner",
       "title": "The Red Room",
       "author": "August Strindberg",
@@ -18760,6 +19083,23 @@
       "words": 185411
     },
     {
+      "slug": "rupert-hughes_what-will-people-say-a-novel",
+      "title": "What Will People Say? A Novel",
+      "author": "Rupert Hughes",
+      "edition_published": null,
+      "category": "Fiction",
+      "genre": "Fiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/38311",
+      "book": "books/rupert-hughes_what-will-people-say-a-novel/book.json",
+      "provenance": "books/rupert-hughes_what-will-people-say-a-novel/provenance.json",
+      "chapters": 74,
+      "words": 148147,
+      "route": "hand"
+    },
+    {
       "slug": "j-s-fletcher_when-charles-the-first-was-king",
       "title": "When Charles the First Was King",
       "author": "J. S. Fletcher",
@@ -19235,6 +19575,23 @@
       "words": 44337
     },
     {
+      "slug": "edgar-allan-poe_the-cask-of-amontillado",
+      "title": "The Cask of Amontillado",
+      "author": "Edgar Allan Poe",
+      "edition_published": null,
+      "category": "Mystery & Horror",
+      "genre": "Mystery & Horror",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/1063",
+      "book": "books/edgar-allan-poe_the-cask-of-amontillado/book.json",
+      "provenance": "books/edgar-allan-poe_the-cask-of-amontillado/provenance.json",
+      "chapters": 1,
+      "words": 2304,
+      "route": "hand"
+    },
+    {
       "slug": "stanley-g-weinbaum_the-dark-other",
       "title": "The Dark Other",
       "author": "Stanley G. Weinbaum",
@@ -19280,6 +19637,23 @@
       "provenance": "books/r-austin-freeman_the-eye-of-osiris/provenance.json",
       "chapters": 20,
       "words": 94369
+    },
+    {
+      "slug": "fergus-hume_the-green-mummy",
+      "title": "The Green Mummy",
+      "author": "Fergus Hume",
+      "edition_published": null,
+      "category": "Mystery & Horror",
+      "genre": "Mystery & Horror",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/2868",
+      "book": "books/fergus-hume_the-green-mummy/book.json",
+      "provenance": "books/fergus-hume_the-green-mummy/provenance.json",
+      "chapters": 27,
+      "words": 86661,
+      "route": "hand"
     },
     {
       "slug": "william-hope-hodgson_the-house-on-the-borderland",
@@ -19445,6 +19819,23 @@
       "words": 25600
     },
     {
+      "slug": "james-malcolm-rymer_the-string-of-pearls-or-the-barber-of",
+      "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+      "author": "James Malcolm Rymer",
+      "edition_published": null,
+      "category": "Mystery & Horror",
+      "genre": "Mystery & Horror",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/59828",
+      "book": "books/james-malcolm-rymer_the-string-of-pearls-or-the-barber-of/book.json",
+      "provenance": "books/james-malcolm-rymer_the-string-of-pearls-or-the-barber-of/provenance.json",
+      "chapters": 178,
+      "words": 432632,
+      "route": "hand"
+    },
+    {
       "slug": "john-william-polidori_the-vampire",
       "title": "The Vampire",
       "author": "John William Polidori",
@@ -19457,6 +19848,23 @@
       "provenance": "books/john-william-polidori_the-vampire/provenance.json",
       "chapters": 1,
       "words": 8126
+    },
+    {
+      "slug": "h-p-lovecraft_the-call-of-cthulhu",
+      "title": "The call of Cthulhu",
+      "author": "H. P. Lovecraft",
+      "edition_published": null,
+      "category": "Mystery & Horror",
+      "genre": "Mystery & Horror",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/68283",
+      "book": "books/h-p-lovecraft_the-call-of-cthulhu/book.json",
+      "provenance": "books/h-p-lovecraft_the-call-of-cthulhu/provenance.json",
+      "chapters": 3,
+      "words": 11796,
+      "route": "hand"
     },
     {
       "slug": "daniel-defoe_a-journal-of-the-plague-year",
@@ -19601,6 +20009,23 @@
       "provenance": "books/w-e-b-du-bois_darkwater/provenance.json",
       "chapters": 11,
       "words": 66787
+    },
+    {
+      "slug": "oscar-wilde_de-profundis",
+      "title": "De Profundis",
+      "author": "Oscar Wilde",
+      "edition_published": null,
+      "category": "Nonfiction",
+      "genre": "Nonfiction",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/921",
+      "book": "books/oscar-wilde_de-profundis/book.json",
+      "provenance": "books/oscar-wilde_de-profundis/provenance.json",
+      "chapters": 1,
+      "words": 17696,
+      "route": "hand"
     },
     {
       "slug": "john-dewey_democracy-and-education",
@@ -21193,6 +21618,23 @@
       "provenance": "books/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore/provenance.json",
       "chapters": 4,
       "words": 11250
+    },
+    {
+      "slug": "augustine-of-hippo-saint-354-430_the-confessions-of-st-augustine",
+      "title": "The Confessions of St. Augustine",
+      "author": "Augustine, of Hippo, Saint, 354-430",
+      "edition_published": null,
+      "category": "Philosophy",
+      "genre": "Philosophy",
+      "sets": [
+        "Project Gutenberg top 100"
+      ],
+      "page": "https://www.gutenberg.org/ebooks/3296",
+      "book": "books/augustine-of-hippo-saint-354-430_the-confessions-of-st-augustine/book.json",
+      "provenance": "books/augustine-of-hippo-saint-354-430_the-confessions-of-st-augustine/provenance.json",
+      "chapters": 13,
+      "words": 111433,
+      "route": "hand"
     },
     {
       "slug": "peter-kropotkin_the-conquest-of-bread_chapman-and-hall",

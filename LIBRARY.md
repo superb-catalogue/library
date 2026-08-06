@@ -4,7 +4,7 @@ One row per book, generated from `books/INDEX.json` — never edited by hand. Re
 
 The categories are the library's own — see `CATEGORIES.md` for what they are and why. `edition published` is the date Standard Ebooks published this typesetting, not necessarily the year the book was first written or printed.
 
-## Fiction (708)
+## Fiction (717)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
@@ -81,11 +81,13 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Cakes and Ale](books/w-somerset-maugham_cakes-and-ale/provenance.json) | W. Somerset Maugham | 2026-03-13 | — |
 | [Call Mr. Fortune](books/h-c-bailey_call-mr-fortune/provenance.json) | H. C. Bailey | 2024-03-15 | Reggie Fortune, Haycraft-Queen Cornerstones |
 | [Calvary](books/octave-mirbeau_calvary_louis-rich/provenance.json) | Octave Mirbeau | 2024-02-23 | — |
+| [Camille (La Dame aux Camilias)](books/alexandre-dumas_camille-la-dame-aux-camilias/provenance.json) | Alexandre Dumas | — | Project Gutenberg top 100 |
 | [Can Such Things Be?](books/ambrose-bierce_can-such-things-be/provenance.json) | Ambrose Bierce | 2023-02-13 | — |
 | [Can You Forgive Her?](books/anthony-trollope_can-you-forgive-her/provenance.json) | Anthony Trollope | 2022-10-31 | Palliser |
 | [Cane](books/jean-toomer_cane/provenance.json) | Jean Toomer | 2021-04-11 | — |
 | [Captain Jinks, Hero](books/ernest-howard-crosby_captain-jinks-hero/provenance.json) | Ernest Howard Crosby | 2021-11-03 | — |
 | [Captains Courageous](books/rudyard-kipling_captains-courageous/provenance.json) | Rudyard Kipling | 2026-06-10 | — |
+| [Carmen](books/prosper-merimee_carmen/provenance.json) | Prosper Mérimée | — | Project Gutenberg top 100 |
 | [Castle Rackrent](books/maria-edgeworth_castle-rackrent/provenance.json) | Maria Edgeworth | 2023-08-28 | — |
 | [Chance](books/joseph-conrad_chance/provenance.json) | Joseph Conrad | 2026-03-23 | — |
 | [Charlotte Temple](books/susanna-haswell-rowson_charlotte-temple/provenance.json) | Susanna Haswell Rowson | 2022-08-25 | — |
@@ -103,6 +105,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Crime and Punishment](books/fyodor-dostoevsky_crime-and-punishment_constance-garnett/provenance.json) | Fyodor Dostoevsky | 2017-08-26 | Haycraft-Queen Cornerstones, Harvard Classics Shelf of Fiction, Mystery Writers of America Top 100 Mysteries of All Time, The Guardian’s 100 Best Novels of All Time (2026) |
 | [Crome Yellow](books/aldous-huxley_crome-yellow/provenance.json) | Aldous Huxley | 2021-04-28 | — |
 | [Cup of Gold](books/john-steinbeck_cup-of-gold/provenance.json) | John Steinbeck | 2025-01-01 | — |
+| [Cynthia's Chauffeur](books/louis-tracy_cynthia-s-chauffeur/provenance.json) | Louis Tracy | — | Project Gutenberg top 100 |
 | [Dangerous Ages](books/rose-macaulay_dangerous-ages/provenance.json) | Rose Macaulay | 2025-05-26 | Prix Femina—Vie Heureuse Winners |
 | [Dangerous Liaisons](books/pierre-choderlos-de-laclos_dangerous-liaisons_thomas-moore/provenance.json) | Pierre Choderlos de Laclos | 2022-01-25 | The Telegraph’s Greatest Villains in Literature, The Guardian’s 100 Greatest Novels of All Time (2003) |
 | [Daniel Deronda](books/george-eliot_daniel-deronda/provenance.json) | George Eliot | 2021-04-12 | The BBC’s 100 Greatest British Novels (2015), The Guardian’s 100 Greatest Novels of All Time (2003) |
@@ -129,6 +132,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Early Autumn](books/louis-bromfield_early-autumn/provenance.json) | Louis Bromfield | 2023-08-16 | Pulitzer Prize for Fiction Winners |
 | [El Filibusterismo](books/jose-rizal_el-filibusterismo_charles-e-derbyshire/provenance.json) | José Rizal | 2024-11-21 | — |
 | [Elmer Gantry](books/sinclair-lewis_elmer-gantry/provenance.json) | Sinclair Lewis | 2023-01-01 | — |
+| [Eloisa :  or, A series of original letters](books/jean-jacques-rousseau_eloisa-or-a-series-of-original-letters/provenance.json) | Jean-Jacques Rousseau | — | Project Gutenberg top 100 |
 | [Emma](books/jane-austen_emma/provenance.json) | Jane Austen | 2018-03-21 | The Guardian’s Best 100 Novels in English (2015), The BBC’s 100 Greatest British Novels (2015), Encyclopædia Britannica’s Great Books of the Western World, The Guardian’s 100 Best Novels of All Time (2026), The Guardian’s 100 Greatest Novels of All Time (2003) |
 | [Erewhon](books/samuel-butler_erewhon/provenance.json) | Samuel Butler | 2020-08-15 | Erewhon, Encyclopædia Britannica’s Gateway to the Great Books |
 | [Erewhon Revisited](books/samuel-butler_erewhon-revisited/provenance.json) | Samuel Butler | 2023-09-20 | Erewhon |
@@ -202,6 +206,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Le Morte d’Arthur](books/thomas-malory_le-morte-darthur/provenance.json) | Thomas Malory | 2020-07-09 | — |
 | [Les Misérables](books/victor-hugo_les-miserables_isabel-f-hapgood/provenance.json) | Victor Hugo | 2019-08-15 | Haycraft-Queen Cornerstones |
 | [Letters of Two Brides](books/honore-de-balzac_letters-of-two-brides_r-s-scott/provenance.json) | Honoré de Balzac | 2023-08-24 | The Human Comedy, The Human Comedy: Scenes from Private Life |
+| [Linnet: A Romance](books/grant-allen_linnet-a-romance/provenance.json) | Grant Allen | — | Project Gutenberg top 100 |
 | [Little Caesar](books/w-r-burnett_little-caesar/provenance.json) | W. R. Burnett | 2025-12-11 | Haycraft-Queen Cornerstones, Mystery Writers of America Top 100 Mysteries of All Time |
 | [Little Dorrit](books/charles-dickens_little-dorrit/provenance.json) | Charles Dickens | 2021-08-22 | Encyclopædia Britannica’s Great Books of the Western World |
 | [Little Women](books/louisa-may-alcott_little-women/provenance.json) | Louisa May Alcott | 2016-05-06 | The Guardian’s Best 100 Novels in English (2015), Little Women, The Guardian’s 100 Greatest Novels of All Time (2003) |
@@ -219,6 +224,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Main Street](books/sinclair-lewis_main-street/provenance.json) | Sinclair Lewis | 2020-08-04 | Modern Library’s 100 Best Novels |
 | [Man and Wife](books/wilkie-collins_man-and-wife/provenance.json) | Wilkie Collins | 2019-01-24 | — |
 | [Manhattan Transfer](books/john-dos-passos_manhattan-transfer/provenance.json) | John Dos Passos | 2025-04-02 | Le Monde’s 100 Books of the Century |
+| [Manon Lescaut](books/abbe-prevost_manon-lescaut/provenance.json) | abbé Prévost | — | Project Gutenberg top 100 |
 | [Mansfield Park](books/jane-austen_mansfield-park/provenance.json) | Jane Austen | 2021-01-11 | The Guardian’s 100 Best Novels of All Time (2026) |
 | [Maria Chapdelaine](books/louis-hemon_maria-chapdelaine_w-h-blake/provenance.json) | Louis Hémon | 2022-06-11 | — |
 | [Marius the Epicurean](books/walter-pater_marius-the-epicurean/provenance.json) | Walter Pater | 2023-07-26 | — |
@@ -380,6 +386,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Sybil](books/benjamin-disraeli_sybil/provenance.json) | Benjamin Disraeli | 2018-09-07 | The Guardian’s Best 100 Novels in English (2015), The Guardian’s 100 Greatest Novels of All Time (2003), Young England Trilogy |
 | [Tess of the d’Urbervilles](books/thomas-hardy_tess-of-the-durbervilles/provenance.json) | Thomas Hardy | 2019-01-11 | The BBC’s 100 Greatest British Novels (2015), The Telegraph’s Greatest Villains in Literature, Wessex |
 | [That Affair Next Door](books/anna-katharine-green_that-affair-next-door/provenance.json) | Anna Katharine Green | 2025-09-15 | Mr. Gryce, Amelia Butterworth |
+| [That Which Hath Wings: A Novel of the Day](books/anonymous_that-which-hath-wings-a-novel-of-the-day/provenance.json) | — | — | Project Gutenberg top 100 |
 | [The Able McLaughlins](books/margaret-wilson_the-able-mclaughlins/provenance.json) | Margaret Wilson | 2022-01-13 | Pulitzer Prize for Fiction Winners, Harper Novel Prize Winners |
 | [The Adventures of Captain Hatteras](books/jules-verne_the-adventures-of-captain-hatteras_james-r-osgood-and-company/provenance.json) | Jules Verne | 2024-09-12 | Voyages Extraordinaires |
 | [The Adventures of Sherlock Holmes](books/arthur-conan-doyle_the-adventures-of-sherlock-holmes/provenance.json) | Arthur Conan Doyle | 2018-05-08 | Sherlock Holmes, Haycraft-Queen Cornerstones, The Crime Writers’ Association Top 100 Crime Novels of All Time, Mystery Writers of America Top 100 Mysteries of All Time |
@@ -593,6 +600,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Rector and The Doctor’s Family](books/margaret-oliphant_the-rector-and-the-doctors-family/provenance.json) | Margaret Oliphant | 2023-10-19 | Chronicles of Carlingford |
 | [The Red Badge of Courage](books/stephen-crane_the-red-badge-of-courage/provenance.json) | Stephen Crane | 2019-01-12 | The Guardian’s Best 100 Novels in English (2015) |
 | [The Red House Mystery](books/a-a-milne_the-red-house-mystery/provenance.json) | A. A. Milne | 2019-11-04 | Haycraft-Queen Cornerstones |
+| [The Red Lily — Complete](books/anatole-france_the-red-lily-complete/provenance.json) | Anatole France | — | Project Gutenberg top 100 |
 | [The Red Room](books/august-strindberg_the-red-room_ellie-schleussner/provenance.json) | August Strindberg | 2017-07-07 | — |
 | [The Rescue](books/joseph-conrad_the-rescue/provenance.json) | Joseph Conrad | 2026-07-26 | Lingard Trilogy |
 | [The Return of Sherlock Holmes](books/arthur-conan-doyle_the-return-of-sherlock-holmes/provenance.json) | Arthur Conan Doyle | 2018-07-27 | Sherlock Holmes, Haycraft-Queen Cornerstones, The Crime Writers’ Association Top 100 Crime Novels of All Time, Mystery Writers of America Top 100 Mysteries of All Time |
@@ -697,6 +705,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [War and Peace](books/leo-tolstoy_war-and-peace_louise-maude_aylmer-maude/provenance.json) | Leo Tolstoy | 2020-07-28 | Encyclopædia Britannica’s Great Books of the Western World, The Guardian’s 100 Best Novels of All Time (2026) |
 | [Washington Square](books/henry-james_washington-square/provenance.json) | Henry James | 2024-08-12 | — |
 | [What Is to Be Done?](books/nikolay-chernyshevsky_what-is-to-be-done_nathan-haskell-dole_simon-s-skidelsky/provenance.json) | Nikolay Chernyshevsky | 2025-02-24 | — |
+| [What Will People Say? A Novel](books/rupert-hughes_what-will-people-say-a-novel/provenance.json) | Rupert Hughes | — | Project Gutenberg top 100 |
 | [When Charles the First Was King](books/j-s-fletcher_when-charles-the-first-was-king/provenance.json) | J. S. Fletcher | 2025-09-29 | — |
 | [Where Angels Fear to Tread](books/e-m-forster_where-angels-fear-to-tread/provenance.json) | E. M. Forster | 2022-02-28 | — |
 | [While the Billy Boils](books/henry-lawson_while-the-billy-boils/provenance.json) | Henry Lawson | 2019-08-26 | — |
@@ -717,7 +726,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Zuleika Dobson](books/max-beerbohm_zuleika-dobson/provenance.json) | Max Beerbohm | 2017-05-03 | Modern Library’s 100 Best Novels, The Guardian’s Best 100 Novels in English (2015) |
 | [’Midst the Wild Carpathians](books/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain/provenance.json) | Mór Jókai | 2026-07-31 | Prince Apafi |
 
-## Adventure (133)
+## Adventure (136)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
@@ -752,11 +761,13 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Jungle Tales of Tarzan](books/edgar-rice-burroughs_jungle-tales-of-tarzan/provenance.json) | Edgar Rice Burroughs | 2025-01-07 | Tarzan |
 | [Kidnapped](books/robert-louis-stevenson_kidnapped/provenance.json) | Robert Louis Stevenson | 2018-04-24 | The Guardian’s Best 100 Novels in English (2015) |
 | [Kim](books/rudyard-kipling_kim/provenance.json) | Rudyard Kipling | 2017-10-19 | Modern Library’s 100 Best Novels, The Guardian’s Best 100 Novels in English (2015) |
+| [King Arthur and the Knights of the Round Table](books/malory-thomas-sir-1471_king-arthur-and-the-knights-of-the-round-table/provenance.json) | Malory, Thomas, Sir, -1471 | — | Project Gutenberg top 100 |
 | [King Solomon’s Mines](books/h-rider-haggard_king-solomons-mines/provenance.json) | H. Rider Haggard | 2018-04-26 | Allan Quatermain |
 | [Lord Tony’s Wife](books/baroness-orczy_lord-tonys-wife/provenance.json) | Baroness Orczy | 2020-12-31 | Scarlet Pimpernel |
 | [Lorna Doone](books/r-d-blackmore_lorna-doone/provenance.json) | R. D. Blackmore | 2023-09-05 | — |
 | [Maiwa’s Revenge](books/h-rider-haggard_maiwas-revenge/provenance.json) | H. Rider Haggard | 2025-06-02 | Allan Quatermain |
 | [Mr. Standfast](books/john-buchan_mr-standfast/provenance.json) | John Buchan | 2019-09-18 | Richard Hannay |
+| [One of the Six Hundred: A Novel](books/anonymous_one-of-the-six-hundred-a-novel/provenance.json) | — | — | Project Gutenberg top 100 |
 | [Perishable Goods](books/dornford-yates_perishable-goods/provenance.json) | Dornford Yates | 2026-05-13 | Richard Chandos |
 | [Pimpernel and Rosemary](books/baroness-orczy_pimpernel-and-rosemary/provenance.json) | Baroness Orczy | 2021-01-22 | Scarlet Pimpernel |
 | [Pirates of Venus](books/edgar-rice-burroughs_pirates-of-venus/provenance.json) | Edgar Rice Burroughs | 2026-07-16 | Venus |
@@ -847,6 +858,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Triumph of the Scarlet Pimpernel](books/baroness-orczy_the-triumph-of-the-scarlet-pimpernel/provenance.json) | Baroness Orczy | 2021-01-17 | Scarlet Pimpernel |
 | [The Vicomte de Bragelonne](books/alexandre-dumas_the-vicomte-de-bragelonne_george-routledge-and-co/provenance.json) | Alexandre Dumas | 2022-07-13 | D’Artagnan Romances |
 | [The Voyages of Doctor Dolittle](books/hugh-lofting_the-voyages-of-doctor-dolittle/provenance.json) | Hugh Lofting | 2022-07-18 | Doctor Dolittle, Newbery Medal Winners |
+| [The Yeoman Adventurer](books/george-w-gough_the-yeoman-adventurer/provenance.json) | George W. Gough | — | Project Gutenberg top 100 |
 | [Treasure Island](books/robert-louis-stevenson_treasure-island/provenance.json) | Robert Louis Stevenson | 2015-04-15 | The Telegraph’s Greatest Villains in Literature |
 | [Twenty Years After](books/alexandre-dumas_twenty-years-after_estes-and-lauriat/provenance.json) | Alexandre Dumas | 2022-03-25 | D’Artagnan Romances |
 | [Typee](books/herman-melville_typee/provenance.json) | Herman Melville | 2023-10-09 | — |
@@ -855,7 +867,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [When the World Shook](books/h-rider-haggard_when-the-world-shook/provenance.json) | H. Rider Haggard | 2023-04-10 | — |
 | [White Fang](books/jack-london_white-fang/provenance.json) | Jack London | 2014-05-25 | — |
 
-## Mystery & Horror (26)
+## Mystery & Horror (30)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
@@ -871,9 +883,11 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Beetle](books/richard-marsh_the-beetle/provenance.json) | Richard Marsh | 2020-05-13 | — |
 | [The Big Bow Mystery](books/israel-zangwill_the-big-bow-mystery/provenance.json) | Israel Zangwill | 2023-07-24 | Haycraft-Queen Cornerstones |
 | [The Case of Charles Dexter Ward](books/h-p-lovecraft_the-case-of-charles-dexter-ward/provenance.json) | H. P. Lovecraft | 2024-07-16 | — |
+| [The Cask of Amontillado](books/edgar-allan-poe_the-cask-of-amontillado/provenance.json) | Edgar Allan Poe | — | Project Gutenberg top 100 |
 | [The Dark Other](books/stanley-g-weinbaum_the-dark-other/provenance.json) | Stanley G. Weinbaum | 2019-10-26 | — |
 | [The Dead Letter](books/metta-victor_the-dead-letter/provenance.json) | Metta Victor | 2026-02-03 | Haycraft-Queen Cornerstones |
 | [The Eye of Osiris](books/r-austin-freeman_the-eye-of-osiris/provenance.json) | R. Austin Freeman | 2025-04-13 | Doctor Thorndyke, Haycraft-Queen Cornerstones |
+| [The Green Mummy](books/fergus-hume_the-green-mummy/provenance.json) | Fergus Hume | — | Project Gutenberg top 100 |
 | [The House on the Borderland](books/william-hope-hodgson_the-house-on-the-borderland/provenance.json) | William Hope Hodgson | 2017-01-12 | — |
 | [The King in Yellow](books/robert-w-chambers_the-king-in-yellow/provenance.json) | Robert W. Chambers | 2017-01-19 | — |
 | [The Magician](books/w-somerset-maugham_the-magician/provenance.json) | W. Somerset Maugham | 2021-11-30 | — |
@@ -884,13 +898,16 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Red Thumbmark](books/r-austin-freeman_the-red-thumbmark/provenance.json) | R. Austin Freeman | 2025-11-14 | Doctor Thorndyke, Haycraft-Queen Cornerstones |
 | [The Room in the Dragon Volant](books/j-sheridan-le-fanu_the-room-in-the-dragon-volant/provenance.json) | J. Sheridan Le Fanu | 2025-07-03 | — |
 | [The Strange Case of Dr. Jekyll and Mr. Hyde](books/robert-louis-stevenson_the-strange-case-of-dr-jekyll-and-mr-hyde/provenance.json) | Robert Louis Stevenson | 2015-05-12 | The Telegraph’s Greatest Villains in Literature, Encyclopædia Britannica’s Gateway to the Great Books, Haycraft-Queen Cornerstones, The Guardian’s 100 Greatest Novels of All Time (2003) |
+| [The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.](books/james-malcolm-rymer_the-string-of-pearls-or-the-barber-of/provenance.json) | James Malcolm Rymer | — | Project Gutenberg top 100 |
 | [The Vampire](books/john-william-polidori_the-vampire/provenance.json) | John William Polidori | 2024-03-28 | — |
+| [The call of Cthulhu](books/h-p-lovecraft_the-call-of-cthulhu/provenance.json) | H. P. Lovecraft | — | Project Gutenberg top 100 |
 
-## Fantasy & Science Fiction (121)
+## Fantasy & Science Fiction (125)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
 | [A Connecticut Yankee in King Arthur’s Court](books/mark-twain_a-connecticut-yankee-in-king-arthurs-court/provenance.json) | Mark Twain | 2015-06-07 | — |
+| [A Honeymoon in Space](books/george-chetwynd-griffith_a-honeymoon-in-space/provenance.json) | George Chetwynd Griffith | — | Project Gutenberg top 100 |
 | [A Princess of Mars](books/edgar-rice-burroughs_a-princess-of-mars/provenance.json) | Edgar Rice Burroughs | 2014-05-25 | Martian |
 | [A Strange Manuscript Found in a Copper Cylinder](books/james-de-mille_a-strange-manuscript-found-in-a-copper-cylinder/provenance.json) | James De Mille | 2017-05-01 | — |
 | [A Voyage to Arcturus](books/david-lindsay_a-voyage-to-arcturus/provenance.json) | David Lindsay | 2017-01-04 | The Telegraph’s Greatest Villains in Literature |
@@ -979,6 +996,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Little White Bird](books/j-m-barrie_the-little-white-bird/provenance.json) | J. M. Barrie | 2018-06-01 | — |
 | [The Lost Continent](books/c-j-cutcliffe-hyne_the-lost-continent/provenance.json) | C. J. Cutcliffe Hyne | 2017-02-06 | — |
 | [The Master Mind of Mars](books/edgar-rice-burroughs_the-master-mind-of-mars/provenance.json) | Edgar Rice Burroughs | 2025-09-15 | Martian |
+| [The Misplaced Battleship](books/harry-harrison_the-misplaced-battleship/provenance.json) | Harry Harrison | — | Project Gutenberg top 100 |
 | [The Moon Maid](books/edgar-rice-burroughs_the-moon-maid/provenance.json) | Edgar Rice Burroughs | 2023-08-16 | — |
 | [The Moon Pool](books/a-merritt_the-moon-pool/provenance.json) | A. Merritt | 2016-09-30 | — |
 | [The Necklace of Princess Fiorimonde](books/mary-de-morgan_the-necklace-of-princess-fiorimonde/provenance.json) | Mary De Morgan | 2026-02-18 | — |
@@ -1005,8 +1023,10 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The World Set Free](books/h-g-wells_the-world-set-free/provenance.json) | H. G. Wells | 2021-03-14 | — |
 | [The Worm Ouroboros](books/e-r-eddison_the-worm-ouroboros/provenance.json) | E. R. Eddison | 2022-02-08 | — |
 | [Thuvia, Maid of Mars](books/edgar-rice-burroughs_thuvia-maid-of-mars/provenance.json) | Edgar Rice Burroughs | 2021-01-20 | Martian |
+| [Trial by water](books/sewell-peaslee-wright_trial-by-water/provenance.json) | Sewell Peaslee Wright | — | Project Gutenberg top 100 |
 | [Triplanetary](books/e-e-smith_triplanetary/provenance.json) | E. E. Smith | 2020-06-09 | Lensman |
 | [Uller Uprising](books/h-beam-piper_uller-uprising/provenance.json) | H. Beam Piper | 2024-12-19 | Federation |
+| [Undine](books/la-motte-fouque-friedrich-heinrich-karl-freiherr-de_undine/provenance.json) | La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de | — | Project Gutenberg top 100 |
 | [Vathek](books/william-beckford_vathek_samuel-henley/provenance.json) | William Beckford | 2022-07-26 | — |
 | [Voodoo Planet](books/andre-norton_voodoo-planet/provenance.json) | Andre Norton | 2018-09-17 | Solar Queen |
 | [We](books/yevgeny-zamyatin_we_gregory-zilboorg/provenance.json) | Yevgeny Zamyatin | 2020-06-13 | — |
@@ -1099,11 +1119,12 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Uneasy Money](books/p-g-wodehouse_uneasy-money/provenance.json) | P. G. Wodehouse | 2021-02-12 | — |
 | [You Never Can Tell](books/george-bernard-shaw_you-never-can-tell/provenance.json) | George Bernard Shaw | 2024-11-25 | — |
 
-## Children’s (67)
+## Children’s (68)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
 | [A Little Princess](books/frances-hodgson-burnett_a-little-princess/provenance.json) | Frances Hodgson Burnett | 2023-03-15 | — |
+| [Alice's Adventures in Wonderland](books/lewis-carroll_alice-s-adventures-in-wonderland/provenance.json) | Lewis Carroll | — | Project Gutenberg top 100 |
 | [Alice’s Adventures in Wonderland](books/lewis-carroll_alices-adventures-in-wonderland_john-tenniel/provenance.json) | Lewis Carroll | 2014-05-25 | The Guardian’s Best 100 Novels in English (2015), The BBC’s 100 Greatest British Novels (2015), The Guardian’s 100 Greatest Novels of All Time (2003) |
 | [Anne of Green Gables](books/l-m-montgomery_anne-of-green-gables/provenance.json) | L. M. Montgomery | 2019-10-31 | Anne of Green Gables |
 | [At the Back of the North Wind](books/george-macdonald_at-the-back-of-the-north-wind/provenance.json) | George MacDonald | 2023-03-15 | — |
@@ -1330,7 +1351,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Verses on Various Occasions](books/john-henry-newman_verses-on-various-occasions/provenance.json) | John Henry Newman | 2021-01-06 | — |
 | [Victory Odes](books/pindar_victory-odes_arthur-s-way/provenance.json) | Pindar | 2024-01-29 | — |
 
-## Philosophy (48)
+## Philosophy (49)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
@@ -1362,6 +1383,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Age of Reason](books/thomas-paine_the-age-of-reason/provenance.json) | Thomas Paine | 2021-04-29 | — |
 | [The American Crisis](books/thomas-paine_the-american-crisis/provenance.json) | Thomas Paine | 2021-04-26 | Encyclopædia Britannica’s Gateway to the Great Books |
 | [The Communist Manifesto](books/karl-marx_friedrich-engels_the-communist-manifesto_samuel-moore/provenance.json) | Karl Marx, Friedrich Engels | 2017-10-19 | Encyclopædia Britannica’s Great Books of the Western World |
+| [The Confessions of St. Augustine](books/augustine-of-hippo-saint-354-430_the-confessions-of-st-augustine/provenance.json) | Augustine, of Hippo, Saint, 354-430 | — | Project Gutenberg top 100 |
 | [The Conquest of Bread](books/peter-kropotkin_the-conquest-of-bread_chapman-and-hall/provenance.json) | Peter Kropotkin | 2021-07-21 | — |
 | [The Consolation of Philosophy](books/boethius_the-consolation-of-philosophy_h-r-james/provenance.json) | Boethius | 2023-09-29 | — |
 | [The Crowd](books/gustave-le-bon_the-crowd_t-fisher-unwin-ltd/provenance.json) | Gustave Le Bon | 2022-09-01 | — |
@@ -1383,7 +1405,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [What Is Property?](books/pierre-joseph-proudhon_what-is-property_benjamin-tucker/provenance.json) | Pierre-Joseph Proudhon | 2022-03-22 | — |
 | [Women and Economics](books/charlotte-perkins-gilman_women-and-economics/provenance.json) | Charlotte Perkins Gilman | 2021-03-21 | — |
 
-## Nonfiction (83)
+## Nonfiction (84)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
@@ -1397,6 +1419,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Bulfinch’s Mythology](books/thomas-bulfinch_bulfinchs-mythology/provenance.json) | Thomas Bulfinch | 2019-07-12 | — |
 | [Culture and Anarchy](books/matthew-arnold_culture-and-anarchy/provenance.json) | Matthew Arnold | 2024-03-09 | Encyclopædia Britannica’s Gateway to the Great Books |
 | [Darkwater](books/w-e-b-du-bois_darkwater/provenance.json) | W. E. B. Du Bois | 2023-02-27 | — |
+| [De Profundis](books/oscar-wilde_de-profundis/provenance.json) | Oscar Wilde | — | Project Gutenberg top 100 |
 | [Democracy and Education](books/john-dewey_democracy-and-education/provenance.json) | John Dewey | 2023-01-20 | Modern Library’s 100 Best Nonfiction |
 | [Democracy and Social Ethics](books/jane-addams_democracy-and-social-ethics/provenance.json) | Jane Addams | 2024-10-11 | — |
 | [Disenchantment](books/c-e-montague_disenchantment/provenance.json) | C. E. Montague | 2025-02-18 | — |
@@ -1471,7 +1494,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [What’s Wrong with the World](books/g-k-chesterton_whats-wrong-with-the-world/provenance.json) | G. K. Chesterton | 2025-04-29 | — |
 | [With the Empress Dowager of China](books/katharine-a-carl_with-the-empress-dowager-of-china/provenance.json) | Katharine A. Carl | 2026-04-08 | — |
 
-## Biography & Memoir (61)
+## Biography & Memoir (64)
 
 | Title | Author | Edition published | Also in |
 |---|---|---|---|
@@ -1481,6 +1504,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [A Personal Record](books/joseph-conrad_a-personal-record/provenance.json) | Joseph Conrad | 2024-12-17 | — |
 | [A Yankee in the Trenches](books/robert-derby-holmes_a-yankee-in-the-trenches/provenance.json) | Robert Derby Holmes | 2024-06-19 | — |
 | [An Autobiography](books/theodore-roosevelt_an-autobiography/provenance.json) | Theodore Roosevelt | 2022-11-22 | — |
+| [Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude](books/austin-bidwell_bidwell-s-travels-from-wall-street-to-london-prison/provenance.json) | Austin Bidwell | — | Project Gutenberg top 100 |
 | [Commentaries on the Gallic War](books/julius-caesar_commentaries-on-the-gallic-war_w-a-mcdevitte_w-s-bohn/provenance.json) | Julius Caesar | 2019-04-29 | — |
 | [Confessions of an English Opium-Eater](books/thomas-de-quincey_confessions-of-an-english-opium-eater/provenance.json) | Thomas De Quincey | 2014-05-25 | — |
 | [Elizabeth and Her German Garden](books/elizabeth-von-arnim_elizabeth-and-her-german-garden/provenance.json) | Elizabeth von Arnim | 2023-07-31 | — |
@@ -1489,6 +1513,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [Father Henson’s Story of His Own Life](books/josiah-henson_father-hensons-story-of-his-own-life/provenance.json) | Josiah Henson | 2026-01-14 | — |
 | [Geronimo’s Story of His Life](books/geronimo_geronimos-story-of-his-life/provenance.json) | Geronimo | 2025-01-22 | — |
 | [Incidents in the Life of a Slave Girl](books/linda-brent_incidents-in-the-life-of-a-slave-girl/provenance.json) | Linda Brent | 2021-03-26 | — |
+| [Life on the Mississippi](books/mark-twain_life-on-the-mississippi/provenance.json) | Mark Twain | — | Project Gutenberg top 100 |
 | [Memoirs of a Foxhunting Man](books/siegfried-sassoon_memoirs-of-a-foxhunting-man/provenance.json) | Siegfried Sassoon | 2025-03-26 | Memoirs of George Sherston, James Tait Black Memorial Fiction Prize Winners, Hawthornden Prize Winners |
 | [Memoirs of a Revolutionist](books/peter-kropotkin_memoirs-of-a-revolutionist/provenance.json) | Peter Kropotkin | 2024-05-03 | — |
 | [Memoirs of an Infantry Officer](books/siegfried-sassoon_memoirs-of-an-infantry-officer/provenance.json) | Siegfried Sassoon | 2026-07-09 | Memoirs of George Sherston |
@@ -1523,6 +1548,7 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [The Interesting Narrative of the Life of Olaudah Equiano](books/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/provenance.json) | Olaudah Equiano | 2021-04-29 | — |
 | [The Life of Buffalo Bill](books/william-f-cody_the-life-of-buffalo-bill/provenance.json) | William F. Cody | 2021-04-20 | — |
 | [The Lives and Opinions of Eminent Philosophers](books/diogenes-laertius_the-lives-and-opinions-of-eminent-philosophers_c-d-yonge/provenance.json) | Diogenes Laërtius | 2020-05-02 | — |
+| [The Love Letters of Mary Wollstonecraft to Gilbert Imlay](books/mary-wollstonecraft_the-love-letters-of-mary-wollstonecraft-to-gilbert-imlay/provenance.json) | Mary Wollstonecraft | — | Project Gutenberg top 100 |
 | [The Mirror of the Sea](books/joseph-conrad_the-mirror-of-the-sea/provenance.json) | Joseph Conrad | 2024-12-06 | — |
 | [The Story of My Experiments with Truth](books/mahatma-gandhi_the-story-of-my-experiments-with-truth_mahadev-desai/provenance.json) | Mahatma Gandhi | 2025-01-01 | — |
 | [The Story of My Life](books/helen-keller_the-story-of-my-life/provenance.json) | Helen Keller | 2021-05-12 | — |

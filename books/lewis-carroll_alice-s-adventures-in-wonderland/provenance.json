@@ -1,0 +1,43 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "identifier": "https://www.gutenberg.org/ebooks/11",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/11",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/11",
+    "https://www.gutenberg.org/files/11/11-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/11"
+  },
+  "genre": "Children’s",
+  "genres": [
+    "Children’s"
+  ],
+  "category": "Children’s",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/11/11-0.txt",
+    "sha256": "a3a27f8edbf7fcd9b8ba8435494440e24952deaa3e2f2d65192d4cb7ca403754",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 13 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 13,
+    "words": 25885
+  }
+}

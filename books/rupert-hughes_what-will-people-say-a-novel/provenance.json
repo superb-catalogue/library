@@ -1,0 +1,43 @@
+{
+  "title": "What Will People Say? A Novel",
+  "author": "Rupert Hughes",
+  "identifier": "https://www.gutenberg.org/ebooks/38311",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/38311",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/38311",
+    "https://www.gutenberg.org/cache/epub/38311/pg38311.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www. Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/38311"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/cache/epub/38311/pg38311.txt",
+    "sha256": "8b72f1d8d215cc74ecf078ca3055558d1eff7828489fa74e621c779bb69ed19b",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 130 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 74,
+    "words": 148147
+  }
+}

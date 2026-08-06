@@ -1,0 +1,43 @@
+{
+  "title": "Trial by water",
+  "author": "Sewell Peaslee Wright",
+  "identifier": "https://www.gutenberg.org/ebooks/76668",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/76668",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/76668",
+    "https://www.gutenberg.org/files/76668/76668-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/76668"
+  },
+  "genre": "Fantasy & Science Fiction",
+  "genres": [
+    "Fantasy & Science Fiction"
+  ],
+  "category": "Fantasy & Science Fiction",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/76668/76668-0.txt",
+    "sha256": "495c244f0add974bfc471acc381a29d12c9d92e61b5eb9dab18b03bbe1edceeb",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 7 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 1,
+    "words": 1428
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The call of Cthulhu",
+  "author": "H. P. Lovecraft",
+  "identifier": "https://www.gutenberg.org/ebooks/68283",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/68283",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/68283",
+    "https://www.gutenberg.org/files/68283/68283-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/68283"
+  },
+  "genre": "Mystery & Horror",
+  "genres": [
+    "Mystery & Horror"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/68283/68283-0.txt",
+    "sha256": "f0a383a5bab34271e33033d449ec9d309ca748b7594b6eeea7e45338341d6fc6",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 88 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 3,
+    "words": 11796
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The Green Mummy",
+  "author": "Fergus Hume",
+  "identifier": "https://www.gutenberg.org/ebooks/2868",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/2868",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/2868",
+    "https://www.gutenberg.org/files/2868/2868-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/2868"
+  },
+  "genre": "Mystery & Horror",
+  "genres": [
+    "Mystery & Horror"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/2868/2868-0.txt",
+    "sha256": "8633baf1ca0c84a3ee7d12a585cda45a000d33d003ecf91101a0dfdd5c8445c2",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 108 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 27,
+    "words": 86661
+  }
+}

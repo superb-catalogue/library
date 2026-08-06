@@ -1,0 +1,43 @@
+{
+  "title": "Life on the Mississippi",
+  "author": "Mark Twain",
+  "identifier": "https://www.gutenberg.org/ebooks/245",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/245",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/245",
+    "https://www.gutenberg.org/files/245/245-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/245"
+  },
+  "genre": "Biography & Memoir",
+  "genres": [
+    "Biography & Memoir"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/245/245-0.txt",
+    "sha256": "cffbcbeee2f759ccb624de5512dc7507947df008e8c950bb1bbf1aa60b748cd2",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 169 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 86,
+    "words": 143207
+  }
+}

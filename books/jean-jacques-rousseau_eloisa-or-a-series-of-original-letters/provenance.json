@@ -1,0 +1,43 @@
+{
+  "title": "Eloisa :  or, A series of original letters",
+  "author": "Jean-Jacques Rousseau",
+  "identifier": "https://www.gutenberg.org/ebooks/76639",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/76639",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/76639",
+    "https://www.gutenberg.org/files/76639/76639-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/76639"
+  },
+  "genre": "Fiction",
+  "genres": [
+    "Fiction"
+  ],
+  "category": "Fiction",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/76639/76639-0.txt",
+    "sha256": "fd61b515739d7a4f276f59f8c9feb8ba3790ad8685efec2d0615571a7059a65b",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 43 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 165,
+    "words": 316796
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+  "author": "James Malcolm Rymer",
+  "identifier": "https://www.gutenberg.org/ebooks/59828",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/59828",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/59828",
+    "https://www.gutenberg.org/files/59828/59828-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www. Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/59828"
+  },
+  "genre": "Mystery & Horror",
+  "genres": [
+    "Mystery & Horror"
+  ],
+  "category": "Mystery & Horror",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/59828/59828-0.txt",
+    "sha256": "7ab5f261aacbe12bad6942ec51dcf1bf168bafba42d4388738355f8a0721a760",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 66 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 178,
+    "words": 432632
+  }
+}

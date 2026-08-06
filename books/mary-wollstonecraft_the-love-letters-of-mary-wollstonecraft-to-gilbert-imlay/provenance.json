@@ -1,0 +1,43 @@
+{
+  "title": "The Love Letters of Mary Wollstonecraft to Gilbert Imlay",
+  "author": "Mary Wollstonecraft",
+  "identifier": "https://www.gutenberg.org/ebooks/34413",
+  "edition": {
+    "publisher": "Project Gutenberg",
+    "page": "https://www.gutenberg.org/ebooks/34413",
+    "published": null
+  },
+  "made_from": [
+    "https://www.gutenberg.org/ebooks/34413",
+    "https://www.gutenberg.org/files/34413/34413-0.txt"
+  ],
+  "terms": {
+    "licence": "Public domain in the USA (as stated by Project Gutenberg)",
+    "licence_uri": "https://www.gutenberg.org/policy/license.html",
+    "as_stated_by_the_source": "(no permission sentence found in the file header) Copyright status as stated on the book's own page: Public domain in the USA.",
+    "read_at": "https://www.gutenberg.org/ebooks/34413"
+  },
+  "genre": "Biography & Memoir",
+  "genres": [
+    "Biography & Memoir"
+  ],
+  "category": "Biography & Memoir",
+  "sets": [
+    {
+      "name": "Project Gutenberg top 100",
+      "type": "list"
+    }
+  ],
+  "how_we_got_it": {
+    "route": "Project Gutenberg plain text, retypeset",
+    "file": "https://www.gutenberg.org/files/34413/34413-0.txt",
+    "sha256": "9b2e3607ec0cb247e5b593aae0ef06fe1dfa6d5c525fb598efc6053dc84f8676",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "front_and_back_matter": "the Project Gutenberg header, footer and licence are not part of the book and are not included; 113 words of front matter before the first chapter heading (title page, contents) were set aside",
+    "file": "book.json",
+    "chapters": 78,
+    "words": 32978
+  }
+}
