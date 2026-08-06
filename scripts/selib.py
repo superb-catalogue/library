@@ -1,7 +1,7 @@
 """Shared reading of Standard Ebooks EPUBs, for the library's ingest scripts.
 
 Everything here reads bytes straight out of the zips — nothing is ever
-extracted to disk, and nothing under E:\\archives (or wherever the archives
+extracted to disk, and nothing under C:\\archives (or wherever the archives
 live) is ever opened for writing.
 """
 import hashlib
@@ -64,6 +64,18 @@ def text_of(el):
 # books on this shelf.
 ACCEPTED_LICENCE_URIS = (
     "https://creativecommons.org/publicdomain/zero/1.0/",
+)
+
+# Terms pages a hand-added book (scripts/add_book.py) may rest on, checked
+# the same structural way. CC0 is Standard Ebooks' dedication; the USPTO
+# page is where the United States says the text and drawings of a patent
+# are typically not subject to copyright restrictions (37 CFR 1.71(d)-(e),
+# 1.84(s)); the Gutenberg page is where Project Gutenberg explains that its
+# texts are public domain in the United States. Each entry earns its place
+# by someone reading the page, not by the category of the source.
+ACCEPTED_HAND_TERMS_URIS = ACCEPTED_LICENCE_URIS + (
+    "https://www.uspto.gov/terms-use-uspto-websites",
+    "https://www.gutenberg.org/policy/license.html",
 )
 
 # Other Creative Commons licences, named here only so a URL citing one of

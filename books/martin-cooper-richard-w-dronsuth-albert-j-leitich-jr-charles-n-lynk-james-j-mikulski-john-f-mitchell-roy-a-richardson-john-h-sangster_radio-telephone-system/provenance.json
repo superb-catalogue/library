@@ -1,0 +1,39 @@
+{
+  "title": "Radio telephone system",
+  "author": "Martin Cooper, Richard W Dronsuth, Albert J Leitich, Jr Charles N Lynk, James J Mikulski, John F Mitchell, Roy A Richardson, John H Sangster",
+  "identifier": "https://patents.google.com/patent/US3906166A/en",
+  "edition": {
+    "publisher": "United States Patent and Trademark Office",
+    "page": "https://patents.google.com/patent/US3906166A/en",
+    "published": null,
+    "filed": null,
+    "publication_number": "US3906166A"
+  },
+  "made_from": [
+    "https://patents.google.com/patent/US3906166A/en",
+    "https://patentimages.storage.googleapis.com/68/07/a6/58d4e5b3aad9bd/US3906166.pdf"
+  ],
+  "terms": {
+    "licence": "Public domain (United States patent text; 37 CFR 1.71(d)-(e))",
+    "licence_uri": "https://www.uspto.gov/terms-use-uspto-websites",
+    "as_stated_by_the_source": "Patents are published as part of the terms of granting the patent to the inventor. Subject to limited exceptions reflected in 37 CFR 1.71(d) & (e) and 1.84(s), the text and drawings of a patent are typically not subject to copyright restrictions.",
+    "read_at": "https://www.uspto.gov/terms-use-uspto-websites",
+    "no_copyright_notice_in_text": true
+  },
+  "genre": "Patent",
+  "genres": [
+    "Patent"
+  ],
+  "category": "Patents",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Google Patents full-text page",
+    "page": "https://patents.google.com/patent/US3906166A/en",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 3,
+    "words": 17253
+  }
+}

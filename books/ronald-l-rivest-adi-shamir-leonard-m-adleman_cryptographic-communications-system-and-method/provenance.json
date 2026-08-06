@@ -1,0 +1,39 @@
+{
+  "title": "Cryptographic communications system and method",
+  "author": "Ronald L. Rivest, Adi Shamir, Leonard M. Adleman",
+  "identifier": "https://patents.google.com/patent/US4405829A/en",
+  "edition": {
+    "publisher": "United States Patent and Trademark Office",
+    "page": "https://patents.google.com/patent/US4405829A/en",
+    "published": null,
+    "filed": null,
+    "publication_number": "US4405829A"
+  },
+  "made_from": [
+    "https://patents.google.com/patent/US4405829A/en",
+    "https://patentimages.storage.googleapis.com/49/43/9c/b155bf231090f6/US4405829.pdf"
+  ],
+  "terms": {
+    "licence": "Public domain (United States patent text; 37 CFR 1.71(d)-(e))",
+    "licence_uri": "https://www.uspto.gov/terms-use-uspto-websites",
+    "as_stated_by_the_source": "Patents are published as part of the terms of granting the patent to the inventor. Subject to limited exceptions reflected in 37 CFR 1.71(d) & (e) and 1.84(s), the text and drawings of a patent are typically not subject to copyright restrictions.",
+    "read_at": "https://www.uspto.gov/terms-use-uspto-websites",
+    "no_copyright_notice_in_text": true
+  },
+  "genre": "Patent",
+  "genres": [
+    "Patent"
+  ],
+  "category": "Patents",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Google Patents full-text page",
+    "page": "https://patents.google.com/patent/US4405829A/en",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 7,
+    "words": 13695
+  }
+}

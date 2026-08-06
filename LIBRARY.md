@@ -1537,3 +1537,16 @@ The categories are the library's own — see `CATEGORIES.md` for what they are a
 | [You Can’t Win](books/jack-black_you-cant-win/provenance.json) | Jack Black | 2022-10-31 | — |
 | [“We”](books/charles-a-lindbergh_we/provenance.json) | Charles A. Lindbergh | 2026-01-17 | — |
 
+## Patents (8)
+
+| Title | Author | Edition published | Also in |
+|---|---|---|---|
+| [Cryptographic communications system and method](books/ronald-l-rivest-adi-shamir-leonard-m-adleman_cryptographic-communications-system-and-method/provenance.json) | Ronald L. Rivest, Adi Shamir, Leonard M. Adleman | — | — |
+| [Electrophotography](books/chester-f-carlson_electrophotography/provenance.json) | Chester F Carlson | — | — |
+| [Improvement in telegraphy](books/alexander-graham-bell_improvement-in-telegraphy/provenance.json) | Alexander Graham Bell | — | — |
+| [Method for node ranking in a linked database](books/lawrence-page_method-for-node-ranking-in-a-linked-database/provenance.json) | Lawrence Page | — | — |
+| [Method of exercising a cat](books/kevin-t-amiss-martin-h-abbott_method-of-exercising-a-cat/provenance.json) | Kevin T. Amiss, Martin H. Abbott | — | — |
+| [Microcomputer for use with video display](books/stephen-g-wozniak_microcomputer-for-use-with-video-display/provenance.json) | Stephen G. Wozniak | — | — |
+| [Nervous system manipulation by electromagnetic fields from monitors](books/hendricus-g-loos_nervous-system-manipulation-by-electromagnetic-fields-from-monitors/provenance.json) | Hendricus G. Loos | — | — |
+| [Radio telephone system](books/martin-cooper-richard-w-dronsuth-albert-j-leitich-jr-charles-n-lynk-james-j-mikulski-john-f-mitchell-roy-a-richardson-john-h-sangster_radio-telephone-system/provenance.json) | Martin Cooper, Richard W Dronsuth, Albert J Leitich, Jr Charles N Lynk, James J Mikulski, John F Mitchell, Roy A Richardson, John H Sangster | — | — |
+

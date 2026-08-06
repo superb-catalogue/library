@@ -1,0 +1,39 @@
+{
+  "title": "Method for node ranking in a linked database",
+  "author": "Lawrence Page",
+  "identifier": "https://patents.google.com/patent/US6285999B1/en",
+  "edition": {
+    "publisher": "United States Patent and Trademark Office",
+    "page": "https://patents.google.com/patent/US6285999B1/en",
+    "published": null,
+    "filed": null,
+    "publication_number": "US6285999B1"
+  },
+  "made_from": [
+    "https://patents.google.com/patent/US6285999B1/en",
+    "https://patentimages.storage.googleapis.com/37/a9/18/d7c46ea42c4b05/US6285999.pdf"
+  ],
+  "terms": {
+    "licence": "Public domain (United States patent text; 37 CFR 1.71(d)-(e))",
+    "licence_uri": "https://www.uspto.gov/terms-use-uspto-websites",
+    "as_stated_by_the_source": "Patents are published as part of the terms of granting the patent to the inventor. Subject to limited exceptions reflected in 37 CFR 1.71(d) & (e) and 1.84(s), the text and drawings of a patent are typically not subject to copyright restrictions.",
+    "read_at": "https://www.uspto.gov/terms-use-uspto-websites",
+    "no_copyright_notice_in_text": true
+  },
+  "genre": "Patent",
+  "genres": [
+    "Patent"
+  ],
+  "category": "Patents",
+  "sets": [],
+  "how_we_got_it": {
+    "route": "Google Patents full-text page",
+    "page": "https://patents.google.com/patent/US6285999B1/en",
+    "fetched": "2026-08-06"
+  },
+  "text": {
+    "file": "book.json",
+    "chapters": 9,
+    "words": 5955
+  }
+}

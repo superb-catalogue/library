@@ -27,7 +27,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOOKS_DIR = os.path.join(REPO_ROOT, "books")
 INDEX_PATH = os.path.join(BOOKS_DIR, "INDEX.json")
 LIBRARY_MD_PATH = os.path.join(REPO_ROOT, "LIBRARY.md")
-DEFAULT_ARCHIVES = r"E:\archives"
+DEFAULT_ARCHIVES = r"C:\archives"
 
 
 def read_one_epub(zip_path, entry_name, data):
@@ -259,6 +259,19 @@ def run_full_ingest(archives_dir):
                 "words": words,
             }
         )
+
+    # Books added by hand (scripts/add_book.py) did not come from these zips,
+    # so a re-scan of the zips must not silently drop them from the shelf.
+    hand_rows = []
+    if os.path.exists(INDEX_PATH):
+        with open(INDEX_PATH, "r", encoding="utf-8") as f:
+            previous = json.load(f)
+        fresh_slugs = {r["slug"] for r in index_rows}
+        hand_rows = [
+            r for r in previous.get("works", [])
+            if r.get("route") == "hand" and r["slug"] not in fresh_slugs
+        ]
+    index_rows.extend(hand_rows)
 
     index_rows.sort(key=lambda r: (r["category"], r["title"] or ""))
     index = {

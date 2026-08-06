@@ -125,10 +125,15 @@ turned up in. `CATEGORIES.md` says what the categories are and why.
 
 ## Status
 
-1,478 books, taken from 46 of Standard Ebooks' subject and collection sets,
-de-duplicated and retypeset by `scripts/ingest.py`. Those sets held 2,653 files
-between them; 1,175 were the same work arriving in more than one set, and one
-was rejected at the gate because its reading order resolved to no chapters at
-all. More arrive as more of Standard Ebooks' collections are added, as Standard
-Ebooks publishes new editions, and as Gutenberg titles are typeset by hand and
-added through the same path.
+1,486 books. 1,478 came from 46 of Standard Ebooks' subject and collection
+sets, de-duplicated and retypeset by `scripts/ingest.py`. Those sets held
+2,653 files between them; 1,175 were the same work arriving in more than one
+set, and one was rejected at the gate because its reading order resolved to
+no chapters at all. The other eight are United States patents — Bell's
+telephone, Carlson's electrophotography, the first cell phone, the Apple II,
+RSA, PageRank, a method of exercising a cat, and Loos's nervous-system
+manipulation — prepared from their Google Patents full text by
+`scripts/prepare_patent.py` and added through `scripts/add_book.py`, the
+hand path that Gutenberg titles will also use. More arrive as more of
+Standard Ebooks' collections are added, as Standard Ebooks publishes new
+editions, and as more books are typeset by hand.

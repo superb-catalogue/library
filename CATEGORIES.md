@@ -33,6 +33,7 @@ giving each its own shelf would be a shelf of one book. They fold into eleven:
 - **Philosophy**
 - **Nonfiction**
 - **Biography & Memoir**
+- **Patents**
 
 Most of the foldings are obvious: Satire joins Comedy, Horror joins Mystery,
 Autobiography and Memoir join Biography. Two are editorial, so they are
@@ -48,6 +49,14 @@ Imitation of Christ*, A. W. Tozer's *The Pursuit of God*, and Archibald
 Alexander's *A Day at a Time*. They shelve as Philosophy, this library's shelf
 for works of thought, rather than as Nonfiction, which here holds history,
 science and essays.
+
+**Patents** is the shelf for United States patents, added by hand through
+`scripts/prepare_patent.py` and `scripts/add_book.py` rather than from the
+Standard Ebooks archives. A patent is a different kind of reading — an
+inventor explaining, in public and in their own words, how a thing works —
+and the shelf keeps them together rather than filing them under Nonfiction,
+where nobody would think to look for Bell's telephone or a method of
+exercising a cat.
 
 Nothing is thrown away in the folding. Each book's own raw genre and its
 collection memberships are both kept on its `provenance.json`. The category

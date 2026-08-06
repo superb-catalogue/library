@@ -65,18 +65,35 @@ def check_book_folder(folder):
     except Exception as exc:  # noqa: BLE001
         return ["provenance.json does not parse: %s" % exc], []
 
-    # identifier and provenance are extractable, and resolve to a real page
-    if not selib.is_standardebooks_identifier(prov.get("identifier")):
-        reasons.append("provenance.identifier is not a resolvable standardebooks.org page")
+    # Two routes onto the shelf, each with the checks its source can honestly
+    # bear. Standard Ebooks books carry a CC0 dedication in their own
+    # metadata; hand-added books (scripts/add_book.py — patents, retypeset
+    # Gutenberg titles) instead record where their terms were read and quote
+    # them, against selib.ACCEPTED_HAND_TERMS_URIS.
+    route = (prov.get("how_we_got_it") or {}).get("route", "")
+    hand = bool(route) and not route.startswith("Standard Ebooks")
+
     if not prov.get("terms", {}).get("read_at"):
         reasons.append("no citable public page in provenance.terms.read_at")
 
-    # the recorded rights text cites a licence URI this library accepts,
-    # with no disallowed licence URI also present — a structural check on
-    # parsed URLs, not a reading of the prose around them
-    stated = prov.get("terms", {}).get("as_stated_by_the_edition", "")
-    if not selib.is_genuine_public_domain_dedication(stated):
-        reasons.append("no accepted licence URI recorded in provenance.terms.as_stated_by_the_edition")
+    if hand:
+        if not (prov.get("identifier") or "").startswith("https://"):
+            reasons.append("provenance.identifier is not a resolvable page")
+        if prov.get("terms", {}).get("licence_uri") not in selib.ACCEPTED_HAND_TERMS_URIS:
+            reasons.append("terms.licence_uri is not one this library accepts for hand-added books")
+        if not (prov.get("terms", {}).get("as_stated_by_the_source") or "").strip():
+            reasons.append("terms.as_stated_by_the_source is empty — the terms have to be quoted, not assumed")
+    else:
+        # identifier and provenance are extractable, and resolve to a real page
+        if not selib.is_standardebooks_identifier(prov.get("identifier")):
+            reasons.append("provenance.identifier is not a resolvable standardebooks.org page")
+
+        # the recorded rights text cites a licence URI this library accepts,
+        # with no disallowed licence URI also present — a structural check on
+        # parsed URLs, not a reading of the prose around them
+        stated = prov.get("terms", {}).get("as_stated_by_the_edition", "")
+        if not selib.is_genuine_public_domain_dedication(stated):
+            reasons.append("no accepted licence URI recorded in provenance.terms.as_stated_by_the_edition")
 
     # the file parses and its reading order resolves
     chapters = book.get("chapters", [])

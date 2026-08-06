@@ -32,6 +32,7 @@ discarded, only regrouped for the shelf.
 """
 
 GENRE_TO_CATEGORY = {
+    "Patent": "Patents",
     "Fiction": "Fiction",
     "Shorts": "Fiction",
     "Adventure": "Adventure",
@@ -63,6 +64,7 @@ CATEGORY_ORDER = [
     "Philosophy",
     "Nonfiction",
     "Biography & Memoir",
+    "Patents",
 ]
 
 

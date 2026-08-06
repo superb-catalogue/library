@@ -3,7 +3,7 @@
 
     python scripts/check_source.py books/bram-stoker_dracula
     python scripts/check_source.py books/*
-    python scripts/check_source.py --archives E:\\archives books/*
+    python scripts/check_source.py --archives C:\\archives books/*
 
 books/HOW-THE-FIRST-BOOK-WENT.md named this as the thing that should exist
 before there are a thousand books, "because after that nobody reads them."
@@ -222,6 +222,15 @@ def check_one(book_dir, archives_dir=None):
         prov = json.load(f)
 
     identifier = prov.get("identifier")
+
+    # Hand-added books (scripts/add_book.py) have no source EPUB to re-read.
+    # Their preparer is what checked them against their own source; this
+    # check reports them as skipped rather than pretending to have verified
+    # them against an EPUB that does not exist.
+    route = (prov.get("how_we_got_it") or {}).get("route", "")
+    if route and not route.startswith("Standard Ebooks"):
+        return None, {"skipped": "hand-added (%s); no EPUB source to re-read" % route}
+
     try:
         data = fetch_epub_bytes(identifier, archives_dir=archives_dir)
     except SourceUnavailable as exc:
@@ -295,6 +304,9 @@ def main():
     checked = 0
     for i, book_dir in enumerate(targets):
         reasons, info = check_one(book_dir, archives_dir=args.archives)
+        if reasons is None:
+            print("skip %s -- %s" % (book_dir, info.get("skipped")))
+            continue
         checked += 1
         if reasons:
             failed += 1
